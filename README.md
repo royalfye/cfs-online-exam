@@ -11,6 +11,23 @@ Sistema de provas online para o Curso de Formação de Sargentos (CFS).
 - ✅ Feedback visual de acertos/erros
 - ✅ Sistema de reset de respostas
 
+## 📂 Estrutura de diretórios
+
+```text
+cfs-online-exam
+├── .gitignore
+├── README.md
+├── config
+│   ├── __init__.py
+│   └── settings.py
+├── data
+│   └── exams_with_answers.csv
+├── requirements.txt
+├── src
+│   ├── __init__.py
+│   └── online_exam.py
+└── tree.py
+
 ## 🚀 Como usar
 
 ### 1. Clone o repositório

@@ -1,0 +1,13 @@
+cfs-online-exam
+├── .gitignore
+├── README.md
+├── config
+│   ├── __init__.py
+│   └── settings.py
+├── data
+│   └── exams_with_answers.csv
+├── requirements.txt
+├── src
+│   ├── __init__.py
+│   └── online_exam.py
+└── tree.py
