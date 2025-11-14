@@ -3,15 +3,10 @@ CFS Online Exam System - Main Application
 """
 import streamlit as st
 import pandas as pd
-from pathlib import Path
+from services.exam_service import load_exam
 
 # Page configuration
 st.set_page_config(page_title="CFS Online Exam", layout="wide")
-
-# File paths - using relative paths
-ROOT_DIR = Path(__file__).parent.parent
-DATA_DIR = ROOT_DIR / "data"
-EXAMS_FILE = DATA_DIR / "exams_with_answers.csv"
 
 # Initialize session state
 if 'current_page' not in st.session_state:
@@ -20,18 +15,8 @@ if 'answers' not in st.session_state:
     st.session_state.answers = {}
 if 'verified' not in st.session_state:
     st.session_state.verified = {}
-
-
-def load_exam(year):
-    """Load CSV file and filter by year"""
-    try:
-        df = pd.read_csv(EXAMS_FILE, encoding='utf-8')
-    except:
-        df = pd.read_csv(EXAMS_FILE, encoding='latin-1')
-    
-    df.columns = df.columns.str.lower().str.strip()
-    return df[df['ano'] == year]
-
+if 'logged_in' not in st.session_state:
+    st.session_state.logged_in = False
 
 def display_question(question, idx):
     """Display a question with its alternatives and verification button"""
@@ -80,8 +65,41 @@ def display_question(question, idx):
 
     st.markdown("---")
 
+def show_login_page():
+    # Espaço no topo
+    st.markdown("<br><br>", unsafe_allow_html=True)
 
-def main():
+    # TÍTULO CENTRALIZADO (fora das colunas)
+    st.markdown(
+        """
+        <h1 style='text-align: center;'>🔐 Login - CFS Online Exam</h1>
+        <p style='text-align: center;'>Por favor, faça login para acessar as provas.</p>
+        """,
+        unsafe_allow_html=True,
+    )
+
+    st.markdown("<br>", unsafe_allow_html=True)
+
+    # COLUNAS PARA A CAIXA DE LOGIN (inputs)
+    col1, col2, col3 = st.columns([2, 1, 2])  # col2 é estreita
+
+    with col2:
+        # Aqui deixamos só os campos e o botão
+        username = st.text_input("Usuário")
+        password = st.text_input("Senha", type="password")
+
+        CORRECT_USERNAME = "admin"
+        CORRECT_PASSWORD = "1234"
+
+        if st.button("Entrar"):
+            if username == CORRECT_USERNAME and password == CORRECT_PASSWORD:
+                st.session_state.logged_in = True
+                st.success("Login realizado com sucesso!")
+                st.rerun()
+            else:
+                st.error("Usuário ou senha incorretos.")
+
+def show_exam_page():
     st.title("🎓 CFS Online Exam")
     st.markdown("---")
     
@@ -134,6 +152,12 @@ def main():
         st.session_state.current_page = 0
         st.rerun()
 
+def main():
+    # Decide o que mostrar: login ou prova
+    if not st.session_state.logged_in:
+        show_login_page()
+    else:
+        show_exam_page()
 
 if __name__ == "__main__":
     main()
