@@ -72,6 +72,20 @@ Servidor PostgreSQL (localhost:5432)
 
 ```
 
+## 📂 Estrutura lógica do banco em roles
+
+```text
+
+Roles (usuários do PostgreSQL)
+├── postgres       # superusuário
+└── cfs_user       # usuário da aplicação
+    ├── CONNECT em cfs_online_exam
+    ├── USAGE em schema public
+    ├── SELECT/INSERT/UPDATE/DELETE em tabelas do schema public
+    └── USAGE/SELECT em sequências do schema public (users_id_seq, etc.)
+
+```
+
 ## 🚀 Como usar
 
 ### 1. Clone o repositório
