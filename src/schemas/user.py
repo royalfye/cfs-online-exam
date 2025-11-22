@@ -1,3 +1,4 @@
+from typing import Optional
 from datetime import date
 from pydantic import BaseModel, EmailStr, Field
 from src.schemas.roles import UserRole
@@ -60,3 +61,15 @@ class UserLoginResponse(BaseModel):
 
     class Config:
         from_attributes = True  # permite criar a partir do objeto ORM
+
+class UserUpdate(BaseModel):
+    """
+    Campos que o próprio usuário poderá atualizar.
+    Não incluímos 'role' nem 'id'.
+    """
+    email: Optional[str] = None
+    username: Optional[str] = None
+    full_name: Optional[str] = None
+    birth_date: Optional[date] = None
+    rank: Optional[str] = None
+    password: Optional[str] = Field(default=None, min_length=8, max_length=128)

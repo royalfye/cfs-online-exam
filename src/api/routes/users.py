@@ -4,8 +4,8 @@ from sqlalchemy.orm import Session
 from src.db.database import get_db
 from src.services import user_service
 from src.services.security import hash_password
-from src.schemas.user import UserCreate, UserRead
-from src.services.auth import get_current_user, AdminOrInstrutorUser
+from src.schemas.user import UserCreate, UserRead, UserUpdate
+from src.services.auth import get_current_user, AdminOrInstrutorUser, AdminUser
 from src.db.models import User
 
 router = APIRouter(
@@ -84,3 +84,62 @@ def get_user_by_id_endpoint(
             detail="Usuário não encontrado.",
         )
     return user
+
+@router.patch("/me", response_model=UserRead)
+async def update_current_user_endpoint(
+    user_update: UserUpdate,
+    db: Session = Depends(get_db),
+    current_user: User = Depends(get_current_user),
+):
+    """
+    Atualiza os próprios dados do usuário autenticado.
+    - Não permite alterar 'role' nem 'id'.
+    - Se 'password' for enviado, atualiza a senha (com hash).
+    """
+    # Se o payload incluir password, fazemos o hash e atualizamos aqui
+    if user_update.password is not None:
+        new_hashed_password = hash_password(user_update.password)
+        current_user.password_hash = new_hashed_password
+
+    try:
+        updated_user = user_service.update_user(
+            db=db,
+            user_id=current_user.id,
+            user_update=user_update,
+        )
+    except ValueError as e:
+        # Conflito de email/username
+        raise HTTPException(
+            status_code=status.HTTP_400_BAD_REQUEST,
+            detail=str(e),
+        ) from e
+
+    if not updated_user:
+        # Em teoria não deveria acontecer, já que current_user existe
+        raise HTTPException(
+            status_code=status.HTTP_404_NOT_FOUND,
+            detail="Usuário não encontrado.",
+        )
+
+    return updated_user
+
+@router.delete("/{user_id}", status_code=status.HTTP_204_NO_CONTENT)
+def delete_user_endpoint(
+    user_id: int,
+    current_admin: AdminUser,  # ← sem "= Depends()"
+    db: Session = Depends(get_db),
+
+):
+    """
+    Deleta um usuário pelo ID.
+    - Requer autenticação.
+    - Apenas usuários com role 'admin' podem acessar.
+    - Retorna 204 em caso de sucesso.
+    """
+    deleted = user_service.delete_user(db, user_id)
+    if not deleted:
+        raise HTTPException(
+            status_code=status.HTTP_404_NOT_FOUND,
+            detail="Usuário não encontrado.",
+        )
+    return

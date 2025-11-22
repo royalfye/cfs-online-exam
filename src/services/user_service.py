@@ -6,6 +6,7 @@ from sqlalchemy.orm import Session
 from sqlalchemy.exc import IntegrityError
 
 from src.db.models import User
+from src.schemas.user import UserUpdate  # ← adiciona isso
 
 
 def create_user(
@@ -71,3 +72,66 @@ def get_user_by_id(db: Session, user_id: int) -> User | None:
     Busca um usuário pelo seu ID.
     """
     return db.query(User).filter(User.id == user_id).first()
+
+def update_user(
+    db: Session,
+    user_id: int,
+    user_update: UserUpdate,
+) -> User | None:
+    """
+    Atualiza parcialmente os dados de um usuário.
+
+    Retorna o usuário atualizado ou None se não encontrado.
+    """
+    user = db.query(User).filter(User.id == user_id).first()
+    if not user:
+        return None
+
+    # Atualiza apenas campos enviados (não None)
+    if user_update.email is not None:
+        user.email = user_update.email
+
+    if user_update.username is not None:
+        user.username = user_update.username
+
+    if user_update.full_name is not None:
+        user.full_name = user_update.full_name
+
+    if user_update.birth_date is not None:
+        user.birth_date = user_update.birth_date
+
+    if user_update.rank is not None:
+        user.rank = user_update.rank
+
+    # senha será tratada no endpoint, pois precisa de hash
+    # (não mexemos aqui na password_hash)
+
+    try:
+        db.commit()
+    except IntegrityError as e:
+        db.rollback()
+        # Provavelmente conflito de email/username já existente
+        raise ValueError("Email ou username já estão em uso.") from e
+
+    db.refresh(user)
+    return user
+
+def delete_user(db: Session, user_id: int) -> bool:
+    """
+    Deleta um usuário do banco de dados pelo ID.
+
+    Args:
+        db: Sessão do banco de dados
+        user_id: ID do usuário a ser deletado
+
+    Returns:
+        True se o usuário foi deletado, False se não foi encontrado
+    """
+    user = db.query(User).filter(User.id == user_id).first()
+
+    if not user:
+        return False
+
+    db.delete(user)
+    db.commit()
+    return True
