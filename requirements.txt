@@ -4,3 +4,9 @@ openpyxl>=3.1.2
 SQLAlchemy==2.0.44
 psycopg2-binary==2.9.11
 passlib[argon2]==1.7.4
+fastapi
+uvicorn==0.38.0
+fastapi==0.121.3
+pydantic[email]
+python-jose[cryptography]
+python-multipart

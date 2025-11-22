@@ -20,3 +20,8 @@ QUESTIONS_PER_PAGE = 10
 
 # Answer options
 ANSWER_OPTIONS = ['A', 'B', 'C', 'D']
+
+# JWT Settings
+SECRET_KEY = "sua-chave-secreta-super-segura" # Mude isso em produção!
+ALGORITHM = "HS256"
+ACCESS_TOKEN_EXPIRE_MINUTES = 30 # Tempo de expiração do token de acesso em minutos
