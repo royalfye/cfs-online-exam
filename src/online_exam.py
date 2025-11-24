@@ -1,14 +1,32 @@
 """
 CFS Online Exam System - Main Application
+Streamlit interface integrated with FastAPI backend
 """
 import streamlit as st
 import pandas as pd
-from services.exam_service import load_exam
+import requests
+from datetime import date
+
+from src.services.exam_service import load_exam
+
+# ============================================================================
+# CONFIGURATION
+# ============================================================================
+
+API_BASE_URL = "http://localhost:8000"  # Ajuste se a API estiver em outra porta/host
 
 # Page configuration
-st.set_page_config(page_title="CFS Online Exam", layout="wide")
+st.set_page_config(
+    page_title="CFS Online Exam",
+    page_icon="🎓",
+    layout="wide",
+    initial_sidebar_state="expanded"
+)
 
-# Initialize session state
+# ============================================================================
+# SESSION STATE INITIALIZATION
+# ============================================================================
+
 if 'current_page' not in st.session_state:
     st.session_state.current_page = 0
 if 'answers' not in st.session_state:
@@ -17,10 +35,110 @@ if 'verified' not in st.session_state:
     st.session_state.verified = {}
 if 'logged_in' not in st.session_state:
     st.session_state.logged_in = False
+if 'access_token' not in st.session_state:
+    st.session_state.access_token = None
+if 'current_user' not in st.session_state:
+    st.session_state.current_user = None
 
-def display_question(question, idx):
-    """Display a question with its alternatives and verification button"""
-    st.markdown(f"### Question {question['numero']} - {question.get('disciplina', 'N/A')}")
+# ============================================================================
+# API INTEGRATION FUNCTIONS
+# ============================================================================
+
+def api_login(username: str, password: str) -> tuple[str, str]:
+    """
+    Faz login na API FastAPI usando OAuth2PasswordRequestForm.
+    
+    Args:
+        username: Nome de usuário
+        password: Senha do usuário
+    
+    Returns:
+        Tupla (access_token, token_type)
+    
+    Raises:
+        ValueError: Se as credenciais forem inválidas ou houver erro na API
+    """
+    url = f"{API_BASE_URL}/auth/token"
+    data = {
+        "username": username,
+        "password": password,
+    }
+    # OAuth2PasswordRequestForm espera application/x-www-form-urlencoded
+    headers = {"Content-Type": "application/x-www-form-urlencoded"}
+
+    try:
+        response = requests.post(url, data=data, headers=headers, timeout=10)
+        
+        if response.status_code != 200:
+            # Tenta extrair mensagem amigável da API
+            try:
+                detail = response.json().get("detail", "Erro ao autenticar.")
+            except Exception:
+                detail = f"Erro ao autenticar. Status code: {response.status_code}"
+            raise ValueError(detail)
+
+        token_data = response.json()
+        return token_data["access_token"], token_data.get("token_type", "bearer")
+    
+    except requests.exceptions.ConnectionError:
+        raise ValueError("Não foi possível conectar à API. Verifique se o servidor está rodando.")
+    except requests.exceptions.Timeout:
+        raise ValueError("Tempo de conexão esgotado. Tente novamente.")
+    except requests.exceptions.RequestException as e:
+        raise ValueError(f"Erro na requisição: {str(e)}")
+
+
+def api_get_current_user(access_token: str) -> dict:
+    """
+    Consulta /users/me para obter dados do usuário autenticado.
+    
+    Args:
+        access_token: Token JWT de autenticação
+    
+    Returns:
+        Dicionário com dados do usuário (id, username, email, role, etc.)
+    
+    Raises:
+        ValueError: Se o token for inválido ou houver erro na API
+    """
+    url = f"{API_BASE_URL}/users/me"
+    headers = {
+        "Authorization": f"Bearer {access_token}"
+    }
+    
+    try:
+        response = requests.get(url, headers=headers, timeout=10)
+        
+        if response.status_code != 200:
+            try:
+                detail = response.json().get("detail", "Erro ao obter usuário atual.")
+            except Exception:
+                detail = f"Erro ao obter usuário atual. Status code: {response.status_code}"
+            raise ValueError(detail)
+
+        return response.json()
+    
+    except requests.exceptions.ConnectionError:
+        raise ValueError("Não foi possível conectar à API. Verifique se o servidor está rodando.")
+    except requests.exceptions.Timeout:
+        raise ValueError("Tempo de conexão esgotado. Tente novamente.")
+    except requests.exceptions.RequestException as e:
+        raise ValueError(f"Erro na requisição: {str(e)}")
+
+
+# ============================================================================
+# EXAM DISPLAY FUNCTIONS
+# ============================================================================
+
+def display_question(question: pd.Series, idx: int):
+    """
+    Display a question with its alternatives and verification button
+    
+    Args:
+        question: Pandas Series contendo os dados da questão
+        idx: Índice da questão
+    """
+    st.markdown(f"### Questão {question['numero']} - {question.get('disciplina', 'N/A')}")
     st.markdown(f"**{question['enunciado']}**")
     st.markdown("---")
     
@@ -35,9 +153,13 @@ def display_question(question, idx):
         if col_name in question and pd.notna(question[col_name]):
             options.append(f"{letter}) {question[col_name]}")
     
+    if not options:
+        st.warning("⚠️ Questão sem alternativas disponíveis.")
+        return
+    
     current_answer = st.session_state.answers.get(key, None)
     answer = st.radio(
-        "Select your answer:",
+        "Selecione sua resposta:",
         options,
         key=f"radio_{key}",
         index=options.index(current_answer) if current_answer in options else None
@@ -65,11 +187,19 @@ def display_question(question, idx):
 
     st.markdown("---")
 
+
+# ============================================================================
+# PAGE FUNCTIONS
+# ============================================================================
+
 def show_login_page():
+    """
+    Exibe a página de login integrada com a API FastAPI
+    """
     # Espaço no topo
     st.markdown("<br><br>", unsafe_allow_html=True)
 
-    # TÍTULO CENTRALIZADO (fora das colunas)
+    # TÍTULO CENTRALIZADO
     st.markdown(
         """
         <h1 style='text-align: center;'>🔐 Login - CFS Online Exam</h1>
@@ -80,84 +210,203 @@ def show_login_page():
 
     st.markdown("<br>", unsafe_allow_html=True)
 
-    # COLUNAS PARA A CAIXA DE LOGIN (inputs)
-    col1, col2, col3 = st.columns([2, 1, 2])  # col2 é estreita
+    # COLUNAS PARA A CAIXA DE LOGIN
+    col1, col2, col3 = st.columns([2, 1, 2])
 
     with col2:
-        # Aqui deixamos só os campos e o botão
-        username = st.text_input("Usuário")
-        password = st.text_input("Senha", type="password")
+        username = st.text_input("Usuário", key="login_username")
+        password = st.text_input("Senha", type="password", key="login_password")
 
-        CORRECT_USERNAME = "admin"
-        CORRECT_PASSWORD = "1234"
+        if st.button("Entrar", type="primary", use_container_width=True):
+            if not username or not password:
+                st.error("⚠️ Por favor, preencha usuário e senha.")
+                return
 
-        if st.button("Entrar"):
-            if username == CORRECT_USERNAME and password == CORRECT_PASSWORD:
-                st.session_state.logged_in = True
-                st.success("Login realizado com sucesso!")
-                st.rerun()
-            else:
-                st.error("Usuário ou senha incorretos.")
+            with st.spinner("Autenticando..."):
+                try:
+                    # Faz login na API
+                    access_token, token_type = api_login(username, password)
+                    
+                    # Guarda o token na sessão
+                    st.session_state.access_token = access_token
+
+                    # Busca dados do usuário logado
+                    current_user = api_get_current_user(access_token)
+                    st.session_state.current_user = current_user
+
+                    # Marca como logado
+                    st.session_state.logged_in = True
+
+                    st.success(f"✅ Login realizado com sucesso! Bem-vindo(a), {current_user.get('full_name', username)}.")
+                    st.rerun()
+
+                except ValueError as e:
+                    st.error(f"❌ {str(e)}")
+                except Exception as e:
+                    st.error(f"❌ Erro inesperado: {str(e)}")
+
+        # Link para informações adicionais (opcional)
+        st.markdown("<br>", unsafe_allow_html=True)
+        st.markdown(
+            "<p style='text-align: center; font-size: 0.9em;'>"
+            "Não tem uma conta? Entre em contato com o administrador."
+            "</p>",
+            unsafe_allow_html=True
+        )
+
 
 def show_exam_page():
+    """
+    Exibe a página principal com as provas
+    """
+    current_user = st.session_state.current_user or {}
+    username = current_user.get("username", "desconhecido")
+    full_name = current_user.get("full_name", username)
+    role = current_user.get("role", "aluno")
+    
+    # Header com informações do usuário
     st.title("🎓 CFS Online Exam")
+    st.markdown(f"**Usuário:** {full_name} | **Role:** {role.upper()}")
     st.markdown("---")
+
+    # ========================================================================
+    # SIDEBAR - User info and logout
+    # ========================================================================
+    st.sidebar.markdown("### 👤 Usuário")
+    st.sidebar.markdown(f"**Nome:** {full_name}")
+    st.sidebar.markdown(f"**Username:** {username}")
+    st.sidebar.markdown(f"**Role:** {role.upper()}")
     
-    # Sidebar
-    st.sidebar.title("Settings")
-    available_years = list(range(2025, 2013, -1))
-    selected_year = st.sidebar.selectbox("Select exam year:", available_years)
+    if st.sidebar.button("🚪 Sair", use_container_width=True):
+        # Limpa toda a sessão
+        st.session_state.logged_in = False
+        st.session_state.access_token = None
+        st.session_state.current_user = None
+        st.session_state.answers = {}
+        st.session_state.verified = {}
+        st.session_state.current_page = 0
+        st.success("Logout realizado com sucesso!")
+        st.rerun()
+
+    st.sidebar.markdown("---")
+
+    # ========================================================================
+    # SIDEBAR - Exam settings
+    # ========================================================================
+    st.sidebar.markdown("### ⚙️ Configurações")
     
-    df_exam = load_exam(selected_year)
+    # Anos disponíveis (dinâmico baseado no ano atual)
+    current_year = date.today().year
+    available_years = list(range(current_year, 2013, -1))
     
-    if df_exam is None or df_exam.empty:
-        st.error("Could not load the selected exam.")
+    selected_year = st.sidebar.selectbox(
+        "Selecione o ano da prova:",
+        available_years,
+        key="selected_year"
+    )
+    
+    # ========================================================================
+    # LOAD EXAM DATA
+    # ========================================================================
+    try:
+        df_exam = load_exam(selected_year)
+    except FileNotFoundError:
+        st.error(f"❌ Prova do ano {selected_year} não encontrada.")
+        st.info("💡 Verifique se o arquivo CSV existe no diretório `data/`.")
+        return
+    except Exception as e:
+        st.error(f"❌ Erro ao carregar a prova: {str(e)}")
         return
     
+    if df_exam is None or df_exam.empty:
+        st.error("❌ Não foi possível carregar a prova selecionada.")
+        return
+    
+    # ========================================================================
+    # PAGINATION SETUP
+    # ========================================================================
     total_questions = len(df_exam)
     questions_per_page = 10
     total_pages = (total_questions + questions_per_page - 1) // questions_per_page
     
     # Sidebar info
-    st.sidebar.markdown(f"**Total questions:** {total_questions}")
-    st.sidebar.markdown(f"**Current page:** {st.session_state.current_page + 1} of {total_pages}")
-    st.sidebar.markdown(f"**Answered questions:** {len(st.session_state.answers)}")
+    st.sidebar.markdown("---")
+    st.sidebar.markdown("### 📊 Estatísticas")
+    st.sidebar.markdown(f"**Total de questões:** {total_questions}")
+    st.sidebar.markdown(f"**Página atual:** {st.session_state.current_page + 1} de {total_pages}")
+    st.sidebar.markdown(f"**Questões respondidas:** {len(st.session_state.answers)}")
     
+    # Progresso
+    progress = len(st.session_state.answers) / total_questions if total_questions > 0 else 0
+    st.sidebar.progress(progress)
+    st.sidebar.markdown(f"**Progresso:** {progress * 100:.1f}%")
+    
+    # ========================================================================
+    # DISPLAY QUESTIONS
+    # ========================================================================
     start = st.session_state.current_page * questions_per_page
     end = min(start + questions_per_page, total_questions)
     
-    st.markdown(f"## Questions {start + 1} to {end}")
+    st.markdown(f"## 📝 Questões {start + 1} a {end}")
+    st.markdown(f"**Ano da prova:** {selected_year}")
+    st.markdown("---")
+    
     for idx in range(start, end):
         question = df_exam.iloc[idx]
         display_question(question, idx)
     
-    # Navigation
+    # ========================================================================
+    # NAVIGATION
+    # ========================================================================
+    st.markdown("---")
     col1, col2, col3 = st.columns([1, 2, 1])
+    
     with col1:
         if st.session_state.current_page > 0:
-            if st.button("⬅️ Previous"):
+            if st.button("⬅️ Anterior", use_container_width=True):
                 st.session_state.current_page -= 1
                 st.rerun()
+    
+    with col2:
+        st.markdown(
+            f"<p style='text-align: center;'>Página {st.session_state.current_page + 1} de {total_pages}</p>",
+            unsafe_allow_html=True
+        )
+    
     with col3:
         if st.session_state.current_page < total_pages - 1:
-            if st.button("Next ➡️"):
+            if st.button("Próxima ➡️", use_container_width=True):
                 st.session_state.current_page += 1
                 st.rerun()
     
-    # Reset answers
+    # ========================================================================
+    # SIDEBAR - Reset answers
+    # ========================================================================
     st.sidebar.markdown("---")
-    if st.sidebar.button("🔄 Clear all answers"):
+    st.sidebar.markdown("### 🔄 Ações")
+    
+    if st.sidebar.button("🗑️ Limpar todas as respostas", use_container_width=True):
         st.session_state.answers = {}
         st.session_state.verified = {}
         st.session_state.current_page = 0
+        st.success("✅ Todas as respostas foram limpas!")
         st.rerun()
 
+
+# ============================================================================
+# MAIN APPLICATION
+# ============================================================================
+
 def main():
+    """
+    Função principal que controla o fluxo da aplicação
+    """
     # Decide o que mostrar: login ou prova
     if not st.session_state.logged_in:
         show_login_page()
     else:
         show_exam_page()
+
 
 if __name__ == "__main__":
     main()
