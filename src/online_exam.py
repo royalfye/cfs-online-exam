@@ -27,6 +27,11 @@ st.set_page_config(
 # SESSION STATE INITIALIZATION
 # ============================================================================
 
+# Página de navegação (home, provas_anteriores, etc.)
+if 'current_view' not in st.session_state:
+    st.session_state.current_view = "inicio"  # "inicio" ou "provas_anteriores"
+
+# Paginação das provas (usada na tela de Provas Anteriores)
 if 'current_page' not in st.session_state:
     st.session_state.current_page = 0
 if 'answers' not in st.session_state:
@@ -254,10 +259,71 @@ def show_login_page():
             unsafe_allow_html=True
         )
 
-
-def show_exam_page():
+def show_top_menu():
     """
-    Exibe a página principal com as provas
+    Mostra o menu de navegação principal após login.
+    Controla qual 'view' está ativa: Início ou Provas Anteriores.
+    """
+    st.markdown("## 📚 CFS Online Exam")
+
+    col1, col2, col3 = st.columns([1, 1, 6])
+
+    with col1:
+        if st.button("🏠 Início", use_container_width=True):
+            st.session_state.current_view = "inicio"
+            # opcional: resetar paginação de provas anteriores quando voltar ao início
+            st.session_state.current_page = 0
+            st.rerun()
+
+    with col2:
+        if st.button("📜 Provas Anteriores", use_container_width=True):
+            st.session_state.current_view = "provas_anteriores"
+            st.session_state.current_page = 0
+            st.rerun()
+
+    # Linha separadora
+    st.markdown("---")
+
+def show_home_page():
+    """
+    Página inicial após login, com 3 cards de geração de questões por disciplina.
+    (Por enquanto os botões só exibem mensagem; depois podemos integrar com lógica de geração.)
+    """
+    current_user = st.session_state.current_user or {}
+    username = current_user.get("username", "desconhecido")
+    full_name = current_user.get("full_name", username)
+    role = current_user.get("role", "aluno")
+
+    # Cabeçalho
+    st.markdown(f"**Bem-vindo(a), {full_name}!**")
+    st.markdown(f"**Perfil:** {role.upper()}")
+    st.markdown("---")
+
+    st.markdown("### Selecione o tipo de simulado que deseja gerar:")
+
+    col1, col2, col3 = st.columns(3)
+
+    with col1:
+        st.markdown("#### 📘 Legislação Básica")
+        st.markdown("Simulados focados em legislação básica.")
+        if st.button("Gerar questões: Legislação Básica", use_container_width=True):
+            st.info("Função de geração de questões de Legislação Básica ainda será implementada.")
+
+    with col2:
+        st.markdown("#### 📕 Legislação Criminal e Administrativa Disciplinar")
+        st.markdown("Simulados focados em legislação criminal e administrativa disciplinar.")
+        if st.button("Gerar questões: Legislação Criminal e Administrativa Disciplinar", use_container_width=True):
+            st.info("Função de geração de questões de Legislação Criminal e Administrativa Disciplinar ainda será implementada.")
+
+    with col3:
+        st.markdown("#### 🛠️ Conhecimentos Profissionais")
+        st.markdown("Simulados focados em conhecimentos profissionais.")
+        if st.button("Gerar questões: Conhecimentos profissionais", use_container_width=True):
+            st.info("Função de geração de questões de Conhecimentos Profissionais ainda será implementada.")
+
+def show_old_exams_page():
+    """
+    Exibe a página de Provas Anteriores (simulados por ano).
     """
     current_user = st.session_state.current_user or {}
     username = current_user.get("username", "desconhecido")
@@ -265,7 +331,7 @@ def show_exam_page():
     role = current_user.get("role", "aluno")
     
     # Header com informações do usuário
-    st.title("🎓 CFS Online Exam")
+    st.markdown("### 📜 Provas Anteriores")
     st.markdown(f"**Usuário:** {full_name} | **Role:** {role.upper()}")
     st.markdown("---")
 
@@ -285,6 +351,7 @@ def show_exam_page():
         st.session_state.answers = {}
         st.session_state.verified = {}
         st.session_state.current_page = 0
+        st.session_state.current_view = "inicio"
         st.success("Logout realizado com sucesso!")
         st.rerun()
 
@@ -399,13 +466,26 @@ def show_exam_page():
 
 def main():
     """
-    Função principal que controla o fluxo da aplicação
+    Função principal que controla o fluxo da aplicação.
+    - Se não estiver logado, mostra página de login.
+    - Se estiver logado, mostra menu topo + página selecionada (Início ou Provas Anteriores).
     """
-    # Decide o que mostrar: login ou prova
     if not st.session_state.logged_in:
         show_login_page()
     else:
-        show_exam_page()
+        # Primeiro mostra o menu superior
+        show_top_menu()
+
+        # Depois, decide qual "view" mostrar
+        view = st.session_state.get("current_view", "inicio")
+
+        if view == "inicio":
+            show_home_page()
+        elif view == "provas_anteriores":
+            show_old_exams_page()
+        else:
+            # fallback de segurança
+            show_home_page()
 
 
 if __name__ == "__main__":

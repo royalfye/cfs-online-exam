@@ -1,0 +1,87 @@
+RESOLUÇÃO No912, DE 22 DE MAIO DE 2020. 
+05 2020 
+Dispõe sobre a utilização do Serviço de Correio Eletrônico, da Intranet BM e do Sistema Intranet de Mensagem do Corpo de Bombeiros Militar de Minas 
+Gerais. 
+O CORONEL BM COMANDANTE-GERAL DO CORPO DE BOMBEIROS MILITAR DE MINAS GERAIS (CBMMG), no uso de suas atribuições legais que lhe são conferidas pelo art. 6o da Lei Complementar no 54, de 13 de dezembro de 1999, e considerando a alteração do serviço de correio eletrônico, bem como a criação da Intranet BM e do Sistema Intranet de Mensagens (SIM), RESOLVE: 
+CAPÍTULO ! 
+GENERALIDADES 
+Art. 1o - Esta resolução tem por objetivo estabelecer regras para a utilização do Serviço de Correio Eletrônico (e-mail institucional), da Intranet BM e do Sistema Intranet de Mensagens (SIM), que consistem em meios de comunicação digital difundidos no âmbito de todo o CBMMG, bem como disciplinar a troca de mensagens eletrônicas, além de proporcionar eficiência, legitimidade e segurança na utilização destes meios de comunicação entre os integrantes da Corporação. 
+Art. 2o - Para fins desta Resolução, consideram-se os seguintes conceitos: 
+I - Serviço de correio eletrônico: Sistema de troca de mensagens utilizado na internet, que possui a função de possibilitar o envio e o recebimento de mensagens entre usuários, grupos ou sistemas computacionais; 
+11 Mensagem de correio eletrônico: Correspondência criada, enviada, reencaminhada, respondida, arquivada, copiada e exibida por serviço de correio 
+کے 
+eletrônico; 
+III - Intranet BM: Ferramenta institucional oficial para divulgação interna de informações, disponibilização de ferramentas digitais e outras funcionalidades para o pessoal do CBMMG; 
+IV 
+.. 
+Sistema Intranet de Mensagens (SIM): Módulo destinado ao envio, recebimento, encaminhamento e resposta de mensagens e documentos anexos, com confirmação de leitura, como parte integrante da Intranet BM; 
+V - Usuário: Militar ou funcionário civil do CBMMG que utilize o serviço de correio eletrônico (e-mail), SIM e Intranet; 
+VI - Caixa de e-mail individual: Área de armazenamento particular de um usuário no servidor de correio eletrônico; 
+Vil - Caixa de e-mail compartilhada: Caixas de mensagens destinadas às Unidades, as quais são acessadas por funcionários específicos, desde que cadastrados pelo administrador local, de modo que possam enviar e receber e-mails em nome desta; 
+VIII - Caixa de entrada do SIM: Área de armazenamento particular de um usuário; IX - Caixa da Unidade do SIM: Caixa de mensagem destinada a todos os militares lotados na respectiva Unidade; 
+X - Caixa de seção do SIM: Caixa de mensagem destinada a todos os militares lotados em seção específica da Unidade; 
+XI Caixa de grupos do SIM: Caixa de mensagens destinada ao envio de mensagem para um grupo específico, cadastrado na ferramenta pelo próprio usuário; 
+XII - Administrador local: Responsável pela inclusão/exclusão de militares da caixa de e-mail compartilhada das Unidades; 
+XIII - Administradores do sistema: Militares e funcionários civis lotados na Diretoria de Logística e Finanças (DLF), responsáveis pelo gerenciamento da Intranet BM e das caixas de correio eletrônico e do SIM.. 
+CAPÍTULO II 
+SISTEMA INTRANET DE MENSAGENS 
+Art. 3° - O Sistema Intranet de Mensagens objetiva a troca interna de mensagens, com fins profissionais, entre militares e funcionários civis do CBMMG. 
+Art. 4° - O SIM é composto principalmente pela Caixa Pessoal, Caixa de Unidade, Caixa de Seção à que o usuário está lotado e Caixa de Grupos. 
+Art. 5° - O usuário poderá criar mensagem e enviar para outro usuário, por meio do nome ou número do destinatário, sendo este o número de Bombeiro ou número da matrícula do servidor público - MASP. 
+Art. 6° 
+Apenas os militares que estiverem na função de secretário ou de Comandante das Unidades, dentro de sua área de competência, e os militares que estiverem lotados na Ajudância-Geral ou EM/BM5 possuem a permissão de enviar. mensagem para todos os militares das Unidades BM. 
+CAPÍTULO III 
+CAIXAS DE CORREIO 
+Art. 7° O serviço de correio eletrônico objetiva a troca de mensagens entre Unidades do CBMMG, entre integrantes da Corporação e destes com os demais órgãos públicos, entidades privadas e pessoas físicas que mantenham relaciónamento de natureza profissional com a Corporação. 
+Art. 8° - A caixa de correio individual destina-se ao usuário e, portanto, a ele irá se referir o respectivo endereço eletrônico. 
+Art. 9° A identificação eletrônica do usuário individual não deverá exceder 30 caracteres e deverá ter no mínimo um nome. 
+§ 1o - Sempre que possível, a identificação eletrônica do usuário individual deverá ter a forma mais simples, isto é, o primeiro nome seguido de um ponto sobrenome, preferencialmente com o nome de guerra do militar; 
+e um 
+§ 2o - Nos casos em que o usuário tiver nome composto, o segundo nome poderá substituir o primeiro ou ser incluído logo após este, sendo separados por ponto 
+. 
+§ 3o - Nos casos em que houver identificação eletrônica homônima do usuário individual, deverá ser incluído ou retirado o segundo nome, quando for o caso, ou ser substituído o sobrenome utilizado anteriormente, ou ainda, incluído outros sobrenomes, separados por ponto ".", na ordem do nome completo do usuário. 
+Art. 10 - A caixa de correio compartilhada destina-se à Unidade ou à Seção e, portanto, a ela irá se referir ao respectivo endereço eletrônico. 
+Parágrafo único. Os administradores do e-mail deverão criar a caixa de correio compartilhada com, no máximo, 30 caracteres. 
+seguido de 
+Art. 11 O endereço eletrônico das caixas de correio será formado pela identificação eletrônica do usuário Ou da caixa compartilhada, @bombeiros.mg.gov.br, como exemplo: nome.sobrenome@bombeiros.mg.gov.br. 
+CAPÍTULO IV 
+ATRIBUIÇÕES 
+Art. 12 - Caberá à Diretoria de Logística e Finanças (DLF): 
+prover o serviço de correio eletrônico, seja por contratação ou por desenvolvimento próprio, verificando, dentre outras necessidades, a de expansão do serviço, para atender as demandas da Corporação; 
+11 - manter o serviço do SIM, com desenvolvimento próprio ou por meio da contratação de terceiros, observando, principalmente, as necessidades de evolução e expansão do serviço para atender as demandas da Corporação; 
+III - manter o serviço da Intranet BM, com desenvolvimento próprio ou por meio da contratação de terceiros, verificando, dentre outras necessidades, a de evolução e expansão do serviço, para atender as demandas da Corporação; 
+IV garantir a disponibilidade e a segurança do serviço de Correio Eletrônico Institucional, Sistema Intranet de Mensagens - SIM e Intranet BM; 
+V - desenvolver ações que garantam a operacionalização desta Resolução; 
+VI - administrar o serviço de correio eletrônico, com a inclusão e retirada de usuários, criação e exclusão de caixas de e-mail compartilhado e lançamento ou exclusão dos respectivos usuários. 
+Parágrafo único - Todas as demandas de desenvolvimento de software para a Intranet, inclusive modificações, devem ser encaminhadas à DLF, para análise e providências decorrentes. 
+Art. 13 - Compete ao usuário: 
+1 - utilizar o serviço de correio eletrônico, o SIM e a Intranet BM para os objetivos e 
+funções próprias, inerentes às suas atribuições funcionais e institucionais; 
+II - não permitir que terceiros acessem a sua caixa de correio individual; 
+III - fazer alterações periódicas de sua senha por motivo de segurança; 
+IV - realizar o acesso periódico às caixas de correio eletrônico, à Intranet BM e ao SIM da forma que segue: 
+a) se em exercício de função administrativa: no mínimo duas vezes ao dia, durante o expediente, sendo uma pela manhã e outra à tarde; 
+b) se em exercício de função operacional: no mínimo por duas vezes, no plantão operacional, sendo uma pela manhã e outra a tarde. 
+CAPÍTULO V DISPOSIÇÕES GERAIS 
+Art. 14 - É vedado o acesso não autorizado às contas da Intranet e caixas de correio de terceiros. 
+Parágrafo único - As senhas de acesso aos sistemas previstos nesta resolução são pessoais e intransferíveis, devendo o usuário mantê-las em segurança, bem como providenciar sua troca em caso de suspeita de violação. 
+Art. 15 Em todas as mensagens digitais enviadas por militar do CBMMG ou funcionário civil, o remetente deverá se identificar de forma evidente, não sendo permitidas alterações ou manipulações da origem das postagens. 
+Parágrafo único - As mensagens deverão ser redigidas de forma clara e sucinta, devendo possuir grau de formalidade compatível ao destinatário e ao assunto tratado. 
+Art. 16 - É vedado o envio e o armazenamento intencionais de mensagens 
+contendo: 
+1 - material ilegal, imoral ou obsceno; 
+II - entretenimentos ou "correntes"; 
+III - material com prejulgamento ou discriminação; 
+IV - material de natureza político-partidária ou sindical; 
+V - assuntos ofensivos;: 
+VI - anúncios publicitários; 
+VII - músicas, vídeos ou animações que sejam estranhas ao serviço; 
+VIII - softwares maliciosos (vírus, trojans e spywares, dentre outros); 
+IX - programas de computador que não sejam destinados ao desempenho de suas funções ou que possam ser considerados nocivos ao ambiente de rede do setor. 
+Art. 17 Poderão ser utilizadas caixas de correio compartilhadas temporárias destinadas a programas, projetos e eventos, estando a Unidade interessada, incumbida de solicitar a sua criação, quando necessária, e sua exclusão, ao término dos trabalhos. 
+Art. 18 As mensagens que forem tramitadas tanto pelo Sistema de Correio Eletrônico, quanto pelo SIM são consideradas legítimas e poderão ser utilizadas nos processos e procedimentos administrativos no que couber. 
+Art. 19 - Quando o destinatário da mensagem for militar do CBMMG ou funcionário civil, deverá ser preferencialmente utilizado o SIM, ficando o serviço de correio eletrônico preferencialmente nas comunicações com outras instituições públicas ou particulares. 
+Art. 20 - Os casos omissos serão resolvidos pelo Chefe do Estado-Maior. 
+Art. 21 - Fica revogada a Resolução no 651, de 11 de fevereiro de 2016. 
+Art. 22 - Esta resolução entra em vigor na data de sua publicação. 
+Comando-Geral em Belo Horizonte, 2 demo 
