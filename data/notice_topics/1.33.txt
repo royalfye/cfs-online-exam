@@ -1,0 +1,1450 @@
+COMANDO-GERAL
+RESOLUÇÃO Nº 1.278, DE 08 DE SETEMBRO DE 2025.
+Aprova e institui a 2ª Edição do Programa de Integridade do Corpo de Bombeiros Militar de Minas
+Gerais.
+A CORONEL BM COMANDANTE-GERAL DO CORPO DE BOMBEIROS
+MILITAR DE MINAS GERAIS, no uso de suas atribuições legais que lhe são conferidas pelo art. 6º da
+Lei Complementar nº 54, de 13 de dezembro de 1999, RESOLVE:
+Art. 1º - O Plano de Integridade do Corpo de Bombeiros Militar de Minas Gerais, aprovado
+pela Resolução nº 984, de 28 de maio de 2021, passa a ser denominado Programa de Integridade do Corpo
+de Bombeiros Militar de Minas Gerais (PIBM).
+Art. 2º - Fica aprovada e instituída a 2ª Edição do Programa de Integridade do Corpo de
+Bombeiros Militar de Minas Gerais (CBMMG), contida no anexo único desta Resolução.
+Art. 3º - Todas as Unidades do CBMMG adotarão as providências necessárias para
+implementação do Programa de Integridade.
+Art. 4º - A Comissão de Integridade será nomeada por ato do Chefe do
+EMBM/Subcomandante-Geral, e será responsável pela gestão, coordenação, acompanhamento e registro
+das ações referentes ao Plano de Integridade.
+Parágrafo único - As ações de implementação, gestão, monitoramento e auditoria do
+cumprimento do Programa de Integridade/2ª Edição, serão, obrigatoriamente, registradas no Sistema
+Eletrônico de Gestão da Política Mineira de Promoção da Integridade – SisPMPI, observando as prescrições
+do Decreto nº 48.419, de 16/05/2022 ou norma que o substituir.
+Art. 5º - Revogam-se as disposições em contrário.
+Art. 6º - Esta resolução entra em vigor na data de sua publicação.
+Comando-Geral em Belo Horizonte, 08 de setembro de 2025 .
+Jordana de Oliveira Filgueiras Daldegan, Coronel BM
+Comandante-Geral
+
+ECLARAÇÃO DO COMANDO
+Apresentamos ao efetivo do Corpo de Bombeiros Militar de Minas Gerais e à
+sociedade a 2ª edição do Programa de Integridade do CBMMG (PIBM), que em sua
+1ª edição foi estruturado como Plano de Integridade, pautado na transparência, na
+ética, na entrega de valor à sociedade e na valorização da vida.
+Alinhados com as diretrizes do comando e em consonância com os interesses
+coletivos em prol da proteção à vida, ao meio ambiente e ao patrimônio,
+comprometemo-nos a zelar pelo cumprimento, monitoramento e atualização das
+medidas pactuadas.
+Afirmamos, como corporação, que entendemos a integridade como importante
+dimensão organizacional que deve estar em sinergia com o nosso propósito,
+missão, visão e valores institucionais. Nesta versão do PIBM, esperamos que,
+juntamente com nossa diretriz estratégica e nosso código ético-disciplinar, o
+presente programa forneça os princípios básicos e o norte prático para bem servir.
+Contamos com a participação de cada bombeiro militar na execução dessas ações
+para um ambiente íntegro e salutar, reforçando nosso propósito organizacional, que
+tem como foco a contribuição para salvar e valorizar vidas, gerando o impacto de
+inspirar pessoas e levar esperança. 
+
+1. APRESENTAÇÃO
+Ao explorar o histórico recente do esforço institucional para o fortalecimento das
+ações de integridade no CBMMG, é possível observar que na 1ª edição do PIBM
+conceituou-se o termo integridade como sendo:
+Integridade é agir, dentro das normas e leis vigentes, buscando sempre
+fazer o que é correto, ético, honesto e transparente, objetivando a
+excelência na prestação dos serviços, mesmo quando ninguém está
+olhando ou que o reconhecimento de suas ações não exista. (CBMMG,
+2021, p. 12, grifo nosso).
+Nesta 2ª edição, à semelhança do que se lê no Guia de Integridade Pública da
+Controladoria-Geral da União (CGU), torna-se
+mais compreensível o termo Integridade
+Pública ao ser percebido como “o conjunto de
+arranjos institucionais que visam a fazer com
+que a Administração Pública não se desvie de
+seu objetivo precípuo: entregar os resultados
+esperados pela população de forma adequada,
+imparcial e eficiente”. (BRASIL, 2015, p. 5).
+Nesse contexto, percebe-se que o esforço
+organizacional em questão está alinhado com
+as diretrizes estabelecidas no âmbito estadual. Especificamente, o Decreto Estadual
+nº 48.419, de 16 de maio de 2022, que instituiu a Política Mineira de Promoção da
+Integridade, substituiu o Plano Mineiro de Promoção da Integridade, o qual estava
+delineado no Decreto Estadual nº 47.185, de
+13 de maio de 2017. Assim, esta atual versão
+do programa se integra à estrutura da Política
+Mineira de Promoção da Integridade.
+Ainda quanto ao tema, cabe esclarecer que,
+enquanto o Programa consiste no conjunto
+estruturado de medidas institucionais
+necessárias para prevenção, detecção e
+6
+tratamento de práticas de corrupção e fraude, de irregularidades, de outros desvios
+éticos e de conduta, o Plano de Integridade é o conjunto de ações que tem como
+finalidade desenvolver o ambiente de integridade de uma organização em
+determinado período (MINAS GERAIS, 2022).
+Desde a 1ª edição do então denominado Plano de Integridade do CBMMG (PIBM),
+esforços têm sido empreendidos para aumentar a transparência, gerenciar recursos,
+implementar mecanismos de responsabilização para desvios e fortalecer a conexão
+com a população. Embora a estrutura militarizada já contribua para a consolidação
+de um modelo robusto de governança pública em todos os níveis, suportado por um
+código de ética e orientado pelo propósito organizacional, é importante destacar que
+a corporação permanece receptiva a oportunidades de melhoria, uma vez que a
+criação de um Programa Integridade do CBMMG é recente, acompanhando as boas
+práticas de governança e integridade no Brasil e em Minas Gerais.
+Construído em sua primeira versão, inicialmente
+em 2021, o PIBM teve sua operacionalização
+desenhada e implementada entre 2022 e 2023.
+A partir do ano de 2024, iniciou-se um trabalho
+de revisão e atualização para a 2ª edição, agora
+denominado Programa de Integridade (PIBM),
+dotado de um detalhado plano de ação, como
+parte do projeto estratégico de melhoria
+contínua da governança institucional do
+CBMMG. Nesta nova edição, nota-se a necessidade de expandir o alcance da
+integridade a toda instituição e, além disso, posicioná-la entre os demais
+instrumentos de governança e gestão que estavam dispersos e aparentemente
+desconexos, conforme representado na figura 1.
+7
+Figura 1: Instrumentos de Governança e Gestão em desconexão. 
+
+Para tanto, nesta nova edição do PIBM, mobiliza-se um diagnóstico mais integrativo
+conforme as melhores práticas de governança pública, a partir do qual novas ações
+foram propostas, visando aprimorar as iniciativas voltadas à integridade, à
+transparência, ao fortalecimento da gestão de riscos, ao accountability1
+ e ao
+compliance2
+. Dessa maneira, como se pode notar na figura 2, busca-se que tais
+medidas sejam compreendidas como partes conectadas, e conforme preconiza a
+CGU, que sejam mobilizadas como “peças de um mesmo quebra-cabeça que,
+devidamente montado e estruturado, tem por objetivo proteger a Administração
+Pública contra riscos de corrupção e garantir a adequada prestação de serviços à
+sociedade” (BRASIL, 2015, p. 5).
+2
+ Agir de acordo com a lei. (BUGARIN, 2023).
+1
+ Obrigação de pessoas ou entidades responsáveis por recursos públicos de prestar contas sobre sua
+gestão e demonstrar que os administraram conforme os termos estabelecidos.(BRASIL, 2020a)
+
+Figura 2: Instrumentos de Governança e Gestão conectados.
+Fonte: Autores, a partir de Brasil (2015).
+Na presente edição do PIBM, as ações são organizadas em eixos temáticos,
+desenvolvidos a partir de um diagnóstico junto aos setores do CBMMG que
+opinaram sobre os temas afetos à integridade, como planejamento, cultura, gestão,
+riscos e controle, interação público-privada,
+gestão de pessoas, transparência, correição,
+entre outros. A partir dessa integração
+participativa dos setores técnicos, bem como
+da análise dos resultados e desafios
+observados na operacionalização da 1ª edição,
+propõe-se esta versão atualizada do programa,
+com a expectativa de melhorias em relação à
+anterior.
+9
+Diferentemente da versão publicada em 2021, elaborada no âmbito da Corregedoria
+do CBMMG (CCBM), nesta 2ª edição, evidencia-se o caráter transversal dos
+assuntos relacionados ao tema da integridade. Desse modo, a sistematização de
+princípios em ações práticas durante a operacionalização da 1ª edição do PIBM
+evidenciou a conexão entre os eixos, que abrangem os níveis operacional, tático e
+estratégico, além de envolverem as diversas áreas da instituição. 
+
+2. GOVERNANÇA E GESTÃO PARA A INTEGRIDADE NO CBMMG
+Enquanto a gestão é considerada pela literatura como o processo de planejar,
+organizar, dirigir e controlar o uso dos recursos organizacionais para alcançar
+objetivos, não há consenso sobre o termo governança, por ser um conceito
+complexo, visto sob três perspectivas: organizacional, políticas públicas e centros de
+governo. Conforme o Referencial Básico de Governança Organizacional para
+organizações públicas e outros entes jurisdicionais elaborado pelo Tribunal de
+Contas da União (TCU), a perspectiva que mais se aproxima do objetivo deste
+Programa de Integridade é a organizacional, cujo escopo é melhorar o desempenho
+da organização na geração de valor. O citado referencial em sua 3ª edição conceitua
+governança pública como sendo:
+[...] a aplicação de práticas de liderança, de estratégia e de controle, que
+permitem aos mandatários de uma organização pública e às partes nela
+interessadas avaliar sua situação e demandas, direcionar a sua atuação e
+monitorar o seu funcionamento, de modo a aumentar as chances de
+entrega de bons resultados aos cidadãos, em termos de serviços e de
+políticas públicas. (BRASIL, 2020b, p.15).
+
+Para a Política de Governança Pública do Distrito Federal, estabelecida por meio do
+Decreto nº 39.736, de 28 de março de
+2019, a Governança é definida como:
+“conjunto de mecanismos de liderança,
+estratégia e controle voltado para avaliar,
+direcionar e monitorar a gestão, com
+vistas à condução e geração de
+resultados nas políticas públicas e à
+prestação de serviços de interesse da
+sociedade” (art. 2º, inc. I). Para a
+mensuração desse desempenho e
+resultados, faz-se necessário estabelecer critérios avaliativos que auxiliem os
+órgãos a atenderem às demandas sociais, associando-se mecanismos de controle
+de modo a garantir a entrega do valor. 
+
+Dessa maneira, é na interação e retroalimentação entre as funções de governança e
+gestão que está o maior potencial de concretização dos resultados esperados. No
+âmbito do CBMMG, já na 4ª edição do Plano de Comando para o biênio 2021-2022,
+amadurecido na 5ª edição (2023-2024), foram vislumbradas questões relacionadas
+às interseções entre a gestão e a governança.
+No que tange à gestão, observa-se na figura 3
+a materialização do ciclo PDCA3
+ por meio da
+elaboração e revisão do planejamento
+estratégico da corporação e de sua
+operacionalização por meio do Portfólio de
+Projetos Estratégicos e dos Objetivos e
+Resultados-chave (OKRs), bem como pelas
+iniciativas das unidades e setores. Além disso,
+no que se refere à arquitetura e gestão por
+processos, estão demarcados os
+macroprocessos previstos na cadeia de valor
+da corporação. Ao final, as ações resultantes de projetos e processos serão
+mensuradas pelo sistema de medição por meio de índices e indicadores
+estratégicos e corrigidas se necessário.
+3Segundo Correa (2017), o ciclo PDCA consiste em quatro passos: identificação de um problema (P),
+elaboração e implementação de um plano para resolvê-lo (D), checagem dos resultados obtidos (C) e
+padronização dos processos com eventuais ajustes (A). Apesar da simplicidade, a força dessa
+metodologia está na repetição contínua do ciclo, que gera melhoria contínua.
+13
+Figura 3: Funções de Governança e Gestão adaptadas ao CBMMG.
+Fonte: TCU (2020), 3ª edição. p. 17 adaptado ao CBMMG pelos autores.
+A partir dos resultados da gestão, a governança utiliza-se de instrumentos para
+garantir o direcionamento da estratégia, por meio: do envolvimento do Alto
+Comando; da promoção da integridade; da gestão de riscos estratégicos; do
+fortalecimento da transparência; do accountability; do compliance e dos controles
+internos, com foco na entrega de valor à sociedade.
+O esforço para a integração das funções de gestão e de governança, antes
+fragmentadas, foi impulsionado a partir do alinhamento com outras instâncias
+públicas, por meio do compartilhamento de boas práticas, bem como pela percepção
+da falta de sinergia entre atividades que já estavam sendo executadas de maneira
+desconexa.
+Assim, ambas as funções em conjunto permitem que a instituição exista em virtude
+do seu “porquê” (a razão, o sentido, o propósito) e guie o seu “como” (o serviço, o
+método) e o seu “o quê” (a entrega), como se pode notar na figura 4.
+14
+Figura 4 - Identidade Organizacional.
+Fonte: 5ª edição do Plano de Comando CBMMG (Adaptado).
+Nesse cenário de aperfeiçoamento da governança e da gestão no âmbito do
+CBMMG, é fundamental compreender a estrutura institucional que sustenta essas
+práticas e garante sua efetividade. Enquanto instituição permanente do Estado,
+estruturada com base na hierarquia e disciplina, conforme previsto na Constituição
+Federal, na Constituição Estadual e na Lei Complementar nº 54, de 13 de dezembro
+de 1999, que define sua organização básica, o CBMMG atua como força auxiliar e
+reserva do Exército, integra a Administração Pública estadual.
+Com a missão de proteger vidas, o meio ambiente e o patrimônio, a corporação
+executa ações de defesa civil, prevenção e combate a incêndios, busca e
+salvamento, atendimento pré-hospitalar e perícias técnicas de incêndio. Tais
+atribuições são desempenhadas por uma estrutura organizacional composta por
+Unidades de Direção-Geral, Intermediária e de Execução, coordenadas pelo
+15
+Comando-Geral, diretamente subordinado ao Governador do Estado, conforme
+exposto na figura 5.
+Figura 5 - Organograma do CBMMG Resumido.
+Fonte: Organograma do CBMMG adaptado pelos Autores, com base no Anexo Único à Resolução
+CBMMG 1.215/2024.
+Essa estrutura possibilita o funcionamento integrado da corporação em todo o
+território mineiro e sustenta os princípios de governança, responsabilidade e
+eficiência que orientam a atuação institucional. Nesse contexto, o Programa de
+Integridade está alinhado à missão e aos valores do CBMMG, fortalecendo a cultura
+ética e a conformidade em todos os níveis da organização.
+3. AVANÇOS E DESAFIOS: UMA ANÁLISE DA 1ª EDIÇÃO DO PIBM
+A primeira edição do PIBM proporcionou importantes avanços em governança,
+gestão de riscos e engajamento dos agentes públicos, consolidando uma base para
+a melhoria contínua. A estrutura do programa foi organizada em três eixos
+estratégicos: Governança e Comprometimento da Alta Administração, Gestão de
+Riscos e Controles Internos, e Gestão do Programa de Integridade. Esses eixos,
+juntamente com seus subeixos, estão detalhados na figura 6, a qual apresenta as
+ações planejadas em cada área estratégica.
+Figura 6 - Eixos e Subeixos da 1ª Edição do PIBM.
+Fonte: Autores, a partir da primeira edição do Plano de Integridade do CBMMG. 
+
+No Eixo I, destacaram-se ações como a participação do Alto Comando em eventos e
+capacitações, que reforçaram o compromisso institucional com a promoção da
+integridade. Além disso, foram produzidos e divulgados materiais de conscientização
+para a tropa, enfatizando a importância da transparência e do acesso do cidadão às
+informações de interesse público.
+No Eixo II, destacaram-se iniciativas como a disseminação do Código de Ética e
+Disciplina (CEDM), por meio de palestras e cartilhas, além da qualificação técnica
+dos Conselhos de Ética e Disciplina, fortalecendo a governança interna.
+Já no Eixo III, foi estruturada uma rotina de consulta aos responsáveis pelas ações,
+permitindo identificar dificuldades e propor soluções, bem como consolidar relatórios
+trimestrais para monitoramento das iniciativas.
+Ao todo, foram delineadas 52 ações, distribuídas entre os três eixos estratégicos,
+com foco na consolidação de práticas voltadas à promoção da integridade no âmbito
+institucional. Para a elaboração da segunda edição do PIBM, essas ações foram
+avaliadas e classificadas em três categorias: concluídas, em andamento (por terem
+sido incorporadas à rotina institucional) e reprogramadas para a nova edição. Essa
+sistematização permitiu não apenas identificar os avanços alcançados, bem como
+os pontos que demandam continuidade ou replanejamento.
+Apesar dos progressos observados, notadamente com a conclusão de diversas
+ações e a continuidade daquelas incorporadas à rotina institucional, ainda há
+oportunidades de aprimoramento em relação
+a iniciativas que demandam maior
+desenvolvimento no contexto da integridade
+institucional.
+Tais oportunidades de aprimoramento não
+refletem uma falha no planejamento inicial,
+mas sim uma consequência natural da
+necessidade estratégica de priorizar
+esforços, diante das limitações de recursos e
+da complexidade de implementação de
+determinadas ações.
+19
+Vale destacar que, para lidar com esses aspectos de forma estruturada, foram
+definidos à época da execução da 1ª edição do plano critérios de priorização, com o
+objetivo de orientar decisões alinhadas aos objetivos institucionais e à realidade
+operacional da Corporação, conforme evidenciado na figura 7:
+Figura 7 - Parâmetros de Priorização Adotados na 1ª Edição do PIBM.
+A figura 8 ilustra graficamente a evolução da execução das ações da 1ª edição,
+reforçando o compromisso da Corporação com a integridade e oferecendo subsídios
+relevantes para o direcionamento do próximo ciclo. 
+Figura 8 - Evolução da Execução das Ações da 1ª Edição do PIBM.
+Fonte: Autores, a partir da primeira edição do Plano de Integridade do CBMMG.
+Encerrando essa análise, constata-se que a 1ª edição do PIBM cumpriu um papel
+essencial ao estabelecer as bases para a cultura de integridade no CBMMG. O
+acompanhamento contínuo das ações, aliado à sistematização dos aprendizados,
+fortaleceu a capacidade institucional de planejar, executar e revisar suas práticas,
+criando condições mais robustas para a evolução do programa em sua nova edição.
+
+4. DIAGNÓSTICO E DESENVOLVIMENTO DO PROGRAMA DE INTEGRIDADE
+Visando subsidiar a atualização do Programa de Integridade do CBMMG, foi
+conduzido um diagnóstico institucional abrangente, orientado pelo Guia de
+Integridade Pública da Controladoria-Geral do Estado de Minas Gerais (CGE-MG) e
+pelas boas práticas da CGU.
+O principal instrumento de coleta foi estruturado a partir das questões da seção
+"Conheça sua Instituição", do Guia de Integridade Pública da CGU (2015), sendo
+devidamente adaptado para contemplar as especificidades do CBMMG enquanto
+instituição militar estadual, cuja missão envolve a proteção da vida, do meio
+ambiente e do patrimônio. A adaptação considerou a natureza da corporação, que
+integra processos finalísticos, administrativos e estratégicos, todos interdependentes
+no cumprimento da missão constitucional e na geração de valor público.
+A metodologia aplicada combinou levantamento documental, pesquisa bibliográfica
+e aplicação de formulários direcionados
+às unidades estratégicas da
+corporação. A análise resultante
+contemplou temas essenciais à
+integridade pública, tais como
+correição, gestão estratégica, execução
+orçamentária, controles internos,
+interação com o setor privado, gestão
+de pessoas, transparência e
+comunicação institucional.
+O diagnóstico apontou avanços
+importantes na estrutura de
+governança, como a adoção de planejamento estratégico com foco em resultados, a
+atuação estruturada da Corregedoria, a utilização de Objetivos e Resultados-Chave
+(OKR’s) na gestão e no fortalecimento de instrumentos de transparência ativa. Tais
+iniciativas reforçam o compromisso institucional com a legalidade, a eficiência e a
+integridade pública.
+23
+Entretanto, também foram identificadas fragilidades relevantes, entre as quais:
+ausência de política formal de gestão de riscos; inexistência de comissão de ética
+institucionalizada; lacunas na capacitação continuada em integridade; necessidade
+de padronização de processos críticos; deficiências no gerenciamento de riscos e
+seus controles; e ausência de normativos robustos para orientar a interação com o
+setor privado, conforme exigido pelo Decreto Estadual nº 48.417/2022.
+Uma vez estabelecido um diagnóstico de integridade que possibilitou o
+conhecimento do ambiente no qual o trabalho deverá se desenvolver, passou-se à
+etapa de definição do Programa de
+Integridade.
+Como visão de futuro em relação ao
+ambiente de integridade, o CBMMG
+objetiva ser reconhecido como modelo
+de integridade e governança pública
+no Brasil, com uma atuação pautada
+por práticas responsáveis, excelência
+técnica e uma cultura de respeito aos
+direitos humanos, à legislação e aos
+valores institucionais.
+Com base no diagnóstico realizado e
+alinhado à visão de futuro institucional, o Programa de Integridade do CBMMG tem
+como objetivos: fortalecer os mecanismos formais de integridade e governança, com
+a implementação da política de gestão de riscos, institucionalização da comissão de
+ética e normatização das relações com o setor privado; promover a cultura da
+integridade por meio de capacitação contínua e ações de comunicação interna; e
+aprimorar a gestão estratégica com foco em resultados, riscos e transparência, por
+meio da padronização de processos e do uso de OKRs e instrumentos de controle
+social.
+A partir desses achados, foram propostas ações estruturadas nos seis eixos
+temáticos do Programa de Integridade do CBMMG, conforme descrito na figura 9.
+
+24
+Figura 9 - Eixos da 2ª Edição do PIBM.
+Fonte: Eixos adaptados pelos Autores, com base no Guia de Integridade Pública, 2ª edição - CGE
+A implementação dessas ações fortalecerá a capacidade do CBMMG para
+consolidar um ambiente institucional ético, transparente e responsável, contribuindo
+para o cumprimento de sua missão constitucional e alinhamento ao seu propósito de
+salvar e valorizar vidas, inspirar pessoas e levar esperança. 
+
+5. PLANO DE INTEGRIDADE POR EIXOS TEMÁTICOS
+Os eixos de integridade apresentados no Guia de Integridade Pública - 2ª edição
+definem áreas estratégicas fundamentais para a consolidação de práticas de
+integridade em toda a administração pública estadual. Esses eixos promovem um
+ambiente de confiança e responsabilidade no setor público e serviram de referência
+para a construção do Programa de Integridade do CBMMG.
+Para garantir que o programa refletisse as particularidades da corporação, foram
+consultados diversos setores e unidades técnicas do CBMMG. Esse processo
+permitiu diagnosticar, de forma técnica e participativa, o estado atual da instituição
+em relação à integridade pública, bem como estabelecer diretrizes para alcançar o
+cenário futuro desejado.
+Considerando as características próprias de uma instituição militar, fundamentada
+na disciplina e hierarquia, o Programa de Integridade do CBMMG foi estruturado de
+modo a respeitar esses princípios, alinhando-se aos valores e à missão da
+corporação. Dessa forma, busca-se fortalecer a cultura organizacional, promovendo
+um ambiente íntegro e ético em todas as esferas de atuação.
+A seguir, apresenta-se uma breve descrição de cada um dos Eixos de Integridade e
+seus desdobramentos em Subeixos, para os quais foram estabelecidas as Ações de
+Integridade para sua implementação. 
+
+SUBEIXO QUALIFICAÇÃO, CAPACITAÇÃO E COMPROMISSO COM A ÉTICA
+PÚBLICA
+O conjunto de deveres e direitos dos militares está previsto, principalmente, na Lei
+5.301/1969, que regula o Estatuto dos Militares de Minas Gerais (EMEMG), e na Lei
+14.310/2002, que estabelece o Código de Ética e Disciplina dos Militares de Minas
+Gerais (CEDM). Essas normas visam garantir que os membros do CBMMG atuem
+com integridade, ética e compromisso com
+o interesse público.
+No âmbito da gestão de pessoas, a
+qualificação e a capacitação contínua dos
+militares são pilares fundamentais para
+garantir a excelência dos serviços
+prestados pelo CBMMG. A corporação
+adota diretrizes específicas para o
+aprimoramento profissional, promovendo
+cursos,
+treinamentos
+e
+participação em eventos técnico-científicos, bem como
+o Treinamento Profissional Básico (TPB), realizado
+anualmente, cujo resultado das avaliações é utilizado
+como um dos critérios para fins de promoção.
+A jornada de trabalho, por sua vez, é organizada
+conforme as áreas de atuação, com regulamentações
+que garantem a continuidade dos serviços e preveem
+condições especiais, como a redução de carga horária para militares que cuidam de
+pessoas com necessidades especiais.
+28
+Além da qualificação técnica, é essencial que o CBMMG fortaleça um ambiente
+organizacional pautado na ética, no respeito mútuo e na valorização da diversidade,
+incluindo, mas não se limitando, a diferenças de raça, etnia, orientação sexual,
+identidade de gênero, deficiência, crenças e trajetórias pessoais. A cultura
+institucional deve promover a equidade, a inclusão e relações respeitosas em todos
+os níveis, com ações voltadas à conscientização, à prevenção de condutas
+discriminatórias e de assédio, e à consolidação da ética como princípio orientador.
+Dessa forma, valorizar a qualificação profissional e promover um ambiente
+organizacional mais ético e inclusivo são elementos essenciais para garantir um
+CBMMG mais eficiente, justo e comprometido com o interesse público. Alinhadas a
+esse propósito, as ações propostas neste subeixo visam, por um lado, estruturar
+metodologias para descrição de cargos e funções que considerem competências
+técnicas, comportamentais e princípios éticos na Ação 1 e, por outro lado, consolidar
+uma cultura institucional baseada no respeito às diferenças, na prevenção de
+práticas discriminatórias e na valorização da diversidade na Ação 2.
+AÇÕES PROPOSTAS
+Ação 1: Descrição de Cargos e Funções com Foco na Ética e Desempenho
+Profissional.
+Descrição
+Propor metodologia para levantamento e descrição dos cargos e funções do
+CBMMG, definindo de forma clara e objetiva as atribuições, responsabilidades e
+requisitos necessários para o desempenho de cada posição. A proposta deverá
+considerar a contribuição estratégica de cada cargo para os objetivos
+institucionais, assegurando a compatibilidade com a estrutura organizacional e os
+princípios da Administração Pública. A metodologia também deverá incorporar, de
+maneira proporcional e contextualizada, os padrões éticos e comportamentais
+previstos no CEDM, especialmente nos casos em que as funções envolvam maior
+sensibilidade ética ou riscos associados. Essa iniciativa servirá de base para o
+mapeamento das competências técnicas e comportamentais, promovendo a
+alocação adequada de militares, o desenvolvimento profissional e a valorização da
+integridade como eixo transversal das atividades institucionais.
+29
+Responsáveis
+Gerente da Ação: EMBM-1. Unidades de apoio: DRH e demais
+setores e unidades priorizados pelo
+Comando do CBMMG, em razão de sua
+importância para a gestão e
+disseminação do conhecimento
+institucional.
+Objetivos da ação
+✅ Desenvolver metodologia padronizada para levantamento e descrição dos
+cargos e funções institucionais, considerando atribuições, responsabilidades,
+requisitos e competências associadas.
+✅Assegurar que cada cargo tenha sua contribuição estratégica claramente
+definida, vinculando suas responsabilidades aos objetivos do CBMMG.
+✅ Viabilizar a aplicação da metodologia para fins de alocação eficiente do efetivo,
+apoiando decisões de gestão de pessoas com base em perfis profissionais e
+necessidades institucionais.
+✅ Incorporar a ética como diretriz transversal nas descrições, alinhando os perfis
+funcionais ao Código de Ética e Disciplina Militar (CEDM) e aos valores
+institucionais.
+Ação 2: Promover a valorização da Ética e a Diversidade no CBMMG.
+Descrição
+Desenvolver e implementar ações que promovam a inclusão, a equidade e o
+respeito às diferenças no âmbito institucional, com base na ética como princípio
+das relações interpessoais e da conduta profissional. A proposta inclui medidas
+para assegurar os direitos de grupos abrangidos por políticas públicas de Direitos
+Humanos e fortalecer sua participação no CBMMG, respeitados os critérios legais
+30
+e institucionais aplicáveis às carreiras militares. Serão priorizadas ações
+educativas e preventivas contra práticas discriminatórias motivadas por gênero,
+raça, orientação sexual, identidade de gênero, deficiência, religião ou qualquer
+outro fator, bem como contra o assédio moral e sexual, com foco na consolidação
+de uma cultura organizacional justa, íntegra e respeitosa.
+Responsáveis
+Gerente da Ação: DRH Unidades de apoio: CCBM, AAS,
+outras que contenham correlação com
+recursos humanos.
+Objetivos da ação
+✅ Avaliar a criação de uma Comissão, Comitê ou Grupo de Trabalho que possa
+assessorar o Comando na adoção de medidas a fim de tratar situações referentes
+ao gênero feminino e outras minorias, assim definidas aquelas que são alvo de
+políticas públicas especiais de promoção de Direitos Humanos.
+✅ Elaborar e divulgar materiais educativos que incentivem o respeito às
+diferenças e reforcem a ética nas relações institucionais.
+✅ Definir orientações e protocolos para prevenção e tratamento de condutas
+discriminatórias, incluindo aquelas motivadas por gênero, raça, deficiência, religião
+e demais fatores protegidos por normas institucionais e legais.
+31
+SUBEIXO FORTALECENDO A CULTURA DE INTEGRIDADE E VALORIZAÇÃO
+DO EFETIVO
+O fortalecimento da cultura de integridade e da valorização do efetivo vai além das
+questões disciplinares, englobando iniciativas que promovam o engajamento, o
+senso de pertencimento e a coesão institucional. Sendo essa responsabilidade
+compartilhada entre diferentes setores da organização, torna-se fundamental a
+promoção de um ambiente disciplinado, colaborativo e alinhado aos princípios e
+valores da corporação, de modo a garantir que cada integrante se perceba como
+parte ativa desse compromisso coletivo.
+Nesse contexto, destaca-se o conceito de Sistema de Recursos Humanos (SRH),
+que articula diferentes unidades em níveis estratégicos, táticos e operacionais de
+tomada de decisão e execução de atividades. Esse sistema conta, de forma
+especial, com a atuação de diversos setores, como: a Primeira Seção do
+Estado-Maior (EMBM-1), a Diretoria de Recursos Humanos (DRH), a Assessoria de
+Assistência à Saúde (AAS), a Corregedoria do Corpo de Bombeiros Militar (CCBM)
+e a Academia de Bombeiros Militar (ABM).
+A EMBM-1 é responsável pela gestão
+estratégica do efetivo do CBMMG, elaborando
+diretrizes de política de recursos humanos em
+alinhamento com o Comando-Geral e ao
+Governo. Assessora política e tecnicamente a
+tomada de decisão quanto ao efetivo militar e
+não-militar da Corporação, frente a direitos,
+deveres e direção. Do estabelecido, compete às
+Unidades subordinadas seguirem e
+desdobrarem essas diretrizes, observadas suas
+áreas de atuação. Dentro do Sistema de Recursos Humanos, a EMBM-1 é a que
+define o escopo da gestão de pessoal, com reflexos dentro e fora da Corporação,
+nas suas mais diferentes abordagens, como carreira, aperfeiçoamento,
+orçamentário, ético e disciplinar, dentre outros.
+32
+A DRH atua nos níveis tático e operacional. Além de desdobrar as políticas de
+recursos humanos estabelecidas, coordena e fiscaliza seu cumprimento. Nesse
+sentido, é responsável por garantir a conformidade e a uniformidade no tratamento
+dos direitos e deveres dos militares e civis. Suas ações visam à padronização de
+entendimentos, rotinas e procedimentos, assegurando isonomia de tratamento e
+coesão institucional.
+A AAS desempenha um papel essencial na promoção da saúde integral da tropa,
+com foco tanto em ações preventivas quanto assistenciais. Desenvolve programas
+voltados à saúde ocupacional, ao acompanhamento psicológico e à reabilitação de
+militares afastados por questões de saúde, contribuindo para a preservação da
+capacidade operacional e para o retorno seguro desses profissionais às suas
+funções.
+A ABM tem a missão de capacitar a tropa por meio de cursos e treinamentos
+diversos. Nesse sentido, investir na qualidade da formação dos militares constitui um
+vetor estratégico, exigindo a atuação de instrutores comprometidos com os
+princípios institucionais e com a excelência no ensino. Por esse motivo, a Ação 3
+deste plano propõe o fortalecimento da conduta ética do corpo docente e o
+aprimoramento dos critérios de credenciamento, com foco na integridade, na
+qualificação permanente e na transparência dos processos formativos.
+Além dos órgãos diretamente responsáveis pela gestão de pessoas, outras
+unidades do CBMMG desempenham funções complementares que contribuem
+significativamente para o fortalecimento da cultura de integridade e para a
+valorização do efetivo. A Diretoria de Logística e Finanças (DLF), por sua vez,
+assegura a conformidade dos processos logísticos e financeiros com as normas
+vigentes, viabilizando os recursos e as estruturas necessárias ao pleno
+desenvolvimento das atividades institucionais.
+Já a Corregedoria do CBMMG (CCBM) exerce papel essencial na promoção da
+integridade e da ética pública, por meio do gerenciamento dos sistemas de justiça e
+disciplina militar. Sua atuação assegura o cumprimento do Código de Ética e
+Disciplina dos Militares (CEDM), promovendo a responsabilização adequada dos
+agentes públicos e prevenindo desvios de conduta. Além disso, a CCBM subsidia,
+33
+com critérios objetivos e técnicos, os processos de promoção, reforçando a
+meritocracia e a coesão interna como fundamentos da valorização profissional.
+AÇÃO PROPOSTA
+Ação 3: Fortalecimento e valorização da conduta ética do docente e transparência
+no credenciamento do corpo docente.
+Descrição
+O fortalecimento da integridade na docência do CBMMG tem como objetivo
+garantir a ética e a confiabilidade na atuação dos professores nos processos de
+ensino e aprendizagem bombeiro militar. Para isso, propõe-se o aprimoramento
+dos critérios de credenciamento, além da implementação de mecanismos de
+monitoramento pedagógico, responsabilização e capacitação contínua,
+assegurando a conformidade com os princípios institucionais e a excelência na
+formação dos militares.
+Responsáveis
+Gerente da Ação: ABM Unidades de apoio: CCBM e DRH.
+Objetivos da ação
+✅ Aprimorar os processos pedagógicos de avaliação de docentes com critérios
+de afastamento, descredenciamento e/ou contraindicação de professores com
+conduta ética incompatível com os princípios e valores da educação profissional
+bombeiro militar.
+✅ Realizar estudo sobre a aplicabilidade da Resolução 1052, de 26 de maio de
+2022, que trata do Processo Administrativo não Disciplinar, avaliando sua
+adequação como instrumento de defesa e contraditório e propondo, se
+necessário, um novo mecanismo mais apropriado.
+✅ Aprimorar as ações de divulgação e transparência dos processos de
+credenciamento de docentes.
+✅ Prever a necessidade de capacitação e reciclagem periódica para docentes.
+34
+SUBEIXO INTEGRIDADE E EXCELÊNCIA EM GESTÃO
+O Plano de Comando é o principal instrumento de planejamento estratégico do
+CBMMG. Estruturado em eixos principal, suporte e base, é subdividido em
+programas inseridos no Portfólio Vivo de Projetos Estratégicos, que operacionalizam
+as diretrizes estratégicas da corporação, estabelecendo objetivos voltados para a
+eficiência e a excelência dos serviços prestados à
+sociedade mineira.
+Para garantir a efetividade desse planejamento, são
+adotadas práticas que reforçam a integridade e a
+responsabilidade institucional. A utilização de
+metodologias ágeis, como os OKRs, permite uma
+gestão mais adaptável e participativa, além de
+promover transparência e facilitar a prestação de
+contas.
+Aliado a essas metodologias, o uso de ferramentas
+como a matriz SWOT, combinado com diagnósticos participativos, possibilita a
+identificação de pontos críticos e oportunidades de melhoria. Essa abordagem
+orientada por dados assegura que o planejamento estratégico esteja fundamentado
+em informações confiáveis e alinhado aos princípios de integridade, fortalecendo a
+governança institucional.
+Entretanto, além das ferramentas técnicas, é fundamental que o planejamento
+estratégico esteja alinhado aos valores institucionais, como ética, transparência,
+legalidade e responsabilidade pública. Nesse sentido, o fortalecimento da
+governança deve ser acompanhado da incorporação sistemática de metas
+relacionadas à integridade, à prevenção de riscos e ao reforço da cultura
+organizacional pautada no interesse público.
+Por essa razão, propõe-se a Ação 4 deste plano, que busca revisar e fortalecer o
+Plano de Comando, promovendo a inclusão estruturada de temáticas relacionadas à
+ética, à transparência e à governança pública. A proposta visa garantir que os
+valores institucionais estejam claramente refletidos nas diretrizes estratégicas da
+35
+corporação e que sua execução seja orientada por princípios de integridade em
+todos os níveis organizacionais.
+AÇÃO PROPOSTA
+Ação 4: Fortalecer a Estratégia Organizacional com Foco na Integridade
+Descrição
+Revisar o Plano de Comando para incluir temáticas relacionadas à ética e à
+transparência.
+Responsáveis
+Gerente da Ação: DAI Unidades de apoio:
+Objetivos da ação
+✅ Integrar princípios de ética, transparência e governança ao Plano de Comando
+do CBMMG.
+✅ Garantir que os valores institucionais estejam refletidos na diretriz estratégica
+do CBMMG.
+36
+SUBEIXO ESTRUTURAÇÃO DA GOVERNANÇA PARA A TRANSPARÊNCIA E
+RESPONSABILIDADE
+O CBMMG, embora ainda em processo de consolidação de sua estrutura formal de
+governança, reafirma seu compromisso com a transparência e a participação social.
+A disponibilização de informações por meio de canais acessíveis, como o portal
+oficial e as redes sociais, amplia o acesso da população a dados sobre
+atendimentos, campanhas de conscientização, indicadores institucionais e aplicação
+de recursos financeiros. Essas iniciativas fortalecem o controle social, promovem a
+confiança da sociedade na instituição e asseguram uma gestão mais eficiente e
+responsável no uso dos recursos públicos.
+No que se refere à estrutura organizacional, o CBMMG adota políticas internas de
+descentralização decisória para garantir maior agilidade e eficácia na tomada de
+decisões operacionais. Esse modelo permite que as Unidades de Direção
+Intermediária e as Unidades de Execução tenham autonomia para adaptar e
+implementar ações regionalizadas, sempre alinhadas às diretrizes estratégicas do
+Alto Comando. Dessa forma, a corporação assegura respostas mais rápidas às
+demandas locais, sem comprometer a coesão institucional e a conformidade com os
+princípios da governança.
+37
+A atuação do CBMMG também se fortalece por meio de parcerias estratégicas com
+órgãos governamentais, entidades de segurança pública e defesa civil. Essas
+colaborações desempenham um papel fundamental na ampliação da capacidade de
+resposta da Corporação, especialmente em áreas como segurança pública,
+atendimento a desastres e preservação ambiental. Convênios e acordos de
+cooperação consolidam essa integração, viabilizando ações coordenadas e
+eficazes.
+Entre os principais parceiros estratégicos, destacam-se a Secretaria de Estado de
+Justiça e Segurança Pública (SEJUSP), a Coordenadoria Estadual de Defesa Civil
+de Minas Gerais (Cedec MG), a Polícia Militar de Minas Gerais (PMMG), a Polícia
+Civil de Minas Gerais (PCMG), o Instituto Estadual de Florestas (IEF), o Ministério
+Público de Minas Gerais (MPMG) e diversas prefeituras municipais. A colaboração
+entre essas instituições possibilita uma atuação mais integrada e eficiente, gerando
+impactos positivos diretos para a sociedade.
+Nesse sentido, propõe-se a Ação 5, que visa estabelecer uma base formal para o
+aprimoramento contínuo da governança no CBMMG, reforçando a transparência, a
+eficiência e a participação social como pilares da gestão pública.
+AÇÃO PROPOSTA
+Ação 5: Estruturar a Política de Governança
+Descrição
+Consolidar a estrutura formal de governança do CBMMG, alinhada às
+recomendações do TCU e às boas práticas de governança pública. A ação visa
+fortalecer a gestão institucional, aprimorar a tomada de decisões e garantir o
+alinhamento entre as Unidades de Direção Intermediárias, as Unidades de
+Execução e o Alto Comando, promovendo a transparência, o desempenho
+eficiente e a participação social.
+Responsáveis
+38
+Gerente da Ação: DAI Unidades de apoio:
+Objetivos da ação
+✅ Analisar boas práticas de governança pública e as recomendações do TCU
+para subsidiar o modelo a ser adotado pelo CBMMG.
+✅ Elaborar proposta de criação do Comitê de Governança, contendo estrutura,
+composição, competências e responsabilidades compatíveis com a realidade
+institucional.
+✅ Regulamentar a atuação do comitê por meio de normativo próprio,
+assegurando coerência com as diretrizes do Alto Comando e as exigências legais.
+✅Promover a descentralização decisória estruturada, com base no modelo de
+governança proposto, garantindo alinhamento estratégico e maior eficiência
+organizacional.
+SUBEIXO FORTALECIMENTO DA GESTÃO DE RISCOS E PADRONIZAÇÃO DE
+PROCESSOS
+A gestão eficiente de uma organização complexa como o CBMMG exige processos
+bem definidos, estruturados e padronizados.
+O mapeamento de processos é uma
+ferramenta essencial para garantir maior
+clareza nas atividades institucionais,
+promovendo a integração entre diferentes
+áreas e possibilitando uma gestão mais
+estratégica e orientada a resultados. Além
+disso, o detalhamento dos fluxos de trabalho
+facilita a identificação de riscos, gargalos
+operacionais e oportunidades de melhoria,
+contribuindo diretamente para a eficiência, a transparência e a conformidade das
+operações.
+39
+Nesse contexto, o Plano de Comando do CBMMG, em sua 5ª edição, introduziu a
+cadeia de valor da corporação, representando o nível zero da arquitetura de
+mapeamento de processos, conforme as boas práticas do BPM CBOK®4
+ (Business
+Process Management Common Body of Knowledge). Essa estrutura oferece uma
+visão macro das principais atividades e auxilia na identificação das áreas sensíveis
+para o alcance dos objetivos estratégicos.
+Para que o mapeamento de processos seja um instrumento efetivo na Gestão de
+Riscos, é fundamental que ele seja aprofundado nos níveis subsequentes, com
+ênfase nos processos críticos. A ausência de um mapeamento estruturado pode
+comprometer a capacidade de identificar gargalos nos diferentes níveis da gestão
+(estratégico, tático e operacional), resultando em duplicidades, ineficiências
+operacionais e potenciais desvios que impactam a integridade das operações.
+Além de aprimorar a gestão de riscos, a padronização dos processos favorece a
+gestão da qualidade, ao permitir uma avaliação contínua e identificar oportunidades
+de melhoria em cada etapa das operações. Ferramentas de qualidade, como
+auditorias internas e avaliações periódicas, tornam-se mais eficazes com a
+padronização, assegurando análises precisas de conformidade e desempenho.
+AÇÕES PROPOSTAS
+Ação 6: Gestão de Processos - Mapeamento e Padronização de Processos Críticos.
+Descrição
+Estruturar e aprofundar o mapeamento de processos críticos do CBMMG, com base na
+cadeia de valor da corporação e nas boas práticas do BPM CBOK®, garantindo maior
+clareza, eficiência e padronização dos processos.
+4
+ O Business Process Management Common Body of Knowledge (BPM CBOK®) é um guia que
+sistematiza as áreas de conhecimento e as boas práticas reconhecidas internacionalmente na gestão
+por processos, servindo como referência para profissionais e organizações que atuam com
+modelagem, análise, melhoria e governança de processos organizacionais.
+40
+Responsáveis
+Gerente da Ação: DAI Unidades de apoio: setores e unidades
+priorizados pelo Comando do CBMMG em
+que foram identificados processos críticos a
+serem mapeados.
+Objetivos da ação
+✅ Ampliar o mapeamento de processos críticos do CBMMG, garantindo uma visão
+detalhada das atividades essenciais.
+✅ Identificar e mitigar gargalos, duplicidades de funções e desvios que comprometam a
+integridade das operações.
+✅ Garantir maior previsibilidade e segurança na execução das atividades, minimizando
+riscos operacionais e administrativos.
+Ação 7: Implementação da Política de Gestão de Riscos Estratégicos do CBMMG.
+Descrição
+Estruturar e implementar política de gestão de riscos estratégicos no âmbito do CBMMG,
+capaz de identificar, avaliar e controlar os riscos que podem afetar a organização,
+objetivando antecipar e responder aos riscos, minimizando os impactos negativos e
+aproveitando as oportunidades.
+Responsáveis
+Gerente da Ação: DAI Unidades de apoio: EMBM-2 e demais
+setores e unidades priorizados pelo
+Comando do CBMMG, em virtude da
+relevância para a temática.
+41
+Objetivos da ação
+✅ Estabelecer hierarquia formal para identificação e tratamento de riscos estratégicos à
+instituição.
+✅ Identificar, preventivamente, ameaças políticas, econômicas, sociais, tecnológicas e
+ambientais que possam afetar a instituição.
+✅ Dar tratamento adequado aos riscos estratégicos institucionais, seja quanto à
+neutralização de ameaças, quanto no melhor aproveitamento de oportunidades.
+SUBEIXO CONTROLES INTERNOS E COMPLIANCE
+Este subeixo tem como foco a gestão de
+riscos, os controles internos e o compliance
+no nível tático da corporação, voltado ao
+aperfeiçoamento das rotinas administrativas,
+à padronização de procedimentos e à
+integração entre setores estratégicos de
+apoio. A atuação nesse nível visa não apenas
+assegurar que as unidades administrativas
+desempenhem suas funções com eficiência,
+conformidade e alinhamento institucional.
+Além disso, busca-se fornecer diretrizes
+claras e estruturadas para a execução dessas práticas no nível operacional, aqui
+entendido como os setores e agentes que atuam na linha de frente da execução,
+seja em atividades finalísticas ou administrativas promovendo uniformidade e
+consistência sempre que possível, nos aspectos suscetíveis à padronização dentro
+da estrutura organizacional.
+Nesse cenário, a gestão de riscos constitui o alicerce para a estruturação dos
+controles internos e das práticas de compliance no CBMMG. A identificação,
+42
+avaliação e tratamento sistemático dos riscos institucionais permitem antecipar
+falhas, reduzir incertezas e promover decisões mais seguras e responsáveis.
+No âmbito dos controles internos, a gestão de riscos concentra-se na integridade
+das atividades administrativas, voltando-se à prevenção de falhas de processo,
+ineficiências, erros ou omissões que possam comprometer a execução regular das
+ações da corporação. Os controles são organizados como resposta a esses riscos e
+podem ser classificados, quanto ao momento, em preventivos, concomitantes ou
+corretivos, visando assegurar conformidade, clareza de procedimentos e maior
+previsibilidade nas operações.
+Esses controles adotados pelo CBMMG são orientados por um conjunto normativo
+interno, como o Plano de Comando, os Procedimentos Operacionais Padrão (POPs)
+e os Procedimentos Padrão (PP), articulando-se também com normas externas,
+como a Lei Complementar nº 101/2000 (Lei de Responsabilidade Fiscal), a Lei nº
+14.133/2021 (Lei de Licitações e Contratos Administrativos) e outras legislações
+aplicáveis ao caso em análise. Além disso, observam-se as diretrizes e exigências
+da CGE-MG e do Tribunal de Contas do Estado de Minas Gerais (TCE-MG),
+garantindo conformidade e integridade na gestão pública.
+No campo do compliance, a gestão de riscos tem como foco a aderência a normas
+legais, regulatórias e éticas, atuando de forma preventiva na mitigação de desvios
+de conduta, conflitos de interesse, fraudes e demais inconformidades que possam
+gerar responsabilizações administrativas, financeiras ou reputacionais. O
+compliance consolida a cultura institucional de respeito à legalidade e à ética,
+promovendo transparência e reforçando a responsabilidade institucional.
+A integração entre risco, controle e compliance fortalece a governança, aprimora os
+processos decisórios e contribui diretamente para o alcance dos objetivos
+estratégicos da corporação.
+Conforme abordado por Guerra (2019), os controles internos podem ser
+classificados de acordo com o momento em que são exercidos: os controles prévios,
+de natureza preventiva, buscam reduzir a probabilidade de ocorrência de eventos
+adversos por meio de normas internas claras, capacitações recorrentes e
+padronização de procedimentos; os controles concomitantes atuam durante a
+43
+execução das atividades, com foco na mitigação imediata de riscos identificados; por
+fim, os controles a posteriori são aplicados após a ocorrência do evento, com
+objetivo de recuperação, correção e aprimoramento dos processos.
+Além da classificação dos controles quanto ao momento em que são exercidos, é
+igualmente relevante considerar a localização do órgão ou instância responsável por
+sua execução. Nesse aspecto, a administração pública reconhece três tipos
+principais de controle: o controle interno, o controle externo e o controle social
+(GUERRA, 2019). O controle interno, por sua vez, pode ser subdividido em dois
+níveis, conforme a posição do controlador no sistema administrativo.
+● Os Controles Internos da gestão são estabelecidos e executados diretamente
+pelo CBMMG, no âmbito de suas rotinas administrativas. Visam garantir a
+eficiência, a conformidade e a coerência entre os atos administrativos e os
+objetivos institucionais, integrando-se às diretrizes estratégicas da corporação
+(MIRANDA, 2023).
+● Já o Controle Interno do Executivo é exercido de forma centralizada pela
+CGE-MG, por meio de suas unidades descentralizadas: as Controladorias
+Setoriais, nos órgãos da administração direta, e as Controladorias Seccionais,
+nas entidades da administração indireta. Essas instâncias atuam na auditoria
+e na avaliação da efetividade dos controles internos implementados,
+supervisionando a gestão pública e promovendo o cumprimento da legislação
+e dos princípios constitucionais da administração, como eficiência, legalidade,
+moralidade, publicidade e economicidade.
+Importa destacar que esse Controle Interno do Executivo não se confunde com o
+Controle Externo, exercido por órgãos como os Tribunais de Contas, que atuam de
+forma independente e fiscalizam a administração pública em todas as suas esferas
+com base nos princípios da legalidade, legitimidade e economicidade.
+Por fim, o controle social será abordado em ações específicas deste Plano,
+especialmente nos subeixos voltados à transparência e ao acesso à informação, nos
+quais a sociedade participa ativamente do acompanhamento da gestão e da
+promoção da integridade institucional.
+44
+Diante da relevância dos controles internos, da gestão de riscos e do compliance
+como pilares estruturantes da integridade institucional, propõe-se a Ação 8 deste
+Plano, voltada à implementação de um modelo estruturado e coordenado de
+governança desses mecanismos no CBMMG. A iniciativa busca fortalecer o
+monitoramento contínuo, padronizar procedimentos e garantir maior eficácia na
+prevenção e no tratamento de riscos.
+AÇÃO PROPOSTA
+Ação 8: Fortalecimento dos Controles Internos e do Compliance no CBMMG
+Descrição
+Estudar e propor medidas para o aprimoramento da gestão de riscos, dos
+controles internos e das práticas de compliance no CBMMG, com foco na
+prevenção de falhas, no tratamento de riscos táticos e na conformidade com
+normas legais e institucionais. A proposta visa fortalecer os mecanismos já
+existentes, identificar oportunidades de melhoria e promover maior segurança e
+integridade nas atividades administrativas e de apoio. Busca-se, com isso,
+assegurar que a atividade-meio desempenhe, de forma eficaz, sua função de
+suporte à atividade finalística da corporação, contribuindo para a continuidade, a
+eficiência e a legalidade da missão institucional.
+A Diretoria de Assuntos Institucionais (DAI) será responsável pela coordenação
+técnica e metodológica da ação, promovendo orientações, acompanhando os
+resultados e consolidando os avanços. A execução dos objetivos será conduzida
+pelas unidades de apoio, no âmbito de suas competências, com base em suas
+realidades operacionais e nos riscos sob sua responsabilidade.
+Responsáveis
+Gerente da Ação: DAI
+Unidades de apoio:
+DLF - no controle da execução
+orçamentária e financeira;
+45
+DAT - no controle das atividades
+especializadas de Sistema de
+Segurança Contra Incêndio e Pânico;
+DRH - no controle das atividades de
+gestão de pessoas;
+ABM - no controle das atividades de
+ensino;
+AAS - no controle dos riscos que
+impactam na disponibilidade da tropa;
+EMBM-3 - no controle das atividades
+operacionais.
+Demais setores e unidades priorizados
+pelo Comando do CBMMG, em virtude
+da relevância para a temática.
+Objetivos da ação
+✅ Estabelecer diretrizes institucionais de compliance alinhadas à legislação
+vigente e aos princípios da administração pública, promovendo cultura
+organizacional ética e preventiva.
+✅ Definir critérios e responsabilidades para a governança dos controles internos,
+assegurando a coerência entre os níveis estratégico, tático e operacional da
+corporação.
+✅ Mapear e classificar os riscos que impactam os processos administrativos e de
+apoio à missão institucional, com base em sua criticidade e abrangência.
+✅ Planejar e propor controles internos apropriados aos riscos identificados,
+priorizando a padronização, a rastreabilidade e a efetividade das respostas.
+✅ Implementar os controles internos nos setores envolvidos, garantindo sua
+operacionalização conforme os padrões definidos.
+✅ Executar o monitoramento contínuo da efetividade dos controles aplicados,
+promovendo ajustes quando necessário.
+✅ Desenvolver e testar planos de resposta para riscos críticos identificados,
+assegurando a continuidade das atividades essenciais em situações adversas.
+46
+SUBEIXO GESTÃO DE RISCO DE INTEGRIDADE
+O risco de integridade envolve comportamentos antiéticos, fraudes, corrupção e
+outras irregularidades que podem comprometer os objetivos organizacionais. O Guia
+de Integridade da CGE-MG dedica um eixo específico à gestão desse risco, com o
+objetivo de estabelecer uma abordagem estruturada para a prevenção, detecção e
+tratamento de condutas inadequadas.
+Essa gestão de risco vai além da resposta a infrações, ao concentrar esforços na
+prevenção e na detecção antes da materialização dos danos. Para tanto, é essencial
+o fortalecimento e o monitoramento dos canais de denúncia, garantindo que
+ofereçam segurança, confidencialidade e proteção contra retaliações, de forma a
+assegurar o anonimato e contribuir para a transparência e a correção proativa de
+desvios. Nesse contexto, propõe-se a Ação 10 deste Plano, voltada à melhoria e à
+integração dos canais internos e externos de denúncia, com foco na acessibilidade,
+na proteção ao denunciante e na ampliação do conhecimento sobre esses
+mecanismos por parte do público interno e externo.
+Complementando essa iniciativa e ampliando o escopo preventivo da gestão da
+integridade, propõe-se a Ação 9, que trata do estudo e proposição de instrumento
+normativo para viabilizar a futura criação do Comitê de Integridade no âmbito do
+CBMMG, alinhado às diretrizes da Política Mineira de Promoção da Integridade. A
+medida busca assegurar uma atuação representativa, legítima e efetiva na
+prevenção de condutas antiéticas.
+No âmbito do CBMMG, a apuração de desvios de conduta e a aplicação de sanções
+seguem as diretrizes do Código de Ética e Disciplina Militar (CEDM), instituído pela
+Lei nº 14.310/2002. Já as condutas de natureza penal são tratadas conforme o
+Código Penal Militar e o Código de Processo Penal Militar, em consonância com a
+legislação criminal vigente.
+47
+O aprimoramento da estrutura institucional voltada à integridade, por meio da
+integração de canais de denúncia e da formalização de instâncias consultivas,
+permitirá ao CBMMG avançar no monitoramento contínuo de riscos éticos. Também
+favorecerá a identificação precoce de condutas inadequadas e na melhoria de
+políticas e procedimentos internos, promovendo um ambiente mais íntegro,
+responsável e seguro para todos os membros da corporação.
+AÇÕES PROPOSTAS
+Ação 9: Proposta para Estruturação do Comitê Permanente de Integridade do
+CBMMG.
+Descrição
+Estudar e propor os instrumentos normativos necessários à futura criação do
+Comitê Permanente de Integridade do CBMMG, compreendendo a definição de
+sua finalidade, composição, competências, regras de funcionamento e formas de
+interação com as demais unidades da corporação. A ação tem por objetivo
+oferecer os subsídios necessários para que a eventual formalização do comitê
+ocorra de maneira alinhada às diretrizes da integridade pública, com base técnica
+e observando as especificidades institucionais. Dessa forma, busca-se garantir
+que sua atuação futura seja coerente com os princípios da boa governança e com
+as práticas de promoção da integridade adotadas pelo CBMMG.
+Responsáveis
+Gerente da Ação: DAI Unidades de apoio: setores e
+unidades priorizados pelo Comando do
+CBMMG, em virtude da relevância para
+a temática.
+48
+Objetivos da ação
+✅ Estudar modelos de comitês de integridade e propor diretrizes compatíveis
+com a realidade institucional do CBMMG.
+✅ Elaborar proposta de regulamentação que disponha sobre a criação,
+composição, competências e funcionamento do futuro Comitê de Integridade.
+✅ Sugerir critérios que assegurem representatividade, participação qualificada e
+alinhamento às áreas estratégicas da corporação.
+Ação 10: Proposta de estruturação de um sistema integrado de denúncias no
+âmbito do CBMMG.
+Descrição
+Estudar e propor um sistema institucional de denúncias no âmbito do CBMMG,
+com foco na acessibilidade, confidencialidade, segurança das informações e
+proteção contra retaliações, garantindo um ambiente confiável para o recebimento
+e tratamento de manifestações. A ação visa aprimorar os fluxos internos e
+implementar mecanismos de monitoramento contínuo da efetividade do canal, de
+modo a permitir ajustes e o reporte sistemático de eventuais falhas aos setores
+responsáveis. Complementarmente, a iniciativa incluirá a ampliação da divulgação
+dos canais externos já existentes, assegurando que sejam amplamente
+conhecidos e corretamente utilizados pelo público interno e externo.
+Responsáveis
+Gerente da Ação: CCBM Unidades de apoio: EMBM-5/EMBM-2/
+DAI/OGE
+49
+Objetivos da ação
+✅ Apresentar proposta de sistema institucional que assegure um ambiente
+seguro para denúncias, com foco na acessibilidade, confidencialidade e proteção
+contra retaliações.
+✅ Fortalecer a visibilidade e o acesso aos canais internos e externos de denúncia,
+por meio de estratégias de divulgação voltadas ao público interno e externo.
+✅ Estabelecer instrumento sistemático de acompanhamento da efetividade dos
+canais de denúncia, visando identificar melhorias e comunicar falhas aos órgãos
+competentes.
+50
+SUBEIXO INTEGRIDADE INSTITUCIONAL E RELAÇÕES EXTERNAS
+A interação entre o CBMMG e o setor privado é fundamental para o cumprimento de
+sua missão institucional, especialmente em parcerias e colaborações estratégicas.
+Para garantir que o interesse público prevaleça e a integridade institucional seja
+preservada, essas relações devem ser conduzidas com transparência, ética e
+imparcialidade. Nesse sentido, o CBMMG adota diretrizes rigorosas, baseadas na
+Lei nº 12.813/2013 (Lei de Conflito de
+Interesses), no Decreto nº 48.417/2022 e em
+normativas estaduais e federais correlatas,
+que orientam a conduta de seus agentes
+públicos.
+No que se refere ao oferecimento e à
+aceitação de hospitalidades, brindes e
+presentes, o CBMMG segue política
+restritiva, evitando práticas que
+comprometam a imparcialidade. A Instrução
+Técnica de Corregedoria (ITC) nº 14/2018,
+bem como a legislação estadual, proíbem a aceitação de quaisquer vantagens de
+partes com interesses vinculados a licitações ou contratos administrativos. As
+exceções se limitam a itens simbólicos, sem valor comercial, distribuídos
+amplamente em ocasiões comemorativas.
+Além dessas medidas, há práticas preventivas de orientação aos agentes para
+tomarem decisões alinhadas ao interesse público e livres de influências indevidas.
+Isso se reflete, por exemplo, em procedimentos rigorosos de análise e aceitação de
+patrocínios e doações: propostas são avaliadas pelo Estado-Maior e pela DLF,
+51
+conforme os normativos vigentes, e a transparência é assegurada por meio da
+divulgação institucional de relatórios.
+Com o intuito de fortalecer a integridade e a transparência nessas interações,
+propõe-se, neste plano, a Ação 11, que visa à elaboração de estudos e diretrizes
+institucionais sobre a relação entre o CBMMG e o setor privado. A proposta abrange
+interações técnicas, doações, parcerias e patrocínios, buscando prevenir conflitos de
+interesse e assegurar que as condutas institucionais estejam pautadas na ética, na
+legalidade e na transparência. No âmbito dessa ação, também será avaliada a
+viabilidade de se instituir um conselho consultivo, de caráter permanente, voltado ao
+assessoramento sobre a legalidade e a integridade de apoios institucionais
+provenientes do setor privado.
+Outro ponto relevante no fortalecimento da integridade institucional diz respeito à
+necessidade de diretrizes claras quanto ao acúmulo de cargos públicos por
+integrantes do CBMMG. Situações de acúmulo indevido ou incompatível podem
+gerar riscos administrativos, jurídicos e reputacionais. Por isso, propõe-se a Ação
+12, que consiste na realização de estudo técnico e jurídico sobre o tema, com o
+objetivo de regulamentar a matéria e oferecer segurança jurídica e padronização às
+unidades administrativas envolvidas.
+AÇÕES PROPOSTAS
+Ação 11: Fortalecimento da Integridade e Transparência nas Interações com o
+Setor Privado.
+Descrição
+Realizar estudos e propor diretrizes institucionais que orientem as relações entre o
+CBMMG e o setor privado, abrangendo interações como parcerias, doações,
+patrocínios e processos técnicos relacionados à fiscalização e regularização de
+edificações. A ação visa prevenir conflitos de interesse, reforçar a imparcialidade
+nas decisões institucionais e assegurar que a conduta de gestores e servidores
+esteja alinhada aos princípios da ética, da legalidade e da transparência.
+52
+Responsáveis
+Gerente da Ação: EMBM-4 Unidades de apoio: CCBM, DLF, DAT,
+DAI, EMBM-1, Núcleo Jurídico
+Objetivos da ação
+✅ Realizar estudo técnico sobre as diferentes formas de interação entre o
+CBMMG e o setor privado, incluindo processos de fiscalização, concessão de
+licenças, doações, patrocínios e parcerias.
+✅ Propor diretrizes normativas que assegurem condutas éticas, transparentes e
+isentas de influência externa em atividades administrativas e técnicas,
+fortalecendo a confiança nas decisões institucionais.
+Ação 12: Normatização sobre acúmulo de cargo público.
+Descrição
+Realizar estudo técnico e jurídico sobre a acumulação de cargos públicos por
+integrantes do CBMMG, com vistas à elaboração de diretrizes claras que
+assegurem a conformidade legal, a transparência e a segurança jurídica. A ação
+inclui a definição de critérios de compatibilidade, a padronização de
+procedimentos administrativos e a capacitação das unidades responsáveis pela
+aplicação da norma.
+Responsáveis
+Gerente da Ação: DRH Unidades de apoio: CCBM, EMBM-1.
+53
+Objetivos da ação
+✅ Realizar um estudo técnico e jurídico sobre as normas referentes a cargo
+público, em parceria, caso necessário, com a PMMG e a Seplag.
+✅ Estabelecer diretrizes claras para a compatibilidade entre essas atividades e a
+função pública no CBMMG.
+✅ Capacitar as unidades administrativas envolvidas acerca da normatização
+criada e realizar divulgação à tropa.
+54
+SUBEIXO TRANSPARÊNCIA ATIVA E DADOS ABERTOS
+O controle social é exercido pela participação ativa da população na fiscalização das
+ações governamentais. Por meio da transparência e da disponibilização de dados
+abertos, a sociedade pode acompanhar os serviços prestados pelo CBMMG,
+contribuindo para a melhoria contínua e o cumprimento das normas legais.
+Nesse contexto, a transparência nos serviços prestados pelo Corpo de Bombeiros
+Militar de Minas Gerais (CBMMG) é um pilar fundamental para assegurar o
+cumprimento das normas e fortalecer a relação de confiança com a sociedade
+mineira. Esse compromisso deriva diretamente do princípio da publicidade, previsto
+no art. 37, caput, da Constituição Federal de 1988.
+A transparência pode ser compreendida em duas vertentes complementares: ativa e
+passiva. Ambas se consolidam como ferramentas estratégicas de controle social,
+permitindo que a população acompanhe e avalie as ações do CBMMG. Embora
+possam expor eventuais fragilidades administrativas, essas práticas representam
+uma oportunidade valiosa para a melhoria
+contínua dos processos, o fortalecimento da
+governança e a promoção de serviços públicos
+de excelência.
+A transparência ativa consiste na divulgação
+proativa de informações de interesse coletivo
+ou geral, independentemente de solicitações
+formais, como a publicação de dados e
+documentos no portal institucional, abrangendo
+informações orçamentárias, contratações,
+convênios e resultados operacionais. Essa
+prática é regulamentada pela Lei Federal nº 12.527/2011 (Lei de Acesso à
+Informação, LAI), pelo Decreto Estadual nº 45.969/2012, pela Resolução SEPLAG
+55
+nº 29/2016 e pelo Guia de Publicação do Menu Transparência do Poder Executivo
+do Estado de Minas Gerais, elaborado pela CGE-MG.
+Já a transparência passiva ocorre mediante solicitação formal de informações por
+parte dos cidadãos, viabilizada pelo Sistema Eletrônico do Serviço de Informações
+ao Cidadão (e-SIC), administrado pela CGE-MG. Esse processo é regido pela LAI,
+que define os prazos e procedimentos para atendimento aos pedidos de informação,
+estabelecendo o sigilo como exceção, e pelo Decreto Estadual nº 45.969/2012.
+Complementando essas vertentes, o conceito de dados abertos tem se consolidado
+como ferramenta essencial de inovação, controle social e governança. Dados
+abertos são informações públicas disponibilizadas de forma acessível, legível por
+máquinas e livres de restrições, permitindo sua reutilização para os mais diversos
+fins. Esse modelo fortalece a governança ao permitir que cidadãos e organizações
+analisem, interpretem e utilizem dados para acompanhar a atuação da
+administração pública.
+Em Minas Gerais, o Decreto Estadual nº 47.185/2017 estabelece a Política de
+Dados Abertos no âmbito do Poder Executivo Estadual, enquanto o Guia de Dados
+Abertos da CGE-MG detalha os procedimentos e padrões para a publicação de
+dados abertos no Estado.
+Com o objetivo de fortalecer esse modelo, será executada a Ação 13 que propõe a
+realização de diagnóstico da situação atual, o estudo e a proposição de melhorias
+nos mecanismos de transparência ativa e a estruturação do Plano de Dados Abertos
+(PDA) do CBMMG. A ação busca ampliar a divulgação de informações públicas em
+formatos acessíveis, reutilizáveis e de fácil compreensão, promovendo o controle
+social e a confiança institucional.
+Ao mesmo tempo em que se expande o acesso à informação, é necessário observar
+os limites legais relacionados à privacidade e à proteção de dados pessoais. A
+proteção de dados pessoais no setor público requer atenção específica quanto à
+forma como as informações institucionais são organizadas, armazenadas e
+utilizadas. No Brasil, esse tema é regulado pela Lei Geral de Proteção de Dados
+(LGPD – Lei nº 13.709/2018), que estabelece normas para o tratamento de dados
+por entes públicos e privados. No âmbito do Estado de Minas Gerais, o Decreto nº
+56
+48.237/2021 define as diretrizes para a aplicação da LGPD na administração pública
+estadual, orientando os órgãos quanto às responsabilidades envolvidas.
+Nesse contexto, a gestão documental torna-se fundamental para assegurar a
+integridade, a segurança e a rastreabilidade das informações, além de sustentar a
+transparência ativa e o acesso à informação. Para fortalecer esses aspectos e
+garantir a conformidade com a legislação vigente, será executada a Ação 14. Essa
+iniciativa contempla a elaboração da política institucional, a capacitação dos agentes
+responsáveis, a definição de fluxos de tratamento de dados e a consolidação de
+práticas que promovam a governança da informação no âmbito do CBMMG.
+AÇÕES PROPOSTAS
+Ação 13: Promoção da Transparência Ativa e Dados Abertos
+Descrição
+Diagnosticar os mecanismos atuais de transparência ativa no CBMMG e propor a
+estruturação do Plano de Dados Abertos (PDA), em conformidade com a
+legislação vigente e as diretrizes da CGE/MG. A ação busca padronizar a
+publicação de informações, promover a clareza e acessibilidade dos dados
+divulgados, assegurar sua atualização contínua e fortalecer a cultura de
+transparência e controle social no âmbito da corporação.
+Responsáveis
+Gerente da Ação: EMBM-2 Unidades de apoio: EMBM-5
+DLF/SDTS.
+57
+Objetivos da ação
+✅ Realizar diagnóstico da transparência ativa e dos dados abertos atualmente
+disponibilizados pelo CBMMG.
+✅ Estudar e propor melhorias para os mecanismos de transparência ativa,
+assegurando conformidade com as normas legais e boas práticas.
+✅ Estudar e propor a estruturação do Plano de Dados Abertos (PDA), alinhado às
+diretrizes da CGE/MG e à legislação federal e estadual vigente.
+✅ Estabelecer critérios para a padronização da publicação de dados e
+informações institucionais.
+✅ Promover maior clareza, acessibilidade e compreensibilidade das informações
+divulgadas ao público.
+✅ Garantir a atualização contínua das informações publicadas, assegurando sua
+confiabilidade e utilidade.
+✅ Fomentar a cultura de transparência e controle social no âmbito do CBMMG.
+Ação 14: Implementação da Política de Gestão Documental e Conformidade com
+a LGPD.
+Descrição
+Propor e implementar a Política de Gestão Documental do CBMMG, assegurando
+a organização, a preservação e o acesso eficiente às informações institucionais. A
+ação também visa garantir a conformidade com a Lei Geral de Proteção de Dados
+(LGPD), por meio da definição de diretrizes claras para o tratamento adequado de
+dados pessoais.
+Responsáveis
+58
+Gerente da Ação: Colegiado formado
+pelos presidentes da CPAD-LAI,
+Comissão-LAI e Comissão-LGPD
+Unidades de apoio: CPAD-LAI,
+Comissão-LAI e Comissão-LGPD
+Objetivos da ação
+✅ Propor a Política de Gestão Documental, garantindo organização, preservação
+e acesso eficiente às informações institucionais.
+✅ Assegurar a conformidade com a LGPD, promovendo a proteção e o
+tratamento adequado dos dados pessoais.
+✅ Capacitar os agentes envolvidos na gestão documental e proteção de dados,
+garantindo conhecimento e aplicação das normas.
+✅ Implementar a Política de Gestão Documental, garantindo organização,
+preservação e acesso eficiente às informações institucionais.
+59
+SUBEIXO ESTRATÉGIA DE COMUNICAÇÃO E FORTALECIMENTO DA
+IMAGEM INSTITUCIONAL
+A comunicação institucional é um instrumento essencial para disseminar os valores
+de ética, integridade, transparência e responsabilidade pública no CBMMG. Com
+base nesse entendimento, este subeixo propõe o desenvolvimento de iniciativas
+voltadas à promoção da cultura de integridade, com foco na conscientização do
+efetivo e no fortalecimento da imagem da Corporação perante a sociedade. O
+propósito é favorecer a compreensão e a incorporação dos compromissos do
+CBMMG com a integridade no cotidiano institucional e nas interações com os
+diversos públicos com os quais mantém diálogo.
+No âmbito interno, a iniciativa prevê a realização de estudos para identificar formas
+mais eficientes de engajar o efetivo e promover o alinhamento aos objetivos
+estratégicos da Corporação, com ênfase na valorização da ética, da integridade e da
+conformidade com as normas institucionais. Busca-se compreender os canais,
+abordagens e linguagens mais adequados para fomentar uma cultura organizacional
+orientada pela integridade.
+No relacionamento com o público externo, pretende-se avaliar de que forma a
+comunicação institucional pode contribuir para o fortalecimento da relação do
+CBMMG com a sociedade, fornecedores e parceiros estratégicos, promovendo a
+transparência e reforçando os compromissos da corporação com a integridade. Esse
+estudo deverá considerar os públicos envolvidos, os objetivos da comunicação e os
+meios mais eficazes para ampliar o alcance das mensagens institucionais e reforçar
+os valores éticos.
+Com base nesses direcionamentos, será executada a Ação 15, que tem por
+finalidade realizar ampla divulgação dos preceitos trazidos no PIBM e propor
+diretrizes e práticas voltadas ao fortalecimento da cultura de integridade, tanto no
+ambiente interno quanto nas interações externas do CBMMG.
+60
+Essa estratégia de comunicação deverá estar alinhada aos princípios e objetivos do
+Plano de Integridade, contribuindo para ampliar a conscientização sobre valores
+éticos e fortalecer a imagem do CBMMG como uma organização transparente,
+confiável e comprometida com o bem público. Assim, o subeixo consolida a
+comunicação institucional como uma ferramenta estratégica de promoção da
+integridade e fortalecimento da cultura organizacional.
+AÇÃO PROPOSTA
+Ação 15: Estruturação da Estratégia de Comunicação para Promoção da
+Integridade
+Descrição
+Estudar e propor uma estratégia institucional de comunicação voltada à promoção
+da integridade no CBMMG, com base no levantamento de boas práticas adotadas
+por outras instituições públicas e na análise da realidade organizacional da
+Corporação. A ação visa consolidar diretrizes que orientem a comunicação interna
+e externa, com foco na valorização da ética, na prevenção de condutas indevidas
+e no fortalecimento da cultura de integridade.
+Responsáveis
+Gerente da Ação: EMBM-5 Unidades de apoio:
+DLF, DAT, DRH, ABM, AAS, EMBM-3,
+demais setores e unidades priorizados
+pelo Comando do CBMMG, em virtude
+da relevância para a temática, na sua
+esfera de competência.
+61
+Objetivos da ação
+✅ Levantar boas práticas e modelos de comunicação adotados por instituições
+públicas para embasar a proposta da estratégia.
+✅ Propor diretrizes para ações de comunicação voltadas à valorização da ética,
+à prevenção de desvios e ao fortalecimento da cultura de integridade.
+✅ Realizar ampla divulgação dos preceitos trazidos no PIBM tanto para o público
+interno, quanto para o externo que mantêm relação direta com a instituição.
+62
+63
+6. METODOLOGIA DE GESTÃO DA 2ª EDIÇÃO DO PIBM
+Com a publicação do Programa de Integridade do CBMMG (PIBM), tem início sua
+fase de gestão e execução, que ocorrerá de forma concomitante ao monitoramento
+das ações planejadas.
+Para viabilizar o início da execução, será necessária, primeiramente, a nomeação da
+Comissão de Integridade. A referida comissão será nomeada por ato do Chefe do
+EMBM, assessorado e apoiado pelo Controlador Setorial. Ressalta-se que não
+poderão integrar a Comissão de Integridade os militares que participaram da
+elaboração do PIBM, garantindo, assim, a imparcialidade na condução das
+atividades de acompanhamento e controle.
+A Controladoria Setorial prestará apoio à Comissão de Integridade nas ações iniciais
+e na articulação de treinamentos junto à CGE-MG, especialmente no que se refere à
+gestão e utilização do SisPMPI, nos termos do § 3º do art. 7º do Decreto nº 48.419,
+de 16 de maio de 2022.
+Vale destacar que competirá à Comissão de Integridade a divulgação, a gestão
+estratégica e o monitoramento da execução do PIBM. A comissão deverá reportar
+diretamente ao Chefe do EMBM/Subcomandante-Geral o planejamento de ações e
+os resultados do monitoramento, além de comunicar ao Controlador Setorial do
+CBMMG todas as ações desenvolvidas. Essas medidas visam à execução da etapa
+de avaliação do Programa de Integridade, com o devido registro das informações no
+SisPMPI.
+64
+Para a divulgação do Programa de Integridade à tropa (público interno), a Comissão
+de Integridade poderá utilizar canais formais (ofícios, ordens de serviço, reuniões,
+intranet, e-mail institucional, seminários) e informais (vídeos, cartilhas, redes
+sociais). Visando à transparência ativa e ao fortalecimento do controle social, a
+Comissão de Integridade providenciará a publicação do PIBM no portal institucional
+do CBMMG, por meio de uma aba específica contendo informações atualizadas
+sobre sua execução. A divulgação também poderá ocorrer por meio das redes
+sociais oficiais.
+Para essas ações, poderá ser solicitado aos presidentes das comissões
+responsáveis pela Lei de Acesso à Informação e pela Lei Geral de Proteção de
+Dados a designação de militares para apoiar a Comissão de Integridade, caso ainda
+não façam parte da comissão, garantindo o alinhamento das ações às normas e às
+garantias constitucionais. A EMBM-5 prestará o apoio necessário para revisão e
+adequação dos materiais, podendo, inclusive, indicar um militar da seção para
+integrar a Comissão de Integridade e/ou auxiliar na elaboração do referido conteúdo.
+Poderão, ainda, ser produzidas e divulgadas matérias publicitárias sobre o
+andamento das ações previstas no Programa
+de Integridade.
+Para todas as ações de divulgação via
+transparência ativa, deverão ser adotadas
+medidas de acessibilidade e garantida sua
+manutenção. Para isso, a Diretoria de Logística
+e Finanças (DLF), por meio da Subdiretoria de
+Tecnologia e Sistemas (SDTS), prestará o
+apoio necessário à diagramação do portal
+institucional e à continuidade das ações de
+transparência.
+Como referência para acessibilidade, deverá ser adotado o Modelo de
+Acessibilidade em Governo Eletrônico (eMAG), com testagem realizada
+preferencialmente por meio do Avaliador e Simulador de Acessibilidade em Sítios
+(ASES), ou alguma outra ferramenta que se revele mais adequada.
+65
+Fica estipulado que os atos de promoção e divulgação do Programa de Integridade,
+tanto ao público interno, quanto externo, sejam implementados sob gestão da
+Comissão de Integridade, em prazo não superior a 90 dias a partir da nomeação da
+comissão, devendo ser registradas as ações realizadas.
+Para cumprir as atribuições de monitoramento do Programa de Integridade, a
+Comissão de Integridade utilizará as ferramentas disponíveis no “módulo 3” do
+SisPMPI (Monitoramento do Programa de Integridade), plataforma definida pelo
+Estado de Minas Gerais como de uso obrigatório para elaboração, execução,
+monitoramento e auditoria do Programa de Integridade, conforme o § 3º do art. 7º do
+Decreto Estadual nº 48.419/2022.
+Dentre outras funcionalidades, o módulo 3 do SisPMPI permite a visualização de
+gráficos, o registro de atas e o lançamento de recomendações dirigidas às unidades
+responsáveis pela execução das ações previstas no PIBM. Caso sejam utilizados
+meios complementares, será obrigatório o registro no SisPMPI.
+A Comissão de Integridade orientará suas atividades de monitoramento com foco na
+medição do desempenho, da aderência e da efetividade das ações previstas no
+PIBM, sendo sua atuação um fator determinante para o sucesso do programa. Entre
+as atribuições, destacam-se a divulgação, a orientação e o estímulo à
+implementação do programa e de suas ações junto aos responsáveis.
+Conforme o Guia de Integridade Pública (2024), a gestão do Plano de Integridade
+seguirá o Modelo das Três Linhas do Instituto dos Auditores Internos (IIA). Nesse
+modelo, a Comissão de Integridade exercerá a função de 2ª Linha, respeitando a
+segregação de funções conforme ilustrado na figura 10.
+Figura 10 - Modelo das 3 Linhas aplicado à gestão do Plano de Integridade.
+Fonte: Adaptado do Guia de Integridade Pública (MINAS GERAIS, 2024, p. 74)
+Serão atribuídas funções de 1ª Linha às unidades diretamente envolvidas nas
+ações. Para isso, serão designados oficiais e praças (pontos focais) das unidades
+direta ou indiretamente vinculadas à execução de cada ação. Compete aos pontos
+focais assessorar os Comandantes, Diretores e Chefes no desdobramento do
+planejamento, adoção das medidas necessárias à sua implementação e, sempre
+que necessário, solicitação de apoio de outras unidades envolvidas. Também
+deverão registrar no SisPMPI as informações referentes ao andamento da execução
+das ações, por meio do “módulo 2” do sistema (Execução do Plano de Integridade).
+Após a publicação do PIBM, a Comissão de Integridade nomeada oficiará às
+unidades envolvidas para a designação dos pontos focais, os quais participarão da
+primeira reunião de alinhamento, a ser realizada em até 30 dias após a designação.
+67
+Essa reunião, de caráter conjunto, terá como objetivos: divulgar o Programa e o
+Plano de Integridade, apresentar as atribuições dos envolvidos e realizar os
+alinhamentos iniciais sobre o formato de monitoramento das ações.
+Cumprida essa etapa, considerar-se-á formalmente iniciada a execução do PIBM.
+Com o plano em execução, demonstra-se relevante as atividades de monitoramento,
+que têm por finalidade medir o desempenho, verificar a adesão dos responsáveis e
+avaliar a efetividade das ações previstas. O monitoramento será iniciado após a
+realização da segunda reunião com os pontos focais de cada ação ou eixo do
+programa.
+Essa segunda reunião, a ser promovida pela Comissão de Integridade, ocorrerá em
+até 90 dias após a primeira reunião. Será realizada de forma individualizada por
+ação, com a participação do ponto focal e dos militares designados para apoio. Na
+ocasião, cada ponto focal deverá apresentar à Comissão de Integridade o
+planejamento para implementação e continuidade da ação sob sua
+responsabilidade.
+Os pontos focais serão definidos pelas unidades enquadradas como “Gerente da
+Ação” e “Apoio”, previstas nos planos de ação dos respectivos eixos temáticos.
+Atuarão nas áreas vinculadas às ações, de acordo com os eixos de integridade
+formalizados no programa. Caberá à unidade designar até dois militares para apoio,
+responsáveis pela inserção de dados no SisPMPI e pelo contato direto com a
+Comissão de Integridade.
+68
+Ressalta-se que as ações previstas no PIBM não constituem responsabilidade
+pessoal dos pontos focais, uma vez que decorrem do compromisso da Alta
+Administração e são inerentes ao fomento da integridade institucional no CBMMG.
+Compete aos pontos focais atuarem como elo entre a unidade Gerente de
+Ação/Apoio e a Comissão de Integridade, bem como promover o desenvolvimento
+das ações, envolvendo todos os militares das unidades cuja participação seja
+necessária à execução das atividades. Caberá, ainda, reportar, por meio da cadeia
+de comando, eventuais fatores impeditivos à implementação das ações. Em síntese,
+a responsabilidade pela implantação e execução da ação é da unidade, a qual terá
+os pontos focais como canais de intermediação e coordenação.
+Após a realização das duas primeiras reuniões, o monitoramento do PIBM passará a
+ser bimestral, competindo à Comissão de Integridade, caso necessário, o
+agendamento de reuniões com os militares designados como pontos focais. Essas
+reuniões serão individualizadas por ação ou
+por blocos de ações e deverão ocorrer sempre
+que necessário.
+Com o objetivo de otimizar o processo e
+garantir o acompanhamento efetivo, a
+Comissão de Integridade poderá organizar o
+monitoramento por eixos temáticos, alternando
+os eixos monitorados a cada mês. Ressalta-se
+que nenhum eixo poderá permanecer sem
+monitoramento por período superior a 120 dias
+consecutivos.
+Tanto a execução quanto o monitoramento do PIBM deverão ser realizados por meio
+de registro no SisPMPI. Para a inclusão dos responsáveis pelas atualizações no
+sistema, sejam eles vinculados à execução das ações por eixo ou ao
+monitoramento, a Comissão de Integridade deverá solicitar o cadastro à
+Controladoria Setorial (CSet), indicando o nome completo, número do militar, cargo,
+e-mail institucional, unidade, telefone institucional e perfil (executor, monitoramento).
+69
+A avaliação da existência, qualidade e efetividade do Programa de Integridade do
+CBMMG e seu decorrente Plano de Integridade seguirá as diretrizes estabelecidas
+pela CGE-MG. Essas atividades correspondem à terceira linha de defesa, no
+modelo das Três Linhas, atuando como controle interno do Poder Executivo. No
+âmbito do CBMMG, a CSet, subordinada tecnicamente à CGE, será responsável por
+executar essas ações de avaliação, devendo registrar suas atividades típicas
+diretamente no SisPMPI.
+Por fim, é importante destacar que todos os Diretores, Comandantes, Assessores e
+Chefes cujas unidades estejam vinculadas às ações do PIBM devem apoiar
+institucionalmente os pontos focais, assegurando os recursos humanos e materiais
+necessários à implementação e à continuidade das ações previstas, respeitadas as
+especificidades de cada caso.
+70
+71
+7. REVISÃO E ATUALIZAÇÃO DO PROGRAMA DE INTEGRIDADE
+Considerando a natureza dinâmica das ações previstas no PIBM e sua possível
+execução em médio prazo, o programa e seu plano deverão passar por revisões
+periódicas. A revisão consiste na adaptação do Programa de Integridade vigente,
+com base nas observações, alertas e recomendações oriundos do processo de
+monitoramento.
+As revisões regulares serão bienais. No entanto, caso sejam identificadas falhas que
+comprometam parte do programa, ainda que não em sua totalidade, deverão ser
+adotadas medidas corretivas imediatas, com revisão pontual do PIBM.
+A atualização do PIBM, por sua vez, é uma ação mais abrangente. Ela pressupõe a
+elaboração de uma nova edição do programa, com redefinição da visão de futuro,
+novo diagnóstico do ecossistema de integridade e adequação às necessidades
+institucionais, ocorrendo a cada quatro anos. Porém, essa atualização poderá ser
+antecipada, especialmente, quando uma nova edição do Plano de Comando tornar a
+versão vigente do PIBM incompatível com o planejamento estratégico da
+Corporação.
+Nessa hipótese, a atualização deverá ser iniciada de imediato, sem prejuízo da
+conclusão das ações em andamento, sempre que estas puderem contribuir para o
+fortalecimento da integridade institucional do CBMMG.
+72
+73
+REF
