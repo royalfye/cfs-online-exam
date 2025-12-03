@@ -1,0 +1,66 @@
+RESOLUÇÃO Nº 711, DE 06 DE MARÇO DE 2017.
+Dispõe sobre o quantitativo mínimo de
+militares por viaturas.
+O COMANDANTE-GERAL DO CORPO DE BOMBEIROS MILITAR DE MINAS
+GERAIS, no uso de suas atribuições conferidas pelo artigo 6º da Lei Complementar n. 54, de
+13/12/1999, e CONSIDERANDO:
+- o conceito operacional e a estrutura mínima para operação, instalação e elevação de
+unidades operacionais do CBMMG resolução n. 671 que aprova a Diretriz n. 03/16;
+- o disposto no Manual de Gerenciamento de Frota, aprovado pela resolução n. 692/16;
+- a necessidade de se regulamentar o quantitativo mínimo de militares por viatura;
+- o caráter de serviço público essencial das atividades do Corpo de Bombeiros Militar,
+que devem ser prestadas de forma contínua e ininterrupta.
+RESOLVE:
+Art. 1º- A composição mínima das guarnições BM que tripulam as viaturas operacionais
+do CBMMG deverão seguir o disposto na tabela do anexo único dessa resolução.
+Art. 2º- Em ocorrências que haja necessidade de emprego de mais de uma viatura de
+uma fração e que o efetivo atual da fração seja menor que o quantitativo mínimo para o
+emprego simultâneo das mesmas, fica autorizado o emprego múltiplo com efetivo abaixo do
+previsto no anexo único, considerando a oportunidade, conveniência e segurança.
+"Art. 3º - As viaturas ACE, AR, SIB, TLP, TPP e TR poderão ser tripuladas apenas pelo
+motorista, desde que devidamente autorizado pela autoridade delegante considerando a
+oportunidade, conveniência e segurança."
+2
+(Redação dada pela Resolução nº 1072, de 27 de julho de 2022)
+Art. 4º - Esta Resolução entra em vigor na data de sua publicação.
+CG em Belo Horizonte, 06 de março de 2017.
+
+Alterada pela Resolução nº 1072, de 27 de Julho de 2022.
+ANEXO ÚNICO
+
+CLASSE;SUBCLASSE;NOMENCLATURA;MINIMO
+1 - Viatura Operacional de Bombeiro (VOB);ACA;AUTO COMANDO DE ÁREA;03
+1 - Viatura Operacional de Bombeiro (VOB);APE;AUTO PLATAFORMA ESCADA;02
+1 - Viatura Operacional de Bombeiro (VOB);AEM;AUTO ESCADA MECÂNICA;02
+1 - Viatura Operacional de Bombeiro (VOB);ACE;AUTO CAÇAMBA ELEVATÓRIA;01¹
+1 - Viatura Operacional de Bombeiro (VOB);ABT;AUTO BOMBA TANQUE;03
+1 - Viatura Operacional de Bombeiro (VOB);ABTS;AUTO BOMBA TANQUE SALVAMENTO;03
+1 - Viatura Operacional de Bombeiro (VOB);ABS;AUTO BOMBA SALVAMENTO;03
+1 - Viatura Operacional de Bombeiro (VOB);ABSR;AUTO BOMBA SALVAMENTO RESGATE;03
+1 - Viatura Operacional de Bombeiro (VOB);ATB;AUTO TANQUE BOMBA;03
+1 - Viatura Operacional de Bombeiro (VOB);ASL;AUTO SALVAMENTO LEVE;03
+1 - Viatura Operacional de Bombeiro (VOB);ASM;AUTO SALVAMENTO MÉDIO;03
+1 - Viatura Operacional de Bombeiro (VOB);ASP;AUTO SALVAMENTO PESADO;03
+1 - Viatura Operacional de Bombeiro (VOB);AJ;AUTO JAMANTA;03
+1 - Viatura Operacional de Bombeiro (VOB);ABTF;AUTO BOMBA TANQUE FLORESTAL;03
+1 - Viatura Operacional de Bombeiro (VOB);ASF;AUTO SALVAMENTO FLORESTAL;03
+1 - Viatura Operacional de Bombeiro (VOB);APV;AUTO PREVENÇÃO E FISCALIZAÇÃO;03
+1 - Viatura Operacional de Bombeiro (VOB);APP;AUTO PRODUTOS PERIGOSOS;03
+1 - Viatura Operacional de Bombeiro (VOB);MO;MOTOCICLETA OPERACIONAL;02
+1 - Viatura Operacional de Bombeiro (VOB);UR;UNIDADE DE RESGATE;03
+1 - Viatura Operacional de Bombeiro (VOB);TAN;TRANSPORTE DE ANIMAIS;01
+2 - Viatura de Apoio (VA);AMA;AMBULÂNCIA ADMINISTRATIVA;01
+2 - Viatura de Apoio (VA);AE;AUTO ESCOLA;01
+2 - Viatura de Apoio (VA);AR;AUTO REBOQUE;01
+2 - Viatura de Apoio (VA);MB;MOTOCICLETA DE BOMBEIRO;01
+2 - Viatura de Apoio (VA);SIB;SISTEMA DE INTELIGÊNCIA DE BOMBEIRO;01
+2 - Viatura de Apoio (VA);TC;TRANSPORTE DE CARGA;01
+2 - Viatura de Apoio (VA);TCA;TRANSP. DE COMBUSTÍVEL DE AVIAÇÃO;01¹
+2 - Viatura de Apoio (VA);TCE;TRANSP. DE COORD. ESTRATÉGICA;01¹
+2 - Viatura de Apoio (VA);VRM;VEÍCULO DE ROTA DE MANUTENÇÃO;01
+3 - Viatura de Transporte de Pessoal (VTP);TLP;TRANSPORTE LEVE DE PESSOAL;01¹
+3 - Viatura de Transporte de Pessoal (VTP);TPP;TRANSPORTE PESADO DE PESSOAL;01¹
+3 - Viatura de Transporte de Pessoal (VTP);TR;TRANSPORTE DE REPRESENTAÇÃO;01¹
+
+¹ Poderão ser tripuladas apenas pelo motorista, desde que devidamente autorizado pela autoridade
+delegante considerando a oportunidade, conveniência e segurança.

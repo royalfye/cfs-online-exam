@@ -1,0 +1,1976 @@
+Corpo de Bombeiros Militar de Minas Gerais.
+ Manual de Bombeiros Militar – Salvamento Aquático.
+ 1.ed. Belo Horizonte: CBMMG, 2022.
+
+ 93 p. il.
+ 1. Corpo de Bombeiros Militar de Minas Gerais. 2.
+Manual . 3. MABOM. 4. Salvamento Aquático. I. Título.
+
+
+CDD 797
+
+PREFÁCIO
+O Corpo de Bombeiros Militar de Minas Gerais (CBMMG), em sua história recente,
+tem buscado constantemente o desenvolvimento doutrinário de suas temáticas
+operacionais, com vistas ao aperfeiçoamento técnico de seus militares em benefício
+da população atendida em todo o território Mineiro.
+Neste sentido, o Manual de Bombeiros de Salvamento Aquático apresenta de forma
+sistematizada um conteúdo diversificado, atualizado e já consolidado no âmbito
+institucional, integrado às ementas das disciplinas e difundidos nos diversos cursos
+ofertados pelo CBMMG. Ainda, os conteúdos se alinham àqueles aplicados pelos
+demais Corpos de Bombeiros, tornando a temática uníssona entre os agentes
+envolvidos em toda a cadeia do Salvamento Aquático, que se estende da prevenção
+ao suporte de vida intra-hospitalar.
+Segundo dados recentes da ONU, os afogamentos tiram a vida de aproximadamente
+236.000 pessoas por ano em todo o mundo, sendo que em Minas Gerais são
+registradas aproximadamente 1.500 ocorrências anualmente. Tal fato extrapola o
+desafio ordinário do atendimento de ocorrências da instituição, sendo encarado como
+problema de saúde pública.
+Assim, atuar de maneira preventiva no enfrentamento ao problema, tendo como norte
+a gestão do risco de desastre, é essencial para o seu controle efetivo, e
+principalmente, preservar o bem maior, que é a vida. De maneira clara, a temática se
+insere no portfólio institucional de Proteção e Defesa Civil e ganha força ao passo que
+fortalece e padroniza a doutrina institucional voltada à cultura de prevenção e
+autoproteção.
+De forma interativa e contextualizada, as ações preventivas e as técnicas de
+salvamento são apresentadas também em formato de vídeos, acessíveis por meio da
+leitura de QR-CODE. A inovação permite a pronta reprodução e veiculação do seu
+conteúdo, garantindo a efetiva disseminação padronizada do treinamento por meio de
+mídias digitais, permitindo ainda o seu trânsito entre plataformas variadas, cada vez
+mais presentes na rotina organizacional.
+Por fim, o desenvolvimento doutrinário e o aperfeiçoamento das práticas são um
+processo em constante movimento e construção. A aplicação dos conteúdos aqui
+apresentados, além de garantirem a eficiência do atendimento à sociedade, como
+objetivo primordial, permitem também a avaliação e retroalimentação das práticas
+adotadas pela corporação na temática do Salvamento Aquático.
+Comando-Geral em Belo Horizonte, 28 de dezembro de 2022.
+(a) EDGARD ESTEVO DA SILVA, CORONEL BM
+COMANDANTE-GERAL
+LISTA DE SIGLAS E ABREVIATURAS
+APH Atendimento Pré-Hospitalar
+BVM Bolsa-Válvula-Máscara
+CBMMG Corpo de Bombeiros Militar de Minas Gerais
+CONAMA Conselho Nacional do Meio Ambiente
+DEA Desfibrilador Externo Automático
+FPS Fator de Proteção Solar
+ILS International Life Saving Federation
+IML Instituto Médico Legal
+ITO Instrução Técnica Operacional
+MABOM Manual de Bombeiros
+MASA Mergulho Autônomo e Salvamento Aquático
+NORMAM Normas da Autoridade Marítima
+OMS Organização Mundial da Saúde
+PCR Parada Cardiorrespiratória
+PR Parada Respiratória
+PVC Polyvinyl chloride - Policloreto de Polivinila
+RCP Ressuscitação Cardiopulmonar
+RPA Remotely Piloted Aircraft - Aeronaves Remotamente Pilotadas
+SAV Suporte Avançado de Vida
+SBV Suporte Básico de Vida
+SOBRASA Sociedade Brasileira de Salvamento Aquático
+TRM Traumatismo Raquimedular
+USLA
+United States Lifesaving Association – Associação Americana de
+Salvamento
+UTI Unidade de Terapia Intensiva
+LISTA DE FIGURAS
+Figura 1 - Infográfico .................................................................................................18
+Figura 2 - Utilização do Saco de Arremesso .............................................................30
+Figura 3 - Salvamento direto .....................................................................................31
+Figura 4 - Tipos de nadadeiras..................................................................................34
+Figura 5 - Máscara semifacial ...................................................................................35
+Figura 6 - Snorkel......................................................................................................36
+Figura 7 - Flutuador tipo Lifebelt................................................................................37
+Figura 8 - Flutuador tipo FlutRescue .........................................................................38
+Figura 9 - Mosquetão do flutuador Lifebelt................................................................38
+Figura 10 - Argola do flutuador Lifebelt .....................................................................39
+Figura 11 - Corpo do flutuador Lifebelt......................................................................39
+Figura 12 - Cinto ou alça do flutuador Lifebelt...........................................................40
+Figura 13 - Corda do flutuador Lifebelt......................................................................40
+Figura 14 - Socorrista equipado com flutuador Lifebelt para pronto emprego...........41
+Figura 15 - Apito........................................................................................................42
+Figura 16 - Técnica de Entrada Japonesa - Salvamento Aquático............................46
+Figura 17 - Técnica de Entrada Pranchada - Salvamento Aquático..........................46
+Figura 18 - Técnica de deslocamento e aproximação...............................................47
+Figura 19 - Técnica do Nado de Aproximação ..........................................................47
+Figura 20 - Técnica do "Canivete".............................................................................48
+Figura 21 - Salvamento de vítima submersa.............................................................50
+Figura 22 - Técnica de pernada tipo "Tesoura".........................................................51
+Figura 23 - Reboque com utilização de nadadeiras ..................................................52
+Figura 24 - Posicionamento da vítima durante o reboque.........................................52
+Figura 25 - Técnica de desvencilhamento.................................................................53
+Figura 26 - Técnica de reboque peito cruzado..........................................................54
+Figura 27 - Reboque utilizando o flutuador do tipo "life-belt".....................................55
+Figura 28 - Utilização da técnica "isca-viva" para salvamento aquático em águas
+rápidas ......................................................................................................................56
+Figura 29 - Retirada de vítima da piscina..................................................................57
+Figura 30 - Retirada da vítima da água .....................................................................58
+Figura 31 - Comunicação Gestual.............................................................................61
+Figura 32 - Afogado Grau 1.......................................................................................67
+Figura 33 - Verificação de pulso com oxímetro .........................................................67
+Figura 34 - Afogado Grau 2.......................................................................................68
+Figura 35 - Administração de O2...............................................................................68
+Figura 36 - Afogado Grau 3.......................................................................................69
+Figura 37 - Posição lateral de segurança..................................................................69
+Figura 38 - Administração de O2...............................................................................70
+Figura 39 - Administração de O2...............................................................................70
+Figura 40 - Ventilação de Resgate............................................................................71
+Figura 41 - Ressuscitação cardiopulmonar - RCP ....................................................72
+Figura 42 - Atendimento a vítimas de afogamento com suspeita de trauma associado
+..................................................................................................................................73
+Figura 43 - Roupão Sanitário ....................................................................................79
+Figura 44 - Roupa seca para mergulho autônomo....................................................80
+Figura 45 - Moto Aquática .........................................................................................85
+Figura 46 - Bote inflável ............................................................................................85
+Figura 47 - Barco.......................................................................................................86
+Figura 48 - Salvamento com uso de Moto Aquática..................................................87
+Figura 49 - Desova Aquática.....................................................................................89
+SUMÁRIO
+1 INTRODUÇÃO ............................................................................................11
+2 FINALIDADE E OBJETIVOS......................................................................12
+3 CONCEITOS E PROCEDIMENTOS ...........................................................13
+3.1 Caracterização da atividade .....................................................................13
+4 EPIDEMIOLOGIA DO AFOGAMENTO.......................................................16
+5 PREVENÇÃO A AFOGAMENTOS .............................................................20
+6 QUALIFICAÇÃO E SAÚDE OCUPACIONAL DO GUARDA-VIDAS..........25
+6.1 Aptidões físicas .........................................................................................25
+6.2 Treinamento técnico..................................................................................28
+6.3 Aspectos psicológicos e sociais..............................................................28
+6.4 Alimentação, hidratação e composição corporal ...................................29
+7 TIPOS DE SALVAMENTOS .......................................................................30
+7.1 Classificações do salvamento aquático..................................................30
+7.1.1 Quanto ao contato com a vítima ..............................................................30
+7.1.2 Quanto ao tipo de socorro empregado....................................................31
+7.1.3 Quanto aos locais de atuação do salvamento aquático ........................32
+8 EQUIPAMENTOS EMPREGADOS NO SALVAMENTO AQUÁTICO ........34
+8.1 Nadadeiras .................................................................................................34
+8.2 Máscara semifacial....................................................................................35
+8.3 Respirador (SNORKEL).............................................................................36
+8.4 Flutuador....................................................................................................37
+8.5 Protetor solar.............................................................................................42
+8.6 Apito ...........................................................................................................42
+9 TÉCNICAS DE SALVAMENTO AQUÁTICO ..............................................43
+9.1 Processo de afogamento ..........................................................................43
+9.2 Fases do salvamento aquático.................................................................44
+9.2.1 Tipos de entrada na água .........................................................................44
+9.2.1.1 Entrada de ponta .........................................................................................45
+9.2.1.2 Entrada em pé .............................................................................................45
+9.2.1.3 Entrada japonesa.........................................................................................45
+9.2.1.4 Entrada pranchada ......................................................................................46
+9.2.2 Nado de Aproximação...............................................................................47
+9.2.3 Manobra de aproximação: canivete .........................................................48
+9.2.4 Abordagem da vítima ................................................................................49
+9.2.4.1 Vítima na superfície.....................................................................................49
+9.2.4.2 Vítima submersa ou inconsciente................................................................49
+9.2.5 Nado de reboque .......................................................................................51
+9.2.6 Técnicas de desvencilhamento.................................................................52
+9.2.6.1 Agarramento pela frente, nos cabelos ou pescoço......................................53
+9.3 Técnicas de salvamento sem o uso de equipamentos ..........................53
+9.3.1 Apenas um socorrista: reboque peito cruzado.......................................53
+9.3.2 Mais de um socorrista: Reboque pelas axilas ........................................54
+9.4 Técnicas de salvamento com uso de equipamentos .............................54
+9.4.1 Reboque com flutuador ............................................................................55
+9.4.2 Isca-viva .....................................................................................................56
+9.5 Retirada da vítima......................................................................................57
+9.5.1 Retirada de vítimas de piscinas ...............................................................57
+9.5.2 Retirada de vítimas de balneários............................................................58
+9.6 Meios de improviso e de fortuna..............................................................58
+9.7 Técnicas de comunicação ........................................................................59
+9.7.1 Comunicação Sonora................................................................................59
+9.7.2 Comunicação Gestual ...............................................................................60
+10 CLASSIFICAÇÃO DO AFOGAMENTO......................................................62
+11 TRATAMENTO............................................................................................65
+11.1 Afogamento grau resgate .........................................................................66
+11.2 Afogamento Grau 1 ...................................................................................67
+11.3 Afogamento Grau 3 ...................................................................................69
+11.4 Afogamento Grau 4 ...................................................................................70
+11.5 Afogamento Grau 5 ....................................................................................71
+11.6 Afogamento Grau 6 ....................................................................................71
+12 ATENDIMENTO A VÍTIMAS DE AFOGAMENTO COM SUSPEITA DE
+TRAUMA ASSOCIADO.................................................................................73
+13 CONDUÇÃO PARA ATENDIMENTO HOSPITALAR ..................................74
+14 ATUAÇÃO DO GUARDA-VIDAS EM ÁGUAS POLUÍDAS E OUTROS
+RISCOS ASSOCIADOS ...............................................................................76
+14.1 Riscos.........................................................................................................77
+14.1.1 Riscos Biológicos......................................................................................77
+14.1.2 Riscos Químicos (toxinas e metais pesados).........................................78
+14.1.3 Riscos físicos.............................................................................................78
+14.2 Materiais/Equipamentos específicos para contato com águas
+poluídas........................................................................................................79
+14.2.1 Para águas rasas ........................................................................................79
+14.2.2 Para águas profundas poluídas que necessitem de mergulho
+autônomo.. ..................................................................................................80
+14.3 Ações e condutas......................................................................................80
+15 OPERAÇÕES COM EMBARCAÇÕES.......................................................84
+15.1 Ações de Salvamento................................................................................86
+16 OPERAÇÕES COM AERONAVE ...............................................................88
+16.1 Lançamento de Guarda-Vidas (desova aquática)...................................88
+16.2 Emprego de cesto tipo Puçá.....................................................................89
+17 EMPREGO DE AERONAVES REMOTAMENTE PILOTADAS (RPA) .......90
+REFERÊNCIAS.........................................................................................................91
+1 INTRODUÇÃO 11
+1 INTRODUÇÃO
+Devido às suas características naturais e localização de bacias hidrográficas
+relevantes, o estado de Minas Gerais, considerado a “caixa d’água do Brasil”,
+apresenta corpos hídricos de água doce em toda a sua extensão territorial. De norte
+a sul, de leste a oeste mineiro, é vislumbrada a existência de rios, córregos, lagos,
+cachoeiras e demais corpos d’água naturais, como também a presença de represas e
+corpos d’água artificiais, elaborados e construídos pela sociedade para diversos fins
+e utilizações.
+A água, com uma multiplicidade formidável de emprego, é utilizada desde a
+manutenção da vida, geração de energia, transporte até as atividades de recreação
+acessíveis à maior parte da população mineira.
+Nesse contexto, o estado de Minas Gerais também se destaca pela quantidade de
+balneários e locais para entretenimento, incluindo piscinas e todo tipo de reservatório
+de água com a finalidade de lazer, considerando que os riscos aos quais os banhistas
+estão submetidos, se verificam nos mais variados ambientes.
+Tendo em vista a expressiva utilização de tais locais por parte da população mineira,
+é necessário que o Corpo de Bombeiros Militar de Minas Gerais (CBMMG) normatize
+e doutrine sua tropa com vistas à devida execução de ações de prevenção e
+salvamento em casos de afogamentos, como também oriente condutas de
+autoproteção para a população em geral.
+Este Manual de Bombeiros, de forma clara e direta, se posiciona como norteador das
+condutas e ações a serem empregadas nas atividades de Salvamento Aquático em
+todo o território mineiro, com demonstrações visuais simplificadas dos procedimentos
+técnicos devidos ou de possível emprego nas mais variadas situações, trazendo
+também orientações gerais de prevenção a afogamentos para a população em geral.
+MANUAL DE SALVAMENTO AQUÁTICO 12
+2 FINALIDADE E OBJETIVOS
+Este Manual de Bombeiros (MABOM) tem por finalidade instruir e padronizar as ações
+práticas desenvolvidas pelos militares do Corpo de Bombeiros Militar de Minas Gerais
+(CBMMG) em ocorrências de prevenção e atendimento envolvendo o Salvamento
+Aquático, considerando as ações ordinárias da corporação em resposta operacional,
+bem como operações de guarda-vidas e prevenção em balneários, planejadas
+previamente.
+O MABOM ainda apresentará, de acordo com as características das ocorrências de
+Salvamento Aquático, os procedimentos mais recomendados para cada situação
+específica.
+Apresenta ainda os seguintes objetivos específicos:
+a) conceituar termos e características predominantes da atividade;
+b) apresentar e caracterizar os equipamentos de salvamento aquático;
+c) apresentar e diferenciar os tipos de salvamento e suas variações;
+d) definir parâmetros de comunicação entre militares empenhados na atividade.
+3 CONCEITOS E PROCEDIMENTOS 13
+3 CONCEITOS E PROCEDIMENTOS
+O planejamento das ações e operações de Salvamento Aquático observará os
+conceitos e procedimentos descritos a seguir.
+3.1 Caracterização da atividade
+a) Lagos: porção variável de água doce represada, circundada por uma porção
+de terra, cuja depressão de terra se dá por ocorrência natural ou por ação
+antrópica, permanentemente inundada, sendo a água confinada e acumulada
+naturalmente por recursos de nascentes naturais, cursos d’água e captação de
+chuvas, variando em tamanho e profundidade. Geralmente, é formada e
+consolidada a longo prazo (MINAS GERAIS, 2008).
+b) Lagoas: balneário natural, que se diferencia dos lagos principalmente pela
+área da superfície, extensão e profundidade consideravelmente menores.
+(MINAS GERAIS, 2008).
+c) Açudes: porção de água formada pelo barramento de uma nascente ou curso
+d’água, geralmente para fins de irrigação, dessedentação, entre outros.
+Denomina-se açude o conjunto constituído pela estrutura de barramento e o
+respectivo reservatório de água formado (MINAS GERAIS, 2008).
+d) Represas: com características construtivas similares aos açudes, diferenciase pelo seu tamanho consideravelmente maior, sendo seu represamento
+transversal à direção de escoamento das águas, formando um reservatório a
+montante, permitindo o controle de vazões a jusante por meio de estruturas
+controladoras da descarga. Objetiva a geração de energia em grande escala
+ou abastecimento hídrico em larga escala (MINAS GERAIS, 2008).
+e) Rios com água corrente: curso de água em canal natural, de fluxo
+permanente, que corre na superfície terrestre (MINAS GERAIS, 2008). Os rios
+possuem correnteza variável e podem desaguar em outro de maior volume e
+extensão, além de mares e/ou lagos. Devido às suas características naturais,
+MANUAL DE SALVAMENTO AQUÁTICO 14
+são de grande importância para as atividades humanas, devido à sua
+capacidade de transporte, fonte de energia elétrica, renovação de recursos
+hídricos e disponibilidade de recursos naturais, entre outros. Variam muito em
+profundidade, largura e extensão. Por sua grande disponibilidade em todo
+território, são locais com grande índice de utilização para fins diversos e,
+consequentemente, denotam maiores índices de afogamento.
+f) Áreas inundadas: formadas devido ao transbordamento das águas de leito
+natural de um curso d’água ou lagoa, em virtude do aumento da vazão de
+escoamento superficial, podendo ter relação com o aumento das chuvas
+(MINAS GERAIS, 2008). Geralmente são acompanhadas por desastres
+naturais associados.
+g) Córregos: assim como os rios, são cursos de águas naturais, porém, com
+extensão e profundidade menores, que geralmente desaguam em cursos
+maiores e mais volumosos.
+h) Cachoeiras: são quedas de água corrente de um rio devido à depressão
+abrupta de seu curso natural, variando em altura, volume e profundidade.
+Devido à ação da água ao longo do tempo, as quedas ocorrem em poços de
+profundidade variável. Amplamente utilizadas como opção de lazer, estão
+associadas a acidentes com traumas diversos, em decorrência de quedas de
+altura, choques mecânicos etc.
+i) Poços: podem ser de formação natural, variando principalmente em
+profundidade, localizados em locais de quedas d’água em cursos de rio e mais
+associados ao lazer; e artificiais, formados pelo cavamento do solo que atinge
+aquíferos artesianos, geralmente associado à subsistência (MINAS GERAIS,
+2008).
+j) Piscinas: reservatórios de tamanho e profundidade variados, construídos em
+alvenaria ou material pré-fabricado, geralmente utilizados para lazer em clubes
+e residências. Em alguns casos, acidentes de afogamento são associados a
+traumas, principalmente em piscinas com menor profundidade.
+3 CONCEITOS E PROCEDIMENTOS 15
+k) Alcançar: é simplesmente tentar alcançar a vítima da margem, estendendo-se
+um bastão, uma escada, um pedaço de algum objeto flutuante, desde que o
+bombeiro não adentre a água, exceto acidentalmente. Neste caso, o risco é
+obviamente baixo.
+l) Arremessar: é o ato de atirar algum objeto flutuante a um nadador. Na
+enchente, isso se refere ao lançamento de uma “sacola de arremesso”, um dos
+equipamentos que as equipes de salvamento em enchente possuírem no
+momento.
+m) Remar: refere-se ao uso de embarcações compatíveis com o salvamento em
+enchentes.
+n) Nadar: consiste em nadar até a vítima e rebocá-la. Considerando o elevado
+grau de risco envolvido, deve ser a última opção a se considerar. Ressalta-se
+que o uso de helicópteros é possível. Contudo, nos casos de balneários, deve
+ser criteriosamente avaliado.
+o) Salvamento: emprego de ações com objetivo de salvar algo ou alguém,
+incluindo o autossalvamento.
+MANUAL DE SALVAMENTO AQUÁTICO 16
+4 EPIDEMIOLOGIA DO AFOGAMENTO
+Conforme previsto no Protocolo de Atendimento Pré-Hospitalar do CBMMG, o
+afogamento é a aspiração de líquido não corporal por meio das vias aéreas superiores,
+devido à imersão ou submersão, podendo ainda se diferenciar em afogamento
+primário, sendo o mais comum e que não possui causa precipitante e afogamento
+secundário, que é causado por uma patologia ou incidente anterior que o ocasiona
+(MINAS GERAIS, 2017).
+O afogamento não deve ser confundido com o ato de engolir água, quando esta passa
+exclusivamente pelos tratos do sistema digestivo, ou seja, por vias naturais.
+Afogamento é a aspiração, com a entrada de água pelas vias aéreas superiores
+(SZPILMAN, 2019).
+Anualmente no mundo morrem quase 236.000 pessoas vítimas de afogamento, sendo
+que mais de 90% das vítimas ocorrem em países de baixa e média renda, e mais da
+metade dessas mortes estão entre menores de 25 anos, dentre essa população, as
+crianças com menos de 05 anos de idade são as que apresentam maior risco de morte
+(OMS, 2017).
+O afogamento é a terceira principal causa de morte em todo o mundo para pessoas
+de 05 a 14 anos. Apesar desses trágicos dados, a prevenção por afogamento recebe
+relativamente pouca atenção e destinação de escassos recursos (OMS, 2017).
+Ressalta-se ainda, que no Brasil, cada óbito causado por afogamento traz um custo
+médio de R$ 210.000,00. Esse gasto se refere a todo o processo de intervenção em
+vítimas de afogamento, abrangendo o início das ações de prevenção, as ações de
+salvamento e o tratamento das vítimas fatais ou não (SZPILMAN, 2019).
+Entretanto, muitos casos que têm causa inicial de afogamento não são contabilizados
+como tal. Seja um caso simples, com a liberação imediata da vítima no local ou após
+rápida análise clínica, sem que o todo tenha sido verificado, ou mesmo em casos mais
+graves em que o óbito por afogamento se torna uma ocorrência de recuperação de
+cadáver ou desaparecimento. Essa carência de dados fidedignos relativos aos
+4 EPDEMIOLOGIA DO AFOGAMENTO 17
+afogamentos não se reserva apenas ao Brasil, mas sim à natureza do incidente e em
+qualquer lugar onde ele possa ocorrer.
+Nesse contexto, o afogamento deve ser entendido como um problema de saúde
+pública, que carece de estratégias preventivas para seu controle, sua identificação e
+principalmente para a consolidação dos seus dados epidemiológicos, visando ao
+diagnóstico mais preciso da realidade e extensão do problema.
+Conforme dados da Sociedade Brasileira de Salvamento Aquático - SOBRASA, 16
+brasileiros se afogam diariamente. Desses casos de afogamento notificados 90%
+ocorrem em águas naturais, com maior incidência em água doce, representando 75%
+desse total. Considerando a rica disponibilidade hídrica superficial do estado de Minas
+Gerais, aproximados 586,528 Km², onde se listam os rios, lagos, cachoeiras, córregos,
+lagoas e represas, o estado representa grande potencial de se destacar
+negativamente na composição das estatísticas (SZPILMAN, 2019).
+Em complementação às estatísticas que compõem a epidemiologia do afogamento,
+8,5% dos afogamentos ocorrem em águas artificiais, como: piscinas, recipientes
+contendo líquidos, banheiras e até mesmo lavatórios e, 1,5 % das ocorrências têm
+relação com transportes por embarcações (SZPILMAN, 2019).
+Os casos de afogamento ainda ocorrem por desconhecimento dos riscos, desrespeito
+aos limites pessoais e desconhecimento de como agir em mais de 80% dos casos,
+em sua maioria, com a associação ao uso e abuso de bebidas alcoólicas ou outras
+drogas entorpecentes, reforçando as características de um problema de saúde pública
+(SZPILMAN, 2019).
+Em média, a cada 90 minutos um brasileiro morre vítima de afogamento, sendo que
+pessoas com até 29 anos representam quase 50% do número de vítimas fatais, de
+modo que os adolescentes compõem o grupo de maior risco, havendo a morte de uma
+mulher a cada 06 homens vitimados (SZPILMAN, 2019).
+MANUAL DE SALVAMENTO AQUÁTICO 18
+Figura 1 - Infográfico
+Fonte: elaboração própria
+4 EPDEMIOLOGIA DO AFOGAMENTO 19
+Por fim, considerando todo o processo que envolve as ações de prevenção e
+intervenção nos casos de afogamento, o CBMMG registrou nos anos de 2020 e 2021,
+o somatório de 1367 ocorrências com relação direta a afogamentos propriamente ditos
+(MINAS GERAIS, 2022).
+Dessa maneira, é possível traçar os fatores de risco e até mesmo o padrão de vítimas
+comuns ao afogamento como sendo o sexo masculino, idade inferior a 14 anos, que
+faz uso de álcool, de baixa renda familiar e baixo nível educacional, em ambiente rural,
+com maior exposição ao meio aquático, e que adota comportamento de risco em
+balneários sem supervisão adequada (SPILZMAN, et. al., 2012).
+Ante a isso, todos esses dados epidemiológicos são subsídios suficientes para se
+pensar e entender o afogamento como problema de saúde pública. Assim, é possível
+estabelecer planos e diretrizes para a redução dos riscos e aumento da prevenção
+que, diretamente, irá reduzir os números de afogamentos, bem como possibilitar a
+redução de gastos, sejam eles públicos ou privados, relacionados ao tratamento das
+vítimas.
+Nesse sentido, o presente Manual descreve e demonstra os procedimentos
+recomendados de prevenção, intervenção e tratamento adequados a cada caso.
+MANUAL DE SALVAMENTO AQUÁTICO 20
+5 PREVENÇÃO A AFOGAMENTOS
+Segundo dados da Sociedade Brasileira de Salvamento Aquático - SOBRASA, no
+Brasil, ocorre aproximadamente 1000.000 (cem mil) casos de afogamento e 5.700
+morrem afogadas todos os anos. Além disso, deve-se destacar que atualmente o
+afogamento é a 2ª causa de morte no Brasil em crianças de 1 a 9 anos, 3ª na faixa de
+10 a 19 anos e 4ª na faixa de 20 e 29 anos.
+Estima-se que mais de 85% dos casos de afogamento podem ser prevenidos pela
+supervisão, ensino de natação, tecnologia, regulamentação e educação pública.
+Sendo assim, ações preventivas são a maneira mais eficaz de se evitar a ocorrência
+de afogamentos em seus diferentes graus. Os reflexos de tais ações podem ser
+observados não só na redução da mortalidade como também na morbidade (lesões
+decorrentes da doença) por afogamento (SZPILMAN, 2019).
+A United States Lifesaving Association (USLA) – Associação Americana de
+Salvamento Aquático –, estima que para cada resgate realizado existam 43 casos de
+prevenção realizados pelos guarda-vidas em praias.
+Embora não haja ambientes de água salgada no estado de Minas Gerais, os dados
+apresentados pela USLA podem ser avaliados de maneira análoga. Exemplo disso,
+durante um dia de empenho de guarda-vidas em balneários, vários afogamentos
+podem ser evitados sem haver sequer a necessidade de realização de algum tipo de
+salvamento.
+Existem diversas formas de prevenir afogamentos. De maneira global, tais medidas
+podem ser divididas entre aquelas anteriores à exposição ao risco, e as exequíveis no
+cenário em que há o ambiente aquático.
+A prevenção a afogamentos deve começar muito antes do livre contato com a água.
+Isso pode ser feito, por exemplo, por meio da oferta de aulas de natação para crianças,
+desde os primeiros anos de vida, e através de campanhas educativas junto à
+população, sejam em escolas, eventos diversos ou mesmo veiculando informações
+por meio da imprensa falada, escrita e televisionada, dentre outras. O assunto deve
+5 PREVENÇÃO A AFOGAMENTOS 21
+ser abordado no decorrer de todo o ano, intensificando-se as campanhas nos períodos
+anteriores às temporadas de verão e de férias.
+A fim de empregar com maior eficiência as ações preventivas, é muito importante que
+sejam avaliadas as peculiaridades de cada região, bem como os fatores que
+influenciam no índice de afogamentos. Conhecer o ambiente aquático da área de
+atuação e os locais mais comuns aos afogamentos, os períodos mais críticos e o perfil
+das vítimas, são informações fundamentais para se traçar estratégias de ação e
+prevenção.
+Segundo estatísticas de ocorrências atendidas pelo CBMMG, na distribuição dos
+registros referentes à MASA separados por mês, observa-se um aumento
+considerável a partir do mês de agosto, atingindo os números mais elevados no
+período de novembro a março, caracterizado por temperaturas mais elevadas em todo
+estado. Tais dados demonstram que a temperatura é uma variável de influência nas
+ocorrências que envolvem o ambiente aquático.
+Tratando-se da ação no próprio cenário, em que há um risco potencial, pode-se
+qualificar as maneiras de prevenção da seguinte forma:
+a) prevenção ativa: qualquer ação de prevenção que inclua sinalização de risco
+ou a indicação de áreas adequadas/inadequadas para banho, placas com a
+profundidade da piscina e informações complementares como a utilização de
+bandeiras de sinalização, colocação de cercas, uso de ralo anti-hair, e outros;
+b) prevenção reativa: qualquer ação de prevenção direcionada a um indivíduo
+ou a um grupo, com a intenção de interromper um afogamento iminente, tais
+como: o uso de apito ou advertência de um guarda-vidas a um banhista em
+área de risco.
+Devido a extensão do estado de Minas Gerais, bem como ao grande número de rios,
+balneários, cachoeiras e outros ambientes aquáticos, fica inviável a presença
+constante de guarda-vidas em cada um desses locais. Sendo assim, atuar
+preventivamente se torna ainda mais importante. As unidades responsáveis pelas
+MANUAL DE SALVAMENTO AQUÁTICO 22
+localidades devem elaborar um plano anual de intervenção. Ações de orientação à
+população, palestras e entrevistas, levantamento e sinalização dos ambientes
+aquáticos da região e, o empenho de equipes nos locais de maior índice de
+afogamentos, principalmente durante a temporada de verão e feriados.
+Por fim, embora seja fundamental orientar a população de acordo com o perfil do
+ambiente aquático da região, também se faz necessário explanar sobre os riscos de
+afogamento em outras localidades. Dados apresentados pela SOBRASA, em 2016,
+evidenciam que 3% dos afogamentos registrados possuem como vítima os turistas,
+sendo que 10% desse número é composto por indivíduos mineiros. Ou seja, o fato de
+Minas Gerais não possuir praias, não afasta a responsabilidade do alerta sobre os
+cuidados durante uma viagem de férias no litoral do país. Dentre as orientações
+preventivas a todo público usuário de piscinas e balneários, podemos citar:
+Em rios e balneários:
+a) banhe-se em rios e balneários que disponham do serviço de guarda-vidas;
+b) respeite as sinalizações visuais de segurança, isolamentos de área de risco de
+afogamento, sinalizações sonoras e orientações dos guarda-vidas;
+c) em rios de corredeiras não entre na água e, se embarcado, (deslocamento,
+pescarias) use sempre colete salva-vidas;
+d) antes de entrar em embarcações, certifique-se de que o condutor seja
+habilitado, de que a lotação esteja adequada e de que a embarcação possua
+boa condição estrutural para navegação;
+e) em rios sem corredeiras, os banhistas devem manter a água no máximo à altura
+da cintura ou utilizar colete salva-vidas, lembrando-se de que a profundidade
+em rios pode aumentar repentinamente;
+f) NUNCA entre na água após a ingestão de bebidas alcoólicas;
+g) evite alimentos pesados antes de entrar na água;
+h) certifique-se de que possua prática, condição física e técnica antes de realizar
+natação em rios e balneários. Caso contrário, mantenha-se em local seguro;
+i) se estiver em perigo, mantenha a calma, flutue e acene por socorro e não nade
+contra a correnteza;
+5 PREVENÇÃO A AFOGAMENTOS 23
+j) não entre na água para salvar; acione rapidamente o guarda-vidas ou ligue 193;
+lance material flutuante e aguarde a presença de um profissional.
+Em casa e piscinas residenciais:
+a) durante todo o tempo em que utilizam piscinas residenciais, as crianças devem
+ser mantidas sob a supervisão de adultos e à distância de um braço;
+b) caso precise se afastar da piscina ou banheira, não deixe a criança sozinha,
+sem a devida supervisão;
+c) áreas de serviço, portas de banheiros ou quintais com piscinas devem ter
+acesso restrito;
+d) caixas d’água, poços, sanitários, cisternas, máquinas de lavar ou qualquer
+recipiente com água devem estar fechados;
+e) recipientes diversos: tanques, bacias ou banheiras, mesmo que parcialmente
+preenchidos, devem ser esvaziados.
+Em piscinas de uso comum (não residenciais):
+a) durante todo o tempo em que utilizam piscinas de uso comum, as crianças
+devem ser mantidas sob a supervisão de adultos e à distância de um braço,
+mesmo na presença de guarda-vidas;
+b) utilize piscinas de uso comum com guarda-vidas certificado pelo CBMMG,
+devidamente equipado;
+c) sucção de cabelo e partes do corpo deve ser evitada com uso de ralos
+antiaprisionamento e precauções de desligamento do funcionamento da
+bomba;
+d) não execute brincadeiras que aumentem o risco de trauma e perda súbita da
+consciência;
+e) não execute mergulhos de cabeça em locais rasos ou competições de prender
+a respiração embaixo d’água.
+MANUAL DE SALVAMENTO AQUÁTICO 24
+Em cachoeiras:
+a) banhe-se em cachoeiras que disponham do serviço de guarda-vidas;
+b) respeite os isolamentos de área de risco de afogamento, as sinalizações
+visuais e sonoras de segurança e as orientações dos guarda-vidas;
+c) NUNCA salte de partes altas da cachoeira;
+d) cuidado com o limo nas rochas, ele pode fazer você escorregar e cair sobre as
+pedras e, eventualmente, na água;
+e) cuidado com buracos e fundos de lodo, você pode afundar inesperadamente;
+f) não execute brincadeiras que aumentem o risco de trauma e perda súbita da
+consciência;
+g) NUNCA mergulhe de cabeça;
+h) NUNCA entre na água após a ingestão de bebidas alcoólicas, ou utilização
+medicações que causem alteração psicomotora, lentidão ou letargia;
+i) evite alimentos de difícil digestão antes entrar em águas para se banhar.
+7 TIPOS DE SALVAMENTOS 25
+6 QUALIFICAÇÃO E SAÚDE OCUPACIONAL DO GUARDA-VIDAS
+A atividade de guarda-vidas se apresenta como um campo prático e de
+conhecimentos técnicos interdisciplinares, considerando que este profissional
+necessita estar em plenas condições de saúde para que seja capaz de executar suas
+atividades diárias, estando preparado fisicamente, dominando conhecimentos
+relacionados ao Salvamento Aquático e APH, geografia e outros tantos específicos à
+atuação de salvamento a vítimas afogadas. Além disso, é necessário que esse
+profissional mantenha um bom relacionamento social com a população, a fim de
+realizar trabalhos preventivos eficientes também por meio de sua capacidade de
+relacionamento interpessoal.
+Desde 1948, a Organização Mundial de Saúde apresenta o conceito amplo de saúde.
+Este é definida como o estado de completo bem-estar físico, mental e social, não se
+tratando apenas da ausência de doença. Para que um indivíduo se encontre
+completamente saudável, é necessário que as suas condições físicas estejam de
+acordo com as suas necessidades diárias, que o seu estado psicológico seja capaz
+de manter uma boa convivência com as pessoas à sua volta, sejam elas pertencentes
+ao seu ciclo de convivência pessoal ou profissional.
+A fim de garantir melhores condições de trabalho, tem-se realizado campanhas de
+promoção da saúde, prevenção de doenças e vigilância das ações do indivíduo.
+Nesse cenário, é indispensável atentar-se às qualificações necessárias para a boa
+execução da atividade, bem como os riscos a ela associados. Neste capítulo serão
+apresentadas algumas das especificidades relacionadas às qualificações e à saúde
+dos guarda-vidas.
+6.1 Aptidões físicas
+Segundo Fergitz (2007) o treinamento físico:
+[...] constitui-se num instrumento essencial para a manutenção da saúde e,
+como consequência, o melhor desempenho da atividade. Assim, o militar
+saudável é sinônimo de eficiência na prestação de serviço, visto que a prática
+de atividade física influencia, diretamente, seu dia-a-dia profissional, seja no
+alívio de tensões advindas do serviço, na disposição para o cumprimento de
+missões, na redução do número de militares afastados temporariamente do
+MANUAL DE SALVAMENTO AQUÁTICO 26
+serviço, na promoção da integração e do espírito de corpo entre grupo, ou no
+aumento da auto-estima (FERGITZ, 2007, p. 75).
+Alguns dos benefícios da prática de exercícios físicos foram sistematizados por Porto
+(2002), dos quais podemos destacar os benefícios no ambiente profissional, entre eles
+o aumento da produtividade, melhoria na capacidade para o emprego de esforços,
+maior eficiência muscular, dentre outros.
+A prática regular de exercícios físicos está vinculada a melhorias
+psicocomportamentais nos âmbitos pessoal, profissional e social. Todavia, é
+importante frisar que as adaptações fisiológicas e psicomotoras esperadas, dependem
+de treinamento físico contínuo, gradual e direcionado para as atividades profissionais
+a serem exercidas, com ênfase nas capacidades físicas mais demandadas em sua
+atuação.
+Um estudo realizado por Silva (2001), evidenciou algumas das capacidades físicas
+essenciais à atuação do guarda-vidas, tais como: força de membros inferiores,
+velocidade, resistência muscular localizada, resistência anaeróbica, resistência
+aeróbica, coordenação, equilíbrio e flexibilidade.
+Tendo em mente o desenvolvimento das capacidades supracitadas, é fundamental
+que o guarda-vidas inclua em seus treinamentos diários diversas atividades. Como
+exemplos práticos, pode-se citar:
+a) atividades de força de membros superiores, inferiores e core (abdômen). Neste
+ponto são cabíveis exercícios direcionados de musculação, por exemplo.
+Importante ressaltar que o fortalecimento de core não deve ser negligenciado,
+já que tais atividades promovem a preservação da coluna do guarda-vidas,
+aspecto relevante, considerando-se a demanda do profissional para carregar
+vítimas pesadas, equipamentos, embarcações, dentre outros;
+b) treinamento aeróbico tanto na corrida, como na natação;
+c) treinamento anaeróbico: sprints de até 100m, incluindo aqueles realizados na
+natação;
+7 TIPOS DE SALVAMENTOS 27
+d) flexibilidade, principalmente de membros superiores, com o propósito de
+aumentar a amplitude de movimento das braçadas durante o nado de
+aproximação e, assim, aumentar a sua eficiência.
+Ainda, na Matriz Curricular Nacional que estabelece ações formativas dos
+profissionais de segurança pública, no que tange às funções técnicas e procedimentos
+específicos do Salvamento Aquático, em seu item 3.8.3, define-se que o profissional
+que realiza salvamento aquático deve ser dotado de resistência física para
+desempenhar suas funções adequadamente.
+Por fim, no que tange a preparação física do guarda-vidas, vários estudos apontam
+os impactos do aumento da idade sobre o condicionamento físico desses
+profissionais, levando-os à diminuição da capacidade laborativa. Redução de
+aspectos como: força, potência e resistência anaeróbica são os mais evidenciados.
+A fim de minimizar essas perdas, é muito importante que o guarda-vidas mantenha a
+sua rotina de atividades físicas ao longo de sua carreira e, também, dedique-se ao
+treinamento técnico.
+No mesmo sentido, a ILS - International Life Saving Federation estabelece
+competências básicas recomendadas para que o guarda-vidas designado para
+proteger a vida por meio das ações de salvamento.
+São definidas as seguintes competências básicas:
+a) natação por 50m em menos de 50 segundos, com a cabeça acima da água;
+b) natação por 400m em menos de 9:00 minutos sem usar equipamento;
+c) realização de apneia por 25m, recuperando durante o percurso três (3) objetos
+colocados a 5m de distância da extremidade mais profunda da piscina;
+d) correr-nadar-correr, de forma a realizar a sequência de correr 200m, nadar por
+200m e novamente correr por 200m, em sequência, em 8 minutos;
+e) com o uso de equipamento, executar consecutivamente o salvamento da vítima
+em uma piscina de 25m, respeitando a seguinte sequência em menos de dois
+2 minutos: técnica de entrada na água - nado de aproximação por 25m, com a
+MANUAL DE SALVAMENTO AQUÁTICO 28
+cabeça acima da água - mergulho livre para recuperação de um
+manequim/pessoa adulta, a uma profundidade mínima de 1,5m - retirar do
+fundo o manequim/pessoa e realizar o reboque por, no mínimo, 25m até a
+borda da piscina.
+Apesar de reconhecer que diversas organizações extrapolam tais capacidades
+técnicas mínimas, dada a expertise e capacitação de seus membros, os padrões
+mínimos são estipulados visando o mais alto nível de preparação.
+6.2 Treinamento técnico
+Composto por diversas segmentações, o treinamento técnico engloba desde as
+técnicas específicas de resgate, até a sinalização das áreas de atuação e as ações
+preventivas junto aos banhistas. É recomendado que os guarda-vidas se dediquem à
+obtenção de novos conhecimentos, bem como à reciclagem de técnicas
+corriqueiramente já praticadas. Adiante, serão apresentadas algumas instruções que
+devem ser realizadas pelos profissionais que atuam no salvamento aquático,
+garantindo-se a plena capacidade de execução das técnicas empregadas nos
+diversos tipos de salvamento.
+6.3 Aspectos psicológicos e sociais
+A saúde psicológica dos guarda-vidas, considerando a natureza do serviço bombeiro
+militar, deve ser um dos pontos de atenção. A todo tempo estes profissionais são
+submetidos a eventos estressores, sendo necessário manter a calma, mesmo diante
+de situações em que a população se encontra, na maioria das vezes, em pânico. O
+trabalho do guarda-vidas começa muito antes da entrada na água. Ele é responsável
+por reconhecer a sua área de trabalho e sinalizá-la de maneira correta; realizar ações
+de prevenção, por meio de conversas com os banhistas; repreender atitudes
+inseguras por parte dos populares; dentre outras ações.
+O guarda-vidas precisa manter o bom relacionamento com a população e, por isso,
+uma das suas qualificações é a sociabilidade. É necessário ser simpático, solícito e
+educado com os banhistas, principalmente no direcionamento da palavra. Por outro
+7 TIPOS DE SALVAMENTOS 29
+lado, em situações de risco, o guarda-vidas precisa adotar uma postura firme, a fim
+de coibir determinadas condutas.
+O salvamento aquático em si determina ações rápidas, nos momentos em que a vítima
+está em situações de risco extremo. Sendo assim, o guarda-vidas precisa apresentar
+um elevado nível de atenção difusa, grande capacidade de tomada de decisões
+conscientes, bem como a habilidade de colocar em prática, corretamente, os
+procedimentos e técnicas previamente treinados.
+6.4 Alimentação, hidratação e composição corporal
+A ingestão de nutrientes de acordo com as demandas fisiológicas dos indivíduos,
+propiciada pela alimentação, é essencial para a manutenção da boa saúde,
+principalmente das capacidades físicas. (BRASIL, 2014).
+Ainda, as necessidades nutricionais das pessoas, principalmente quando
+correlacionamos com as funções que elas desempenham, são muito variáveis,
+dependendo da idade, sexo, tamanho e nível de atividade física desempenhada.
+(BRASIL, 2014).
+Sendo assim, a alimentação, bem como a hidratação, influi diretamente em diversos
+aspectos, tais como, disposição do indivíduo, composição corporal, qualidade do
+sono, energia para a prática de exercícios físicos, concentração e assimilação de
+conhecimentos.
+No caso da alimentação e hidratação dos guarda-vidas, deve-se ter uma atenção
+especial considerando sua capacidade de atuação e pronta resposta. As quantidades
+de água ingerida devem ser ainda maiores, tendo em vista as exposições excessivas
+ao calor. Por esse motivo, o ideal é que esse profissional sempre mantenha em seu
+posto de trabalho pontos imediatos de hidratação e reposição energética.
+MANUAL DE SALVAMENTO AQUÁTICO 30
+7 TIPOS DE SALVAMENTOS
+A seguir serão apresentadas as classificações relacionadas aos tipos de salvamento
+aquático.
+7.1 Classificações do salvamento aquático
+Inicialmente podemos classificar o salvamento aquático quanto ao contato entre o
+profissional e a vítima, quanto ao tipo de socorro empregado, bem como quanto ao
+local de realização do salvamento.
+7.1.1 Quanto ao contato com a vítima
+Salvamento Indireto: é a modalidade de salvamento em que o guarda-vidas oferece
+socorro à distância. Mesmo sabendo que possui plenas condições físicas, técnicas e
+psicológicas para realizar o salvamento de forma direta, sempre que possível, devese evitar o contato corporal com a vítima, oferecendo-lhe uma maneira segura de sair
+da água, tais como: uma corda, saco de arremesso, uma boia ou um equipamento
+flutuante. É comprovado que o afogado se sente mais seguro apoiando-se em um
+material flutuante do que no próprio guarda-vidas. Entretanto, vale destacar que esse
+método não deve ser uma constante e, em hipótese alguma, um meio de se omitir ao
+dever de salvar.
+Figura 2 - Utilização do Saco de Arremesso
+Fonte: elaboração própria
+7 TIPOS DE SALVAMENTOS 31
+Salvamento Direto: é a modalidade de salvamento em que o profissional mantém
+contato direto com a vítima, fato que exige, além de treinamento adequado, preparo
+físico, técnico e psicológico.
+Figura 3 - Salvamento direto
+Fonte: elaboração própria
+7.1.2 Quanto ao tipo de socorro empregado
+Salvamento simples: é aquele caracterizado pela ação de um ou mais profissionais
+no resgate da vítima, sem a utilização de equipamentos de proteção individual, de
+flutuação, tração ou propulsão.
+Salvamento com equipamento: é aquele caracterizado pela ação de um ou mais
+guarda-vidas no resgate da vítima, com a utilização de equipamentos de proteção
+individual, de flutuação, de tração ou de propulsão. Destacamos, dentre esses
+equipamentos, as pranchas, as bóias, os tubos de salvamento (flutuação), as cordas
+e cabos (tração), nadadeiras (propulsão) e os demais equipamentos individuais
+(máscara, snorkel, acessórios de neoprene, dentre outros).
+Salvamento com embarcação: é o salvamento realizado com a utilização de
+embarcações (botes infláveis, lanchas, barcos e motoaquáticas). A aproximação
+nesse tipo de salvamento deverá ser bastante rápida. Entretanto, além de habilidade
+MANUAL DE SALVAMENTO AQUÁTICO 32
+técnica para se evitar o risco de choque da vítima com a embarcação (casco, leme ou
+hélice), deve-se atentar para que o deslocamento de massa de água não venha a
+piorar a situação.
+Salvamento com aeronave: é o salvamento realizado com a utilização de aeronaves.
+As aeronaves de asas rotativas são mais adequadas ao serviço de salvamento
+aquático, uma vez que integram velocidade e manobrabilidade, ou seja,
+deslocamentos verticais e horizontais precisos, muito utilizados para salvamento em
+cachoeiras, exigindo por sua vez muita perícia dos pilotos e auxiliares, devido à
+dificuldade do acesso.
+Salvamento conjugado: é aquele caracterizado pela ação dos mais variados meios
+e/ou materiais de salvamento aquático, visando facilitar o serviço do guarda-vidas em
+sua atividade, como exemplo: atuação simultânea de embarcações, aeronaves e
+viaturas (Unidades de Resgate).
+7.1.3 Quanto aos locais de atuação do salvamento aquático
+Salvamento em rios e águas correntes: caracterizado pela existência de água
+corrente, pedras como natureza de fundo que alteram o curso da água ao longo do
+balneário, causando refluxos e remansos que oferecem riscos adicionais, incluindo a
+sucção de vítimas para cavidades profundas devido ao aumento da vazão da água
+em determinados pontos. Exige maior perícia, resistência física e conhecimento do
+guarda-vidas. Poderá demandar ainda, emprego adicional de embarcação e do
+profissional de mergulho com todo equipamento apropriado.
+Salvamento em cachoeiras: possuem a particularidade relacionada à “cabeçad’água”, fenômeno causado pelo surgimento repentino de grande volume d’água,
+principalmente em rios que têm o leito estreito e “coneado”. No verão, com muito calor
+durante o dia, pode chover à tarde ou à noite em outro local, aumentando
+abruptamente o volume da correnteza no leito do rio. São sinais desse fenômeno:
+deslocamento de folhas secas, materiais flutuantes, sons associados à tempestades
+e presença de nuvens cinzas e carregadas próximas à cabeceira do rio. Não raro,
+exigirá do guarda-vidas uma experiência com vítimas politraumatizadas, considerando
+7 TIPOS DE SALVAMENTOS 33
+os mecanismos de traumas associados. Além do afogamento propriamente dito,
+muitas vezes será necessário o apoio de aeronaves, devido à gravidade das lesões.
+Salvamento em praias: ainda que não se integre a realidade do teatro de operações
+do CBMMG, devido às características geográficas e territoriais do estado, é
+necessário que o guarda-vidas tenha conhecimento das suas especificidades, tais
+como cuidado com corrente de retorno, rebentação de ondas, variação das marés,
+dentre outros.
+Salvamento em piscinas: exige do guarda-vidas o conhecimento adicional do
+funcionamento das piscinas, da existência e localização da casa de máquinas, dos
+pontos de vazão de água (ralos), e da proximidade de equipamentos energizados. É
+necessário ainda, orientar quanto a comportamentos de risco, como saltos
+acrobáticos, sendo indispensável a realização de inspeção tridimensional na piscina
+(largura, comprimento e profundidade). Em resumo, é importante assumir o local
+destinado à prevenção livre de qualquer situação que comprometa a segurança.
+MANUAL DE SALVAMENTO AQUÁTICO 34
+8 EQUIPAMENTOS EMPREGADOS NO SALVAMENTO AQUÁTICO
+Os equipamentos utilizados nas operações de Salvamento Aquático são ferramentas
+utilizadas para proporcionar maior segurança e eficiência nas ações. Entre os
+equipamentos utilizados, incluem-se os materiais para o resgate propriamente dito,
+bem como o uniforme do guarda-vidas, já que pode ser inserido nesse contexto, por
+facilitar a visualização do profissional em meio aos banhistas, servindo de referência
+na busca de informações diversas ou mesmo para um eventual pedido de socorro.
+Dentre os equipamentos que potencializam as ações do guarda-vidas e facilitam no
+resgate de uma vítima, os mais conhecidos são as nadadeiras, a máscara semifacial
+com snorkel e o flutuador, conforme a seguinte descrição.
+8.1 Nadadeiras
+São utilizadas pelo guarda-vidas com o objetivo de fornecer maior velocidade de
+deslocamento na água e, consequentemente, um reboque mais eficiente. As
+nadadeiras oferecem maior propulsão com emprego de menor esforço por parte do
+guarda-vidas. Predominantemente, elas são compostas de borracha, resistente à
+ação dos raios ultravioleta, garantindo-se também leveza e durabilidade. Além disso,
+é importante que possuam flutuabilidade positiva, isto é, densidade menor que a da
+água.
+Figura 4 - Tipos de nadadeiras
+Fonte: elaboração própria
+8 EQUIPAMENTOS EMPREGADOS NO SALVAMENTO AQUÁTICO 35
+Para a conservação do material, as nadadeiras devem ser lavadas com água doce e
+sabão neutro, não devendo secar com as palas apoiadas no solo ou ser seguradas
+ou penduradas pelos calcanhares. É importante que a identificação seja feita sem
+alterações ou danos às características do material. Nadadeiras com palas maiores e
+mais rígidas fornecem maior propulsão, porém, oferecem maior resistência causando
+maior desgaste físico ao profissional.
+8.2 Máscara semifacial
+A utilização da máscara semifacial permite uma melhor visualização do ambiente
+subaquático. Para tanto, é necessário que ela tenha um encaixe adequado junto ao
+rosto do guarda-vidas e tirantes de fácil regulagem que possibilitem vedação
+adequada. As máscaras atuais, para maior durabilidade, são feitas de silicone e
+apresentam vidros temperados. Para maior eficiência e facilidade na ação de
+compensação de pressão e desalagamento, não devem possuir um grande volume
+interno, considerando-se que, no caso de mergulhos, exigirá maior exalação de ar
+pelo guarda-vidas para manter equilibradas as pressões interna e externa.
+Figura 5 - Máscara semifacial
+Fonte: elaboração própria
+MANUAL DE SALVAMENTO AQUÁTICO 36
+8.3 Respirador (SNORKEL)
+A função do equipamento é proporcionar um nado mais confortável ao profissional no
+salvamento aquático. Enquanto a vítima permanercer na superfície, o olhar do guardavidas deve se manter direcionado a ela. Com o uso regular do snorkel, o profissional
+poderá, em paralelo à superfície da água, manter as suas vias aéreas submersas. Por
+outro lado, nos casos em que a vítima se encontrar submersa, o profissional terá a
+possibilidade de nadar com o olhar direcionado para o fundo, mantendo sua
+respiração regularmente.
+O snorkel é constituído de plástico rígido, com bocal de borracha ou silicone. Visando
+eficiência, o seu diâmetro, formato e comprimento devem apresentar dimensões
+adequadas, para que não ofereça ao seu usuário resistência no processo de
+respiração e de deslocamento na água. Para tanto recomenda-se que seu diâmetro
+possua cerca de 18 milímetros, com curvas suaves e que seu comprimento tenha, no
+máximo, 40 centímetros, evitando-se pressões hidrostáticas muito altas. Conforme
+Figura 6
+Figura 6 - Snorkel
+Fonte: elaboração própria
+8 EQUIPAMENTOS EMPREGADOS NO SALVAMENTO AQUÁTICO 37
+8.4 Flutuador
+Os flutuadores são equipamentos utilizados durante as operações de salvamento
+aquático e, quando empregados de forma correta, oferecem ao profissional muitas
+vantagens. Dentre elas estão:
+a) proporcionam melhor flutuabilidade, tanto para o guarda-vidas quanto para a
+vítima, de modo a diminuir o desgaste físico de ambos;
+b) possibilitam ao guarda-vidas que, no momento da abordagem, não tenha
+contato físico direto com a vítima, de modo a evitar a necessidade do uso de
+técnicas agressivas de desvencilhamento e contenção, como o judô aquático;
+c) permitem que mais de uma vítima seja resgatada por um único socorrista;
+d) facilitam a ação de abertura de vias aéreas enquanto se faz o reboque da vítima
+inconsciente, potencializando sua sobrevida;
+e) possibilitam maior contato visual e verbal com a vítima durante o reboque,
+assim como também na avaliação de seus sinais vitais.
+Atualmente, existem no mercado diversos modelos de flutuadores, dentre eles:
+a) Flutuador tipo Lifebelt;
+b) FlutRescue;
+Figura 7 - Flutuador tipo Lifebelt
+Fonte: elaboração própria
+MANUAL DE SALVAMENTO AQUÁTICO 38
+Figura 8 - Flutuador tipo FlutRescue
+Fonte: elaboração própria
+O flutuador do tipo Lifebelt é o mais utilizado no CBMMG e é constituído pelas
+seguintes partes:
+a) mosquetão e argola: peças metálicas localizadas nas extremidades do
+equipamento. O mosquetão, após se conectar à argola localizada na
+extremidade oposta, permite o fechamento adequado do dispositivo;
+Figura 9 - Mosquetão do flutuador Lifebelt
+Fonte: elaboração própria
+8 EQUIPAMENTOS EMPREGADOS NO SALVAMENTO AQUÁTICO 39
+Figura 10 - Argola do flutuador Lifebelt
+Fonte: elaboração própria
+b) corpo: parte central do equipamento que, por ser leve e flexível, permite o
+“abraçamento” da vítima. É constituído de espuma expandida microporosa de
+PVC ou de polietileno.
+Figura 11 - Corpo do flutuador Lifebelt
+Fonte: elaboração própria
+MANUAL DE SALVAMENTO AQUÁTICO 40
+c) cinto ou alça: localizado na extremidade distal do cabo ou corda, permite que
+o flutuador seja preso ao profissional. É constituído por nylon e possui cerca de
+50 mm de largura.
+Figura 12 - Cinto ou alça do flutuador Lifebelt
+Fonte: elaboração própria
+d) cabo ou corda: com cerca de 2,5 metros de comprimento, composto(a) por
+material de flutuabilidade positiva, une o corpo do flutuador ao cinto, de modo
+que permite uma maior distância de segurança entre o profissional e a vítima,
+reduzindo o risco oriundo do contato físico entre ambos.
+Figura 13 - Corda do flutuador Lifebelt
+Fonte: elaboração própria
+8 EQUIPAMENTOS UTILIZADOS NO SALVAMENTO AQUÁTICO 41
+A inspeção e preparo do equipamento antes das operações são imprescindíveis e
+garantem que o salvamento seja realizado da melhor forma possível. Para a inspeção,
+devem ser observados os seguintes pontos:
+a) checar a integridade do corpo do flutuador;
+b) tensionar o cinto e o cabo para verificar sua resistência;
+c) inspecionar o mosquetão, verificando a flexibilidade da mola durante a
+abertura.
+Após a inspeção, é importante deixar o material preparado para uso, de maneira que
+o socorrista consiga efetuar o salvamento assim que houver o acionamento.
+Figura 14 - Socorrista equipado com flutuador Lifebelt para pronto emprego
+Fonte: elaboração própria
+MANUAL DE SALVAMENTO AQUÁTICO 42
+8.5 Protetor solar
+Indispensável para manutenção da boa saúde, o produto é utilizado para proteção do
+profissional contra a ação do sol durante o serviço de guarda-vidas. Pode ser
+encontrado na forma de gel, loção ou creme e possui diversos fatores de proteção
+solar (FPS), aumentando-se a proteção na medida em que se aumenta o FPS.
+8.6 Apito
+Equipamento obrigatório para o serviço de guarda-vidas é utilizado
+predominantemente na comunicação entre profissionais e banhistas, através dos
+silvos emitidos. Dependendo da quantidade de sons emitidos, silvos curtos ou longos,
+uma informação é transmitida.
+Figura 15 - Apito
+Fonte: elaboração própria
+9 TÉCNICAS DE SALVAMENTO AQUÁTICO 43
+9 TÉCNICAS DE SALVAMENTO AQUÁTICO
+Muitas vezes, as medidas de prevenção apresentadas não são suficientes para
+impedir que um afogamento aconteça. Nesses casos, é necessário que o guardavidas esteja preparado para agir conforme os procedimentos tratados nos tópicos a
+seguir.
+9.1 Processo de afogamento
+O processo de afogamento envolve três fases distintas que podem ser interrompidas
+por meio da intervenção em sua ocorrência.
+Angústia: é a primeira fase do processo de afogamento. Nela, os banhistas são
+capazes de se manter na superfície da água empregando técnicas de natação ou com
+uso de equipamentos flutuantes. Contudo, apresentam dificuldade de se deslocarem
+até um local seguro. São capazes de gritar, acenar por socorro ou se moverem em
+direção à ajuda de terceiros. No entanto, em um primeiro momento, essas pessoas
+não percebem o real perigo a que estão submetidas. E na medida que a força do
+nadador se esgota, o estado de angústia evolui para uma outra fase.
+Pânico: na fase do pânico, devido à fadiga, completa falta de habilidade natatória ou
+algum comprometimento físico, o banhista é incapaz de manter sua flutuabilidade. Ele
+concentra toda sua energia na respiração, de forma que não consegue chamar por
+socorro. Devido à ineficiência das ações da vítima, o estágio de pânico raramente dura
+muito tempo. Por isso, o socorrista deve reagir rapidamente. Logo após a fase do
+pânico, a vítima entrará na última fase do processo de afogamento, denominada
+submersão.
+Submersão: nessa fase, diferentemente do pensamento da maioria das pessoas, as
+vítimas de afogamento não flutuam em decúbito ventral, mas sim submergem em
+direção ao fundo do balneário. Uma vez ocorrida a submersão, a chance de um
+resgate bem-sucedido diminui consideravelmente. Isto demonstra a importância de os
+socorristas estarem atentos para que a intervenção ocorra ainda na fase da angústia
+ou do pânico.
+MANUAL DE SALVAMENTO AQUÁTICO 44
+9.2 Fases do salvamento aquático
+Todo bombeiro militar, por meio de treinamento e adaptação, deve estar apto a realizar
+um salvamento aquático. O conhecimento e preparo adquiridos precisam abranger
+qualquer ambiente aquático (piscinas, lagoas, rios e cachoeiras), a qualquer tempo e
+com o emprego dos equipamentos disponíveis. O procedimento do salvamento
+aquático propriamente dito é descrito nas fases a seguir.
+Estas etapas indicam a sequência de ações do bombeiro militar para que o
+salvamento possa ser realizado com êxito:
+a) entrada na água;
+b) nado de aproximação;
+c) manobra de aproximação (canivete);
+d) abordagem da vítima (na superfície ou submersa);
+e) nado de reboque;
+f) técnicas de desvencilhamento.
+9.2.1 Tipos de entrada na água
+Existem quatro tipos de entrada consideradas para a atividade de salvamento
+aquático. São elas: a entrada de ponta, a entrada em pé, a entrada japonesa e a
+entrada pranchada.
+Considerando a realidade da atividade de salvamento aquático frente às
+características hidrográficas do estado de Minas Gerais, as entradas mais utilizadas
+são a pranchada e a japonesa, pois permitem que o militar não perca o contato visual
+com a vítima.
+Muitos lugares não apresentam boa visibilidade, não sendo recomendado efetuar
+saltos, pois podem conter pedras, bancos de areia, galhadas etc.
+Portanto, o profissional deve ser capaz de analisar e escolher a melhor entrada, de
+acordo com cada situação, de forma a executá-la de maneira segura e cuidadosa,
+9 TÉCNICAS DE SALVAMENTO AQUÁTICO 45
+evitando-se qualquer tipo de lesão. Por isso, é importante ressaltar a ação de
+reconhecimento do local em que irá atuar.
+9.2.1.1 Entrada de ponta
+A entrada de ponta é o mesmo salto realizado comumente por atletas nas piscinas.
+Apresenta a grande vantagem do ganho de deslocamento do socorrista, chegando
+mais rapidamente à vítima. Entretanto, a entrada de ponta só pode ocorrer em
+piscinas, e desde que apresentem profundidade adequada. A desvantagem desta
+entrada é a perda momentânea do contato visual com a vítima.
+9.2.1.2 Entrada em pé
+Consiste em dar um passo longo à frente, com as pernas esticadas, juntando-as em
+seguida. É utilizado por guarda-vidas que se encontrem em posição elevada em
+relação aos banhistas, a exemplo de pontes ou plataformas. Também pode ser
+utilizado no salvamento com a aeronave, mediante algumas adaptações e tomadas
+de posição específicas.
+9.2.1.3 Entrada japonesa
+A entrada japonesa é uma entrada em pé, na qual o socorrista consegue manter a
+visualização da vítima o tempo todo, uma vez que sua cabeça não adentra o meio
+líquido. É executada, inicialmente, com uma perna flexionada à frente e com os braços
+cruzados; posteriormente, ao se alcançar a água, os braços devem ser descruzados
+e abertos, permanecendo a cabeça fora d’água e ininterrupto o contato visual com a
+vítima. Esse tipo de entrada é recomendado para piscinas e margens de rios de
+conhecida profundidade e inexistência de pedras e galhos que possam oferecer riscos
+ao guarda-vidas.
+MANUAL DE SALVAMENTO AQUÁTICO 46
+Figura 16 - Técnica de entrada Japonesa - Salvamento Aquático
+Fonte: elaboração própria
+9.2.1.4 Entrada pranchada
+A entrada pranchada consiste em um salto horizontal semelhante à entrada de ponta.
+Porém, nesta técnica, deve-se manter o corpo paralelo à água, projetando os braços
+para frente com uma mão sobre a outra, de modo que a palma da mão que se encontra
+à frente, protegendo o rosto do profissional, toque a água primeiro, seguida pelo tórax.
+Nesta entrada, a cabeça se mantém o tempo todo fora da água, assegurando o
+contato visual com a vítima.
+Figura 17 - Técnica de entrada Pranchada - Salvamento Aquático
+Fonte: elaboração própria
+Essa modalidade é a mais indicada para acesso a águas turvas ou de baixa
+visibilidade, inclusive quando não se conhece a região. A vantagem desta entrada,
+assim como a japonesa, é que o profissional não perde contato visual com a vítima,
+pois permanece na superfície do meio líquido.
+Outro tipo de entrada pode ser realizado em balneários que possuam acesso por plano
+rampante, onde o guarda-vidas realiza o monitoramento visual fora da água, sendo
+9 TÉCNICAS DE SALVAMENTO AQUÁTICO 47
+possível que ele se desloque até a margem com seu equipamento, e com a água já
+na altura das pernas, se equipe e proceda com o nado de aproximação.
+Nesse tipo de entrada, o guarda-vidas também mantém contato visual ininterrupto
+com a vítima, e pode escolher o melhor local para acessar o balneário, reduzindo
+consideravelmente o tempo de resposta e o primeiro contato com a vítima.
+
+Figura 18 - Técnica de deslocamento e aproximação
+Fonte: elaboração própria
+9.2.2 Nado de aproximação
+É o deslocamento do guarda-vidas até a vítima ou próximo a ela, para a execução do
+salvamento. Essa técnica consiste em um nado semelhante ao nado crawl, porém
+com a cabeça do socorrista o tempo todo fora da água, para que não se perca o
+contato visual com a vítima.
+Figura 19 - Técnica do Nado de Aproximação
+Fonte: elaboração própria
+MANUAL DE SALVAMENTO AQUÁTICO 48
+A cabeça fora da água no nado de aproximação ocasiona um arrasto muito maior em
+relação ao nado crawl, o que leva a um gasto energético excessivo. Sendo assim, o
+guarda-vidas, mesmo tendo que ser ágil no salvamento, deverá sempre dosar a
+energia despendida na aproximação, levando-se em conta a consequente abordagem
+e reboque da vítima.
+9.2.3 Manobra de aproximação: canivete
+A manobra de aproximação denominada “canivete” é uma técnica muito eficaz quando
+o profissional precisa realizar um salvamento e não possui o material necessário. Esse
+tipo de abordagem só é possível de ser realizada em águas límpidas, pois a
+visibilidade é essencial para sua execução. O nado de aproximação é realizado no
+percurso até a vítima que ainda está na vertical e se debatendo na superfície; o
+socorrista deve nadar até ela com a cabeça fora da água, mantendo-a no campo de
+sua visão e ao se aproximar, deve executar o “canivete” para ganhar profundidade e
+evitar contato físico indesejado com a vítima.
+Figura 20 - Técnica do "Canivete"
+Fonte: elaboração própria
+O socorrista deve realizar a manobra “canivete” a uma distância de segurança de
+aproximadamente 1,5 metro da vítima. O estado de aflição comumente encontrado
+nessas situações pode ocasionar ações precipitadas, quando, por instinto, a vítima
+tenta se agarrar ao socorrista, dificultando o resgate. Depois de submergir, de frente
+para a vítima, o guarda-vidas deve colocar as mãos nos joelhos dela, forçando-a girar
+180º graus, deixando-a de costas, para então rebocá-la.
+9 TÉCNICAS DE SALVAMENTO AQUÁTICO 49
+9.2.4 Abordagem da vítima
+A abordagem é o contato direto ou indireto que o socorrista terá com a vítima, seja
+por meio de equipamentos (descrito nas Fases do Salvamento) ou, em último caso,
+corpo a corpo. Essa abordagem deve ser extremamente cautelosa, para que a vítima
+não agarre o socorrista, impedindo-o de realizar as ações de salvamento. A seguir,
+serão apresentados os procedimentos para abordagem de vítimas, tanto na superfície
+do meio líquido, quanto àquelas já submersas.
+9.2.4.1 Vítima na superfície
+Com a intenção de acalmar e orientar a vítima, a abordagem é iniciada com contato
+verbal. Dessa forma, ela se sentirá mais segura, reduzindo-se o risco de contato físico
+com o socorrista. Ainda, para minimizar o risco de ser agarrado pela vítima, o
+socorrista deve manter a distância de segurança e conhecer técnicas de
+desvencilhamento, ações que tornarão a operação mais segura. O contato deve ser
+feito, preferencialmente, de forma indireta com a utilização do flutuador, que será
+entregue para a vítima. Na ausência do flutuador, o contato deve ser feito corpo a
+corpo, o que exigirá cuidado redobrado, visto que o guarda-vidas estará mais próximo
+da vítima, que poderá agarrá-lo, dificultando o resgate.
+9.2.4.2 Vítima submersa ou inconsciente
+Nesse caso, o socorrista deve identificar o local do afogamento e o ponto exato de
+submersão da vítima, e verificadas as condições de segurança do local, buscar a
+vítima no fundo do balneário e trazê-la à superfície. Considerando as características
+predominantes de balneários, principalmente quanto ao conhecimento da natureza de
+fundo e a baixa visibilidade da água, faz-se necessária uma análise acurada anterior
+à ação de salvamento, com vistas a reduzir os riscos à ação do guarda-vidas. Para
+tanto, testemunhas oculares idôneas são fundamentais no processo de coleta de
+informações prévias à atuação do guarda-vidas.
+MANUAL DE SALVAMENTO AQUÁTICO 50
+Figura 21 - Salvamento de vítima submersa
+Fonte: elaboração própria
+Do mesmo modo, o salvamento pode ser realizado com uso de equipamentos. Em
+seguida, a estabilização deve ser realizada, afastando-se as vias aéreas da vítima do
+contato direto com a água e iniciando-se a avaliação do seu estado. Caso esteja em
+parada respiratória, ainda na água devem ser realizadas 10 insuflações de
+emergência, se possível, que serão mais eficientes no salvamento realizado em
+duplas. Após a avaliação da vítima, o guarda-vidas efetua o reboque.
+Não é recomendada a ventilação de resgate por socorristas desequipados: sem
+nadadeiras, lifebelt, dentre outros equipamentos que auxiliam na flutuação em locais
+onde não consigam ficar de pé. Caso o socorrista esteja devidamente equipado,
+mesmo que sozinho, poderá realizar as insuflações de resgate na vítima com
+eficiência e segurança.
+Vítimas que apresentem suspeita de TRM ou outros traumas, geralmente estarão
+inconscientes, desorientadas e respirando com dificuldade, apresentando reflexos de
+tosse ou vômitos. Os guarda-vidas, equipados com nadadeiras, lifebelt e máscara com
+snorkel, devem se deslocar ao encontro da vítima. No caso de vítima submersa,
+devem mergulhar para encontrá-la e trazê-la até a superfície, já com as mãos
+posicionadas na região do pescoço dela, de forma a estabilizar ao máximo a coluna
+cervical.
+Já na superfície, o guarda-vidas avaliará a respiração da vítima. Caso esteja ausente,
+posicionará o lifebelt na região das escápulas, promovendo uma espontânea
+hiperextensão e liberação das vias aéreas, e iniciará imediatamente, até 10
+insuflações de resgate, se possível.
+9 TÉCNICAS DE SALVAMENTO AQUÁTICO 51
+Posteriormente, a vítima será imobilizada em prancha longa e transportada até a
+margem para continuidade do atendimento pré-hospitalar, conforme protocolo
+específico.
+9.2.5 Nado de reboque
+O nado de reboque é aquele utilizado pelo guarda-vidas para conduzir o afogado até
+a margem. No reboque, que pode ser realizado com ou sem o emprego de nadadeiras,
+o socorrista deve permanecer atento à vítima e à proximidade da margem, sempre
+intercalando o olhar entre ambos.
+Nado de reboque sem nadadeiras: quando o socorrista não dispõe de equipamentos
+para auxiliar no socorro à vítima, o reboque é realizado com o movimento de pernas
+conhecido como pernada tipo “tesoura”, que fornece maior propulsão e conservação
+de energia, também podendo ser utilizado o estilo de pernada “livre”, fundamento do
+nado “crawl”, caso o guarda-vidas tenha possibilidades de executá-la com segurança
+e eficiência.
+Figura 22 - Técnica de pernada tipo "Tesoura"
+Fonte: elaboração própria
+O braço livre pode auxiliar no nado, aumentando o deslocamento do socorrista com a
+vítima.
+Nado de reboque com nadadeiras: a pernada com nadadeiras é a mesma realizada
+no nado crawl, variando apenas em frequência e amplitude, a depender
+principalmente do tipo de equipamento utilizado. O socorrista permanece lateralizado,
+MANUAL DE SALVAMENTO AQUÁTICO 52
+com as pernas levemente em posição diagonal, considerando o próprio peso da vítima
+rebocada sobre o corpo do guarda-vidas.
+Figura 23 - Reboque com utilização de nadadeiras
+Fonte: elaboração própria
+As imagens mostram como a cabeça da vítima fica fora da água durante o nado de
+reboque, passando uma sensação de segurança e permitindo que ela consiga respirar
+melhor.
+Figura 24 - Posicionamento da vítima durante o reboque
+Fonte: elaboração própria
+9.2.6 Técnicas de desvencilhamento
+Muitas vezes, ao se aproximar demasiadamente de uma vítima aflita, o guarda-vidas
+poderá ser agarrado por ela. Embora essa situação deva ser evitada, mantendo-se a
+distância de segurança correta durante a abordagem no salvamento, é necessário que
+o socorrista saiba se livrar no caso de um contato indesejado.
+9 TÉCNICAS DE SALVAMENTO AQUÁTICO 53
+9.2.6.1 Agarramento pela frente, nos cabelos ou pescoço
+É o caso mais comum, considerando o padrão de deslocamento e abordagem
+utilizado no Salvamento Aquático. Simultaneamente, o guarda-vidas deve segurar a
+mão da vítima e girar para fora, distanciando-as de seu corpo, torcendo-lhe o braço.
+Posteriormente, o guarda-vidas se afasta e faz nova aproximação.
+Figura 25 - Técnica de desvencilhamento
+Fonte: Próprio autor
+As técnicas de desvencilhamento devem ser evitadas ao máximo, pois a sua utilização
+indica que o socorrista cometeu erros ao se aproximar da vítima. Além disso, o
+procedimento pode ocasionar lesões na vítima e no próprio socorrista.
+9.3 Técnicas de salvamento sem o uso de equipamentos
+Reboque é o deslocamento do profissional, já com a vítima, até a margem do meio
+líquido, para em seguida proceder a sua retirada. Durante esta fase, o socorrista deve
+analisar a situação da vítima, tranquilizá-la e mantê-la com as vias aéreas fora da
+água, dando suporte para não haver submersão da face. Quando executado sem o
+uso de equipamentos, o reboque pode ser feito de duas formas: reboque peito cruzado
+ou reboque pelas axilas. A escolha do método dependerá do número de socorristas
+presentes na água.
+9.3.1 Apenas um socorrista: reboque peito cruzado
+Neste tipo de salvamento, o braço do guarda-vidas abraça a vítima por cima do ombro
+e posiciona sua mão debaixo da axila oposta. Dessa forma, o dorso da vítima entrará
+MANUAL DE SALVAMENTO AQUÁTICO 54
+em contato com a lateral do corpo do socorrista. Recomenda-se que o profissional
+assegure este contato durante todo o nado de reboque, mantendo sempre as vias
+aéreas da vítima fora da água e protegidas, em especial nos casos de ondas grandes
+e marolas. Para auxiliar no deslocamento, o socorrista utiliza sua mão livre e a técnica
+de pernada.
+Figura 26 - Técnica de reboque peito cruzado
+Fonte: Próprio autor
+9.3.2 Mais de um socorrista: reboque pelas axilas
+Nessa técnica, o primeiro socorrista procede à abordagem como se estivesse sozinho,
+realiza o “canivete” e gira a vítima; posteriormente, passa o seu braço direito por baixo
+da axila direita da vítima, apoiando-lhe a mão na região da escápula esquerda. Em
+sequência, o segundo socorrista passa o braço esquerdo por baixo da axila esquerda
+da vítima e entrelaça seus dedos na mão do primeiro socorrista. Desta forma, os dois
+socorristas poderão visualizar a vítima e mantê-la estabilizada.
+9.4 Técnicas de salvamento com uso de equipamentos
+Alguns equipamentos podem auxiliar nas operações de salvamento aquático, como o
+flutuador tipo lifebelt e nadadeiras. Para que esses materiais possam ser utilizados de
+maneira mais eficaz, foram desenvolvidas algumas técnicas específicas para o
+salvamento com o socorrista equipado. As técnicas são descritas a seguir.
+9 TÉCNICAS DE SALVAMENTO AQUÁTICO 55
+9.4.1 Reboque com flutuador
+O reboque com a utilização de flutuador é mais fácil e mais seguro que o reboque sem
+uso de equipamentos. O guarda-vidas, tendo inspecionado e preparado seu material
+anteriormente, ao avistar um possível afogamento, inicia o seu deslocamento,
+conforme imagens da Figura 27. Após liberar a corda do equipamento, o socorrista
+solta o flutuador ao seu lado e faz a entrada na água. À medida que o socorrista realiza
+o nado de aproximação, o flutuador é conduzido em condições para uso no resgate.
+Figura 27 - Reboque utilizando o flutuador do tipo Lifebelt
+Fonte: elaboração própria
+Ao se aproximar da vítima, o socorrista mantém distância de segurança, recupera o
+flutuador pela corda (sem perder contato visual com a vítima) e estabelece um primeiro
+diálogo, acalmando-a. Em seguida, o socorrista deve oferecer o flutuador à vítima e
+pedir para que ela o coloque embaixo das axilas, ou envolvê-la com o corpo do
+equipamento. Vale destacar, que o flutuador não deve ser arremessado, pois pode
+causar algum ferimento na vítima.
+O socorrista então deve prender o mosquetão do flutuador na argola, de modo a
+envolver o corpo da vítima. Como os flutuadores normalmente possuem duas argolas,
+é possível regulá-lo de acordo com o tamanho da vítima.
+Após efetuar o posicionamento correto do flutuador, deve-se rebocar a vítima até a
+margem ou borda. O socorrista deve se posicionar atrás da vítima, o mais próximo
+possível, segurando firmemente o flutuador. É importante frisar que não se deve
+segurar apenas o mosquetão ou a argola.
+MANUAL DE SALVAMENTO AQUÁTICO 56
+No reboque, o socorrista deve estar atento à vítima e à margem, sempre intercalando
+o olhar entre ambos. Também deve-se ter em mente que a vítima pode perder a
+consciência ou até mesmo escorregar pelo flutuador. Além disso, é necessário
+procurar o melhor lugar para retirá-la, considerando que correntezas ou correntes de
+retorno dificultam o nado e o direcionamento.
+9.4.2 Isca-viva
+A técnica denominada “Isca-viva” é utilizada na abordagem e retirada de vítimas em
+águas rápidas (correnteza de rios ou enchentes). Portanto, somente deverá ser
+realizada após minuciosa avaliação do cenário e descartada as opções de resgate por
+terra, pelas margens ou com a utilização de embarcação. A técnica envolve muitos
+riscos, pois exige do socorrista elevado preparo físico e técnico específico para o
+salvamento em águas rápidas. O profissional deverá se aparelhar com todos os
+equipamentos de proteção individual necessários para o salvamento em águas
+rápidas e portar o colete flutuador específico, com o devido sistema para conexão do
+cabo de resgate nas costas em uma argola de aço, criando assim, o sistema de isca
+viva, como demonstrado no vídeo abaixo.
+Figura 28 - Utilização da técnica "isca-viva" para salvamento aquático em águas rápidas
+Fonte: elaboração própria
+O cabo de resgate que cria o sistema de isca viva ficará com o primeiro guarda-vidas,
+que estará nas margens ou sobre uma superfície estável. No momento em que a
+vítima passar em frente ao segundo guarda-vidas, ele executará uma entrada
+pranchada e, com o nado ofensivo, vai ao encontro dela. O cabo não deve ser
+tensionado até que o segundo guarda-vidas faça contato direto com a vítima e sinalize
+o resgate. Posteriormente, o primeiro guarda-vidas tracionará o cabo de resgate,
+9 TÉCNICAS DE SALVAMENTO AQUÁTICO 57
+trazendo o segundo guarda-vidas e vítima até a margem. É recomendado que após a
+abordagem da vítima, o cabo seja ancorado em ponto específico, considerando a
+possibilidade do aumento da força da correnteza.
+9.5 Retirada da vítima
+Uma vez realizada a abordagem e o reboque da vítima até a margem, é necessário
+retirá-la do meio aquático. A seguir, serão apresentadas as técnicas de retirada de
+vítimas de piscinas com bordas retas.
+9.5.1 Retirada de vítimas de piscinas
+Após realizar o reboque, chegando à borda, o socorrista irá passar as mãos por baixo
+das axilas da vítima, segurando-a rente à piscina e colocando suas mãos em cima
+das mãos da vítima. Ainda segurando os braços da vítima na borda, o socorrista se
+retira da água e, em seguida, cruza o seu braço e segura nos punhos da vítima.
+Posteriormente, retira a vítima da água, fazendo-a girar 180º e ficar sentada de costas
+para o socorrista. Na sequência, com os dois braços por baixo das axilas e uma das
+mãos apoiando o queixo da vítima, fará o deslocamento para trás, afastando a vítima
+da piscina. O socorrista então apoiará as costas da vítima e, protegendo a sua cabeça,
+a deitará lentamente. Em seguida, colocará a vítima na posição lateral de segurança.
+Figura 29 - Retirada de vítima da piscina
+Fonte: elaboração própria
+Nessa posição, a vítima deve estar deitada na lateral e de frente para a piscina, pois
+visualizar o meio líquido e perceber que está fora dele, contribuirá para que ela se
+sinta mais segura e se acalme. Além disso, a posição lateralizada para o lado direito
+MANUAL DE SALVAMENTO AQUÁTICO 58
+permite um melhor escoamento da água do pulmão esquerdo, facilitando a respiração
+e recuperação da vítima.
+9.5.2 Retirada de vítimas de balneários
+Na retirada de vítimas da água em balneários que possuam plano rampante, é
+possibilitado ao guarda-vidas caminhar para fora da água. A imobilização é realizada
+de maneira a preservar o estado da vítima, e deve ser utilizada nos casos em que não
+haja suspeita de trauma adicional.
+Figura 30 - Retirada da vítima da água
+Fonte: elaboração própria
+9.6 Meios de improviso e de fortuna
+As técnicas de improviso no salvamento aquático são empregadas quando se
+considera que o uso das técnicas tradicionais pode gerar demasiado risco para os
+socorristas ou ser ineficiente no contexto do salvamento em questão.
+Entretanto, apesar de serem adequados a cada caso prático, os meios de improviso
+seguem princípios gerais e, em certa medida, podem ser sistematizados. Isso posto,
+faz-se necessária a reprodução desse conhecimento entre os profissionais, para que
+saibam, inclusive, como e quando improvisar no salvamento aquático.
+Nos meios de fortuna, uma vez que se busca diminuir os riscos para o socorrista, não
+há contato direto entre ele e a vítima. Dessa maneira, utilizando-se de alguma
+ferramenta, procura-se estabelecer o contato indireto com a vítima. Nesse momento,
+deve-se guiar pelo princípio fundamental dos meios de improviso, garantindo-se
+9 TÉCNICAS DE SALVAMENTO AQUÁTICO 59
+estabilidade (posição correta, equilibrada e segura sobre a superfície da água) e
+flutuabilidade (permanência sobre a superfície da água) para a vítima. Assim, por
+exemplo, podem ser utilizados diversos materiais: boias, pranchas de natação,
+cordas, garrafas pet vazias, hastes, entre outros.
+9.7 Técnicas de comunicação
+Para o desenvolvimento de ações de prevenção de maneira efetiva, bem como para
+o acionamento breve e mobilização de recursos de resposta nos casos em que o
+afogamento ocorre, a comunicação clara, célere e efetiva será fator preponderante no
+sucesso das ações dos guarda-vidas.
+9.7.1 Comunicação sonora
+De maneira prática e simplificada, o apito pode ser utilizado para estabelecimento de
+comunicação tanto entre guarda-vidas empenhados em seus postos de trabalho,
+quanto entre profissionais e banhistas, considerando a facilidade de emprego e
+alcance de um número maior de pessoas.
+Deste modo, com foco em estabelecer alertas aos banhistas e suprimir riscos durante
+a atuação dos guarda-vidas, o apito deverá ser empregado da seguinte maneira:
+a) utilização de 2 (dois) silvos curtos: advertência ao banhista, devendo ser
+utilizado em situações em que o banhista necessite ser orientado para que
+retorne a área de segurança delimitada previamente ou quando esteja
+adotando comportamentos de risco, como saltos em locais indevidos. Como
+exemplos, nos casos de banhistas estejam fora da área de segurança
+delimitada pelas boias, nadando próximo a correntes, saltando em locais
+próximos a pedras ou de baixa profundidade etc.;
+b) utilização de 1 (um) silvo longo: sinalização para acionamento de resgate ou
+quando se confirma um afogamento em andamento. Quando utilizado, os
+guarda-vidas devem identificar o local onde ocorre o afogamento e empregar
+as ações de resposta necessárias.
+MANUAL DE SALVAMENTO AQUÁTICO 60
+9.7.2 Comunicação gestual
+Para os casos em que há necessidade de comunicar situações diversas, com um
+número maior de informações a serem repassadas, mantendo-se a clareza e
+celeridade da informação, deve ser empregada a comunicação por gestos.
+Esse tipo de comunicação torna-se necessário principalmente nos casos que a
+comunicação sonora se apresenta ineficaz dadas as características do local, distância
+entre os envolvidos, localização dos postos ou até mesmo a limitação de informações
+possíveis de serem transmitidas por meio do apito.
+A comunicação gestual permitirá uma visualização a distâncias maiores, maior clareza
+na informação a ser transmitida e, além disso, uma gama maior de informações que
+podem ser definidas por meio dos gestos.
+É, portanto, recomendável que previamente ao empenho dos guarda-vidas, todos
+tenham ciência dos sinais e seus significados, e da mesma maneira, saibam executálos. Do mesmo modo, nas ações de prevenção, o público alvo também deve ser
+orientado quanto aos gestuais de comunicação, uma vez que esses sinais também
+serão direcionados aos banhistas em situações diversas.
+Por meio de uma recomendação e padronização entre os diversos atores envolvidos
+no Salvamento Aquático, a SOBRASA define os sinais de direção e posicionamento
+e sinais de situação, adequados para emprego em cada evento, com vistas a facilitar,
+acelerar e efetivar a comunicação de forma padronizada durante as ações de socorro
+(SZPILMAN et. al., 2017).
+Considerando as características dos balneários em que o CBMMG realiza suas
+operações, alguns dos sinais estabelecidos pela SOBRASA serão utilizados, a saber:
+a) gesto 1 - Feito pelo guarda-vidas que se encontra dentro da água: um dos
+braços levantado, estático, perpendicular à superfície e com a palma da mão
+voltada para o guarda-vidas fora da água, indica necessidade de apoio de outro
+guarda-vidas no local;
+9 TÉCNICAS DE SALVAMENTO AQUÁTICO 61
+b) gesto 2 - Feito pelo guarda-vidas que se encontra dentro da água: mãos
+levantadas, cruzando os antebraços acima da cabeça, com as mãos
+espalmadas voltadas para o guarda-vidas fora da água, indica que a vítima
+encontra-se submersa, sendo necessário acionamento de suporte avançado;
+c) gesto 3 - Feito pelo guarda-vidas tanto dentro da água quanto fora da água:
+mão que direciona o local do socorro estendida horizontalmente, paralela à
+água e outro braço estendido verticalmente fazendo um giro horário indica a
+necessidade de socorro imediato e o local onde a vítima se encontra;
+d) gesto 4 - Feito pelo guarda-vidas fora da água: os dois braços levantados e
+estendidos verticalmente, voltados para a água, indica a necessidade de o
+guarda-vidas localizado dentro da água se afastar do guarda-vidas que emite
+o sinal;
+e) gesto 5 - Feito pelo guarda-vidas fora da água: um braço levantado e estendido
+verticalmente, voltado para a água indica a necessidade de o guarda-vidas
+localizado dentro da água se aproximar do guarda-vidas que emite o sinal;
+f) gesto 6 - Feito pelo guarda-vidas fora da água: um braço estendido
+horizontalmente para direção desejada, paralelo ao solo, com a palma da mão
+voltada para o guarda-vidas localizado dentro da água, com o outro braço na
+vertical, perpendicular ao solo, movimentando-se horizontalmente indica a
+necessidade e a direção do deslocamento, devendo o guarda-vidas prosseguir
+para a direção apontada pelo braço estendido paralelo ao solo;
+g) gesto 7 - Feito pelo guarda-vidas fora da água: ambos os braços estendidos
+horizontalmente, paralelos ao solo, com a palma da mão voltada para a água
+indica que o guarda-vidas na água deve parar no local onde está.
+Figura 31 - Comunicação gestual
+Fonte: adaptado de Szpilman et. al. (2017)
+MANUAL DE SALVAMENTO AQUÁTICO 62
+10 CLASSIFICAÇÃO DO AFOGAMENTO
+Os afogamentos podem ser classificados por diferentes variáveis. É possível
+diferenciá-los quanto ao local onde ocorrem, quanto às causas e quanto à gravidade
+de cada caso (SZPILMAN, 2019).
+O local de afogamento se diferencia entre água salgada (praias litorâneas), água doce
+(rios, córregos, lagoas, quedas d’água) e outros tipos de líquidos/ambientes.
+Considerando a realidade do estado, e sua já mencionada disponibilidade hídrica, o
+afogamento em água doce é o que representa os dados mais significativos do
+incidente.
+Quanto à causa, os afogamentos se dividem em primário e secundário. Afogamento
+primário é aquele no qual a aspiração de líquido pelas vias aéreas ocorre sem que
+haja uma causa precipitante, causando o quadro de asfixia, e ocorre em
+aproximadamente 90% dos casos (MINAS GERAIS, 2017).
+De acordo com os dados da SOBRASA, considerando a inexistência de uma patologia
+anterior, esse tipo de afogamento está intimamente associado à falta de capacidades
+natatórias dos indivíduos e habilidades básicas, ou até mesmo a uma superestimação
+de suas capacidades ou subestimação do ambiente (SZPILMAN, 2019).
+O afogamento secundário, por sua vez, exige que anteriormente ao incidente haja
+uma patologia causadora, seja esta clínica ou traumática, que impeça o indivíduo de
+se manter na superfície ou manter a sua capacidade de flutuabilidade (SZPILMAN,
+2019).
+Nessa seara, compreendem-se os afogamentos associados ao uso ou abuso das
+bebidas alcoólicas, que comprometem o sistema nervoso e respostas motoras
+adequadas, seguidos pelos cenários que oferecem riscos como balneários profundos,
+locais com terrenos acidentados ou elevações, que podem ser fatores determinantes
+num acidente fatal.
+10 CLASSIFICAÇÃO DO AFOGAMENTO 63
+Nesse sentido, para identificar qual a situação e o acometimento à saúde da vítima
+após o afogamento, foi definida uma metodologia de classificação e tratamento,
+conforme sinais e sintomas apresentados. A vítima é classificada em diferentes graus,
+recebendo em cada um deles o tratamento mais adequado para seu quadro clínico.
+Quanto à gravidade, os afogamentos se dividem em 7 graus, com progressivo
+agravamento do quadro à medida que se aumenta o grau, sendo proporcional também
+à complexidade do tratamento indicado para cada caso.
+Conforme protocolo P-501 relacionado ao afogamento, regulado pela ITO 23 -
+Atendimento Pré-Hospitalar, os afogamentos se dividem conforme o Quadro 1 e a
+Figura 32 abaixo:
+Quadro 1 - Grau do Afogado
+Grau Sinais
+0 - Grau de Resgate
+SEM tosse, SEM espuma na boca / nariz NEM dificuldades
+na respiração
+1 Tosse SEM espuma na boca / nariz.
+2 POUCA espuma na boca / nariz.
+3
+GRANDE quantidade de espuma na boca / nariz,
+COM pulso radial.
+4
+GRANDE quantidade de espuma na boca / nariz,
+pulso radial NÃO PALPÁVEL.
+5 Parada RESPIRATÓRIA, COM pulso CAROTÍDEO.
+6 Parada cardiorrespiratória (PCR).
+Já cadáver Afogamento > 1 hora e/ou sinais evidentes de morte.
+Fonte: adaptado de (SZPILMAN, 2019).
+MANUAL DE SALVAMENTO AQUÁTICO 64
+Figura 32 - Fluxograma: identificação dos graus de afogamento
+Fonte: elaboração própria
+11 TRATAMENTO 65
+11 TRATAMENTO
+Quando da retirada da vítima do meio aquático, faz-se necessário realizar o
+tratamento adequado ao caso específico, identificando-se o Grau de Afogamento de
+acordo com a sua gravidade e adotando-se o respectivo tratamento detalhado,
+preconizado no protocolo P-602, contido na ITO 23 - Atendimento Pré-Hospitalar.
+Conforme o Quadro 2 a seguir:
+Quadro 2 – Tratamento
+Grau Sinais Tratamento
+Resgate
+- Susto;
+- Sem tosse, sem espuma,
+sem dificuldade respiratória
+- Avaliação, orientação seguida de liberação
+1
+- Tosse;
+- Sem espuma
+- Repouso;
+- Aquecimento;
+- Confortar e tranquilizar o paciente;
+- Liberação após a recuperação
+2
+- Pouca espuma na boca e
+no nariz
+- Oxigênio a 5L/min, com catéter nasal;
+- Repouso;
+- Aquecimento;
+- Confortar e tranquilizar o paciente;
+- Encaminhar para o hospital
+3
+- Muita espuma na boca e
+no nariz;
+- Presença de pulso radial
+- Oxigênio a 15L/min, com máscara de nãoreinalação;
+- Posição lateral de segurança sobre o lado direito;
+- Aquecimento;
+- Encaminhar para o hospital
+4
+- Muita espuma na boca e
+no nariz;
+- Ausência de pulso radial
+- Oxigênio a 15L/min, com máscara de nãoreinalação;
+- Observar respiração: caso evolua para PR, utilizar
+oxímetro;
+- Posição lateral de segurança sobre o lado direito;
+- Encaminhar para o hospital
+MANUAL DE SALVAMENTO AQUÁTICO 66
+5
+- PR (ainda há sinal de
+circulação sanguínea)
+- Trate na sequência ABC (afogamento presenciado)
+ou CAB (afogamento não presenciado);
+- Ventilar com BVM com oxigênio a 15L/min,
+monitorando com oxímetro;
+- Se retornar a respiração espontânea, tratar como
+grau 4;
+- Se a PR evoluir para PCR, realizar RCP conforme
+protocolo específico
+6 - PCR
+- Trate na sequência ABC (afogamento presenciado)
+ou CAB (afogamento não presenciado);
+- Ao retirar o paciente da água, caso o socorrista
+verifique PCR, efetuar 10 ventilações de resgate com
+a vítima ainda na água, caso seja possível realizar
+com segurança;
+- Após retirar da água, realizar VOS e fornecer 5
+ventilações de resgate;
+- Verificar ABC, e caso não haja pulso, realizar RCP
+com DEA, conforme protocolo específico;
+Já cadáver
+- Afogamento superior a 1h,
+ou sinais evidentes de óbito
+- Acionar perícia
+Fonte: adaptado de Minas Gerais (2017)
+11.1 Afogamento grau resgate
+Vítima sem tosse, sem espuma na boca/nariz, sem dificuldade na respiração.
+a) libere a vítima do local sem maiores recomendações, somente, se o paciente
+estiver consciente e orientado, sem alterações na frequência cardíaca (BPM),
+na respiração (IRPM), na ausculta pulmonar e, se após análise, não houver
+presença de sintomas de afogamento, doenças ou traumas associados;
+b) libere a vítima do local com recomendações de ser acompanhada por médico
+a nível ambulatorial, se, após resgate, a vítima apresentar pequenas queixas.
+11 TRATAMENTO 67
+11.2 Afogamento Grau 1
+Vítima não apresenta espuma na boca e nariz:
+a) repouso, aquecimento e medidas que visem o conforto e tranquilidade do
+paciente;
+b) monitore sinais vitais e realize ausculta pulmonar;
+c) libere a vítima do local, com recomendações de ser acompanhada por médico
+a nível ambulatorial, se após 15 a 30 minutos de observação do paciente, ele
+esteja sem queixas, sem tosse, com sinais vitais dentro dos parâmetros de
+normalidade, perfusão capilar e ausculta pulmonar normais;
+d) caso o paciente não melhore após a observação, encaminhe-o para unidade
+de saúde.
+Figura 33 - Afogado Grau 1
+Fonte: elaboração própria
+Figura 34 - Verificação de pulso com oxímetro
+Fonte: elaboração própria
+MANUAL DE SALVAMENTO AQUÁTICO 68
+11.3 Afogamento Grau 2
+Vítima apresenta tosse e pouca espuma na boca e nariz:
+a) oxigênio a 5 l/min - com cateter nasal ou, se incômodo ao paciente, máscara
+facial simples;
+b) aquecimento corporal, posição de segurança sobre o lado direito, repouso e
+tranquilização da vítima;
+c) encaminhar para unidade de saúde.
+Figura 35 - Afogado Grau 2
+Fonte: elaboração própria
+Figura 36 - Administração de O2
+Fonte: elaboração própria
+11 TRATAMENTO 69
+11.4 Afogamento Grau 3
+Vítima apresenta tosse e muita espuma na boca e nariz:
+a) oxigênio a 15 l/min, com máscara de não reinalação;
+b) posição lateral de segurança sobre o lado direito e aquecimento corporal;
+c) monitore os sinais vitais e ausculta pulmonar;
+d) encaminhamento para o hospital e/ou acionamento de apoio de suporte
+avançado de vida, conforme preconiza a ITO 23 - Atendimento Pré-Hospitalar.
+Figura 37 - Afogado Grau 3
+Fonte: elaboração própria
+Figura 38 - Posição lateral de segurança
+Fonte: elaboração própria
+MANUAL DE SALVAMENTO AQUÁTICO 70
+Figura 39 - Administração de O2
+Fonte: elaboração própria
+11.5 Afogamento Grau 4
+Vítima com muita espuma na boca e nariz e não apresenta pulso radial:
+a) oxigênio a 15 litros/min, com máscara de não reinalação, no local do acidente.
+b) monitore a respiração com atenção - pode haver parada respiratória; utilize o
+oxímetro de pulso;
+c) posição lateral de segurança sobre o lado direito e aquecimento corporal;
+d) monitore os sinais vitais e ausculta pulmonar.
+e) encaminhamento para o hospital e/ou acionamento de apoio de suporte
+avançado de vida, conforme preconiza a ITO 23 - Atendimento Pré-Hospitalar.
+Figura 40 - Administração de O2
+Fonte: elaboração própria
+11 TRATAMENTO 71
+11.6 Afogamento Grau 5
+A vítima está em Parada Respiratória - PR:
+a) verifique o sinais e proceda conforme detalha o protocolo P-602, contido na ITO
+23 - Atendimento Pré-Hospitalar, para vítimas de afogamento em parada
+respiratória;
+b) ventile o paciente usando BVM com O2 a 15 l/min e utilize oxímetro de pulso;
+c) após retornar à respiração espontânea, posicione sobre o lado direito e trate
+como grau 4 e aguarde deslocamento se não tiver Unidade de Resgate (UR)
+disponível, se UR disponível, transporte para unidade de saúde.
+Figura 41 - Ventilação de Resgate
+Fonte: elaboração própria
+11.7 Afogamento Grau 6
+Vítima em parada cardiorrespiratória - PCR:
+a) verifique o sinais e proceda conforme detalha o protocolo P-602, contido na ITO
+23 - Atendimento Pré-Hospitalar, para vítimas de afogamento em parada
+cardiorrespiratória;
+b) realize RCP;
+c) acionar Suporte Avançado de Vida (SAV);
+MANUAL DE SALVAMENTO AQUÁTICO 72
+d) após sucesso da RCP, com retorno da consciência, trate como grau 4 e
+transporte para unidade de saúde.
+Figura 42 - Ressuscitação cardiopulmonar - RCP
+Fonte: elaboração própria
+Alguns aspectos devem ser observados para o melhor desenvolvimento do tratamento
+adequado a cada vítima. Nos casos em que o socorrista presencia o processo de
+afogamento, retirando a vítima da água por meio do salvamento aquático, deve-se
+executar o procedimento como indicado acima.
+Caso o socorrista tenha o primeiro contato com a vítima quando esta já estiver fora da
+água, o atendimento deve ser iniciado pela verificação do pulso, permitindo que casos
+de PCR sejam identificados de maneira mais célere.
+E para os casos em que o paciente ainda estiver na água e não apresentar
+movimentos respiratórios, o socorrista deverá fornecer até 10 ventilações antes da
+retirada da água, quando for possível executar o procedimento com segurança.
+12 ATENDIMENTO A VÍTIMAS DE AFOGAMENTO COM SUSPEITA DE TRAUMA ASSOCIADO 73
+12 ATENDIMENTO A VÍTIMAS DE AFOGAMENTO COM SUSPEITA DE TRAUMA
+ASSOCIADO
+Considerando as características do balneário, somadas à avaliação inicial do estado
+de saúde da vítima de afogamento, e sinais considerados a partir do mecanismo da
+lesão, os socorristas podem se deparar com uma vítima de afogamento com trauma
+associado, como ocorre em alguns casos de afogamento secundário, que advêm de
+uma causa precipitante. Esse tipo de ocorrência é mais comum em locais com a
+presença de quedas d’água, devido à variação de altura nas áreas utilizadas pelos
+banhistas.
+De acordo com o MABOM APH - Volume I, nos casos em que se identificar sinais de
+trauma associado e, em observância aos procedimentos definidos, as seguintes ações
+deverão ser realizadas pelos socorristas (MINAS GERAIS, 2018).
+Primeiro passo: abordagem do paciente, estabilizando-se a cervical e realizando o
+giro para se verificar a respiração. Ato contínuo, mantendo-se a estabilização da
+cervical, alinha-se a vítima ao nível da superfície da água e coloca-se o colar cervical.
+Em seguida, com a vítima estabilizada pelos socorristas 2 e 3, o socorrista 1 realiza a
+colocação da prancha por baixo da vítima, e em ato contínuo, os dois flutuadores,
+devidamente dispostos sob a prancha longa pelos socorristas sendo um na altura do
+tórax e outro próximo ao joelho do paciente. Os guarda-vidas auxiliares, com a vítima
+estabilizada, posicionam os tirantes e posteriormente o imobilizador de cabeça. Por
+fim, a vítima será socorrida seca e aquecida para que, em seguida, seja reavaliada.
+Figura 43 - Atendimento a vítimas de afogamento com suspeita de trauma associado
+Fonte: elaboração própria
+MANUAL DE SALVAMENTO AQUÁTICO 74
+13 CONDUÇÃO PARA ATENDIMENTO HOSPITALAR
+Uma adequada previsão e preparo que permitam levar o equipamento médico à vítima
+ao invés de conduzi-la ao hospital podem garantir um tempo determinante para quem
+sofre um afogamento. Nos casos em que o afogado aspira pequenas quantidades de
+água, poderá se recuperar de maneira gradativa e natural quando retirado do meio
+líquido. São diversos os cuidados médicos exigidos para cada caso, incluindo
+acompanhamento até o hospital, tratamento e prognóstico.
+Porém, qualquer atendimento, mesmo aqueles que demandarem suporte médico
+avançado, se dará predominantemente no local do incidente, de modo que as
+decisões acerca do atendimento vão se basear na observação de aspectos como:
+a) estado de consciência da vítima;
+b) local do afogamento;
+c) classificação do afogamento.
+Caso a vítima esteja consciente ainda dentro da água, será resgatada e conduzida
+para a área seca para que sejam iniciados os procedimentos de primeiros socorros.
+Entretanto, caso a vítima esteja inconsciente, são exigidos cuidados complementares.
+Faz-se necessário verificar a profundidade da água, a fim de avaliar possíveis traumas
+na cabeça e na coluna; checar a respiração e, caso esteja ausente, iniciar ciclos de
+até 10 ventilações; verificar ainda outros motivos para a perda da consciência, dentre
+eles: ataque cardíaco, mal súbito ou outro mal. Na área seca, o socorrista poderá
+inferir de forma adequada o grau de afogamento e fornecer o SBV (suporte básico de
+vida).
+Após o resgate, avaliação inicial e primeiro atendimento, o socorrista adotará 4
+possíveis procedimentos, conforme previsto no protocolo de atendimento préhospitalar, dentre eles estão:
+a) liberar a vítima sem maiores recomendações: indicado para afogamentos
+de Grau Resgate. Nesses casos, os afogados não apresentam maiores
+complicações, a respiração e a circulação voltam ao normal após o período de
+13 CONDUÇÃO PARA ATENDIMENTO HOSPITALAR 75
+observação, e os pacientes não apresentam outras variações significativas em
+seus dados vitais;
+b) liberar a vítima e recomendar acompanhamento médico a nível ambulatorial:
+indicado para afogamentos de Grau Resgate e Grau 1. O afogado, após
+resgate, apresenta pequenas queixas e pequenos traumas associados, dispõe
+de meios próprios para se locomover ao hospital e pequenos traumas que o
+impossibilitam de andar;
+c) acionar o suporte básico/avançado de vida e encaminhar diretamente para o
+hospital: qualquer paciente com trauma associado e vítimas de afogamento a
+partir do Grau 1, com exceção àqueles que após 30 minutos de observação
+não mais apresentem queixas ou alterações em seus sinais vitais, devendo,
+entretanto, recomendar acompanhamento médico a nível ambulatorial. O
+encaminhamento ao hospital dessas vítimas se deve ao fato de que os efeitos
+adversos da presença de água nos pulmões podem se manifestar tardiamente.
+Além disso, é necessário ainda encaminhar ao atendimento pacientes que
+perderam a consciência, que tenham suspeita de comorbidades que ofereçam
+complicações e que apresentem dificuldades de locomoção.
+d) quando o paciente se encontra submerso a mais de 1 hora ou apresenta sinais
+evidentes de óbito, tais como rigor mortis e livor mortis: o socorrista não inicia
+nenhuma manobra de ressuscitação e solicita apoio adequado de órgão
+competente para encaminhamento do corpo ao Instituto Médico Legal (IML).
+Todo e qualquer atendimento hospitalar só será possível se o socorrista realizar os
+primeiros procedimentos, sendo esses, portanto, o elo mais importante da cadeia de
+socorro. Durante o atendimento intra-hospitalar é importante informar, entre outros
+dados, a temperatura da água, o tempo de submersão e se a vítima apresentou
+parada respiratória ou parada cardiorrespiratória.
+MANUAL DE SALVAMENTO AQUÁTICO 76
+14 ATUAÇÃO DO GUARDA-VIDAS EM ÁGUAS POLUÍDAS E OUTROS RISCOS
+ASSOCIADOS
+Tendo em vista o dever constitucional atribuído ao Bombeiro Militar, considerando-se
+riscos, peculiaridades e principalmente a possibilidade de se resgatar a vítima com
+vida, não são raros os casos de conflito na tomada de decisão relativa ao salvamento
+em águas poluídas ou impróprias para banho.
+Decidir entre atuar ou cessar os esforços de busca e salvamento de uma vítima é
+notoriamente difícil, pois não existe fator único que determine a interrupção ou
+continuidade das ações. Por outro lado, tendo em vista os riscos envolvidos frente à
+improvável projeção de êxito na execução da atividade, não é viável a exposição ao
+perigo sem que haja evidência clara de possibilidade de vida da vítima. Em algumas
+situações, por exemplo, lesões traumáticas maciças, rigor mortis, putrefação ou
+submersão por tempo superior a 1 hora, fica clara a impossibilidade de se encontrar
+uma pessoa com vida.
+Diante disso, é necessário um estudo por parte do CBMMG para conceituar os riscos
+da atividade, bem como uma gestão adequada das operações em ambientes dessa
+natureza.
+Considerando a necessária previsão de segurança para o efetivo empenhado nas
+ocorrências, as ações operacionais que envolvem o planejamento para atuação e
+salvamento de vítimas em águas poluídas e balneários impróprios para banho devem
+levar em consideração diversos fatores.
+Inicialmente, é primordial definir quais são aquelas águas impróprias para banho. As
+águas destinadas à balneabilidade (recreação de contato primário) terão suas
+condições avaliadas nas categorias própria e imprópria. As águas consideradas
+próprias poderão ser subdivididas nas seguintes categorias: excelente, muito boa e
+satisfatória, variando de acordo com critérios estabelecidos pela RESOLUÇÃO nº 274,
+de 29 de novembro de 2000, do Conselho Nacional do Meio Ambiente. (BRASIL,
+2000).
+14 ATUAÇÃO DO GUARDA-VIDAS EM ÁGUAS POLUÍDAS E OUTROS RISCOS ASSOSSIADOS 77
+As águas serão consideradas impróprias quando no trecho avaliado for verificada a
+ocorrência de critérios também estabelecidos pelo CONAMA, dentre os quais, para o
+CBMMG, vale destacar:
+a) incidência elevada ou anormal na região de enfermidades transmissíveis por
+via hídrica, indicada pelas autoridades sanitárias;
+b) presença de resíduos ou despejos, sólidos ou líquidos, inclusive esgotos
+sanitários, óleos, graxas e outras substâncias, capazes de oferecer riscos à
+saúde ou tornar desagradável a recreação;
+c) floração de algas ou outros organismos, até que se comprove que não
+oferecem riscos à saúde humana;
+d) outros fatores que desaprovem, temporária ou permanentemente, o contato
+primário, por exemplo: derramamento de óleo e extravasamento de esgoto;
+ocorrência de toxicidade e, no caso de águas doces, a presença de moluscos
+transmissores potenciais de esquistossomose, dentre outras doenças de
+veiculação hídrica.
+14.1 Riscos
+Todos os fatores anteriormente citados estão vinculados a riscos específicos que
+darão as características necessárias ao balneário para que sejam definidos como
+impróprios para banho, com segue:
+14.1.1 Riscos biológicos
+Caracterizados por patologias como amebíase, giardíase, criptosporidíase,
+gastroenterite, febres tifóide e paratifóide, hepatites virais A e B, cólera, leptospirose,
+esquistossomose. São doenças causadas especificamente por microrganismos vivos,
+de veiculação hídrica, que podem ocorrer pela ingestão ou pelo contato direto com a
+pele e mucosas das pessoas envolvidas.
+MANUAL DE SALVAMENTO AQUÁTICO 78
+14.1.2 Riscos químicos (toxinas e metais pesados)
+São considerados riscos químicos aqueles relacionados com a presença de toxinas
+existentes em águas, a exemplo daquelas produzidas pelas algas cianofíceas ou
+cianobactérias que proliferam em águas poluídas pelo esgoto humano. O contato
+direto com a pele pode resultar em irritação ou erupções, inchaço dos lábios, irritação
+dos olhos e ouvidos, dor de garganta, inflamações nos seios da face e asma. Ingerir
+água com cianobactérias tóxicas pode provocar náuseas, vômitos, dores abdominais,
+diarreias, complicações no fígado e fraqueza muscular.
+Ainda se inserem no rol dos riscos, aqueles relacionados com o despejo de resíduos
+químicos, agrotóxicos e metais pesados em rios e represas, nem sempre de fácil
+identificação, por se desenvolverem de forma lenta, além de contaminarem peixes e
+outros animais. Os metais pesados podem causar doenças relacionadas ao sistema
+nervoso e sensorial. Contatos frequentes e ingestão de águas contendo metais
+pesados podem fazer com que esses elementos se acumulem no organismo da
+pessoa, aumentando a possibilidade de doenças.
+Em algumas ocasiões, o despejo destas substâncias químicas no ambiente é de
+tamanha proporção que ocasiona intoxicações agudas e danos graves à saúde.
+14.1.3 Riscos físicos
+Relacionados à presença de objetos que podem causar lesões abrasivas e
+perfurocortantes como galhos, metais e rochas. Além disso, águas com temperaturas
+muito baixas podem causar hipotermia em caso de exposição por período prolongado.
+Como exemplo de locais que oferecem riscos aos militares empenhados em
+operações, podemos citar: vertedouros de barragens; barragens de rejeitos/lagoas
+tóxicas de refinarias, mineradoras e indústrias; atuação em corredeiras significativas,
+realizada sem treinamento ou aparato específico; águas com concentrações de
+materiais químicos ou biológicos capazes de causar óbito ou doença grave, sendo a
+condição atestada por laudo de órgão competente; outras situações semelhantes, no
+que se refere à presença de substâncias biológicas/químicas e ambiente de alta
+letalidade.
+14 ATUAÇÃO DO GUARDA-VIDAS EM ÁGUAS POLUÍDAS E OUTROS RISCOS ASSOSSIADOS 79
+Sendo assim, para a adequada atuação em águas com as características
+mencionadas, que oferecem riscos diversos aos envolvidos, tornam-se indispensáveis
+a utilização de equipamentos específicos e a adoção de medidas complementares,
+visando garantir a segurança das operações.
+14.2 Materiais/equipamentos específicos para contato com águas poluídas
+Dentre esses materiais, se encontram os utilizados em águas rasas e os utilizados em
+águas profundas, conforme explicação a seguir.
+14.2.1 Para águas rasas
+Botas impermeáveis e roupão sanitário com total isolamento de membros inferiores.
+Figura 44 - Roupão Sanitário
+Fonte: elaboração própria
+MANUAL DE SALVAMENTO AQUÁTICO 80
+14.2.2 Para águas profundas poluídas que necessitem de mergulho autônomo
+Roupa seca para mergulho com capacete de mergulho com fonia subaquática,
+garantindo-se o completo isolamento do mergulhador em relação ao meio externo
+poluído, inclusive de suas vias aéreas superiores, conforme detalhamento em
+Instrução Técnica Operacional específica.
+Figura 45 - Roupa seca para mergulho autônomo
+Fonte: elaboração própria
+14.3 Ações e condutas
+Com base em pesquisas e dados acadêmico-científicos é improvável a
+sobrevivência/ressuscitação de afogados com mais de 30 minutos de submersão em
+águas com temperatura superior a 6ºC. Considerando os tempos de submersão como
+também a temperatura média das águas em Minas Gerais, que é em torno de 23ºC,
+ficam estabelecidas as seguintes ações e condutas operacionais de
+resgate/recuperação de vítimas em águas poluídas:
+a) condutas a serem adotadas em caso de processo de afogamento presenciado
+pelo guarda-vidas ou testemunha ocular idônea, com tempo de submersão em
+águas poluídas de até 30 minutos, na seguinte ordem:
+14 ATUAÇÃO DO GUARDA-VIDAS EM ÁGUAS POLUÍDAS E OUTROS RISCOS ASSOSSIADOS 81
+1) alcançar - essa técnica se caracteriza por alcançar a vítima com um remo,
+escada, ganchos ou outros artefatos disponíveis, desde a margem e sem
+contato com a água poluída;
+2) lançar - técnica que compreende arremessar algum dispositivo flutuante, como
+boia circular com corda, saco de arremesso ou lifebelt, desde a margem e sem
+contato com a água poluída;
+3) caminhar - tratando-se de locais rasos, consiste em caminhar até a vítima
+usando equipamento apropriado (botas impermeáveis, roupão sanitário), sem
+contato direto com a água poluída, para em seguida executar o resgate;
+4) remar - utilização de uma embarcação para efetuar o salvamento (caso a
+correnteza permita) ou mesmo na realização de busca de superfície em uma
+área maior, sem contato direto com a água poluída, para em seguida executar
+o resgate;
+5) nadar/mergulhar - caso haja possibilidade real de sobrevivência do afogado,
+não tendo a roupa seca para mergulho, entrar na água somente se tiver a
+localização exata ou visualização da vítima e, se o ambiente não oferece alto
+risco, como: vertedouros de barragens e represas, barragens de rejeitos, e
+lagoas tóxicas de refinarias, mineradoras, indústrias, entre outros. Com
+disponibilidade de roupa seca, o guarda-vidas deverá utilizá-la conforme
+procedimento descrito em Instrução Técnica Operacional específica.
+As condutas descritas acima deverão ser executadas de acordo com a sequência
+estipulada. Caso não seja possível ou viável a execução de alguma das ações
+(alcançar, lançar, caminhar, remar e nadar/mergulhar) com total enfoque na
+segurança, deverá ser cumprida a ação subsequente.
+b) condutas a serem adotadas em caso de afogamentos com mais de 30 minutos
+de submersão em águas poluídas, na seguinte ordem:
+1) alcançar - essa técnica se caracteriza por alcançar a vítima com um remo,
+escada, ganchos ou outros dispositivos disponíveis, desde a margem e sem
+contato com a água poluída;
+MANUAL DE SALVAMENTO AQUÁTICO 82
+2) lançar - técnica que compreende arremessar algum dispositivo flutuante, como
+boia circular com corda, saco de arremesso ou lifebelt, desde a margem e sem
+contato com a água poluída;
+3) caminhar - tratando-se de locais rasos, consiste em caminhar até a vítima
+usando equipamento apropriado (botas impermeáveis, roupão sanitário), sem
+contato direto com a água poluída, para em seguida executar a recuperação
+da vítima;
+4) remar - utilização de uma embarcação para efetuar a recuperação (caso a
+correnteza permita) ou mesmo a realização de busca de superfície em uma
+área maior e sem contato direto com a água poluída, para tentar localizar o
+corpo da vítima e em seguida fazer a recuperação;
+5) nadar/mergulhar - somente com roupa de exposição adequada (roupa seca
+de mergulho com total proteção ao contato com a água poluída), conforme
+procedimento descrito em doutrina operacional específica.
+As condutas descritas acima deverão ser executadas de acordo com a sequência
+estipulada. Caso não seja possível ou viável a execução de algumas das ações
+(alcançar, lançar, caminhar, remar e nadar/mergulhar), com total enfoque na
+segurança, deverá ser cumprida a ação subsequente.
+c) condutas a serem adotadas em caso de incidentes com veículos submersos
+em águas poluídas, com a possibilidade de se encontrar vítimas vivas, devido
+à formação de bolsão de ar no seu interior, na seguinte ordem:
+1) localizar - consiste em localizar o veículo e possíveis vítimas, sem que se tenha
+contato com a água;
+2) nadar/mergulhar - com disponibilidade de roupa seca o guarda-vidas deverá
+utilizá-la. Não tendo a roupa seca para mergulho ou roupão sanitário/bota
+impermeável (para locais rasos), entrar na água somente se tiver a localização
+exata ou visualização do veículo, e ainda, que haja possibilidade de vítima no
+interior, e o ambiente não ofereça alto risco como vertedouros de barragens e
+represas, barragens de rejeitos e lagoas tóxicas de refinarias, mineradoras,
+indústrias ou outro local de alta letalidade.
+14 ATUAÇÃO DO GUARDA-VIDAS EM ÁGUAS POLUÍDAS E OUTROS RISCOS ASSOSSIADOS 83
+Em caso de não saber a localização exata ou na ausência de visualização do veículo,
+entrar na água somente com roupa seca para mergulho (conforme procedimento
+descrito em doutrina operacional específica) ou roupão sanitário/bota impermeável
+(para locais rasos).
+As condutas descritas anteriormente deverão ser executadas de acordo com a
+sequência estipulada. Caso não seja possível ou viável a execução de algumas das
+ações (alcançar, lançar, caminhar, remar e nadar/mergulhar), com total enfoque na
+segurança, deverá ser cumprida a ação subsequente.
+d) condutas a serem adotadas em caso de afogamento com mais de 1 hora de
+submersão em águas poluídas.
+Esses casos serão considerados recuperação de cadáver. As buscas deverão ocorrer
+somente com equipamentos apropriados (roupa seca) com total isolamento da água
+poluída, conforme procedimento descrito em doutrina operacional específica. Não
+havendo equipamento de proteção apropriado para atuação em águas poluídas,
+realizar somente buscas de superfície com embarcação ou outros materiais.
+Em todos os casos em que as vítimas sejam resgatadas em até 1h, independente de
+método utilizado para retirá-la, deve-se iniciar as manobras de RCP, conforme ITO 23
+- Protocolo de APH.
+MANUAL DE SALVAMENTO AQUÁTICO 84
+15 OPERAÇÕES COM EMBARCAÇÕES
+As ações que se desenvolvem durante uma operação de Salvamento Aquático podem
+variar em nível de exigência física, logística e nível de complexidade, principalmente,
+de acordo com a extensão da área a ser coberta. Dessa forma, para que seja dada a
+resposta mais eficiente e adequada à situação, uma simples ocorrência de
+afogamento pode exigir um esforço potencializado quanto ao emprego de técnicas e
+equipamentos adequados.
+O emprego e uso de embarcações nas águas brasileiras é regulado pela Norma
+Reguladora Nº 30. O emprego de embarcações nas atividades desenvolvidas pelos
+trabalhadores aquaviários, aqui incluídos os socorristas em operações de prevenção
+e salvamento aquático, deve se dar mediante criterioso planejamento, disponibilidade
+logística e condições de segurança, atendendo aos pressupostos das legislações
+vigentes.
+Conforme previsto na norma regulamentadora, cabe ao comandante da embarcação
+conhecer as normas vigentes relativas ao emprego da embarcação, dar ciência
+dessas regulamentações aos demais envolvidos, e fazer com que as normas sejam
+cumpridas (BRASIL, 1994).
+Desse modo, para o bom andamento da operação, cabe ao militar mais antigo e
+devidamente credenciado para a condução da embarcação, coordenar o seu correto
+emprego e garantir a segurança dos demais membros da guarnição e da vítima.
+Vale destacar, que as atividades de salvamento aquático, por sua especificidade, se
+diferenciam das atividades de mergulho autônomo. Contudo, considerando o
+desenvolvimento das ocorrências dessa natureza, é importante elencar a NORMAM
+15, editada pela autoridade Marítima Brasileira, que visa à fiscalização de atividades
+de mergulho e o respectivo emprego de embarcações. Nesse contexto, destaca-se
+que a norma também deve ser observada no planejamento de operações de
+salvamento aquático com o uso de embarcações.
+15 OPERAÇÕES COM EMBARCAÇÕES 85
+Evidencia-se, portanto, que a Autoridade Marítima Brasileira fiscalizará os serviços de
+mergulho que exijam o emprego de embarcações, e que tal fato pode configurar uma
+variável no atendimento de uma ocorrência de salvamento aquático.
+Sendo assim, em atenção às normatizações vigentes, é possível definir ações
+adequadas para o devido emprego de embarcações e equipamentos de diversos tipos
+nas atividades de salvamento aquático. Nesse cenário, vale lembrar ainda que, para
+todos os casos e tipos de embarcação, os Equipamentos de Proteção Individual,
+juntamente com capacete e colete, serão obrigatórios.
+Inicialmente, as embarcações apropriadas para a referida atividade são:
+Figura 46 - Moto Aquática
+Fonte: elaboração própria
+Figura 47 - Bote inflável
+Fonte: elaboração própria
+MANUAL DE SALVAMENTO AQUÁTICO 86
+Figura 48 - Barco
+Fonte: elaboração própria
+15.1 Ações de salvamento
+A Moto aquática permite a aproximação da vítima de maneira mais ágil e controlada,
+devendo ser tripulada por dois guarda-vidas simultaneamente e acompanhada do uso
+da prancha de resgate aquático (SLED).
+O piloto faz a aproximação da vítima, mantendo-a perpendicular à lateral da moto
+aquática, a uma distância de segurança de aproximadamente 3 metros. Em seguida,
+o socorrista auxiliar desembarca e faz a abordagem, consoante aos procedimentos
+citados anteriormente, e conforme as condições da vítima.
+A vítima, desde que afastada a possibilidade de existência de trauma, deverá ser
+rebocada mantendo-se as vias aéreas pérvias, ser colocada no SLED em decúbito
+ventral, paralela à superfície da água. Posteriormente, o socorrista colocará os braços
+por cima da vítima, segurando firmemente as alças do SLED. O guarda-vidas deverá
+se posicionar por cima da vítima, mantendo-a segura e estabilizada durante o
+deslocamento.
+15 OPERAÇÕES COM EMBARCAÇÕES 87
+Figura 49 - Salvamento com uso de Moto Aquática
+Fonte: elaboração própria
+Botes infláveis e embarcações metálicas com motor de popa, devido a sua
+constituição física e ao mecanismo de propulsão, exigem maiores cuidados quando
+da proximidade com as vítimas.
+Mantendo-se o sentido do deslocamento, já com o motor de popa desligado e a uma
+distância de segurança de 1,5x maior do que o comprimento da embarcação, o piloto
+fará a aproximação da vítima com a utilização de remos, perpendicular à lateral da
+embarcação. Em seguida, o guarda-vidas no interior do bote e apoiando-se sobre a
+lateral, abordará a vítima, estendendo e passando-lhe os braços por baixo das axilas
+para segurá-la pelo tórax. Já sob domínio do primeiro socorrista, a vítima terá suas
+pernas seguradas e alçadas para dentro da embarcação pelo segundo socorrista, que
+manterá a outra mão no manete do motor de popa.
+Já no interior da embarcação, a vítima terá seus sinais vitais e nível de consciência
+aferidos para recebimento do atendimento adequado.
+Em águas correntes, deverão ser priorizadas as embarcações a motor, em detrimento
+ao uso de remo, garantindo-se maior segurança à operação.
+MANUAL DE SALVAMENTO AQUÁTICO 88
+16 OPERAÇÕES COM AERONAVE
+Em locais de difícil acesso e que conferem maior risco e complexidade para o
+salvamento por via aquática, e verificada a necessidade e oportunidade conforme
+protocolo aeromédico, as aeronaves poderão ser utilizadas em ações de salvamento.
+O emprego de aeronaves de asas rotativas em atividades de salvamento aquático se
+dará principalmente em locais de difícil acesso, devido à versatilidade e celeridade no
+acesso e transporte da vítima (MINAS GERAIS, 2019).
+Assim, o empenho da aeronave poderá ocorrer para atendimento de vítimas de
+qualquer grau de afogamento, do local da ocorrência ao local do atendimento préhospitalar, conforme descrito na Instrução Técnica Operacional que trata do emprego
+de aeronaves nas operações de bombeiro (MINAS GERAIS, 2019).
+O salvamento pode ocorrer, preferencialmente, através do emprego de equipamento
+adequado ou, em segunda opção, por meio do Helocasting (lançamento de militar na
+água). Utilizando-se do Helocasting, há a necessidade do mergulhador ou tripulante
+operacional possuírem conhecimentos específicos à realização do salvamento, com
+a devida previsão de apoio por via aquática ao mergulhador empregado.
+16.1 Lançamento de guarda-vidas (desova aquática)
+Antes de realizar o salto da aeronave, os riscos envolvidos deverão ser considerados
+e reduzidos.
+Inicialmente, os tripulantes deverão se certificar de que o local destinado ao salto, bem
+como à submersão do socorrista, oferece segurança para tal, considerando-se a
+profundidade e a natureza de fundo. Certificada a segurança para o salto, o socorrista
+fará a conferência do seu equipamento individual necessário para o salvamento, que
+devem ser lançados ao balneário antes da entrada do guarda-vidas, propriamente
+dita. Isso se deve ao fato de que os equipamentos acoplados ao corpo do guardavidas podem se soltar durante o salto, ocasionando riscos à aeronave e aos
+tripulantes. Verificados os critérios de segurança, o socorrista realiza o “passo do
+gigante” projetando-se PARA FRENTE (NUNCA PARA CIMA), protegendo a face
+16 OPERAÇÕES COM AERONAVES 89
+com o antebraço direito, e a região pélvica com a mão esquerda, mantendo essa
+posição até a entrada na água.
+Figura 50 - Desova Aquática
+Fonte: elaboração própria
+Ao emergir, o guarda-vidas sinalizará as condições de segurança para o tripulante
+operacional e, posteriormente, procederá com a equipagem, quando necessário
+aproximação e abordagem da vítima. Na impossibilidade de remoção por via aérea, o
+socorrista aguardará o suporte por via aquática, que deverá ser previamente
+estabelecido.
+16.2 Emprego de cesto tipo Puçá
+O helicóptero deverá se aproximar do local onde a vítima se encontra e fazer o
+lançamento do mergulhador na água. O guarda-vidas realizará a aproximação e
+abordagem da vítima, garantindo no primeiro atendimento a sua estabilização. Em
+seguida, o tripulante operacional lança o Puçá, que será submergido pelo socorrista,
+para que a vítima seja colocada dentro do equipamento.
+Após sinalização de segurança do socorrista na água, o tripulante operacional faz
+contato com o piloto, que procederá com a evacuação até a área segura.
+MANUAL DE SALVAMENTO AQUÁTICO 90
+17 EMPREGO DE AERONAVES REMOTAMENTE PILOTADAS (RPA)
+Considerando ainda a dificuldade de acesso a locais específicos e a necessidade de
+realização de planejamento, definição de rotas de acessos, entre outras variáveis,
+Aeronaves Remotamente Pilotadas Classe - 3 poderão ser empregadas em
+operações de busca e salvamento aquático, conforme previsão na Instrução Técnica
+Operacional nº 27 (MINAS GERAIS, 2019).
+Sendo assim, os militares capacitados para operação, e devidamente empenhados
+em ocorrências dessa natureza, poderão utilizar o equipamento no intuito de localizar
+vítimas em balneários de maior extensão e sem cobertura vegetal; poderão realizar
+plotagem de coordenadas para auxílio na operação aérea tripulada; e ainda, realizar
+monitoramento constante em balneários extensos, onde a oferta de guarda-vidas seja
+superada pela grande demanda de áreas a serem observadas.
+Todavia, vale reforçar ainda que, devido a condições meteorológicas desfavoráveis,
+insuficiência logística e condições adversas do ambiente, o emprego de RPA pode ser
+vedado.
+Quartel em Belo Horizonte, 28 de dezembro de 2022
+(a) Edgard Estevo da Silva, Coronel BM
+Comandante-Gera

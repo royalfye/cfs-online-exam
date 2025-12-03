@@ -1,0 +1,1022 @@
+CORPO DE BOMBEIROS
+MILITAR DE MINAS
+GERAIS
+PROCEDIMENTO
+OPERACIONAL PADRÃO - 01
+GRUPO: S TÍTULO: Busca e Salvamento de
+Pessoa Perdida
+Página
+CLASSE: S 04 1/24
+ELABORADOR
+Cap BM Rovigo T. Soares
+REVISORES
+1º Ten BM Lucas S. Costa
+3ª Seção do Estado-Maior
+HOMOLOGADOR
+CHEFE DO EMBM
+(a) Cel BM Erlon Dias do
+Nascimento Botelho
+DATA PROVÁVEL DE
+ATUALIZAÇÃO
+01/10/2022
+DATA: 17/02/2019 DATA: 04/10/2019 DATA: 18/11/2019
+1 OBJETIVO
+Este documento visa estabelecer procedimentos de atuação de grupos de busca a
+pessoas desaparecidas em áreas remotas no âmbito do CBMMG.
+Ele possui correlação com diversas naturezas de ocorrências do CBMMG, incluindo
+principalmente:
+a) S 04.012 – Busca e Salvamento em Local de Difícil Acesso;
+b) S 04.013 - Busca e Recuperação de Cadáver em Terra;
+c) S 04.015 – Busca de Pessoa Perdida/Desaparecida em Mata com o Uso de Cães;
+d) S 04.017 – Busca de Cadáver com o Uso de Cães.
+2 PLANEJAMENTO
+Para início dos trabalhos deverão ser levantadas informações que possibilitem traçar um
+perfil da vítima e nortear os trabalhos de busca, conforme apresentado a seguir.
+2.1 Perguntas
+Deverão ser feitas as seguintes perguntas (CBMERJ, 2013):
+a) qual o último local em que a pessoa foi vista, ou realizou contato?
+b) avisou alguém da família do objetivo e horário de partida ou fez contato com algum
+familiar/conhecido sobre o ponto que estava perdido (buscar horário e local)?
+c) por onde entrou?
+d) qual trilha?
+e) deixou veículo estacionado em algum local?
+CORPO DE BOMBEIROS
+MILITAR DE MINAS
+GERAIS
+PROCEDIMENTO
+OPERACIONAL PADRÃO - 01
+GRUPO: S TÍTULO: Busca e Salvamento de
+Pessoa Perdida
+Página
+CLASSE: S 04 2/24
+ELABORADOR
+Cap BM Rovigo T. Soares
+REVISORES
+1º Ten BM Lucas S. Costa
+3ª Seção do Estado-Maior
+HOMOLOGADOR
+CHEFE DO EMBM
+(a) Cel BM Erlon Dias do
+Nascimento Botelho
+DATA PROVÁVEL DE
+ATUALIZAÇÃO
+01/10/2022
+DATA: 17/02/2019 DATA: 04/10/2019 DATA: 18/11/2019
+f) em que dia iniciou a trilha?
+g) qual horário iniciou a trilha?
+h) qual número de pessoas?
+i) quais nomes, apelidos e idade?
+j) qual objetivo?
+k) levou celular? Número para contato?
+l) possuía experiência?
+m) conhecia o local?
+n) já realizou esta trilha antes?
+o) estava acompanhado por alguém que conhecia (às vezes, até um guia não
+experiente pode se perder)?
+p) características físicas, peso, problemas de saúde e outros.
+q) quais roupas utilizavam, possuíam alimentação e água para quantos dias, se
+levaram barracas?
+r) realizou contato com algum guia? Qual? Possui telefone do guia?
+s) deixou um mapa traçando a rota a ser seguida?
+2.2 Considerações sobre aspectos geográficos
+O relevo do local de busca deverá ser estudado bem como levantados os cursos d’água
+e possíveis locais de acampamento para as equipes de busca. As condições climáticas
+deverão ser verificadas diariamente, visando ao planejamento das buscas.
+Todos militares empenhados no grupo de busca deverão possuir conhecimento de
+orientação com bússola, operação de GPS, leitura de mapas e curvas de nível, bem como
+dominar técnicas de sobrevivência em mata, além de possuir treinamento de embarque
+e desembarque em aeronave.
+CORPO DE BOMBEIROS
+MILITAR DE MINAS
+GERAIS
+PROCEDIMENTO
+OPERACIONAL PADRÃO - 01
+GRUPO: S TÍTULO: Busca e Salvamento de
+Pessoa Perdida
+Página
+CLASSE: S 04 3/24
+ELABORADOR
+Cap BM Rovigo T. Soares
+REVISORES
+1º Ten BM Lucas S. Costa
+3ª Seção do Estado-Maior
+HOMOLOGADOR
+CHEFE DO EMBM
+(a) Cel BM Erlon Dias do
+Nascimento Botelho
+DATA PROVÁVEL DE
+ATUALIZAÇÃO
+01/10/2022
+DATA: 17/02/2019 DATA: 04/10/2019 DATA: 18/11/2019
+A área de busca deverá ser demarcada em mapas impressos ou digitais (Google Maps,
+Google Earth), sendo registradas todas as informações relevantes: coordenadas de
+pouso de aeronave, pontos de água, área de acampamento, locais onde as equipes de
+busca passaram, UPV (último ponto visto), estradas de acesso a área de busca e outras.
+Para fins de padronização, deverão ser utilizadas coordenadas geográficas no formato
+graus, minutos e segundos (ddº mm’ ss.s”) com datum WGS84 (tipo de modelo
+matemático teórico mundialmente utilizado para representação da terra). Caso as
+coordenadas sejam fornecidas pelos informantes em outros formatos, as equipes de
+busca deverão saber convertê-las para o formato ddº mm’ ss.s’.
+2.3 Fases do trabalho de busca
+O trabalho de busca possui quatro fases: localizar, acessar, estabilizar e transportar
+(CBPMESP, 2006):
+a) localizar: através de informações obtidas de possíveis trajetos, utilizando-se de
+técnicas de orientação e navegação. Estipular os locais de busca;
+b) acessar: deslocamento no terreno até os locais de busca ou o possível local em
+que a vítima possa estar;
+c) estabilizar: atendimento pré-hospitalar a vítima conforme protocolo do CBMMG;
+d) transportar: transportar a vítima até local seguro. O deslocamento poderá ser
+aéreo, terrestre, com utilização de viaturas, ou a pé, com a vítima imobilizada em
+prancha longa e/ou maca tipo envelope, conforme o quadro clínico obtido durante
+a avaliação do paciente.
+CORPO DE BOMBEIROS
+MILITAR DE MINAS
+GERAIS
+PROCEDIMENTO
+OPERACIONAL PADRÃO - 01
+GRUPO: S TÍTULO: Busca e Salvamento de
+Pessoa Perdida
+Página
+CLASSE: S 04 4/24
+ELABORADOR
+Cap BM Rovigo T. Soares
+REVISORES
+1º Ten BM Lucas S. Costa
+3ª Seção do Estado-Maior
+HOMOLOGADOR
+CHEFE DO EMBM
+(a) Cel BM Erlon Dias do
+Nascimento Botelho
+DATA PROVÁVEL DE
+ATUALIZAÇÃO
+01/10/2022
+DATA: 17/02/2019 DATA: 04/10/2019 DATA: 18/11/2019
+3 UTILIZAÇÃO DE AERONAVE
+Sempre considerar empenho de aeronave, incluindo RPA, para auxílio nos trabalhos de
+busca aérea e para transporte de tropa, entretanto deverá ser considerada a possibilidade
+do não empenho da aeronave devido a situações adversas, como mau tempo (chuva ou
+neblina).
+As buscas aéreas deverão ser realizadas em conjunto com as buscas terrestres. Após
+estudo de situação e planejamento da operação, a aeronave deverá distribuir as equipes
+de busca terrestre no terreno e, após isso, iniciar as buscas aéreas.
+O comando da operação será do militar mais antigo das equipes de solo, cabendo à
+tripulação da aeronave seguir o planejamento feito por esse militar, em consonância com
+as normas de emprego de aeronaves do CBMMG.
+Para o acionamento da aeronave, deve-se buscar o máximo possível de informações, as
+quais serão repassadas à equipe de vôo, evitando-se o empenho desnecessário.
+4 COMPOSIÇÃO DAS EQUIPES
+Cada equipe será formada por quatro militares, podendo participar da equipe guias que
+conheçam a região de busca. A equipe será chefiada pelo bombeiro militar mais antigo,
+cabendo a ele, ouvido o guia, determinar o rito da marcha, os momentos de parada e as
+técnicas de busca. O guia tem a função de guiar a equipe aos locais determinados pelo
+chefe.
+O grupo de buscas será composto de no mínimo três equipes (Alfa, Bravo e Charlie) mais
+dois militares que serão responsáveis pelo PC (o mais antigo da operação e um auxiliar).
+CORPO DE BOMBEIROS
+MILITAR DE MINAS
+GERAIS
+PROCEDIMENTO
+OPERACIONAL PADRÃO - 01
+GRUPO: S TÍTULO: Busca e Salvamento de
+Pessoa Perdida
+Página
+CLASSE: S 04 5/24
+ELABORADOR
+Cap BM Rovigo T. Soares
+REVISORES
+1º Ten BM Lucas S. Costa
+3ª Seção do Estado-Maior
+HOMOLOGADOR
+CHEFE DO EMBM
+(a) Cel BM Erlon Dias do
+Nascimento Botelho
+DATA PROVÁVEL DE
+ATUALIZAÇÃO
+01/10/2022
+DATA: 17/02/2019 DATA: 04/10/2019 DATA: 18/11/2019
+Duas equipes realizarão as buscas no terreno, enquanto a terceira equipe permanecerá
+no posto de comando.
+O empenho das equipes será de pelo menos sete dias, devendo os militares deslocarem
+para ocorrência com suprimentos para esse período.
+Os trabalhos serão realizados em forma de rodízio de forma que no primeiro dia de
+buscas a equipe Alfa permanecerá no PC, equipe Bravo realizará buscas no terreno de
+maior dificuldade ou maior trajeto, enquanto a equipe Charlie realizará busca no terreno
+de menor dificuldade ou menor trajeto.
+No segundo dia de buscas a equipe Alfa realizará buscas no terreno de menor dificuldade
+ou menor trajeto, a equipe Bravo permanecerá no PC e a equipe Charlie realizará busca
+no terreno de maior dificuldade ou maior trajeto e assim sucessivamente, possibilitando
+um descanso às equipes.
+Em caso de necessidade ou novas informações sobre o desaparecido, o PC informará
+às equipes que estiverem em campo sobre a situação, e empenhará a equipe que estiver
+no PC para realizar as buscas, caso não seja viável o deslocamento das equipes que
+estiverem em campo para as novas coordenadas.
+As equipes de campo deverão realizar contato a cada hora exata com o posto de
+comando, via rádio ou celular, informando sua localização.
+CORPO DE BOMBEIROS
+MILITAR DE MINAS
+GERAIS
+PROCEDIMENTO
+OPERACIONAL PADRÃO - 01
+GRUPO: S TÍTULO: Busca e Salvamento de
+Pessoa Perdida
+Página
+CLASSE: S 04 6/24
+ELABORADOR
+Cap BM Rovigo T. Soares
+REVISORES
+1º Ten BM Lucas S. Costa
+3ª Seção do Estado-Maior
+HOMOLOGADOR
+CHEFE DO EMBM
+(a) Cel BM Erlon Dias do
+Nascimento Botelho
+DATA PROVÁVEL DE
+ATUALIZAÇÃO
+01/10/2022
+DATA: 17/02/2019 DATA: 04/10/2019 DATA: 18/11/2019
+5 TÁTICA DE BUSCA
+As buscas serão realizadas durante o dia, devendo se iniciar ao nascer do sol e se
+encerrar duas horas antes do por do sol, dessa forma ainda haverá duas horas de luz
+solar para que as equipes se desloquem caso haja algum imprevisto.
+Apesar das buscas se realizarem durante o dia, as equipes deverão se preparar para
+empenhos de 36h, com pernoite em barracas, caso haja necessidade, considerando- se
+condições climáticas desfavoráveis ao deslocamento, encontro da vítima e que esta não
+possua condições de deslocamento.
+O PC avaliará a possibilidade de que uma equipe pernoite no terreno, em local
+estratégico, elevado e na possível rota do desaparecido, permitindo-se visualização das
+áreas de busca, para que se verifiquem sinais luminosos ou sonoros durante o período
+noturno, que possam levar ao desaparecido. Caso sejam verificados quaisquer sinais,
+deverão ser registrados os azimutes que indiquem a direção, e ao amanhecer deverão
+ser realizadas buscas conforme o azimute registrado.
+Ao término do dia de buscas, o PC colherá informações das equipes que estiveram no
+terreno, marcando no mapa os locais onde foram realizadas as buscas e traçando o plano
+de ação para o dia seguinte, determinando o horário da alvorada e início do deslocamento
+para o local das buscas, de forma que as buscas se iniciem ao nascer do sol.
+As buscas se iniciarão no último ponto visto (UPV), último local que o desaparecido foi
+visto, ou que tenha feito contato. Deverá ser verificado o possível trajeto do desaparecido,
+sendo essa rota refeita pelas equipes de busca no mínimo duas vezes, sendo uma vez
+por cada equipe.
+CORPO DE BOMBEIROS
+MILITAR DE MINAS
+GERAIS
+PROCEDIMENTO
+OPERACIONAL PADRÃO - 01
+GRUPO: S TÍTULO: Busca e Salvamento de
+Pessoa Perdida
+Página
+CLASSE: S 04 7/24
+ELABORADOR
+Cap BM Rovigo T. Soares
+REVISORES
+1º Ten BM Lucas S. Costa
+3ª Seção do Estado-Maior
+HOMOLOGADOR
+CHEFE DO EMBM
+(a) Cel BM Erlon Dias do
+Nascimento Botelho
+DATA PROVÁVEL DE
+ATUALIZAÇÃO
+01/10/2022
+DATA: 17/02/2019 DATA: 04/10/2019 DATA: 18/11/2019
+Realizadas as buscas no possível trajeto, deverão ser traçados trajetos alternativos,
+como cursos d’água, trilhas que normalmente levam a caminhos errados, casas
+abandonadas, fendas e outros.
+Caso existam equipes suficientes, as buscas no possível trajeto e trajeto alternativo
+deverão ser realizadas simultaneamente e, caso não sejam encontrados indícios da
+vítima, o perímetro verificado será suprimido das áreas de buscas, passando-se a
+verificar outras áreas. Durante as buscas deverá ser observado se o desaparecido deixou
+algum vestígio, sinal ou pista que indique possível trajeto.
+A equipe de busca deverá emitir um silvo longo de apito e aguardar 30 segundos (total
+silêncio) verificando se houve resposta. Caso haja resposta, o militar que identificar de
+onde vem o som, apontará imediatamente para o local, sendo realizado o procedimento
+novamente até que se tenha certeza da direção do som. O procedimento de emitir um
+silvo longo de apito deverá ser realizado ao longo do trajeto no intuito de se obter algum
+sinal do desaparecido.
+A comunicação pelas equipes, através do apito, ocorrerá da seguinte forma:
+a) um silvo longo: atenção;
+b) um silvo longo e um curto: tudo certo, continue a operação;
+c) três silvos curtos: algo fora do normal, algum acidentado, vítima encontrada,
+alguma situação de risco.
+Caso as equipes estejam no terreno em local não conhecido pelos militares ou guia, e as
+condições climáticas não sejam favoráveis, dificultando a visibilidade, não deverá haver
+deslocamento devido ao risco das equipes se perderem, devendo permanecer no local
+até haja condições satisfatórias de visibilidade.
+CORPO DE BOMBEIROS
+MILITAR DE MINAS
+GERAIS
+PROCEDIMENTO
+OPERACIONAL PADRÃO - 01
+GRUPO: S TÍTULO: Busca e Salvamento de
+Pessoa Perdida
+Página
+CLASSE: S 04 8/24
+ELABORADOR
+Cap BM Rovigo T. Soares
+REVISORES
+1º Ten BM Lucas S. Costa
+3ª Seção do Estado-Maior
+HOMOLOGADOR
+CHEFE DO EMBM
+(a) Cel BM Erlon Dias do
+Nascimento Botelho
+DATA PROVÁVEL DE
+ATUALIZAÇÃO
+01/10/2022
+DATA: 17/02/2019 DATA: 04/10/2019 DATA: 18/11/2019
+Se a vítima for encontrada e possua condições de deslocamento, a equipe de busca
+informará a situação ao PC, que avaliará o acionamento de aeronave para resgate, ou
+deslocamento a pé de retorno da equipe com a vítima. Caso a vítima seja encontrada e
+não possua condições de deslocamento, a equipe de busca passará a situação ao PC
+que acionará aeronave para resgate.
+Caso não seja possível contato com o PC e, a vítima não possua condições de se
+deslocar a pé, o chefe da guarnição escalará dois bombeiros militares (os que possuírem
+melhores condições físicas e psicológicas no momento) para permanecerem no local com
+vítima até a chegada de recurso que possibilite o resgate, devendo os militares estarem
+preparados para pernoite com vítima.
+Os outros dois bombeiros militares deixarão no local barraca, alimentação e água para
+vítima e deslocarão imediatamente para o PC, com as coordenadas do local de encontro
+do desaparecido, devendo sinalizar o caminho de volta, com fita zebrada, quebrando
+galhos, marcando árvores, de forma que o retorno até a vítima seja facilitado.
+De posse das coordenadas do local de encontro do desaparecido o PC acionará
+aeronave para o resgate e, em caso de impossibilidade de resgate aéreo, empenhará
+equipe de solo para resgate com os recursos necessários, prancha longa, maca tipo
+envelope, maca a vácuo, kit de salvamento em altura e outros materiais necessários para
+a situação específica.
+Na hipótese da vítima ser encontrada sem vida, o local deverá ser preservado, isolado e
+a perícia técnico científica acionada, devendo dois militares permanecerem no local até
+a chegada dos peritos. Durante os deslocamentos as equipes deverão registrar todo o
+trajeto com GPS, bem como coordenadas de pontos de referência que facilitem retorno
+ao local.
+CORPO DE BOMBEIROS
+MILITAR DE MINAS
+GERAIS
+PROCEDIMENTO
+OPERACIONAL PADRÃO - 01
+GRUPO: S TÍTULO: Busca e Salvamento de
+Pessoa Perdida
+Página
+CLASSE: S 04 9/24
+ELABORADOR
+Cap BM Rovigo T. Soares
+REVISORES
+1º Ten BM Lucas S. Costa
+3ª Seção do Estado-Maior
+HOMOLOGADOR
+CHEFE DO EMBM
+(a) Cel BM Erlon Dias do
+Nascimento Botelho
+DATA PROVÁVEL DE
+ATUALIZAÇÃO
+01/10/2022
+DATA: 17/02/2019 DATA: 04/10/2019 DATA: 18/11/2019
+6 SITUAÇÕES DE EMERGÊNCIA
+Na hipótese das equipes de busca se deparem com situações adversas, tais como: mal
+tempo; cansaço excessivo dos membros da equipe; e/ou acidentes, as buscas deverão
+ser suspensas e o PC informado. Não se espera que as equipes se percam, mas caso
+essa situação ocorra os militares deverão observar as seguintes regras (CBMGO, 2017):
+a) E: estacione – fique parado, não ande à toa;
+b) S: sente-se – descanse e pense;
+c) A: alimente-se – saciada a fome e sede, as condições de raciocínio melhoram;
+d) O: oriente-se – procure saber onde está, de onde veio, por onde veio ou para onde
+quer ir, utilizando processos que melhor se aplique à situação;
+e) N: navegue – após os passos anteriores, desloque-se na direção selecionada.
+7 UTILIZAÇÃO DE CÃES NAS BUSCAS
+O acionamento do canil deverá ser considerado e realizado assim que se consigam
+informações que confirmem o desaparecimento de uma pessoa e o último ponto visto
+(UPV).
+O ideal é que a busca com cães seja a primeira ação, para se evitar que as equipes
+contaminem o local e dificultem que os animais identifiquem odores da vítima, porém,
+caso ocorra demora no deslocamento e seja incerto o empenho do canil, as buscas
+terrestres deverão iniciar imediatamente após confirmação do desaparecimento. Os cães
+serão conduzidos por equipe especializada, devendo ser acompanhados por uma equipe
+de busca terrestre.
+CORPO DE BOMBEIROS
+MILITAR DE MINAS
+GERAIS
+PROCEDIMENTO
+OPERACIONAL PADRÃO - 01
+GRUPO: S TÍTULO: Busca e Salvamento de
+Pessoa Perdida
+Página
+CLASSE: S 04 10/24
+ELABORADOR
+Cap BM Rovigo T. Soares
+REVISORES
+1º Ten BM Lucas S. Costa
+3ª Seção do Estado-Maior
+HOMOLOGADOR
+CHEFE DO EMBM
+(a) Cel BM Erlon Dias do
+Nascimento Botelho
+DATA PROVÁVEL DE
+ATUALIZAÇÃO
+01/10/2022
+DATA: 17/02/2019 DATA: 04/10/2019 DATA: 18/11/2019
+8 POSTO DE COMANDO (PC)
+O PC deverá, se possível, ser montado em local que possibilite alojamento, tenha fácil
+acesso ao local das buscas, possua eletricidade, internet e contato via rádio com as
+equipes que estiverem realizando as buscas, sendo um local estratégico para encontro
+das equipes.
+A equipe do PC será responsável pela logística da operação, tais como: alimentação,
+alojamento, estadia, solicitação de recursos adicionais (viaturas, aeronaves, efetivo),
+anúncios ao escalão superior e informações à imprensa.
+Ao término do dia de buscas e sempre que possível, os chefes de equipes se reunirão
+para debriefing sobre os resultados do turno de trabalho e realizarão o planejamento para
+o próximo dia de buscas.
+No PC deverão ser confeccionados panfletos com foto e nome do desaparecido,
+constando telefone de contato de familiares ou do PC, sendo que esses panfletos serão
+distribuídos para frequentadores das trilhas e em hoteis, pousadas e restaurantes da
+região.
+As buscas não deverão concentrar-se apenas nas rotas e matas, devendo haver um
+contato junto à Polícia Civil, para averiguação de outras possibilidades, como sequestros,
+podendo-se solicitar à Polícia Militar a verificação em hoteis e área circular à mata ou
+local do desaparecimento.
+O Posto de Comando deverá entrar em contato com outras instituições que estiverem
+trabalhando no local (Exército, Polícia ou Bombeiro de outros estados), para que as
+condutas de todas as instituições sejam padronizadas, facilitando, assim, o comando das
+operações.
+CORPO DE BOMBEIROS
+MILITAR DE MINAS
+GERAIS
+PROCEDIMENTO
+OPERACIONAL PADRÃO - 01
+GRUPO: S TÍTULO: Busca e Salvamento de
+Pessoa Perdida
+Página
+CLASSE: S 04 11/24
+ELABORADOR
+Cap BM Rovigo T. Soares
+REVISORES
+1º Ten BM Lucas S. Costa
+3ª Seção do Estado-Maior
+HOMOLOGADOR
+CHEFE DO EMBM
+(a) Cel BM Erlon Dias do
+Nascimento Botelho
+DATA PROVÁVEL DE
+ATUALIZAÇÃO
+01/10/2022
+DATA: 17/02/2019 DATA: 04/10/2019 DATA: 18/11/2019
+Em operações conjuntas, envolvendo outros órgãos, todos devem ser citados durante a
+divulgação de informações sobre a ocorrência, ressaltando-se o trabalho em conjunto de
+todas as equipes.
+9 VESTÍGIOS
+O rastreamento exige total atenção das equipes de busca à procura de evidências
+deixadas pela passagem de pessoas, especialmente sinais que não se encontram dentro
+do padrão do local. As equipes deverão estar atentas, pois trilhas normalmente são
+frequentadas por diversas pessoas e alguns indícios encontrados podem não ser da
+pessoa desaparecida.
+Os indícios são classificados em classes (evidência física, informação registrada,
+pessoas e óbvios) podendo, as buscas, concentrarem-se em apenas um ou associá- lo a
+outros, conforme a seguir (CBPMESP, 2006):
+a) evidências físicas: odores da vítima (identificados por cães), pegadas e
+barrancos escavados, pedras da trilha sujas (pisoteadas com barro ou lama),
+árvores marcadas ou manchadas, galhos quebrados ou pedras soltas, papel de
+bala, garrafa e restos de alimentos na trilha, vegetal encontrado em local não
+propício a ele, pedaços de roupas rasgadas, teias de aranhas rompidas, fumaça e
+restos de fogueira, fezes e odores de urina;
+b) informação registrada: registros de viagem, registros de refúgio, cadastros de
+visitante;
+c) pessoas: testemunhas, amigos, parentes;
+d) óbvios: gritos de socorro, visualização da vítima.
+CORPO DE BOMBEIROS
+MILITAR DE MINAS
+GERAIS
+PROCEDIMENTO
+OPERACIONAL PADRÃO - 01
+GRUPO: S TÍTULO: Busca e Salvamento de
+Pessoa Perdida
+Página
+CLASSE: S 04 12/24
+ELABORADOR
+Cap BM Rovigo T. Soares
+REVISORES
+1º Ten BM Lucas S. Costa
+3ª Seção do Estado-Maior
+HOMOLOGADOR
+CHEFE DO EMBM
+(a) Cel BM Erlon Dias do
+Nascimento Botelho
+DATA PROVÁVEL DE
+ATUALIZAÇÃO
+01/10/2022
+DATA: 17/02/2019 DATA: 04/10/2019 DATA: 18/11/2019
+10 TÉCNICAS DE BUSCA
+As técnicas consistem na utilização de métodos que objetivam a minimização dos
+recursos, economia de tempo e energia por meio de uma maneira mais racional de
+buscas (CBPMESP, 2006).
+10.1 Método pente fino
+Divisão de uma área que será o ponto de partida (estrada ou rio), em azimutes paralelos
+que serão percorridos por um grupo de busca até uma distância ou ponto prédeterminado (Figura 1). Os azimutes paralelos devem ser perpendiculares e
+equidistantes ao ponto referencial, devendo-se definir a distância a ser percorrida ou
+objetivo a ser alcançado. É utilizado quando existem várias equipes de busca.
+Figura 1 – método pente fino
+Fonte: Adaptado de CBPMESP, 2006
+CORPO DE BOMBEIROS
+MILITAR DE MINAS
+GERAIS
+PROCEDIMENTO
+OPERACIONAL PADRÃO - 01
+GRUPO: S TÍTULO: Busca e Salvamento de
+Pessoa Perdida
+Página
+CLASSE: S 04 13/24
+ELABORADOR
+Cap BM Rovigo T. Soares
+REVISORES
+1º Ten BM Lucas S. Costa
+3ª Seção do Estado-Maior
+HOMOLOGADOR
+CHEFE DO EMBM
+(a) Cel BM Erlon Dias do
+Nascimento Botelho
+DATA PROVÁVEL DE
+ATUALIZAÇÃO
+01/10/2022
+DATA: 17/02/2019 DATA: 04/10/2019 DATA: 18/11/2019
+10.2 Método retangular
+Também utilizado quando se tem uma estrada ou rio como referência e apenas uma
+equipe de busca na área a ser verificada. Baseia-se na navegação em forma de
+retângulos perpendiculares a um referencial (Figura 2). Traçar um azimute perpendicular
+ao referencial, caminhar por 100m ou a distância que a visibilidade permitir; virar 90º e
+caminhar a metade da distância percorrida anteriormente; virar 90º novamente e retornar
+ao referencial seguindo o contra azimute do ponto de saída; caminhar na beira do
+referencial, percorrendo metade da distância anterior, passando a repetir o processo.
+Figura 2 – método retangular
+Fonte: Adaptado de CBPMESP, 2006
+10.3 Método do quadrado crescente
+Utilizado quando a vítima se perde em determinado ponto e não se sabe um referencial,
+quando o terreno não é muito acidentado e apenas uma equipe está atuando nas buscas
+(Figura 3). Consiste na formação de quadrados cada vez maiores, aumentando de 100
+em 100m ou conforme o terreno e vegetação permitirem.
+Figura 3 – método do quadrado crescente
+CORPO DE BOMBEIROS
+MILITAR DE MINAS
+GERAIS
+PROCEDIMENTO
+OPERACIONAL PADRÃO - 01
+GRUPO: S TÍTULO: Busca e Salvamento de
+Pessoa Perdida
+Página
+CLASSE: S 04 14/24
+ELABORADOR
+Cap BM Rovigo T. Soares
+REVISORES
+1º Ten BM Lucas S. Costa
+3ª Seção do Estado-Maior
+HOMOLOGADOR
+CHEFE DO EMBM
+(a) Cel BM Erlon Dias do
+Nascimento Botelho
+DATA PROVÁVEL DE
+ATUALIZAÇÃO
+01/10/2022
+DATA: 17/02/2019 DATA: 04/10/2019 DATA: 18/11/2019
+Fonte: Adaptado de CBPMESP, 2006
+10.4 Método leque
+Utilizado quando várias equipes estão disponíveis e se pretende fazer uma varredura
+rápida em qualquer terreno ou cobertura vegetal (Figura 4). Traça-se uma linha
+imaginária usando-se um azimute e contra azimute ou ainda aproveitando uma estrada
+ou um rio, determina-se um ponto de partida para as equipes que saem e voltam em um
+contra azimute; as guarnições percorrem a mesma distância; devem ser efetuadas
+buscas em todos os quadrantes definidos a partir o ponto de referência (360º).
+Figura 4 – método leque
+Fonte: Adaptado de CBPMESP, 2006
+CORPO DE BOMBEIROS
+MILITAR DE MINAS
+GERAIS
+PROCEDIMENTO
+OPERACIONAL PADRÃO - 01
+GRUPO: S TÍTULO: Busca e Salvamento de
+Pessoa Perdida
+Página
+CLASSE: S 04 15/24
+ELABORADOR
+Cap BM Rovigo T. Soares
+REVISORES
+1º Ten BM Lucas S. Costa
+3ª Seção do Estado-Maior
+HOMOLOGADOR
+CHEFE DO EMBM
+(a) Cel BM Erlon Dias do
+Nascimento Botelho
+DATA PROVÁVEL DE
+ATUALIZAÇÃO
+01/10/2022
+DATA: 17/02/2019 DATA: 04/10/2019 DATA: 18/11/2019
+10.5 Método off-set
+Utilizado quando há duas equipes de busca e a área é restrita (Figura 5). As equipes
+saem de um ponto de partida, após traçar uma linha imaginária, seguindo azimutes
+separados por um ângulo de 90º, caminhando determinada distância; após percorrem a
+mesma distância, uma equipe vira 150º à direita e a outra 150º à esquerda, seguindo
+direção ao ponto de partida; cada uma deve caminhar 100m ou mais se o terreno e a
+visibilidade permitirem; após se encontrarem, as equipes convergem e retornam ao
+ponto de partida.
+Figura 5 – método off-set
+Fonte: Adaptado de CBPMESP, 2006
+11 SUSPENSÃO E ENCERRAMENTO DAS BUSCAS
+Diversas situações podem ocorrer durante as buscas, como por exemplo, fatores
+ambientais adversos (chuvas fortes) e até mesmo o cumprimento da missão. Diante
+destes fatores, as buscas poderão ser suspensas ou encerradas.
+CORPO DE BOMBEIROS
+MILITAR DE MINAS
+GERAIS
+PROCEDIMENTO
+OPERACIONAL PADRÃO - 01
+GRUPO: S TÍTULO: Busca e Salvamento de
+Pessoa Perdida
+Página
+CLASSE: S 04 16/24
+ELABORADOR
+Cap BM Rovigo T. Soares
+REVISORES
+1º Ten BM Lucas S. Costa
+3ª Seção do Estado-Maior
+HOMOLOGADOR
+CHEFE DO EMBM
+(a) Cel BM Erlon Dias do
+Nascimento Botelho
+DATA PROVÁVEL DE
+ATUALIZAÇÃO
+01/10/2022
+DATA: 17/02/2019 DATA: 04/10/2019 DATA: 18/11/2019
+11.1 Suspensão de buscas
+Interrupção temporária dos trabalhos de buscas devido a fatores específicos, como por
+exemplo, condições ambientais adversas que impossibilitem os trabalhos durante sua
+ocorrência, situações de emergência envolvendo membros das equipes de busca. Não
+havendo mais o fator que motivou a suspensão, as buscas poderão ser reiniciadas.
+A autoridade competente para suspender as buscas será o Comandante das Operações
+no local a ocorrência.
+11.2 Encerramento de buscas
+Encerramento geral dos trabalhos de buscas devido ao cumprimento da missão ou a
+presença de fatores adversos que tornem impossível a continuidade da missão.
+A autoridade competente para encerrar as buscas será o Comandante da Unidade de
+Área. Vale ressaltar que a decisão para encerramento de buscas carece de uma revisão
+sistemática para que não ocorram falhas.
+Os itens a seguir descrevem os casos de suspensão, encerramento e o protocolo de
+revisão para decisão de encerramento.
+11.3 Casos de suspensão de buscas
+As buscas serão suspensas quando:
+a) o tempo de busca exceder em três vezes o tempo provável de sobrevida do
+desaparecido;
+b) a área a ser buscada já tenha sido totalmente varrida;
+CORPO DE BOMBEIROS
+MILITAR DE MINAS
+GERAIS
+PROCEDIMENTO
+OPERACIONAL PADRÃO - 01
+GRUPO: S TÍTULO: Busca e Salvamento de
+Pessoa Perdida
+Página
+CLASSE: S 04 17/24
+ELABORADOR
+Cap BM Rovigo T. Soares
+REVISORES
+1º Ten BM Lucas S. Costa
+3ª Seção do Estado-Maior
+HOMOLOGADOR
+CHEFE DO EMBM
+(a) Cel BM Erlon Dias do
+Nascimento Botelho
+DATA PROVÁVEL DE
+ATUALIZAÇÃO
+01/10/2022
+DATA: 17/02/2019 DATA: 04/10/2019 DATA: 18/11/2019
+c) houver indícios de que o desaparecimento da pessoa se deu em virtude de um
+possível crime;
+d) o risco para a integridade física dos militares exceder o limite aceitável para as
+buscas em se tratando de possível óbito;
+e) não houver mais indícios que sustentem as buscas naquela localidade;
+f) uma pessoa desaparecida é encontrada sem ferimentos, devendo existir
+comprovação de que se trata da pessoa procurada;
+g) um corpo é encontrado, devendo existir comprovação de que se trata da pessoa
+procurada;
+h) quando algum membro das equipes fica ferido;
+i) quando algum membro das equipes de busca fica perdido.
+No caso de encontro de cadáver na região do desaparecimento os seguintes
+procedimentos devem ser seguidos:
+a) a equipe de busca que encontrou o corpo deve informar imediatamente ao
+comandante das operações;
+b) a equipe que encontrou o corpo deverá realizar o isolamento do local em um raio
+de 30 metros com fitas e cordas, se possível, mantendo-se afastada do local.
+c) em caso de risco de perda do corpo, este deverá ser colocado em uma área
+segura;
+d) o local deverá ser tratado como cena de crime.
+A ocorrência de casos de suspensão de buscas impõe aos militares a tomada de ações
+visando gerenciar os riscos no local, tratamento de vítimas, solicitação de apoio, devendo
+sempre anunciar ao escalão superior as decisões tomadas.
+CORPO DE BOMBEIROS
+MILITAR DE MINAS
+GERAIS
+PROCEDIMENTO
+OPERACIONAL PADRÃO - 01
+GRUPO: S TÍTULO: Busca e Salvamento de
+Pessoa Perdida
+Página
+CLASSE: S 04 18/24
+ELABORADOR
+Cap BM Rovigo T. Soares
+REVISORES
+1º Ten BM Lucas S. Costa
+3ª Seção do Estado-Maior
+HOMOLOGADOR
+CHEFE DO EMBM
+(a) Cel BM Erlon Dias do
+Nascimento Botelho
+DATA PROVÁVEL DE
+ATUALIZAÇÃO
+01/10/2022
+DATA: 17/02/2019 DATA: 04/10/2019 DATA: 18/11/2019
+11.4 Casos de encerramento de buscas
+As buscas serão encerradas quando:
+a) a pessoa desaparecida é localizada e resgatada;
+b) caso haja informação oficial de que a pessoa desaparecida foi encontrada;
+c) quando todas as pessoas inicialmente desaparecidas forem encontradas;
+d) quando a pessoa desaparecida for vista posteriormente a data do
+desaparecimento em uma área urbana ou rural com vias de acesso ou ruas onde
+transitam veículos ou pessoas com frequência, deixando de se caracterizar como
+área remota, sendo nesse caso, a competência para investigação da Polícia Civil,
+devendo o comandante das operações repassar a ocorrência para tal órgão;
+e) quando todos os meios possíveis e disponíveis foram utilizados ou quando há risco
+de morte para os integrantes das equipes de busca e estes não puderem ser
+reduzidos a níveis aceitáveis de risco.
+Na ocorrência de casos de encerramento de buscas, a autoriadade competente deverá
+ser acionada para tomada de decisão.
+11.5 Protocolo de revisão para encerramento das buscas
+A decisão de encerrar uma busca não deve ser tomada até que uma revisão completa da
+operação seja feita. Essa revisão focará na probabilidade de existirem sobreviventes
+após o incidente inicial, a probabilidade de que os sobreviventes estejam na área de
+busca, e se a busca foi realmente eficiente. A revisão deve ser feita de maneira a:
+a) examinar as decisões que foram tomadas para a condução das buscas para
+assegurar que as premissas apropriadas foram atendidas e os cenários de
+probabilidade de encontro foram varridos;
+CORPO DE BOMBEIROS
+MILITAR DE MINAS
+GERAIS
+PROCEDIMENTO
+OPERACIONAL PADRÃO - 01
+GRUPO: S TÍTULO: Busca e Salvamento de
+Pessoa Perdida
+Página
+CLASSE: S 04 19/24
+ELABORADOR
+Cap BM Rovigo T. Soares
+REVISORES
+1º Ten BM Lucas S. Costa
+3ª Seção do Estado-Maior
+HOMOLOGADOR
+CHEFE DO EMBM
+(a) Cel BM Erlon Dias do
+Nascimento Botelho
+DATA PROVÁVEL DE
+ATUALIZAÇÃO
+01/10/2022
+DATA: 17/02/2019 DATA: 04/10/2019 DATA: 18/11/2019
+b) reavaliar quaisquer pistas significativas que foram encontradas;
+c) confirmar que todos os meios razoáveis de obtenção de informações da vítima
+foram esgotados;
+d) revisar todo o material de inteligência para garantir que nenhuma informação foi
+negligenciada;
+e) examinar o plano de busca para ter certeza que toda a área suspeita foi buscada,
+considerando-se todas as regiões que as equipes percorreram, sendo que o
+percurso realizado pelas guarnições deve ser, preferencialmente, gravado por um
+aparelho receptor GPS ou sistema similar com a finalidade de garantir a
+efetividade da busca naquela região e confirmar quais foram realmente os
+caminhos percorridos pelas equipes.
+Uma determinação sobre a capacidade de sobrevivência da vítima deve ser feita,
+considerando:
+a) tempo decorrido desde o incidente;tempo decorrido desde o incidente;
+b) condições ambientais;
+c) idade, experiência e condição física do potencial sobrevivente;
+d) probabilidade de a vítima sobreviver;
+e) equipamento de sobrevivência disponível;
+f) registros de estudosde acidentes similares sobre a apacidadede sobrevivência
+em situações análogas.
+Em decorrência da decisão de encerramento, o comandante das operações deverá tomar
+providências para garantir que os parentes mais próximos recebam todas as informações
+sobre o esforço de busca incluindo fatores operacionais relevantes e as razões para
+propor o encerramento da busca.
+CORPO DE BOMBEIROS
+MILITAR DE MINAS
+GERAIS
+PROCEDIMENTO
+OPERACIONAL PADRÃO - 01
+GRUPO: S TÍTULO: Busca e Salvamento de
+Pessoa Perdida
+Página
+CLASSE: S 04 20/24
+ELABORADOR
+Cap BM Rovigo T. Soares
+REVISORES
+1º Ten BM Lucas S. Costa
+3ª Seção do Estado-Maior
+HOMOLOGADOR
+CHEFE DO EMBM
+(a) Cel BM Erlon Dias do
+Nascimento Botelho
+DATA PROVÁVEL DE
+ATUALIZAÇÃO
+01/10/2022
+DATA: 17/02/2019 DATA: 04/10/2019 DATA: 18/11/2019
+Recomenda-se que a notícia de encerramento das operações seja divulgada pelo menos
+um dia antes do efetivo encerramento das buscas.
+O comandante das operações deve manter contato estreito com os familiares, permitindo
+acesso à área de buscas por eles, desde que o local seja seguro, a fim de se constatar
+todas as dificuldades enfrentadas pelas equipes.
+O encerramento das buscas, em caso de não encontro da pessoa desaparecida, deverá
+ser realizado de forma a se diminuir o empenho de recursos humanos e logísticos
+progressivamente ao longo dos dias, até o encerramento total da operação.
+As razões de encerramento das buscas devem ser claramente registradas em formulários
+próprios. Todas essas informações devem ser passadas à Polícia Civil, objetivando
+subsidiar futuras investigações.
+Caso uma nova informação relevante seja constatada a operação poderá ser retomada,
+devendo-se considerar todos os riscos e perigos envolvidos para a equipe.
+Sugere-se multiplicar o tempo realístico estimado para a sobrevivência da vítima por três.
+Mesmo que haja grandes possibilidades da pessoa ser encontrada sem vida, a busca
+pelo corpo ainda pode continuar, mas deve-se ressaltar que o propósito primário da busca
+e resgate é salvar vidas, e o scucndario é recuperar corpos, ou seja, a vida dos socorristas
+não deve ser colocada em risco quando a probabilidade de recuperação de um corpo for
+maior que a probabilidade de resgate de uma pessoa com vida.
+A recuperação de um corpo pode aliviar a ansiedade e fornecer um fechamento de
+situação para os parentes próximos além de ser bom para as relações entre o público
+interno e externo, valorizando a imagem da Corporação.
+CORPO DE BOMBEIROS
+MILITAR DE MINAS
+GERAIS
+PROCEDIMENTO
+OPERACIONAL PADRÃO - 01
+GRUPO: S TÍTULO: Busca e Salvamento de
+Pessoa Perdida
+Página
+CLASSE: S 04 21/24
+ELABORADOR
+Cap BM Rovigo T. Soares
+REVISORES
+1º Ten BM Lucas S. Costa
+3ª Seção do Estado-Maior
+HOMOLOGADOR
+CHEFE DO EMBM
+(a) Cel BM Erlon Dias do
+Nascimento Botelho
+DATA PROVÁVEL DE
+ATUALIZAÇÃO
+01/10/2022
+DATA: 17/02/2019 DATA: 04/10/2019 DATA: 18/11/2019
+Caso todos os meios necessários e disponíveis tenham sido utilizados e levando-se em
+conta o protocolo de revisão acima, as buscas poderão ser encerradas.
+12 PÓS MISSÃO
+Após o encerramento das buscas deverá ser realizada uma reunião com os envolvidos,
+sendo levantados pontos positivos, negativos e sugestões para próximas operações.
+O bombeiro militar, comandante das operações, deverá apresentar relatório sobre a
+operação ao comando da Unidade de área em até 5 (cinco) dias úteis após o
+encerramento das buscas.
+13 MATERIAIS
+Os materiais que forem acondicionados dentro das mochilas deverão estar
+impermeabilizados. Os materiais individuais necessários para pernoite e vestimenta
+deverão ser adaptados conforme o clima da região, constando neste POP apenas uma
+sugestão, levando-se em consideração a necessidade para uma região de clima frio
+como a Serra da Mantiqueira no sul do Estado, devendo existir uma adaptação para
+regiões de climas quentes.
+CORPO DE BOMBEIROS
+MILITAR DE MINAS
+GERAIS
+PROCEDIMENTO
+OPERACIONAL PADRÃO - 01
+GRUPO: S TÍTULO: Busca e Salvamento de
+Pessoa Perdida
+Página
+CLASSE: S 04 22/24
+ELABORADOR
+Cap BM Rovigo T. Soares
+REVISORES
+1º Ten BM Lucas S. Costa
+3ª Seção do Estado-Maior
+HOMOLOGADOR
+CHEFE DO EMBM
+(a) Cel BM Erlon Dias do
+Nascimento Botelho
+DATA PROVÁVEL DE
+ATUALIZAÇÃO
+01/10/2022
+DATA: 17/02/2019 DATA: 04/10/2019 DATA: 18/11/2019
+13.1 Materiais coletivos
+Conforme a seguir:
+Tabela 1 – Materiais Coletivos
+Item Quant. Discriminação
+1 4 Galões de 20 litros de água
+2 1 Repetidora portátil
+3 8 HT com carregador (2 por equipe mais 2 reservas)
+4 1 Kit SCO (PC)
+5 4 Binóculos
+6 1 Prancha longa completa
+7 1 Maca tipo sked
+8 1 Bolsa de resgate completa (PC)
+9 1 Saco de cadáver
+10 4 Capacetes
+11 ---- Cordas e ferragens para salvamentos verticais (PC)
+12 1 Notebook (PC)
+13 1 Mapa da região de buscas
+14 ----
+Viaturas com tração 4x4 (conforme número de militares
+empenhados)
+Fonte: Elaborado pelo 1º Ten BM Roberto S. Marangon
+13.2 Materiais individuais
+Conforme Tabela 2 a seguir:
+Tabela 2 – Materiais Individuais
+Item Quant. Discriminação
+1 1 Barraca para 2 pessoas
+2 1 Isolante térmico
+3 1 Saco de dormir -5ºC
+4 1 Mochila com capacidade mínima de 50+10L com capa para chuva
+5 1 Mochila de hidratação 3L
+6 1 Jaqueta tipo Anorak
+7 1 Lanterna de cabeça
+8 1 Lanterna de mão
+9 1 Apito de longo alcance (Fox 40)
+10 1 GPS
+11 1 Bússola
+CORPO DE BOMBEIROS
+MILITAR DE MINAS
+GERAIS
+PROCEDIMENTO
+OPERACIONAL PADRÃO - 01
+GRUPO: S TÍTULO: Busca e Salvamento de
+Pessoa Perdida
+Página
+CLASSE: S 04 23/24
+ELABORADOR
+Cap BM Rovigo T. Soares
+REVISORES
+1º Ten BM Lucas S. Costa
+3ª Seção do Estado-Maior
+HOMOLOGADOR
+CHEFE DO EMBM
+(a) Cel BM Erlon Dias do
+Nascimento Botelho
+DATA PROVÁVEL DE
+ATUALIZAÇÃO
+01/10/2022
+DATA: 17/02/2019 DATA: 04/10/2019 DATA: 18/11/2019
+12 1 Pá de campanha
+13 2 Bastão de caminhada
+14 1 Camiseta térmica segunda pele
+15 1 Calça segunda pele térmica frio extremo respirável UV50+ anti odor
+16 1 Luvas de segunda pele e cachecol;
+17 1 Balaclava ou touca para proteção contra os raios solares
+18 1 Calça tipo fleece
+19 1 Blusa de frio tipo fleece
+20 1 Camisa manga longa com proteção UV 50+
+21 1 Calça de compressão tipo segunda pele
+22 2 Óculos de proteção - transparente e escuro
+23 1 Fogareiro e kit gás, panela, frigideira, talheres, marmita para comer
+24 1 Facão e canivete
+25 1 Capa de chuva
+26 1 Coturno
+27 4 Pares de meias (sem algodão), cuecas, toca e luvas Fleece
+28 1 Manta aluminizada
+29 1 Saco de lixo resistente 100L
+30 1 Alimentação (sugerido salame tipo italiano, barra de cereal, macarrão
+instântaneo, rapadura, granola, bananinha ou goiabinha)
+31 1 Sabonete, escova de dente, pasta de dente, papel higiênico, toalha, lenços
+umedecidos, fio dental, cortador de unhas, lâmina de barbear, repelente,
+protetor solar
+32 1 Kit primeiros socorros com equipamentos para atendimento em locais remotos.
+33 2 Rádio de comunicação (por equipe)
+34 1 Bloco de anotação impermeável
+35 4 Repositor hidroeletrolítico
+36 1 Rolo de saco plástico (para marmita)
+37 1 Cabo solteiro
+38 1 Cordelete 4mm
+39 1 Pederneira e isqueiro // Algodão - isca para fogueira
+40 2 Carregador portátil para celular
+41 1 Fita silver tape
+42 1 Fita zebrada
+43 1 Sinalizador luminoso
+44 1 Ração operacional R2 (EB)
+41 1 Fita silver tape
+42 1 Fita zebrada
+43 1 Sinalizador luminoso
+44 1 Ração operacional R2 (EB)
+Fonte: Elaborado por 1º Ten BM Roberto Sales Marangon
+CORPO DE BOMBEIROS
+MILITAR DE MINAS
+GERAIS
+PROCEDIMENTO
+OPERACIONAL PADRÃO - 01
+GRUPO: S TÍTULO: Busca e Salvamento de
+Pessoa Perdida
+Página
+CLASSE: S 04 24/24
+ELABORADOR
+Cap BM Rovigo T. Soares
+REVISORES
+1º Ten BM Lucas S. Costa
+3ª Seção do Estado-Maior
+HOMOLOGADOR
+CHEFE DO EMBM
+(a) Cel BM Erlon Dias do
+Nascimento Botelho
+DATA PROVÁVEL DE
+ATUALIZAÇÃO
+01/10/2022
+DATA: 17/02/2019 DATA: 04/10/2019 DATA: 18/11/2019

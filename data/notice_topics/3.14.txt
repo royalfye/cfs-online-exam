@@ -1,0 +1,2292 @@
+Corpo de Bombeiros Militar de Minas Gerais.
+ Instrução Técnica Operacional 12. Operações
+ Submersas. 2.ed. Belo Horizonte: CBMMG, 2024.
+
+ 93 p. il.
+
+ 1. Corpo de Bombeiros Militar de Minas Gerais.
+ 2. ITO 12. 3. Instrução Técnica Operacional.
+ 4.Operações Submersas. I. Título.
+
+ LISTA DE SIGLAS
+AAS Assessoria de Assistência à Saúde
+ABNT Associação Brasileira de Normas Técnicas
+BI Boletim Interno
+CBMMG Corpo de Bombeiros Militar de Minas Gerais
+CMaut Curso de Mergulho Autônomo
+COB Comando Operacional de Bombeiros
+DD Doença Descompressiva
+ETA Embolia Traumática pelo Ar
+GR Grupo de Repetição
+HIV Human Immunodeficiency Virus - Vírus da Imunodeficiência Humana
+IGAM Instituto Mineiro de Gestão das Águas
+IS Intervalo de Superfície
+ITO Instrução Técnica Operacional
+MASA Mergulho Autônomo e Salvamento Aquático
+MFF Máscara Full Face
+MSP Mergulho de Segurança Pública
+OIT Organização Internacional do Trabalho
+OMS Organização Mundial de Saúde
+PSOBM Programa de Saúde Ocupacional Bombeiro Militar
+REDS Registro de Eventos de Defesa Social
+SCUBA Self Contained Underwater Breathing Apparatus
+TCS Taxa de Consumo de Superfície
+TF Tempo de Fundo
+TTD Tempo Total de Descompressão
+TTNR Tabela de Tempo de Nitrogênio Residual
+UEOp Unidade de Execução Operacional
+SUMÁRIO
+1 INTRODUÇÃO .............................................................................................10
+2 FINALIDADE E OBJETIVOS.......................................................................12
+3 CONCEITOS E DEFINIÇÕES ......................................................................13
+3.1 Acidente descompressivo .........................................................................13
+3.2 Água contaminada/poluída........................................................................13
+3.3 Apagamento................................................................................................14
+3.4 Apneia..........................................................................................................14
+3.5 Apoio de superfície / guia de mergulho....................................................14
+3.6 Autonomia de gás.......................................................................................14
+3.7 Bail out ........................................................................................................15
+3.8 Barotrauma .................................................................................................16
+3.9 Bússola submersível..................................................................................16
+3.10 Cabo de fundo.............................................................................................16
+3.11 Cabo guia ....................................................................................................16
+3.12 Câmara de descompressão .......................................................................17
+3.13 Colete equilibrador.....................................................................................17
+3.14 Computador de mergulho..........................................................................17
+3.15 Comutador de gás ......................................................................................17
+3.16 Condições perigosas .................................................................................17
+3.17 Cilindro de mergulho..................................................................................18
+3.18 Descompressão..........................................................................................18
+3.19 Doença descompressiva (DD) ...................................................................18
+3.20 Embolia traumática pelo ar (ETA) .............................................................19
+3.21 Equipamento autônomo de circuito aberto..............................................19
+3.22 Equipe de mergulho de segurança pública..............................................19
+3.23 Equipe mínima ............................................................................................19
+3.24 Esmagamento .............................................................................................20
+3.25 Exposição excepcional ..............................................................................20
+3.26 Fonte alternativa de ar ...............................................................................20
+3.27 Gancho de recuperação.............................................................................20
+3.28 Guia de mergulho / apoio de superfície....................................................21
+3.29 Grupo de repetição (GR)............................................................................21
+3.30 Harness de segurança ...............................................................................21
+3.31 Hipercapnia .................................................................................................21
+3.32 Intervalo de superfície (IS).........................................................................21
+3.33 Invólucro .....................................................................................................22
+3.34 Lift bag.........................................................................................................22
+3.35 Manômetro ..................................................................................................22
+3.36 Máscara de mergulho semifacial...............................................................22
+3.37 Máscara de mergulho tipo full face...........................................................22
+3.38 Mergulhador................................................................................................23
+3.39 Mergulho de segurança pública (MSP).....................................................23
+3.40 Mergulhador de segurança pública ..........................................................23
+3.41 Mergulho profundo.....................................................................................23
+3.42 Mergulho técnico........................................................................................23
+3.43 Narcose pelo nitrogênio.............................................................................24
+3.44 Narguilê .......................................................................................................24
+3.45 Operações submersas ...............................................................................24
+3.46 Parada descompressiva.............................................................................24
+3.47 Profundímetro.............................................................................................25
+3.48 Rebreather...................................................................................................25
+3.49 Redemoinho................................................................................................25
+3.50 Reflutuação .................................................................................................25
+3.51 Regras de segurança .................................................................................25
+3.52 Remanso .....................................................................................................26
+3.53 Roupa seca .................................................................................................26
+3.54 Roupa úmida...............................................................................................26
+3.55 Stage............................................................................................................27
+3.56 Subida de emergência................................................................................27
+3.57 Supervisor de mergulho ............................................................................27
+3.58 Tabela de descompressão.........................................................................27
+3.59 Tabela de tempo de fundo X profundidade ..............................................28
+3.60 Tabela de tempo de nitrogênio residual (TTNR) ......................................28
+3.61 Taxa de consumo de superfície (TCS)......................................................28
+3.62 Tempo de fundo (TF)..................................................................................29
+3.63 Tempo total de descompressão (TTD)......................................................29
+3.64 Turbidez.......................................................................................................29
+3.65 Umbilical......................................................................................................30
+3.66 Válvulas reguladoras..................................................................................30
+4 EQUIPES DE MERGULHO..........................................................................31
+4.1 Equipe nível 1..............................................................................................33
+4.1.1 Funções.......................................................................................................33
+4.1.2 Exame de saúde exigido............................................................................34
+4.2 Equipe nível 2..............................................................................................34
+4.2.1 Funções.......................................................................................................34
+4.2.2 Exame de saúde exigido............................................................................35
+4.3 Equipe nível 3..............................................................................................35
+4.3.1 Funções.......................................................................................................35
+4.3.2 Exames de saúde exigidos ........................................................................36
+4.4 Equipe nível 4..............................................................................................37
+4.4.1 Funções.......................................................................................................37
+4.4.2 Exames de saúde exigidos ........................................................................38
+5 RISCOS ASSOCIADOS À POLUIÇÃO E CONTAMINAÇÃO .....................39
+6 ASPECTOS GERAIS DE SEGURANÇA .....................................................42
+7 ATENDIMENTO DE OCORRÊNCIAS..........................................................44
+7.1 Acionamento da equipe de MSP ...............................................................45
+7.2 Preparação do equipamento......................................................................46
+7.2.1 Equipamentos mínimos .............................................................................48
+7.2.2 Preparação do mergulhador......................................................................50
+7.3 Deslocamento .............................................................................................51
+7.4 Análise da cena...........................................................................................51
+7.5 Sistema de Comando de Operações (SCO) .............................................53
+7.6 Ações de segurança...................................................................................53
+7.7 Disposição dos equipamentos e materiais ..............................................54
+7.8 Plano de buscas .........................................................................................55
+7.9 Execução de buscas ..................................................................................56
+7.10 Encerramento ou suspensão das buscas submersas ............................58
+7.10.1 Encontro do objeto.....................................................................................61
+7.10.2 Esgotamento do recurso de ar..................................................................61
+7.10.3 Em atenção aos limites impostos pelas TLSD.........................................62
+7.10.4 Alterações climáticas e ambientais que ofereçam risco.........................62
+7.10.5 Exposição excessiva dos militares seguida de esgotamento físico......64
+7.10.6 Surgimento de riscos que demandam revisão do planejamento...........64
+7.10.7 Prescrições diversas..................................................................................65
+7.11 Finalização dos trabalhos no local ...........................................................66
+7.12 Atividades pós-operação ...........................................................................66
+8 RESPONSABILIDADES DOS MEMBROS DA EQUIPE DE MERGULHO .68
+8.1 Oficial de mergulho da unidade ................................................................68
+8.1.1 Controle de treinamentos ..........................................................................69
+8.1.2 Controle de equipamentos ........................................................................69
+8.1.3 Definição das equipes................................................................................70
+8.1.4 Controle da caderneta de registro de mergulho......................................70
+8.2 Supervisor da equipe de MSP ...................................................................70
+8.3 Mergulhadores............................................................................................72
+9 PLANO DE EMERGÊNCIA..........................................................................74
+9.1 Tipos de acidente de mergulho mais comuns .........................................74
+9.2 Ativação do plano.......................................................................................77
+9.3 Responsável pela ativação ........................................................................77
+9.4 Desenvolvimento da ativação....................................................................77
+9.5 Remoção do militar acidentado.................................................................78
+9.6 Detalhamento das fases do plano e critérios para estruturação............79
+9.6.1 Prevenção ...................................................................................................79
+9.6.2 Resposta .....................................................................................................80
+9.6.3 Alarme .........................................................................................................81
+9.6.4 Acionamento dos recursos .......................................................................81
+9.6.5 Transporte de emergência.........................................................................82
+9.6.6 Mobilização adicional de recursos............................................................82
+9.6.7 Atribuições gerais ......................................................................................82
+REFERÊNCIAS.........................................................................................................84
+APÊNDICE A - QUESTIONÁRIO DE OPERAÇÕES SUBMERSAS........................86
+APÊNDICE B – CHECKLIST DE EQUIPAMENTOS................................................89
+APÊNDICE C - CADERNETA DE MERGULHO INDIVIDUAL .................................90
+ANEXO A - TABELAS DE LIMITES SEM DESCOMPRESSÃO (TLSD) .................91
+ANEXO B - TABELA DE AJUSTE DE PROFUNDIDADE/ALTITUDE.....................92
+ANEXO C - TABELA PARA GRUPOS REPETITIVOS – ADAPTAÇÃO À ALTITUDE
+....................................................................................................................................93
+ITO 12 – OPERAÇÕES SUBMERSAS 10
+1 INTRODUÇÃO
+Segundo o estabelecido pelas Constituições Federal (1988) e Estadual (1989), ao
+Corpo de Bombeiros Militar de Minas Gerais (CBMMG) compete a execução de
+atividades de defesa civil, bem como a realização de ações de busca e salvamento.
+Entre os serviços de competência do CBMMG está a atividade de salvamento e,
+incluso na atividade de salvamento, conforme a padronização do serviço operacional,
+está prevista a atividade de mergulho autônomo, cujo foco se concentra na
+recuperação de afogados, cadáveres e bens submersos. É necessário mencionar que
+o CBMMG é a única instituição governamental que realiza tal serviço de forma gratuita
+e pública no estado de Minas Gerais.
+De maneira geral, por operação submersa, entende-se a execução de atividades de
+busca e recuperação de cadáver, bens submersos e evidências criminais. Em Minas
+Gerais, essas atividades são realizadas em diversos tipos de mananciais, tais como:
+rios, lagoas, açudes, represas e cachoeiras. Em cada situação, os mergulhadores se
+deparam com um novo evento, uma vez que os ambientes subaquáticos são distintos
+no que tange à natureza de fundo, visibilidade, qualidade e balneabilidade da água, e
+as ocorrências também, por causa do número de vítimas, dentre outros fatores. Por
+consequência, tais situações demandam um preparo técnico por parte do mergulhador
+e aparato logístico apropriado.
+A atividade de mergulho é considerada, pela Organização Internacional do Trabalho
+(OIT), como uma das atividades que apresenta mais perigos no mundo. As ações de
+mergulho autônomo, que se estabelecem em um ambiente hiperbárico adverso à
+permanência natural do ser humano, têm um risco considerável devido à possibilidade
+de acidentes por efeitos diretos e indiretos da variação de pressão ambiental e por
+diversos riscos ambientais associados.
+Embora as ocorrências envolvendo operações submersas representem um percentual
+relativamente pequeno, se comparado aos demais tipos de atendimentos executados
+pelo CBMMG, a atividade possui alta complexidade e riscos elevados, tendo em seu
+histórico a maior taxa de letalidade envolvendo militares no desempenho de seu
+1 INTRODUÇÃO 11
+serviço, demandando, portanto, um alto nível de regulamentação, preparo e atenção
+dos militares envolvidos.
+De acordo com Vital (1997), de 1957 até 1997, num período de 40 anos, foram
+registrados 14 óbitos em serviço relacionados às operações submersas no CBMMG.
+Após esse período até o presente ano, foram registrados mais 3 óbitos em serviço da
+mesma natureza, de um total de 55 óbitos de militares em serviço.
+Considerando os dados contidos no Anuário Estatístico do CBMMG, para o ano de
+2021, das 416.222 ocorrências atendidas, apenas 217 envolveram o mergulho
+autônomo, representando um volume percentual de apenas 0,05% de ocorrências.
+Nesse contexto, as operações submersas possuem mais de 30% de todos os
+acidentes fatais envolvendo militares em serviço, ocorridos em um universo
+extremamente restrito de atuação, configurando um dado alarmante.
+Somados a esses fatores, os dispositivos contidos nas Normas da Autoridade
+Marítima para Atividades Subaquáticas - NORMAM 15, editada pela Marinha do
+Brasil, consideram condições perigosas executadas no mergulho autônomo a
+movimentação de carga submersa, a visibilidade baixa, a realização de mergulhos em
+águas poluídas e a existência de obstáculos submersos.
+Do mesmo modo, a Norma Regulamentadora nº 15, que trata de operações
+perigosas/insalubres, considera insalubres as atividades que se desenvolvem em
+condições hiperbáricas.
+Ante o exposto, o mergulho autônomo no CBMMG é visto como atividade de alto risco,
+desenvolvida sob condições potencialmente perigosas e insalubres. Portanto, é
+extremamente necessária a regulamentação detalhada para a sua execução.
+ITO 12 – OPERAÇÕES SUBMERSAS 12
+2 FINALIDADE E OBJETIVOS
+A presente Instrução Técnica Operacional (ITO) tem por finalidade atualizar e
+disciplinar as ações dos militares do CBMMG em atendimento às ocorrências
+envolvendo operações submersas, de modo que sejam mais efetivas e seguras para
+as guarnições. A presente ITO tem ainda como objetivos específicos:
+a) determinar como deve ocorrer a atuação do CBMMG frente às ocorrências de
+mergulho;
+b) definir as atribuições dos membros da equipe de mergulho;
+c) estabelecer critérios objetivos que orientem o emprego de equipamentos,
+militares e o tipo de mergulho a ser realizado;
+d) estipular os níveis de mergulhadores e sua capacidade de atendimento;
+e) atualizar, padronizar e estabelecer procedimentos adequados para o
+desenvolvimento das ações de operações submersas no CBMMG;
+f) instituir normas de segurança nas operações submersas afetas ao CBMMG;
+g) aumentar a eficiência nos atendimentos dessa natureza.
+3 CONCEITOS E DEFINIÇÕES 13
+3 CONCEITOS E DEFINIÇÕES
+Considerando a diversidade de conceitos aplicados à atividade de mergulho, bem
+como a interdisciplinaridade relacionada à fisiologia e física aplicadas ao mergulho,
+dada a natureza hiperbárica da atividade, faz-se necessário esclarecer conceitos e
+definições afetos à atividade.
+3.1 Acidente descompressivo
+Acidente descompressivo contempla toda e qualquer enfermidade/patologia/trauma,
+a curto ou longo prazo, que tenha como causa os gases inspirados em condições
+hiperbáricas, cuja eliminação não tenha sido feita adequadamente durante a variação
+de pressão. Os efeitos desses gases podem ser tanto biofísicos como bioquímicos.
+3.2 Água contaminada/poluída
+Qualquer porção de água que teve suas condições naturais e características físicas e
+químicas alteradas em decorrência da presença de materiais, organismos causadores
+de doenças ou substâncias que podem ocasionar problemas de saúde.
+A Organização Mundial de Saúde (OMS) estima que aproximadamente 80% das
+doenças no mundo sejam causadas pela ingestão de água imprópria para o consumo.
+A água contaminada é caracterizada pela presença de organismos produtores de
+doenças e/ou excessiva quantidade mineral e orgânica, além de compostos químicos
+tóxicos ou radioativos, sendo, em sua maioria, local impróprio para banho ou
+submersão sem a utilização de equipamentos de proteção adequados.
+De acordo com as definições do Instituto Mineiro de Gestão das Águas - IGAM, águas
+poluídas podem não ser contaminantes. A poluição decorre da modificação das
+características físicas e químicas da água, como presença de resíduos, plástico,
+detergentes, matéria orgânica etc.
+ITO 12 – OPERAÇÕES SUBMERSAS 14
+Logo, a contaminação decorrerá da presença de organismos e substâncias
+patogênicas e outros elementos não presentes normalmente, nocivos à saúde, que
+tornam a água imprópria para a sua utilidade prevista ou uso pretendido. Sendo assim,
+a contaminação é um tipo de poluição.
+3.3 Apagamento
+Acidente de mergulho caracterizado pela perda de consciência do mergulhador,
+decorrente da hipercapnia e da baixa pressão parcial de oxigênio no organismo, sendo
+mais comum no mergulho livre.
+3.4 Apneia
+Suspensão voluntária dos movimentos respiratórios de inspiração ou expiração, com
+ou sem retenção de ar nos pulmões.
+3.5 Apoio de superfície / guia de mergulho
+Mergulhador possuidor de curso de qualificação responsável por guiar as ações de
+buscas que podem ser realizadas por meio de um cabo guia ou por meio da mesa de
+comunicação. Essa atividade pode ser efetuada tanto na embarcação ou na margem
+do ambiente aquático. Esse militar define e direciona o desenvolvimento das ações
+de busca, sendo ele o contato imediato com o mergulhador submerso durante todo o
+mergulho.
+3.6 Autonomia de gás
+Cálculo realizado para estimar o tempo médio de trabalho que pode ser
+desempenhado pelo mergulhador submerso, como fator subsidiário à segurança na
+operação de mergulho, para além do controle de tempo de mergulho imposto pelas
+tabelas de limites sem descompressão.
+3 CONCEITOS E DEFINIÇÕES 15
+Para realização do cálculo, deve-se utilizar a seguinte fórmula (Figura 1):
+A = Q/C
+A: Autonomia
+Q: Quantidade de ar disponível no cilindro (considerar o volume do cilindro e sua
+pressão de trabalho)
+C: Consumo (obtido pelo cálculo da Taxa de Consumo de Superfície - TCS)
+Figura 1 – Fórmula para cálculo do tempo médio de trabalho
+Fonte: Espírito Santo (2014).
+Para o cálculo de autonomia, deve-se considerar os cilindros contendo 200 BAR de
+ar comprimido, volume de ar com o qual os mergulhos, sob qualquer condição, devem
+ser iniciados, devendo ainda prever a reserva de segurança de 50 BAR no cilindro,
+em que seu uso (emergencial) não deve ser considerado para cálculo de
+autonomia em hipótese alguma, conforme exemplo abaixo (Figura 2):
+Figura 2 – Fórmula para cálculo do tempo médio de trabalho com reserva de segurança
+Fonte: elaborada pelos autores (2024).
+3.7 Bail out
+Cilindro de ar comprimido independente, do tipo S30, ou seja, (a capacidade de 30
+pés cúbicos de ar, equivalente a 4,3 litros). Esse equipamento compõe o sistema de
+fornecimento de gás do mergulhador de equipe específica e tem por função única e
+exclusiva servir de reserva de gás respirável para casos de emergência ou durante o
+ITO 12 – OPERAÇÕES SUBMERSAS 16
+procedimento de descontaminação, sendo fixado por meio de suporte próprio ao
+cilindro principal e configurado com regulador independente de 1° estágio, conectado
+por mangueiras ao comutador de gás.
+3.8 Barotrauma
+Todo trauma ocasionado pela variação de pressão sem a devida equalização das
+pressões dos espaços aéreos corporais com a pressão ambiente, podendo ocasionar
+lesões sobre tecidos e cavidades corpóreas.
+3.9 Bússola submersível
+Equipamento cuja finalidade é orientar a navegação subaquática, sendo
+imprescindível que tenha visor fosforescente e disco de leitura banhado a óleo para
+maior precisão, evitando o travamento do núcleo.
+3.10 Cabo de fundo
+Corda ou cordim que vai da superfície até o fundo, tendo suas extremidades
+amarradas a uma boia na superfície da água e a uma poita no fundo do balneário.
+Serve para auxiliar o mergulhador na descida e subida de forma controlada e segura.
+É também ferramenta de apoio para comunicação com a superfície em alguns
+métodos de busca.
+3.11 Cabo guia
+Cabo confeccionado em material, bitola e tamanho próprio, com objetivo de guiar o
+mergulhador pelo fundo, que permite a comunicação entre mergulhadores e/ou
+superfície, para executar os métodos de busca, fazendo a varredura de forma guiada.
+3 CONCEITOS E DEFINIÇÕES 17
+3.12 Câmara de descompressão
+Câmara resistente à pressão destinada a pressurizar o microambiente ocupado por
+mergulhadores para fins de tratamento de acidentes descompressivos ou para a
+realização de descompressão na superfície.
+3.13 Colete equilibrador
+Equipamento que contém célula de inflagem e armazenamento de ar, utilizado
+predominantemente no controle da flutuabilidade do mergulhador, por meio de ação
+mecânica, contendo também espaços adequados para acondicionamento do cilindro
+e acessórios diversos.
+3.14 Computador de mergulho
+Equipamento que faz a aferição instantânea de profundidade e tempo de um
+mergulho, calculando e indicando, a partir dessas variáveis, tempos adequados de
+subidas e paradas descompressivas, evitando os riscos da doença descompressiva.
+3.15 Comutador de gás
+Equipamento utilizado no conjunto de mangueiras das válvulas reguladoras, o qual
+possibilita, durante uma emergência por falta de gás no cilindro principal ou durante o
+procedimento de descontaminação, realizar a transferência do fluxo de gás respirável
+que alimenta a máscara do cilindro principal para o cilindro de bail out sem que haja a
+necessidade de retirada da máscara full face (MFF) do rosto.
+3.16 Condições perigosas
+Riscos encontrados no ambiente subaquático, somados aos riscos do ambiente
+hiperbárico, que potencializam a ocorrência e gravidade dos acidentes de mergulho,
+tais como:
+a) uso e manuseio de explosivos e inflamáveis;
+ITO 12 – OPERAÇÕES SUBMERSAS 18
+b) busca por armamentos;
+c) trabalhos submersos de corte e solda;
+d) correntezas superiores à 3,7 km/h ou 1,03 m/s;
+e) presença de locais onde haja aspirações e/ou descargas submersas;
+f) manobras que envolvem tracionamento e transporte de cargas ou trabalhos
+com ferramentas que dificultem o controle da flutuabilidade do mergulhador;
+g) mergulhos para buscas em veículos submersos;
+h) presença de embarcações e veículos aquáticos alheios à operação;
+i) trabalhos em ambientes confinados, dentro de cavernas e naufrágios;
+j) trabalhos em águas com alto risco de contaminação.
+3.17 Cilindro de mergulho
+Também conhecido como ampola de ar ou vaso de pressão, o cilindro de mergulho é
+um recipiente que armazena o suprimento de ar a ser utilizado pelo mergulhador
+durante as atividades hiperbáricas. A fim de resistir às variações de pressão, tais
+vasos são compostos por ligas metálicas e de alumínio de capacidades diversificadas.
+No CBMMG, são comumente usados os cilindros do tipo S80, ou seja, a capacidade
+de 80 pés cúbicos de ar, equivalente a 11,2 litros de ar, cuja pressão máxima admitida
+de trabalho é de 200 bar. Possui função precípua de armazenamento de ar sob
+pressão, ao qual se acoplam válvulas reguladoras de pressão.
+3.18 Descompressão
+Processo de controle do retorno à pressão atmosférica normal (a do nível do mar),
+após exposição física a ambientes hiperbáricos. Destina-se à eliminação de gases
+inertes dissolvidos no organismo do mergulhador e é executada por meio do uso de
+tabelas apropriadas.
+3.19 Doença descompressiva (DD)
+Acidente de mergulho decorrente de formação de bolhas de gás inerte nos tecidos do
+corpo humano ou na corrente sanguínea, em quantidade capaz de produzir lesões de
+3 CONCEITOS E DEFINIÇÕES 19
+gravidade variável. Em geral, é evitada pelo cumprimento de tabelas de limites sem
+descompressão, os quais estabelecem um retorno gradual à superfície.
+3.20 Embolia traumática pelo ar (ETA)
+Efeito direto da variação de pressão que ocorre quando o mergulhador, tendo
+inspirado ar comprimido em profundidade, retorna à superfície sem expiração
+adequada, causando lesões importantes e de alto risco, em decorrência do aumento
+de volume do gás associado à redução da pressão absoluta.
+3.21 Equipamento autônomo de circuito aberto
+Também denominado Unidade de SCUBA (sigla para Self Contained Underwater
+Breathing Apparatus), é o equipamento básico utilizado nas operações ordinárias de
+mergulho do CBMMG que garante ao mergulhador a autonomia respiratória enquanto
+submerso. É composto por um cilindro de mergulho, colete equilibrador, conjunto de
+mangueiras e válvulas reguladoras.
+3.22 Equipe de mergulho de segurança pública
+É composta por militares com formação básica em mergulho, credenciados e/ou
+qualificados para a realização da atividade, por meio dos diversos cursos e
+treinamentos ofertados pela corporação ou instituições militares diversas, desde que
+devidamente reconhecidos pelo CBMMG, sendo a equipe composta de acordo com o
+tipo e complexidade da operação a ser desenvolvida.
+3.23 Equipe mínima
+Equipe de mergulho composta por 3 militares, a ser empregada em operações
+submersas cuja profundidade real não ultrapasse os 8 metros.
+ITO 12 – OPERAÇÕES SUBMERSAS 20
+3.24 Esmagamento
+Acidente de mergulho caracterizado pelo esmagamento total ou parcial do corpo de
+mergulhador. É causado por desequilíbrio de pressão entre o interior e o exterior dos
+equipamentos, gerando sucção sobre os tecidos.
+3.25 Exposição excepcional
+Mergulhos nos quais o tempo de fundo e/ou a profundidade ultrapassam os limites
+impostos pela tabela de limites sem descompressão, implicando em riscos maiores
+para o mergulhador.
+3.26 Fonte alternativa de ar
+Equipamento de segurança obrigatório na configuração do conjunto de válvulas
+reguladoras. É um regulador de 2° estágio reserva para o uso do próprio mergulhador
+ou para ser cedido ao “dupla” em caso de pane seca ou falha do equipamento.
+Deve possuir mangueira de cor diferenciada, geralmente na cor amarela, e mais longa
+que a do segundo estágio principal (100 cm), de fácil acesso e soltura em caso de
+necessidade de uso. Considera-se ainda como fonte alternativa de ar a válvula
+reguladora reserva do dupla de mergulho, para mergulhos realizados em dupla, ou
+ainda a válvula reguladora equipada em cilindro de mergulho independente, para
+configurações de equipamentos distintas da configuração básica.
+3.27 Gancho de recuperação
+Equipamento fixado na ponta de um cabo para recuperação de objetos e/ou
+cadáveres de forma indireta, que permite o arrasto do objeto buscado a partir da
+margem ou da embarcação, e é utilizado nos casos em que a exposição direta do
+militar ao meio subaquático oferece riscos à saúde ou a vida do militar que superam
+a capacidade de resposta com segurança adequada.
+3 CONCEITOS E DEFINIÇÕES 21
+3.28 Guia de mergulho / apoio de superfície
+Mergulhador possuidor de curso de qualificação, responsável por guiar e definir as
+ações de busca, direcionando o seu desenvolvimento, sendo o contato imediato com
+o mergulhador submerso, por meio do cabo guia ou mesa de comunicação durante
+todo o mergulho.
+3.29 Grupo de repetição (GR)
+Indicado por uma letra contida na tabela de limites sem descompressão, relaciona-se
+com a quantidade de nitrogênio residual retido no organismo de um mergulhador após
+um dado mergulho.Deve ser considerado para o mergulho repetitivo.
+3.30 Harness de segurança
+Suspensório, confeccionado em correias de nylon com composição e medidas
+padronizados, utilizado pelo mergulhador de busca visando servir de ponto de
+ancoragem para o guia de mergulho, como backup de segurança, em casos de
+emergências que exijam o recolhimento do mergulhador de busca.
+3.31 Hipercapnia
+Aumento da pressão parcial de CO2 na corrente sanguínea, resultante da deficiência
+de eliminação do gás por meio da expiração ou até mesmo do aumento de sua
+absorção em decorrência de inspiração de mistura gasosa inadequada.
+3.32 Intervalo de superfície (IS)
+Tempo que o mergulhador passa na superfície entre dois mergulhos na execução de
+mergulhos repetitivos. Inicia-se no momento em que o mergulhador chega na
+superfície e se encerra quando ele entra em submersão, devendo esse tempo estar
+compreendido entre 10 minutos a 15 horas e 50 minutos. Caso o tempo seja inferior
+a 10 minutos, equivale a um mergulho único. Caso o IS exceda 15h50min, considera
+um novo mergulho, para o qual será adotado um novo planejamento.
+ITO 12 – OPERAÇÕES SUBMERSAS 22
+3.33 Invólucro
+Recipiente ou bolsa feita de materiais diversos que podem ser utilizados para
+envolver, cobrir ou acondicionar itens ou vestígios que são objetos de busca nas
+operações submersas.
+3.34 Lift bag
+Sacos infláveis que possuem a função de elevação de carga ou sinalização de
+localização do objeto submerso. São equipados com válvulas de alívio de sobre
+pressão e devem ser inflados com suprimento auxiliar de ar comprimido, tendo que
+ser ancorado à carga no momento da reflutuação.
+3.35 Manômetro
+Equipamento submersível que compõe o console acoplado ao conjunto de válvulas
+reguladoras e que permite ao mergulhador verificar e manter o controle da quantidade
+de ar contida no cilindro de mergulho. O referido instrumento deve ser alvo de
+monitoramento constante durante um mergulho, permitindo o gerenciamento de
+disponibilidade de ar comprimido, sendo fator determinante no desenvolvimento dos
+trabalhos e nas decisões por parte do mergulhador.
+3.36 Máscara de mergulho semifacial
+Equipamento que permite ao mergulhador a garantia da visibilidade submersa, sendo
+ainda um equipamento de segurança para proteção dos olhos. A máscara semifacial
+abrange os olhos e nariz, permitindo a equalização dos espaços vazios devido a
+variação das pressões durante o mergulho.
+3.37 Máscara de mergulho tipo full face
+Máscara utilizada no mergulho autônomo que envolve toda a face do mergulhador,
+permitindo que a respiração seja feita pela boca ou pelo nariz. Garante ainda a
+segurança do mergulhador nos casos de acidente que o torne inconsciente, ao passo
+3 CONCEITOS E DEFINIÇÕES 23
+que o equipamento cria um compartimento para respiração e protege as vias aéreas.
+Pode ser dotada de fone e microfone para comunicação subaquática.
+3.38 Mergulhador
+Profissional com treinamento adequado, em seus diversos níveis, e legalmente
+habilitado para utilização de equipamentos de mergulho, coordenação e execução de
+trabalhos de busca submersa.
+3.39 Mergulho de segurança pública (MSP)
+Conforme definido pela International Association of Nitrox and Technical Divers –
+IANTD, é a atividade de competência exclusiva do bombeiro militar do CBMMG, nos
+limites do estado de Minas Gerais, com a finalidade de realizar a busca e a
+recuperação em ocorrências de acidentes, fato crime ou situações distintas e
+caracterizadas pelo interesse público.
+3.40 Mergulhador de segurança pública
+Militar do CBMMG capacitado e legalmente habilitado em conformidade com esta
+instrução, nos diferentes níveis de intervenção, para a utilização de equipamentos de
+mergulho autônomo e a realização das atividades de mergulho em todo o estado ou
+fora dele.
+3.41 Mergulho profundo
+No CBMMG, considera-se mergulho profundo aqueles realizados a uma profundidade
+superior a 18 metros.
+3.42 Mergulho técnico
+Mergulho realizado em profundidades superiores a 30 metros ou em ambientes
+específicos (cavernas, naufrágios), cujas características exigem qualificação,
+emprego de equipamentos, suprimentos e configurações próprios, considerando a
+ITO 12 – OPERAÇÕES SUBMERSAS 24
+potencialização dos riscos em decorrência do aumento da profundidade e da
+transposição dos limites não descompressivos.
+3.43 Narcose pelo nitrogênio
+Acidente de mergulho caracterizado pela redução da capacidade motora e sensorial
+(semelhante à embriaguez alcoólica), resultante da ação do nitrogênio no organismo
+em decorrência do aumento de sua pressão parcial e absorção, atuando diretamente
+no sistema nervoso. Comumente, os sintomas são identificados a partir dos 30 metros
+de profundidade, podendo, entretanto, surgir a partir dos 18 metros.
+3.44 Narguilê
+Equipamento utilizado no mergulho dependente do tipo leve. Consiste em uma válvula
+reguladora de demanda afixada em um umbilical composto de mangueiras
+pressurizadas diretamente da superfície por um compressor de ar comprimido.
+3.45 Operações submersas
+É o conjunto de todas as atividades desenvolvidas com a finalidade de planejar,
+coordenar e executar o mergulho autônomo sob a ótica do MSP. As operações
+submersas abrangem as etapas de avaliação, planejamento, preparação, execução,
+desmobilização e documentação.
+3.46 Parada descompressiva
+Momento em que o mergulhador permanece parado em uma profundidade específica
+durante determinado período de tempo, a fim de eliminar os gases inertes que se
+encontram nos tecidos do seu organismo. No CBMMG, como medida adicional de
+segurança, antes de chegar à superfície, após a execução de qualquer mergulho
+profundo, ou seja, superior a 18 metros, todo mergulhador deve realizar uma parada
+de 3 minutos a uma profundidade de 5 metros.
+3 CONCEITOS E DEFINIÇÕES 25
+3.47 Profundímetro
+Instrumento submersível graduado em metros ou pés, geralmente componente do
+console acoplado ao conjunto de válvulas reguladoras. Normalmente tem a aparência
+de um relógio de pulso. É empregado para medir e registrar a profundidade de um
+mergulho.
+3.48 Rebreather
+Equipamento autônomo de circuito fechado eletrônico utilizado exclusivamente nas
+atividades de mergulho técnico, em que o gás exalado pelo mergulhador permanece
+no sistema e, após filtragem e mistura, serve novamente de suprimento de ar, fazendo
+prolongar o tempo do mergulho.
+3.49 Redemoinho
+Movimento circular, contínuo e intenso, de pequeno diâmetro que se processa em
+espiral da superfície para o fundo, verificado em águas de um rio ou do mar.
+3.50 Reflutuação
+Procedimento realizado para trazer à superfície objetos pesados. Para tanto, é
+utilizado suprimento de ar alternativo, que deve ser ancorado à carga para inflar
+equipamentos específicos. Dependendo da carga do objeto e da acessibilidade do
+local, guindastes poderão ser empregados, desde que operados por pessoas
+capacitadas.
+3.51 Regras de segurança
+São procedimentos padronizados devidamente reconhecidos e demais
+procedimentos diários que devem ser observados nas operações de mergulho, de
+forma a garantir sua execução em perfeita segurança e preservar a integridade física
+dos mergulhadores.
+ITO 12 – OPERAÇÕES SUBMERSAS 26
+Todos os parâmetros e procedimentos de segurança necessários em toda e qualquer
+operação de mergulho estão definidos nesta ITO, e têm que estar expressos no
+planejamento de mergulho, devendo ser de conhecimentos de todos os militares
+envolvidos na operação.
+3.52 Remanso
+Cessação de movimento da água com leve retorno devido à presença de anteparo
+natural, após verificada correnteza. Água estagnada.
+3.53 Roupa seca
+Roupa própria para mergulho ou trabalho em águas contaminadas e/ou poluídas,
+confeccionada em materiais diversos, que isola completamente o corpo do
+mergulhador da água. Em geral, pode ser inflada, aumentando o isolamento térmico.
+Tem, nas variações de sua composição, seu emprego com máscara full face ou
+capacete de aço para mergulho comercial dependente que garante estanqueidade e
+isolamento integral do mergulhador com o meio, sendo empregado nos casos em que
+as equipes de mergulho realizam a operação em ambientes contaminados.
+Esse capacete é um tipo de máscara com regulador de fluxo variável, confeccionado
+em metal e conectado a um painel de controle, sendo empregado comumente em
+mergulhos dependentes e operações de mergulho comercial.
+3.54 Roupa úmida
+Roupa própria para mergulho, normalmente confeccionada em borracha ou EVA
+(mistura de etil, vinil e acetato) de alta densidade (neoprene), a qual permite que a
+água penetre no seu interior, restringindo, contudo, sua circulação.
+3 CONCEITOS E DEFINIÇÕES 27
+3.55 Stage
+Cilindro de gás alternativo equipado com válvulas reguladoras de 1º e 2º estágios,
+preferencialmente no volume S80 (capacidade de 80 pés cúbicos de ar, equivalente a
+11,2 litros de ar), especialmente utilizado no mergulho técnico para o prolongamento
+do tempo de mergulho, a considerar a necessidade de descompressão planejada. O
+equipamento é montado de forma complementar ao equipamento padrão, geralmente
+à frente e ao lado do corpo do mergulhador (side mounted).
+3.56 Subida de emergência
+Procedimento adotado durante um mergulho em decorrência, principalmente, de pane
+em equipamento com perda do suprimento de gás (pane seca), em que o
+mergulhador, equipado ou desequipado, deve realizar a subida realizando a expiração
+de forma ininterrupta liberando o ar comprimido dos pulmões, a fim de evitar a
+síndrome da hiperdistensão pulmonar, respeitando a velocidade máxima de 18 metros
+por minuto. Ao longo de todo o percurso de retorno, a válvula reguladora deve ser
+mantida na boca do mergulhador.
+3.57 Supervisor de mergulho
+Mergulhador possuidor de treinamento específico em mergulho autônomo com
+notável experiência, cuja responsabilidade é definir métodos a serem empregados e
+planejamento adequado, podendo acumular a função de apoio de superfície/guia de
+mergulho.
+3.58 Tabela de descompressão
+Tabela empregada no retorno gradual à superfície, estabelecendo a velocidade de
+subida, as profundidades e tempos de permanência nas paradas de descompressão,
+em função da profundidade do mergulho e do tempo de fundo.
+ITO 12 – OPERAÇÕES SUBMERSAS 28
+3.59 Tabela de tempo de fundo X profundidade
+Tabela que fornece o tempo máximo de fundo permitido em cada profundidade,
+respeitados os limites não descompressivos.
+3.60 Tabela de tempo de nitrogênio residual (TTNR)
+Usada para determinação do tempo de nitrogênio residual nos mergulhos repetitivos,
+que apresenta valores pré-definidos a serem considerados no mergulho repetitivo,
+limitando o tempo a variar de acordo com a profundidade. Fornece grupos de repetição
+para intervalos de superfícies maiores que 10 minutos e menores que 12 horas.
+3.61 Taxa de consumo de superfície (TCS)
+É o cálculo utilizado para verificar a quantidade de ar (em bar) consumido pelo
+mergulhador individualmente em determinado período de tempo e profundidade. Por
+meio desse cálculo, é obtida a autonomia de ar para cada mergulhador, possibilitando
+a realização de um planejamento específico. A TCS é um fator importante para o
+gerenciamento do tempo de mergulho por parte do guia de mergulho, considerando a
+dificuldade de acesso do mergulhador em operação aos instrumentos de controle em
+mergulhos sem visibilidade. Para a realização do cálculo, deve-se utilizar a seguinte
+fórmula (Figura 3):
+Figura 3 – Fórmula da taxa de consumo de superfície
+Fonte: Espírito Santo (2014).
+Exemplo de aferição de um período de 10 minutos em uma profundidade de 2 metros
+(Figura 4):
+3 CONCEITOS E DEFINIÇÕES 29
+Figura 4 - Fórmula da aferição de um período de 10 minutos em uma profundidade de 2 metros:
+Fonte: elaborada pelos autores (2024).
+3.62 Tempo de fundo (TF)
+É o tempo total decorrido desde que o mergulhador sai da superfície até o instante em
+que ele deixa o fundo, iniciando a subida e a descompressão. É medido em minutos,
+devendo ser observado os valores limítrofes estipulado pela tabela de mergulho.
+3.63 Tempo total de descompressão (TTD)
+É o tempo gasto pelo mergulhador desde que ele deixa o fundo até chegar à
+superfície. Deve ser respeitada a velocidade máxima de subida limitada aos 18 m/min,
+momento em que, naturalmente, em decorrência da redução de pressão absoluta,
+ocorre a descompressão dos gases.
+3.64 Turbidez
+A turbidez é a medida da dificuldade de um feixe de luz atravessar uma certa
+quantidade de água, sendo um dos principais indicadores da qualidade da água e
+pode ter como causas as atividades de mineração, lançamento de esgoto e efluentes
+industriais. Quanto mais turva, maior a concentração de partículas não dissolvidas na
+água, menor a penetração de luz e menor a visibilidade no local do mergulho. É um
+fator a ser avaliado no planejamento de mergulho.
+ITO 12 – OPERAÇÕES SUBMERSAS 30
+3.65 Umbilical
+Conjunto formado pela mangueira, cabo guia, linha de comunicação, se houver, usado
+nos equipamentos de mergulho dependente.
+3.66 Válvulas reguladoras
+Conjunto de válvulas e mangueiras componentes da unidade de SCUBA, que possui
+a função de conduzir o ar até as vias respiratórias do mergulhador, reduzindo a
+pressão em estágios específicos até a pressão atmosférica respirável.
+Válvulas de 1º estágio reduzem a pressão admitida pelo cilindro de mergulho à
+pressão aproximada de 9,6 bar. Válvulas de 2º estágio reduzem a pressão de 9,6 bar,
+admitida nas mangueiras de baixa pressão, à pressão de ar respirável pelo
+mergulhador.
+4 EQUIPES DE MERGULHO 31
+4 EQUIPES DE MERGULHO
+As ocorrências de mergulho, dada a variedade de ação e complexidade em
+decorrência principalmente do local, da profundidade e dos objetivos, demandam
+utilização de equipamentos específicos, bem como composição de guarnições
+específicas.
+A equipe mínima a ser empregada no mergulho para profundidade real de até 8 metros
+é de 3 militares. Essa guarnição de bombeiros militares (GUBM) preenche as funções
+de supervisor de mergulho, mergulhador de segurança e mergulhador de busca, em
+que o supervisor deve ter no mínimo credenciamento na atividade, sendo os demais
+militares mergulhadores básicos, pelo menos.
+Mergulhadores básicos são aqueles egressos dos cursos de formação em que as
+disciplinas de mergulho autônomo tenham se desenvolvido com carga horária mínima
+de 60 horas-aula, garantindo a capacitação técnica necessária para o tipo de
+mergulho proposto.
+O credenciamento de mergulho, definido em norma específica, é o treinamento que
+abrange teoria e prática e tem como objetivo habilitar o militar para as atividades
+específicas de mergulho no âmbito do CBMMG, considerando a potencialização de
+riscos ao passo em que é aumentada a profundidade de operação. A atividade tem
+que possuir carga horária mínima de 40 horas-aula.
+O credenciamento é realizado no âmbito das Unidades Operacionais, devendo ser
+registrado por publicação em Boletim Interno (BI), ou por meio da complementação
+dos conteúdos ministrados em cursos de formação ofertados pela ABM, de forma
+modulada, desde que a ementa seja compatível com a matriz curricular do
+credenciamento, definida em norma específica.
+Para as ocorrências de mergulho que se desenvolvem em locais remotos e/ou de
+difícil acesso, caracterizadas por outros riscos associados devido às condições
+perigosas, deve ser acrescido mais um militar à GUBM, preferencialmente
+mergulhador, compondo dessa maneira uma equipe com quatro militares. Tal fato leva
+ITO 12 – OPERAÇÕES SUBMERSAS 32
+em consideração a possibilidade de desgaste físico acentuado dos militares em
+decorrência das condições severas de deslocamento e do controle e transporte do
+aparato logístico necessário para a ocorrência, além do mergulho propriamente dito,
+bem como a potencialização de ações de segurança e pronta resposta em caso de
+acidentes envolvendo os mergulhadores.
+Em profundidade superior a 8 metros e inferior a 18 metros, as equipes são compostas
+por, no mínimo, 4 militares. Essa guarnição preenche as funções de supervisor de
+mergulho, guia de mergulho, mergulhador de busca e mergulhador de segurança.
+Dessa forma, o supervisor de mergulho e os demais militares devem ser, no mínimo,
+credenciados.
+Para mergulhos superiores a 18 metros e limitados à profundidade não
+descompressiva definida pela tabela de mergulho, é empregada equipe específica,
+composta também por 4 militares ou mais, sendo que todos devem possuir curso de
+qualificação de mergulho, além de treinamento específico para o uso de roupa seca.
+A qualificação em mergulho autônomo tem que ser realizada conforme resolução
+específica do CBMMG que regulamenta a malha curricular e carga horária do curso.
+Para o reconhecimento de cursos equivalentes e de qualificações feitas em outras
+instituições e corpos de bombeiros, são observadas normas vigentes, com
+deliberação da matéria pela Academia de Bombeiros Militar em conjunto com o
+Estado-Maior da corporação.
+Mergulhos profundos que ultrapassem os 30 metros, portanto descompressivos,
+mergulhos em ambientes confinados e/ou com existência de teto e mergulhos de alta
+complexidade são efetuados por militares possuidores de curso de mergulho técnico,
+mediante acionamento de equipe do Comando Especializado de Bombeiros (CEB),
+por meio da solicitação dos Comandos Operacionais de Bombeiros (COB).
+Ante o exposto, as equipes de mergulho, com as devidas especificidades, são
+definidas conforme o Quadro 1.
+4 EQUIPES DE MERGULHO 33
+Quadro 1 – Definição das equipes de mergulho
+EQUIPE TIPO DE EMPENHO QUALIFICAÇÃO NECESSÁRIA
+Nível 1
+− Águas de adequada balneabilidade;
+− Não opera em condições perigosas;
+− Profundidade máxima de 8 metros.
+− Mergulhadores: curso de formação
+com 60h/a;
+− Supervisor/guia: credenciamento.
+Nível 2
+− Águas de adequada balneabilidade;
+− Profundidade delimitada entre 9 e 18
+metros.
+− Mergulhadores: credenciamento
+em mergulho;
+− Supervisor/guia: qualificação.
+Nível 3
+− Águas próprias para banho na
+profundidade delimitada entre 19
+metros e o limite não
+descompressivo;
+− Águas impróprias para banho.
+− Toda a equipe: qualificação e
+treinamento para o uso de roupa
+seca.
+Nível 4
+− Águas com ou sem balneabilidade;
+− Profundidades maiores que 30 metros
+e superiores ao limite não
+descompressivo.
+− Toda a equipe: qualificação
+somada a curso de mergulho
+técnico específico.
+Fonte: elaborado pelos autores (2024).
+4.1 Equipe nível 1
+Equipe destinada a realizar operações submersas em águas de adequada
+balneabilidade. Esses mergulhadores estão aptos a efetuar mergulhos limitados a 8
+metros de profundidade, executando as buscas e o resgate e/ou recuperação de
+vítimas, buscas e recuperação de bens e vestígios criminais, além de inspeções e
+vistorias em equipamentos.
+4.1.1 Funções
+A função de mergulhador de busca e mergulhador de segurança pode ser
+desenvolvida por militares egressos dos cursos de formação, definidos como
+mergulhadores básicos, em que as disciplinas de mergulho autônomo tenham se
+desenvolvido em carga horária mínima de 60 horas-aula. Mergulhos em condições
+perigosas, definidos nesta ITO, não podem ser realizados pela equipe de nível 1.
+ITO 12 – OPERAÇÕES SUBMERSAS 34
+4.1.1.1 O supervisor de mergulho
+Deve possuir o credenciamento em mergulho, ser o militar com mais experiência na
+atividade, colher as informações na cena, analisar riscos e realizar o planejamento.
+4.1.1.2 O guia de mergulho
+É o responsável por auxiliar o mergulhador a equipar, guiar o mergulhador por cabo
+guia, monitorar o tempo de ar e fazer as comunicações por cabo ou via fonia
+subaquática (full face). Nessa equipe, a função é acumulada pelo supervisor de
+mergulho.
+4.1.2 Exame de saúde exigido
+Exame admissional no concurso público, somado ao acompanhamento por meio do
+Programa de Saúde Ocupacional Bombeiro Militar (PSOBM) ou exame pontual
+baseado na queixa do mergulhador.
+4.2 Equipe nível 2
+Equipe destinada a realizar operações submersas em águas com adequada
+balneabilidade. Esses mergulhadores estão aptos a efetuar mergulhos em até 18
+metros de profundidade (limite do mergulho profundo), executando as buscas e o
+resgate e/ou recuperação de vítimas, buscas e recuperação de bens e vestígios
+criminais.
+4.2.1 Funções
+A função de mergulhador de busca e mergulhador de segurança deve ser
+desenvolvida por militares egressos de credenciamento em mergulho autônomo.
+4.2.1.1 O guia de mergulho
+Deve possuir qualificação específica em mergulho autônomo. É o responsável por
+4 EQUIPES DE MERGULHO 35
+auxiliar o mergulhador a equipar, guiá-lo por cabo guia, monitorar o consumo de ar e
+fazer as comunicações por cabo ou via fonia subaquática (full face).
+4.2.1.2 O supervisor de mergulho
+É o militar com mais experiência na atividade, também possuidor de qualificação em
+mergulho autônomo. É o responsável por colher as informações na cena, analisar os
+riscos e realizar o planejamento.
+4.2.2 Exame de saúde exigido
+Exame admissional no concurso público, somado ao acompanhamento por meio do
+PSOBM ou exame pontual baseado na queixa do mergulhador. Outros exames
+médicos podem ser exigidos a critério médico, devendo ser realizados previamente
+ao credenciamento.
+4.3 Equipe nível 3
+Equipe destinada a realizar operações submersas em águas com balneabilidade
+adequada, em profundidades compreendidas entre 18 metros e a profundidade não
+descompressiva definida pela tabela de mergulho, ou águas sem balneabilidade até o
+limite da profundidade não descompressiva, para a realização de buscas e resgate
+e/ou recuperação de vítimas, buscas e recuperação de bens e vestígios criminais.
+4.3.1 Funções
+Mergulhador de busca, mergulhador de segurança, guia de mergulho e supervisor de
+mergulho devem possuir qualificação específica em mergulho autônomo, bem como
+curso específico voltado ao emprego de roupa seca, traje adequado ao mergulho em
+águas poluídas/contaminadas.
+Para os casos em que a operação ocorrer em águas impróprias para banho, até 18
+metros, o mergulho pode ser executado por militar credenciado, desde que possua
+treinamento específico para o uso de roupa seca.
+ITO 12 – OPERAÇÕES SUBMERSAS 36
+Para mergulhos não descompressivos com profundidades até 30 metros, realizar
+análise criteriosa de riscos, seguindo os pré-requisitos previstos em plano de
+emergência.
+4.3.1.1 O guia de mergulho
+É o responsável por auxiliar o mergulhador a equipar, conduzi-lo por cabo guia,
+monitorar o consumo de ar e fazer as comunicações por cabo ou via fonia subaquática
+(full face).
+4.3.1.2 O supervisor de mergulho
+É o militar com mais experiência na atividade, devendo se responsabilizar por colher
+as informações na cena, analisar os riscos e realizar o planejamento.
+4.3.2 Exames de saúde exigidos
+São estabelecidos a critério médico, devendo ser realizados previamente ao
+credenciamento, somados ao acompanhamento por meio do PSOBM ou exame
+pontual baseado na queixa do mergulhador. Sugere-se os seguintes:
+a) radiografia panorâmica da mandíbula;
+b) radiografia periapical;
+c) audiometria;
+d) impedanciometria;
+e) telerradiografia do tórax AP perfil;
+f) eletrocardiograma basal;
+g) eletroencefalograma;
+h) espirometria;
+i) urina: elementos anormais e sedimentoscopia;
+j) fezes: protozooscopia e ovohelmintoscopia;
+k) sangue: sorologia para lues, dosagem de glicose, hemograma completo;
+l) raio X dos seios da face.
+4 EQUIPES DE MERGULHO 37
+4.4 Equipe nível 4
+Equipe destinada a realizar operações submersas em águas com ou sem
+balneabilidade, para a execução de buscas e resgate e/ou recuperação de vítimas,
+buscas e recuperação de bens e vestígios criminais em locais que, devido à
+profundidade, exigem mergulhos profundos e descompressivos, com ou sem a
+utilização de misturas gasosas, bem como operações de mergulho de alta
+complexidade e/ou com equipamentos técnicos específicos. Ainda, é a equipe que
+efetua mergulhos em ambientes confinados e com existência de teto.
+Devido às especificidades do mergulho descompressivo, os riscos associados e o
+emprego de equipamentos técnicos específicos, a equipe de mergulho técnico é
+acionada pelo CEB mediante solicitação dos COB.
+4.4.1 Funções
+As funções de mergulhador de busca, mergulhador de segurança, guia de mergulho,
+supervisor de mergulho e demais componentes da equipe são desempenhadas por
+militares com cursos de mergulho técnico específicos. A operação submersa para
+esses casos ocorre mediante planejamento e aporte logístico específicos, a
+considerar a possibilidade de utilização de misturas gasosas e equipamentos
+diversificados voltados ao mergulho técnico, sendo regulada por norma específica.
+Mergulhos que requerem a atuação de equipes de nível 4 devem ser precedidos de
+análise criteriosa de riscos e emprego de redundância, seguindo os pré-requisitos
+previstos em plano de emergência.
+A composição do equipamento de mergulho para a equipe de nível 4 contém,
+obrigatoriamente, redundância para os itens de segurança exigidos para a atividade,
+garantindo, assim, a autossuficiência do mergulhador, a saber: suprimento de ar;
+iluminação artificial; ferramentas cortantes; máscaras semi-faciais; computadores de
+mergulho com aferição de gases.
+ITO 12 – OPERAÇÕES SUBMERSAS 38
+4.4.2 Exames de saúde exigidos
+São estabelecidos a critério médico, somados ao acompanhamento por meio do
+PSOBM ou exame pontual baseado na queixa do mergulhador. Sugere-se os
+seguintes:
+a) radiografia panorâmica da mandíbula;
+b) radiografia periapical;
+c) audiometria;
+d) impedanciometria;
+e) telerradiografia do tórax AP perfil;
+f) eletrocardiograma basal;
+g) eletroencefalograma;
+h) espirometria;
+i) urina: elementos anormais e sedimentoscopia;
+j) fezes: protozooscopia e ovohelmintoscopia;
+k) sangue: sorologia para lues, dosagem de glicose, hemograma completo;
+l) raio X dos seios da face.
+Devido às especificidades do mergulho descompressivo, os riscos associados e o
+emprego de equipamentos técnicos específicos, as equipes de mergulho nível 4 são
+acionadas por intermédio do CEB.
+5 RISCOS ASSOCIADOS À POLUIÇÃO E CONTAMINAÇÃO 39
+5 RISCOS ASSOCIADOS À POLUIÇÃO E CONTAMINAÇÃO
+Ainda que o afogamento ocorra em águas próprias para banho, na água doce, o
+próprio cadáver, considerando o seu processo de decomposição, pode liberar
+substâncias contaminantes no meio líquido.
+Os agentes infecciosos que podem estar contidos e, portanto, ser transmitidos por
+cadáveres, incluem Mycobacterium tuberculosis, hepatite B e C, vírus da AIDS (HIVvírus da imunodeficiência humana) e demais agentes contaminantes.
+Nos casos de afogamento em que o cadáver inicia seu processo de decomposição no
+meio líquido, ocorre um processo denominado maceração. Trata-se de um fenômeno
+destrutivo do cadáver caracterizado pelo amolecimento dos tecidos e órgãos, seguido
+de seu desprendimento das estruturas do corpo, se fragmentando. A maceração é
+mais evidenciada nas extremidades dos membros superiores e pode ser
+potencializada ou retardada, dependendo da temperatura da água, bem como pela
+presença de outros organismos.
+Nos casos em que o cadáver não for totalmente consumido por animais da fauna
+aquática, apresentar lesões de arrasto severas ou em decorrência do atrito e de sua
+movimentação, o processo de maceração terá início entre 18 horas e 24 horas após
+o óbito, momento em que fluidos corporais, com potencial contaminante, podem ser
+liberados para o meio líquido, considerando a abertura de uma via de contaminação
+pela derme.
+Desse modo, nas ocorrências em que a operação é motivada por afogamentos e
+levando em conta o potencial de contaminação, uma água própria para banho pode
+se tornar imprópria quando a busca para recuperação de cadáveres ocorrer num
+período de aproximadamente 20 horas após a notificação da ocorrência. Nesses
+casos, deve ser priorizado o mergulho com o uso de roupa seca e máscara tipo full
+face.
+ITO 12 – OPERAÇÕES SUBMERSAS 40
+Ainda, para os casos em que se presume o afogamento secundário, tendo como fator
+precursor o ferimento causado por armas de fogo ou arma branca, em que o corpo
+apresenta lesões ou perfurações cutâneas que caracterizam vias de infecção ou
+contato com o meio com possibilidade de extravasamento de fluidos corporais, os
+mergulhadores devem priorizar o emprego da roupa seca e máscara tipo full face para
+a execução das atividades submersas, devido ao potencial de contaminação.
+Por fim, ocorrências que se desenvolvem em decorrência de uma grande descarga
+de chuva, após um longo período de seca, devem ter especial atenção no
+planejamento, atentando-se para os riscos de contaminação. Isso deve-se ao fato de
+que essa chuva vai carregar para os balneários, principalmente os rios, muita
+quantidade de poluentes e contaminantes em suspensão na atmosfera ou que foram
+depositados no solo ao longo do tempo, em um fenômeno denominado first flush
+(primeiro escoamento).
+A Norma Brasileira Regulamentadora (NBR) 15227/2007 define metodologias para
+aproveitamento da água pluvial por edificações e recomenda inclusive descarte dos
+primeiros 2 mm de precipitação, devido ao potencial contaminante dessa primeira
+descarga.
+Desse modo, um balneário tido como próprio para banho e que faz captação
+recorrente de água pluvial, pode se tornar impróprio depois de uma forte precipitação,
+sendo necessário o emprego de roupa seca para ocorrências dessa natureza, após
+avaliados os riscos pelo comandante da operação.
+Ainda, em determinadas circunstâncias (águas poluídas, local de natureza
+desconhecida, com presença de galhos ou outros objetos que possam aprisionar o
+mergulhador, e colocar a vida ou a saúde do militar em risco), deve ser priorizado o
+emprego do gancho de recuperação, considerando a necessidade de prover
+segurança aos mergulhadores. Prejuízos posteriores à integridade do cadáver são de
+possível e facilitada detecção, não ocasionando interferência na atividade pericial e
+de necropsia.
+5 RISCOS ASSOCIADOS À POLUIÇÃO E CONTAMINAÇÃO 41
+Assim, o bombeiro militar agindo em seu estrito cumprimento do dever legal,
+associado ao estado de necessidade em função das situações adversas que o meio
+líquido oferece em determinadas condições, o uso do gancho de recuperação é o meio
+mais adequado.
+Nos casos em que é possível a utilização de métodos menos invasivos, somado à
+inexistência de potencial risco à saúde ou à vida do militar, eles devem ser
+empregados em detrimento do uso do gancho. O uso do equipamento deve ser
+devidamente relatado no Registro de Eventos de Defesa Social (REDS), fazendo
+constar no relatório em que parte do corpo o equipamento se prendeu.
+Por fim, outra peculiaridade da atividade se refere à recuperação de veículos ou
+equipamentos diversos movidos à combustão submersos. Nesse cenário, o militar
+pode se deparar com vazamentos de combustíveis, óleos, graxas e contaminantes
+similares. Nesses casos, o agente contaminante pode ser suficiente para danificar
+equipamentos e até desenvolver problemas médicos, principalmente dermatológicos
+devido à exposição dos mergulhadores com esse ambiente contaminado, sendo,
+portanto, exigido o uso de roupa seca na operação de busca.
+ITO 12 – OPERAÇÕES SUBMERSAS 42
+6 ASPECTOS GERAIS DE SEGURANÇA
+Via de regra, as operações de mergulho devem ser iniciadas às 8 horas da manhã e
+são executadas enquanto as condições de luminosidade natural permitirem,
+principalmente na parte seca da operação, que pode ser mantida ainda na
+disponibilidade de luminosidade artificial. Caso as condições de luminosidade
+prejudiquem a manutenção dos procedimentos de segurança, a operação deve ser
+suspensa.
+Independente da equipe de mergulho a ser empregada na operação, toda e qualquer
+configuração de equipamento é composta de fonte alternativa de suprimento de ar
+que garanta redundância. À exceção da equipe de mergulho nível 4, em que a
+composição dos equipamentos é definida com base nas normas relativas ao mergulho
+técnico, as demais equipes devem estruturar o equipamento de mergulho com fonte
+alternativa de ar por meio da válvula reguladora de 2° estágio alternativa.
+As operações que exijam os mergulhadores de níveis 1, 2 e 3 devem considerar
+inicialmente a realização do mergulho solitário, desde que garantida a efetividade
+absoluta dos meios de comunicação entre o mergulhador e a superfície, seja via fonia
+ou via cabo guia. Nos métodos que demandam a existência de dois mergulhadores
+submersos simultaneamente, a operação deve contar com um mergulhador de
+segurança para cada mergulhador que se encontre submerso, além das demais
+funções necessárias.
+Todo mergulhador em trabalho submerso deve possuir comunicação direta com o
+apoio de superfície, seja por meio de cabo guia ou por meio de fonia acoplada à
+máscara tipo full face. Métodos de busca que impliquem na supressão do cabo guia,
+considerando o risco adicional de enroscos, devem empregar simultaneamente dois
+mergulhadores submersos operando no mesmo cabo de fundo, portanto, em contato
+ininterrupto entre eles, e ainda com possibilidade imediata de contato com a
+superfície, via cabo de fundo acoplado a boias sinalizadores utilizadas para
+comunicação.
+6 ASPECTOS GERAIS DE SEGURANÇA 43
+Independente do quantitativo de militares envolvidos na operação e da profundidade
+do local, para cada mergulhador submerso em atividade, deve haver um mergulhador
+de segurança em condições de pronto empenho.
+Para toda operação submersa que seja realizada em locais de visibilidade reduzida,
+que impossibilitem o mergulhador de se situar no ambiente e de identificar anteparos
+e obstáculos durante seus trabalhos, deve ser empregado o capacete adequado para
+a atividade de mergulho.
+De forma geral, todas as unidades do CBMMG devem manter calendários de
+treinamento e o nível de capacitação dos mergulhadores atentando-se para as
+respectivas demandas operacionais, com enfoque nas características e na natureza
+das ocorrências de mergulho em sua área de articulação, principalmente nos
+balneários de maior incidência.
+ITO 12 – OPERAÇÕES SUBMERSAS 44
+7 ATENDIMENTO DE OCORRÊNCIAS
+As operações submersas no CBMMG devem ser desenvolvidas em conformidade
+com esta ITO.
+Previamente a qualquer empenho para execução de operações submersas, as
+Unidade de Execução Operacional (UEOps) devem elaborar estudos com a finalidade
+de conhecer a bacia hidrográfica de sua região, os índices de balneabilidade de cada
+corpo d'água existente, os locais de maior risco de afogamento e as taxas de
+afogamento de cada área de interesse operacional.
+Os acionamentos para ocorrências relacionadas a afogamentos ocorrem, em sua
+maioria, para locais com profundidades máximas de 10 metros e estão muitas vezes
+relacionados a açudes artificiais, cachoeiras e rios. Por esse motivo, a decisão de
+empenho da equipe de mergulho deve se basear em um estudo de situação por parte
+do coordenador de bombeiros de unidade (CBU)/chefe de serviço no momento da
+chamada, tomando-se como referência, principalmente, o tempo de deslocamento até
+o local da ocorrência.
+A definição pelo tipo de operação a ser realizada (equipamentos e equipes
+empregadas) se dá a partir da possibilidade de resgate da vítima com vida (quando o
+tempo de acesso e resgate da vítima se limite a 60 minutos a partir do momento do
+afogamento) ou operação submersa de recuperação de cadáver (para os casos em
+que o tempo de afogamento ultrapasse 60 minutos).
+A equipe de mergulho realiza uma criteriosa avaliação das condições no cenário
+informado no acionamento e o encontrado, decidindo ou não por executar a atividade
+e interrompendo-a quando for reconhecida alguma nova condição insegura, surgida
+no decorrer da operação.
+A operação propriamente dita inicia-se no momento do conhecimento do fato gerador
+da ocorrência, podendo ocorrer por meio de:
+a) chamada telefônica (193),
+7 ATENDIMENTO DE OCORRÊNCIAS 45
+b) solicitação direta nas diversas UEOp/Frações do CBMMG em todo o estado;
+c) formalização via ofício ao Comandante da UEOp/Fração, até o nível mínimo de
+Pelotão BM.
+Consideram-se três tipos básicos de atividades submersas desenvolvidas no CBMMG
+para fins de padronização desta instrução:
+a) resgate de vítimas de afogamento;
+b) busca e recuperação de cadáver, quando o afogamento se dá com mais de 1
+hora de submersão;
+c) busca e recuperação de bens e evidências criminais, como objetos,
+armamentos, veículos, embarcações ou aeronaves.
+Nos casos em que a busca for realizada com o objetivo de recuperação de bens,
+objetos, embarcações e/ou aeronaves, o emprego das equipes do CBMMG deve ser
+precedido de criteriosa análise preliminar de risco, sendo avaliada previamente a
+existência do interesse público ou privado na realização do MSP, para que seja
+verificada a necessidade de cobrança de Taxa de Segurança Pública (TSP).
+Nenhum mergulho para resgate de bens materiais é realizado sem a autorização do
+comandante do BBM/fração destacada responsável pela área.
+7.1 Acionamento da equipe de MSP
+O planejamento para atendimento da ocorrência de mergulho se inicia após seu
+acionamento. O responsável pelo recebimento da chamada, identificando que se trata
+especificamente de operações submersas, seja para busca e recuperação de corpos
+ou de bens, deve coletar o máximo de informações possíveis, relacionadas ao tempo
+de afogamento, características do objeto submerso, natureza do balneário e
+balneabilidade, presença de correnteza, profundidade, natureza de fundo,
+características da vítima, acesso ao local, clima e temperatura da água, bem como as
+coordenadas geográficas do local do afogamento, conforme questionário previsto no
+APÊNDICE A desta ITO.
+ITO 12 – OPERAÇÕES SUBMERSAS 46
+Todos os dados devem ser confirmados quando a guarnição estiver no local da
+ocorrência.
+Nos casos em que o acionamento das guarnições BM se dê em período inferior a 1
+hora da notificação do afogamento, considerando a possibilidade de encontro da
+vítima ainda com vida, além do emprego das equipes de MSP, devem ser utilizados
+equipamentos e ações de salvamento aquático e mergulho livre, métodos de buscas
+mais céleres, bem como o acionamento de equipes de Suporte Básico de Vida (SBV)
+e Suporte Avançado de Vida (SAV), para atendimento à vítima.
+O MSP pode ser realizado quando houver o interesse privado, mediante o
+correspondente pagamento de TSP, calculada de acordo com o Regulamento de
+Taxas Estaduais vigente à época do fato gerador. Nesse caso, a atividade deve ser
+precedida de avaliação da equipe de mergulho (com função de assessoria) e de
+autorização do Comandante da UEOP/fração até o nível mínimo de Pelotão BM.
+Para a escolha das equipes, avalia-se a profundidade real do local, sendo os ajustes
+relacionados à altitude empregados para fins de cálculos de autonomia de gás, limites
+não descompressivos e planejamento de mergulho.
+7.2 Preparação do equipamento
+Todos os equipamentos de mergulho empregados nas operações devem ser
+submetidos, rotineiramente, a testes e manutenções programadas, de acordo com as
+orientações no manual do fabricante ou conforme necessidade identificada após
+danificações ou avarias, visando garantir o emprego de materiais apropriados,
+seguros, confiáveis e em perfeito funcionamento.
+Os procedimentos a seguir devem ser adotados no âmbito das UEOp, por militar
+responsável:
+a) instruções de rotina referentes à manutenção e reparos;
+b) registros de manutenções dos equipamentos com a devida identificação do
+responsável;
+7 ATENDIMENTO DE OCORRÊNCIAS 47
+c) acondicionamento adequado, em sala apropriada, dos materiais e
+equipamentos de mergulho, livre da concentração de umidade e com ventilação
+adequada;
+d) instalação dos compressores de ar em local adequado, com atmosfera livre de
+gases produtos de combustão e demais contaminantes, preferencialmente, em
+locais que haja ar-condicionado.
+O mergulhador escalado no serviço operacional deve revisar todo equipamento de
+mergulho diariamente, deixando-o em condições de emprego imediato. Cuidados
+básicos devem ser tomados, como:
+a) inspeção visual e limpeza;
+b) inspeção e teste das nadadeiras, snorkel e máscara (verificar condições do
+visor);
+c) inspeção e teste dos reguladores (inspecionar o diafragma da válvula de 2º
+estágio, bateria do computador de mergulho, se existente, integridade do
+profundímetro analógico e manômetro);
+d) inspeção dos coletes equilibradores (inspecionar funcionamento das válvulas
+de alívio, traqueia e presença ou não de vazamentos);
+e) inspeção dos neoprenes;
+f) inspeção dos cilindros de mergulho (inspecionar registro, a existência de
+rachaduras, riscos e marcas no corpo do cilindro e pressurização. Se possível,
+realizar a limpeza interna);
+g) disponibilidade de cintos de lastros;
+h) inspeção dos demais equipamentos como: lanternas (verificação da carga das
+baterias e pilhas), bússolas, computadores de mergulho, pranchetas, lift-bags
+etc;
+i) acondicionamento dos equipamentos e materiais em ambiente ventilado e
+seco, longe de graxas e óleos e onde não haja sua exposição prolongada à luz
+solar;
+j) hidratação das partes de silicone das máscaras, bocais das válvulas,
+respiradores e nos calcanhares das nadadeiras, com gel hidratante específico;
+k) marcação do último abastecimento de ar no cilindro com no mínimo,
+ITO 12 – OPERAÇÕES SUBMERSAS 48
+posto/graduação, nome do responsável pelo abastecimento e data;
+l) regulagem dos cintos de lastro, com lastreamento individual de cada
+mergulhador de serviço.
+No momento do empenho para a ocorrência, o equipamento de mergulho já deve estar
+separado, listado e revisado de forma prévia ao deslocamento, de forma que não haja
+falhas ou faltas.
+Além dos equipamentos individuais do mergulhador, é importante analisar a
+necessidade ainda do emprego dos seguintes equipamentos na operação:
+a) embarcações com motor e tanque de combustível, gasolina e óleo tipo dois
+tempos;
+b) poitas, cordas, retinidas, boias de sinalização, sacos de cadáveres, carretilhas,
+lift-bag, fitas zebradas, dentre outros materiais e equipamentos que podem ser
+usados na operação de mergulho.
+Na maioria dos casos, a operação submersa ocorre em zona rural e distante de fontes
+de recursos logísticos, por isso, os recursos pré-hospitalares e a garantia de uma
+primeira resposta a um possível mergulhador acidentado são de extrema importância.
+Portanto, para toda operação é obrigatório a disponibilização de Desfibrilador
+Automático Externo (DEA) em perfeito funcionamento, cilindro portátil de O2, com
+máscara de não reinalação oronasal, além da bolsa de resgate com outros materiais
+básicos.
+O militar de serviço deve relatar, de forma antecipada, ao seu chefe direto, qualquer
+dificuldade encontrada para manter as condições mínimas de segurança em um local
+de ocorrência, e este deve repassar ao escalão superior para demais providências.
+7.2.1 Equipamentos mínimos
+Para as ocorrências que demandem a atuação das equipes de níveis 1 e 2, de forma
+7 ATENDIMENTO DE OCORRÊNCIAS 49
+ordinária, os recursos logísticos empregados devem estar adequados ao tipo de
+trabalho a ser realizado, sendo os requisitos mínimos:
+a) cilindros de mergulho com teste hidrostático válido, de acordo com as normas
+da ABNT, com volume mínimo de 11 litros, na proporção de 2 cilindros
+completamente cheios para cada componente da equipe;
+b) colete equilibrador para controle de flutuabilidade, próprio da atividade;
+c) faca apropriada para mergulho;
+d) roupa úmida apropriada a temperatura identificada;
+e) máscara semifacial;
+f) cinto de lastro com fivela de fácil soltura;
+g) conjunto de mangueiras e válvulas reguladoras, contendo 2º estágio principal
+e alternativo, manômetro submersível e mangueira de baixa pressão para
+inflagem de colete;
+h) relógio submersível;
+i) computador de mergulho com profundímetro;
+j) corda/retinida para confecção de cabo guia, de espessura adequada à carga
+de ruptura mínima de 150 kg e comprimento mínimo de 30 metros;
+k) lanterna;
+l) nadadeiras;
+m) DEA (Desfibrilador Externo Automático);
+n) cilindro portátil de oxigênio.
+As equipes de níveis 3 e 4 realizam mergulhos sob condições específicas e com
+características pré-definidas, que extrapolam o atendimento ordinário da Instituição,
+que por sua vez compreendem a menor parcela de atendimentos de operações de
+mergulho. Nesse contexto, devem empregar os equipamentos necessários para
+garantir a segurança da operação e dos mergulhadores envolvidos, contendo, além
+do material básico empregado para as equipes de nível 1 e 2, ainda:
+a) máscara tipo full face ou capacete do tipo KMB, para os casos em que seja
+realizado o mergulho dependente com garantia de estanqueidade completa e
+console para controle de suprimento de ar comprimido/mesa de comunicação;
+ITO 12 – OPERAÇÕES SUBMERSAS 50
+b) para o mergulhador submerso, cilindro para suprimento de emergência (stage)
+e sistema de cordeletes ou tirantes de náilon e mosquetões que acoplam o
+cilindro ao colete equilibrador/harness (sistema “RIG”) para transporte, testado
+hidrostaticamente e com válvula reguladora de 2º estágio independente;
+c) capacete adequado à atividade de mergulho;
+d) roupa seca com estanqueidade adequada;
+e) nadadeira do tipo aberta;
+f) computador de mergulho;
+g) harness de segurança;
+h) comutador de gás;
+i) rebreather;
+j) bússola;
+k) bail out;
+l) stage.
+Para os casos em que é necessária a realização do mergulho dependente, o
+supervisor de mergulho deve certificar que o mergulhador possua uma TCS inferior a
+40 litros/minuto.
+Caso ocorra inexistência de algum equipamento, considerada a avaliação do chefe da
+guarnição, pode ser realizada a operação, desde que preservada as condições de
+segurança.
+7.2.2 Preparação do mergulhador
+Além da necessidade de manutenção de prontidão especificada na ITO 01, os
+mergulhadores escalados no serviço operacional devem se manter aptos ao serviço,
+em adequadas condições físicas e psicológicas.
+Qualquer queixa ou limitação física ou psicológica deve ser manifestada pelo militar
+no momento de assumir o serviço, sob pena de comprometimento da segurança da
+operação e risco à saúde e à vida. Os exames de saúde dos mergulhadores devem
+ser mantidos atualizados, bem como o militar escalado para o serviço, com
+possibilidade de empenho em operações submersas, deve estar apto nos exames de
+7 ATENDIMENTO DE OCORRÊNCIAS 51
+saúde requeridos para o nível de mergulho a ser desempenhado, incluídos aqueles
+exigidos por meio do PSOBM.
+Do mesmo modo, o treinamento deve ocorrer rotineiramente por acompanhamento
+dos comandantes do serviço operacional e/ou Oficial de Mergulho da Unidade,
+durante o serviço operacional ou fora dele, mediante elaboração de ordem de serviço,
+nos casos em que forem realizados mergulhos em águas abertas.
+A educação continuada é desenvolvida por meio dos cursos e treinamentos de
+mergulho complementares realizados pelos militares, seja dentro ou fora da
+Corporação, que tenham relação com a atividade de segurança pública.
+7.3 Deslocamento
+Ainda que as operações de mergulho autônomo demandem a busca e a recuperação
+de vítima submersa a mais de 60 minutos, sem possibilidade de resgate da vítima com
+vida em decorrência do tempo de imersão ou mesmo para recuperação de evidências
+criminais e bens, o deslocamento deve ser de forma ágil e com segurança, em código
+2 de acordo com a ITO 01.
+Durante o deslocamento, o chefe de guarnição da equipe de mergulho deve, sempre
+que possível, atualizar os dados já levantados sobre a ocorrência no intuito de
+estabelecer o planejamento adequado, seja via contato com solicitante, com o Centro
+de Operações ou pela SOU da Unidade. A equipe deve planejar e discutir ações
+adequadas a serem desenvolvidas na ocorrência com base nas informações obtidas
+até o momento.
+7.4 Análise da cena
+Na cena da ocorrência, a primeira medida a ser tomada pela equipe de mergulho ao
+chegar no local do afogamento é a realização de uma análise pormenorizada de todos
+os fatores que influenciam no atendimento da ocorrência.
+ITO 12 – OPERAÇÕES SUBMERSAS 52
+Deve-se levar em consideração os fatores ambientais, comportamentais e sociais
+encontrados na cena, principalmente se o objetivo da busca estiver relacionado à
+recuperação de cadáver.
+O Comandante da Guarnição deve identificar possíveis distúrbios de comportamento
+que possam resultar em risco à integridade dos membros da equipe. Se o local for
+inseguro, torne-o seguro por meio de solicitação de apoio a outros órgãos, se
+necessário.
+Avalie as características e condições do local do mergulho que afetam o planejamento
+da operação, tais como:
+a) o tipo de corpo d’água onde são realizados os mergulhos (rio, lago, lagoa,
+açude, represa, cachoeira etc.);
+b) a velocidade da correnteza. Não mergulhe em cursos d’água com velocidade
+superior a 2 nós;
+c) a possibilidade ou não de navegação com embarcação;
+d) a balneabilidade das águas, conforme relatório da Agência Nacional das Águas
+(ANA) levantado pelo COB local ou concessionária de abastecimento de água
+regional/local. Em águas contaminadas, mergulhe sempre com isolamento
+corporal completo garantido pela roupa seca e full face;
+e) o despejo de resíduos industriais ou humanos à montante do local de mergulho;
+f) o tipo de leito do corpo d'água, se pedregoso, arenoso ou lamacento, ou
+natureza de fundo que potencialize enroscos e aprisionamentos;
+g) a existência de remanso, como locais de maior probabilidade de encontro de
+corpos/objetos flutuantes;
+h) as características do local antes de sua inundação (se área livre de pastagem,
+presença de cercas de arame, vegetação, inclinação do terreno etc.) quando o
+local se tratar de mananciais artificiais (represas e açudes);
+i) a proximidade a paredes de pedras, principalmente aquelas formadas por ação
+antrópica. Se for próximo, evite mergulhar, pois algumas pedras podem estar
+soltas e cair sobre os mergulhadores;
+j) o número e as condições fisiológicas dos mergulhadores disponíveis;
+k) a possibilidade de existência de locais com “teto”. Nesses casos, mergulhe
+7 ATENDIMENTO DE OCORRÊNCIAS 53
+sempre guiado por cabos de fundo, ancorados ao cabo guia e faça uso de
+capacete;
+l) o local de difícil acesso envolve um maior número de recursos humanos,
+equipamentos e empenho de aeronaves;
+m) a incidência de fenômenos naturais como “cabeça d’água” geram riscos
+repentinos que, em muitos casos, superam a capacidade de resposta da
+guarnição BM. Procure informações sobre eventos pluviométricos a montante
+que possam causar o fenômeno onde é realizado o mergulho;
+n) a necessidade de apoio policial para realizar a segurança do local e da viatura
+que fica sem a presença de Bombeiros (BMs) próximos;
+o) o levantamento da distância para o recurso hospitalar, para o caso de um
+atendimento de emergência ao mergulhador;
+p) a previsão meteorológica. Em caso de previsão ou chuva forte que alterem a
+profundidade do local ou potencialize a correnteza, não mergulhe;
+q) a profundidade do local, que pode ser identificada por meio do uso de poita e
+cordas.
+7.5 Sistema de Comando de Operações (SCO)
+Para os casos em que o comandante da operação vislumbre a necessidade de
+atuação interagências no atendimento da ocorrência ou esta se desenvolva
+naturalmente a considerar a sua natureza e complexidade, os protocolos de
+atendimento, segundo a doutrina de SCO, devem ser adotados seguindo
+regulamentação específica.
+7.6 Ações de segurança
+A equipe deve isolar a área, como forma de garantir a segurança dos mergulhadores,
+a integridade dos materiais e equipamentos disponibilizados, bem como prevenção
+de riscos e novos acidentes. O isolamento deve impedir que pessoas estranhas à
+operação possam de alguma forma comprometer a segurança, prejudicar a
+preservação da área e a atuação das autoridades envolvidas. A atividade submersa e
+a presença de mergulhadores na água, em qualquer operação, deve ser sinalizada e
+ITO 12 – OPERAÇÕES SUBMERSAS 54
+balizada com dispositivos flutuantes adequados.
+O chefe da guarnição, caso necessário, deve solicitar apoio dos órgãos de segurança,
+como a PMMG, a Guarda Municipal ou a Marinha, para atuarem no isolamento. O
+cumprimento de todas as determinações e definições contidas nesta instrução, para
+cada ação, comportamento e operação, dentro de sua especificidade, configuram o
+mais imprescindível aspecto de segurança a ser seguido pelos mergulhadores do
+CBMMG, com vistas a garantir a segurança do mergulhador em todos os casos.
+7.7 Disposição dos equipamentos e materiais
+Após o isolamento do local e definição das zonas de operação, como zona quente,
+zona morna e zona fria, deve-se estabelecer o palco da operação de mergulho.
+Todos os materiais e equipamentos que possam ser usados na ocorrência devem ser
+colocados e organizados na zona morna, em local acessível e adequado, de maneira
+que facilite a sua utilização e conferência pós-operação. Preferencialmente, deve-se
+usar uma lona para evitar o contato direto do material com o solo. Os equipamentos
+devem ficar protegidos de terra, areia e ao abrigo de luz solar.
+Os materiais e equipamentos devem ficar na área destinada apenas à equipe de
+mergulho, distante das outras pessoas no local. Podem ser utilizadas cordas, cones e
+fitas zebradas para garantir o efetivo isolamento. Devem ainda ficar próximos à área
+de busca, de forma que a equipe tenha fácil acesso.
+Toda a equipe deve atentar pela organização do material durante toda a operação.
+Sempre que se utilizar o material, deve-se retornar com ele ao local de origem
+estabelecido no palco de ferramentas. O material coletivo deve ser colocado em lonas
+diferentes dos materiais definidos como individuais, para que não ocorram trocas que
+prejudiquem a segurança do mergulhador.
+Para os casos em que o mergulho ocorra em águas impróprias para banho, deve ser
+estabelecido o corredor de descontaminação, conforme doutrina do CBMMG, que
+especifica o emprego adequado da roupa seca.
+7 ATENDIMENTO DE OCORRÊNCIAS 55
+7.8 Plano de buscas
+A definição do plano de busca é realizada de acordo com as diversas variáveis que
+são levantadas pela equipe de mergulho no local, com base no levantamento inicial
+de informações e metodologia básica para atendimento às ocorrências de MSP,
+preconizadas pela International Association of Nitrox & Technical Divers - IANTD.
+Inicialmente, deve-se coletar informações com as testemunhas oculares idôneas
+presentes no local por meio de entrevistas. É importante que, na sinalização do último
+ponto de avistamento, a testemunha seja conduzida exatamente onde estava quando
+avistou a vítima/objeto pela última vez. Ainda, o levantamento de informações pode
+ocorrer junto à família, com o devido cuidado e profissionalismo na abordagem,
+considerando o estado emocional das testemunhas presentes, ou ainda junto a órgãos
+que já se encontravam na cena.
+Realizadas as entrevistas necessárias, e mediante as características obtidas relativas
+ao local, tais como: profundidade e perfil de fundo, extensão da área de busca,
+natureza de fundo, balneabilidade, entre outros, são definidos os critérios de
+segurança a serem adotados, principalmente no que se refere à execução das buscas
+e riscos existentes no ambiente submerso, no intuito de definir e empregar os
+equipamentos adequados à realidade da operação.
+A provisão de segurança do mergulho deve constar de sinalização com boias de
+identificação, isolando o trânsito de embarcações num raio de 100 metros, exceto
+àquelas envolvidas na operação.
+Garantida a segurança dos militares e demais envolvidos na operação, devem ser
+definidas as técnicas e táticas a serem empregadas para alcance do objetivo. Nesse
+momento são definidos os equipamentos empregados, levantamento de todas as
+possibilidades e métodos de busca mais adequado ao local, considerando as diversas
+opções de busca e métodos possíveis de emprego. Também deve ser preenchido o
+checklist de mergulho, definido no ANEXO B desta ITO, de forma a pormenorizar
+detalhes de equipagem e ações a serem desenvolvidas em atenção aos critérios de
+segurança já estabelecidos.
+ITO 12 – OPERAÇÕES SUBMERSAS 56
+Finalizado o checklist, são realizadas as buscas propriamente ditas. O checklist de
+mergulho contempla o planejamento pormenorizado da ocorrência, que tem sua
+confecção iniciada desde o acionamento das guarnições até o momento
+imediatamente anterior à entrada na água para a realização da busca, definidos em
+doutrina do CBMMG.
+De modo geral, o planejamento deve conter, obrigatoriamente, as seguintes
+informações e procedimentos previstos:
+a) definição dos objetivos;
+b) condições meteorológicas pré-existentes;
+c) identificação da profundidade real e profundidade ajustada ao mergulho em
+altitude, devendo ser adequados os valores de profundidade, para fins de
+cálculo, conforme tabela contida no ANEXO C, considerando a altitude média
+identificada no estado;
+d) identificação da equipe empenhada;
+e) cálculos de autonomia do mergulhador e tempo de fundo para mergulhos não
+descompressivos;
+f) capacidade e volume de gás contido nos cilindros de pressão;
+g) consumo e autonomia de gás dos mergulhadores envolvidos na operação, por
+meio do cálculo de TCS;
+h) cálculos de contingência para os casos de exposição excepcional, quando
+devem ser definidos a reserva de emergência, tempo necessário às paradas
+de segurança e tempo adequado de subida;
+i) método de busca empregado na operação;
+j) procedimentos de sinalização e segurança a serem adotados.
+7.9 Execução de buscas
+Os métodos de busca empregados para alcance dos objetivos operacionais em uma
+ocorrência de mergulho autônomo devem respeitar um criterioso rol de definições para
+cada caso, devendo ser executados conforme doutrina do CBMMG.
+7 ATENDIMENTO DE OCORRÊNCIAS 57
+As buscas deverão se limitar a 72 horas quando ocorrerem em locais que
+apresentam:
+a) características lacustres;
+b) com natureza de fundo conhecido e verificado;
+c) sem correntes;
+d) águas confinadas de fundo arenoso;
+e) sem possibilidades de enrosco;
+f) sem galhadas;
+g) sem reentrâncias rochosas.
+Nesses casos, a probabilidade do aprisionamento do corpo no fundo do balneário por
+estar enroscado, preso à alguma estrutura submersa ou até mesmo ter se
+movimentado em decorrência de correntezas é quase inexistente.
+Diferentemente, se as buscas acontecem em locais que apresentam balneários de
+água corrente, natureza de fundo desconhecida, tais como: existência de galhos,
+cercas, reentrâncias rochosas ou valas; devem ser submetidas a criteriosa análise de
+risco e emprego das guarnições, uma vez que existe a impossibilidade do cadáver se
+manter, por um longo período de tempo, submerso no mesmo local onde foi seu último
+ponto de avistamento.
+Considerando ainda a natureza de fundo, a flutuação espontânea decorrente do
+estado de decomposição avançado pode não ocorrer, devendo então o coordenador
+decidir pelo prolongamento do tempo de busca, por mais 24 horas, além do emprego
+de roupa seca, por causa da possibilidade de contaminação pelo cadáver.
+Associadas às buscas submersas ou estas tendo sido finalizadas, as guarnições
+podem desenvolver as buscas superficiais, com uso de embarcação, guarnições a pé
+margeando o balneário.
+Caso haja disponibilidade do recurso, o drone pode ser utilizado para auxílio em
+buscas superficiais de recuperação de corpos, bem como para auxiliar em tomadas
+de decisões estratégicas da ocorrência. O empenho dessa ferramenta está em
+ITO 12 – OPERAÇÕES SUBMERSAS 58
+consonância com a doutrina vigente no CBMMG relacionada ao emprego do
+equipamento.
+7.10 Encerramento ou suspensão das buscas submersas
+Decidir pelo encerramento ou suspensão de uma operação, principalmente nos casos
+em que o objetivo não foi alcançado, quando se trata de ocorrências de recuperação
+de cadáver, deve ser uma decisão tomada com base em criteriosa análise e respaldo
+em critérios técnicos, pois há a pressão popular e de familiares pela recuperação e
+resposta imediata.
+O processo de decomposição produz gases no interior do organismo, que por sua vez
+induzem a flutuabilidade positiva do cadáver. A flutuabilidade positiva ocorre no
+intervalo entre 24 horas e 72 horas após a notificação da ocorrência/óbito,
+podendo variar quanto à temperatura da água e profundidade onde o corpo se
+encontra. Em locais em que a temperatura do balneário é acentuadamente baixa, o
+processo de decomposição, formação de gases e, por consequência, a reflutuação,
+pode se prolongar por até 5 dias.
+Quanto maior a profundidade, considerando a pressão hidrostática exercida pela
+coluna d’água, menor é o volume de gases produzidos pelo processo de
+decomposição, que se desenvolve de forma mais lenta. Ainda, quanto maior a
+temperatura da água, mais acelerado se dá o processo de decomposição e de
+formação de gases, analisando a influência da temperatura nos processos
+bioquímicos e biofísicos.
+Sendo assim, nas operações realizadas pelo CBMMG, as buscas submersas no local
+indicado do afogamento são limitadas a 72 horas, uma vez que a profundidade média
+das ocorrências notificadas no estado, bem como a temperatura média das águas em
+Minas Gerais, que é em torno de 23 ºC, variando de 20 ºC a 25 ºC, somados à
+certificação de que a natureza de fundo não configura possibilidade de
+enrosco/aprisionamento. Posteriormente, caso existam evidências, as buscas
+submersas e/ou superficiais podem ser realizadas conforme avaliação e planejamento
+do chefe da guarnição.
+7 ATENDIMENTO DE OCORRÊNCIAS 59
+Em casos específicos, tendo em consideração a baixa temperatura e a influência da
+pressão hidrostática, as buscas em locais com profundidade superior a 18 metros
+podem se estender até 96 horas. Do mesmo modo, buscas submersas em locais que
+ultrapassem os 30 metros, devem se estender por 5 dias, a partir da data de
+notificação do afogamento.
+Após esse período, a busca é encerrada no local sinalizado para o afogamento,
+devendo a guarnição avaliar a possibilidade de reflutuação espontânea do corpo em
+princípio ou a sua movimentação em relação ao último ponto de avistamento. Assim,
+as buscas devem ter sua continuidade por via terrestre, às margens do balneário, ou
+traçada estratégia de busca submersa diversa, de modo a percorrer outras áreas, para
+evitar retrabalho, a depender da natureza do balneário, presença de correnteza etc.
+Nos demais casos, os riscos pré-existentes da atividade são amplamente
+potencializados quando se exerce a atividade sob pressão e estresse desnecessários,
+com recursos escassos e militares em condições físicas comprometidas.
+Assim, são definidas diversas situações em que a operação submersa deve ser
+suspensa ou encerrada, como mostra a Figura 5, de acordo com a avaliação do
+supervisor de mergulho, principalmente para atender aos critérios de segurança e
+considerando as diversas motivações.
+Todas as ações, seja a interrupção da busca ou o prolongamento dela, devem ser
+devidamente motivadas e justificadas no registro da ocorrência.
+ITO 12 – OPERAÇÕES SUBMERSAS 60
+Figura 5 - Detalhamento do atendimento à ocorrência e situações que ensejam suspensão ou
+encerramento das buscas submersas
+Fonte: elaborada pelos autores (2024).
+7 ATENDIMENTO DE OCORRÊNCIAS 61
+7.10.1Encontro do objeto
+Nos casos de sucesso na operação, isto é, encontrando o objeto buscado, bem como
+sua recuperação/remoção do fundo e devida devolução ao solicitante/órgão
+interessado, ou localizando e recuperando cadáveres, a operação pode ser
+encerrada.
+É interessante ressaltar que toda a atividade deve ser registrada em REDS, assim
+como a caderneta de mergulho individualizada de cada integrante da equipe
+executora da atividade.
+7.10.2Esgotamento do recurso de ar
+No planejamento da operação, pode-se destacar os recursos logísticos, em especial,
+o ar comprimido. Esse recurso é dimensionado para atender a necessidade da
+guarnição, de forma que ela consiga realizar a busca. Assim, toda operação deve
+contar com recursos sobressalentes. Nos casos em que a operação envolver quatro
+mergulhadores, devem ser considerados quatro cilindros de suprimento de ar, com
+um cilindro reserva para cada mergulhador que se encontrar submerso.
+Salienta-se que, conforme citado anteriormente, a previsão do recurso deve
+considerar sempre que, em deslocamentos longitudinais, seja na vertical, seja na
+horizontal, para locais em que se realize um mergulho com teto, toda quantidade de
+ar consumido no percurso de ida, é consumida em igual ou maior volume no percurso
+de volta.
+Também vale lembrar que o uso de ar comprimido pode acarretar em riscos
+relacionados à doença descompressiva. Assim sendo, os pressupostos das tabelas
+de limites sem descompressão (TLSD), no que tange ao tempo de fundo utilizando ar
+comprimido, devem ser seguidos.
+ITO 12 – OPERAÇÕES SUBMERSAS 62
+Por fim, de acordo com a NORMAN 15 (Brasil, 2018), considerando as profundidades
+admissíveis para mergulhos com ar comprimido e, de acordo com uso adequado das
+Tabelas de limites Sem Descompressão, o tempo máximo submerso diário, incluindo
+a descompressão, é de 4 horas para cada mergulhador.
+7.10.3Em atenção aos limites impostos pelas TLSD
+Conforme supracitado e atentando para a necessidade de suprimir os riscos da
+doença descompressiva ocasionada pela absorção do nitrogênio contido no ar
+comprimido em excesso, as referidas tabelas limitam as atividades em profundidades
+variadas associadas a tempos de fundo permitidos para cada caso, incluindo a
+absorção de nitrogênio residual que deve ser considerada para os casos de mergulhos
+repetitivos.
+A operação deve ser encerrada nos casos em que o objetivo da busca não tenha sido
+encontrado e que o tempo de fundo tenha sido limitado na referida profundidade no
+decorrer da atividade, bem como nos casos em que a profundidade tiver valor que
+extrapole o limite de segurança para utilização do gás comprimido.
+Para tanto, os limites de tempo e profundidade do mergulho autônomo não
+descompressivo devem ser considerados de acordo com o especificado nas TLSD,
+ANEXO C desta ITO.
+7.10.4 Alterações climáticas e ambientais que ofereçam risco
+Um planejamento de mergulho adequado prioriza o início da operação nas horas
+iniciais do dia, para aproveitar maior disponibilidade de luz natural, devido
+principalmente às características dos locais em que o CBMMG desempenha suas
+atividades, predominantemente sem visibilidade.
+Quando há pouca visibilidade na água, a luz natural pode não interferir no ambiente
+subaquático. Nesses casos, a determinação da suspensão da operação de mergulho
+em decorrência da ausência de luz natural e do período noturno é definida por fatores
+externos.
+7 ATENDIMENTO DE OCORRÊNCIAS 63
+Contudo, a ocorrência iniciada em períodos com baixa luminosidade, a depender do
+local e dos recursos disponíveis, pode comprometer a visibilidade da operação que
+ocorre também na superfície, afetando a função dos mergulhadores de segurança e
+do guia de mergulho.
+A operação deve ser suspensa, para a garantia da segurança dos mergulhadores nos
+casos em que a visão é o mecanismo de controle e recurso determinante para uma
+comunicação adequada e esta se compromete pela baixa luminosidade local. É por
+meio dela que acontece o acompanhamento ininterrupto do mergulhador submerso, a
+visualização do deslocamento das bolhas, a verificação da comunicação via cabo,
+entre outros.
+Da mesma forma, nos casos em que não é possível, no período noturno, manter o
+controle e a suspensão do trânsito de veículos aquáticos, considerando a dificuldade
+para que estes possam verificar e identificar a presença de mergulhadores por meio
+das boias de sinalização, o mergulho deve ser suspenso.
+Ainda, deve-se considerar a possibilidade do surgimento de condições climáticas
+desfavoráveis, como chuvas excessivas e cabeças d’água, que podem alterar
+características da correnteza, natureza de fundo e profundidade local, além do
+carreamento de diversos objetos, como galhadas, que colocam os mergulhadores em
+risco de enrosco, lesões e traumas, bem como causam prejuízo potencial ao bom
+funcionamento dos equipamentos de mergulho. Nesses casos, sob risco de acidentes,
+a operação deve ser suspensa, após análise do comandante da operação, até que
+sejam estabelecidas condições de segurança.
+Por fim, é necessário analisar o bioma local e qual o tipo de vida subaquática coexiste
+na área de busca (ex.: jacaré; piranha), para que precauções sejam tomadas,
+garantindo a segurança dos mergulhadores.
+ITO 12 – OPERAÇÕES SUBMERSAS 64
+7.10.5Exposição excessiva dos militares seguida de esgotamento físico
+São raros os casos em que os militares envolvidos na operação sofrem desgaste físico
+que impeça a continuidade da atividade, antes que outros fatores, como o
+cumprimento das TLSD, induzam o encerramento ou suspensão da atividade.
+Entretanto, em casos de mergulhos realizados contra correnteza, mergulhos em que
+a preparação prévia, como o deslocamento para o local da operação (a considerar a
+característica dos balneários no estado), é desgastante, ou em situações de estresse
+elevado, somados aos casos em que o mergulhador já tenha iniciado a operação com
+alguma indisposição física, a atividade deve ser encerrada na garantia de maior
+segurança aos envolvidos, casos esses em que o militar/guarnição devem ser
+substituídos, passando por devida avaliação médica, para que outras guarnições
+deem continuidade à operação.
+7.10.6Surgimento de riscos que demandam revisão do planejamento
+A maioria das operações de mergulho realizadas pelo CBMMG ocorrem em locais nos
+quais as guarnições não têm informações prévias das características do balneário,
+sua natureza de fundo etc. Nesses casos, o conhecimento do local e seus riscos se
+dá apenas com a progressão da atividade na busca pelo objetivo da operação.
+Em algumas situações, os riscos encontrados podem extrapolar a capacidade
+logística e de resposta por parte da guarnição, principalmente no caso de acidentes.
+Descargas repentinas de materiais poluentes/tóxicos; existência de tubulações
+submersas danificadas que apresentem alta vazão, imperceptíveis na superfície;
+existência de equipamentos energizados no local, como bombas de sucção, entre
+outros, que em todos os casos tem seu risco potencializado, devido à baixa visibilidade
+local, demandam a suspensão da atividade para que uma revisão do planejamento
+seja realizada.
+Desse modo, para os exemplos citados, a tubulação que apresente alta vazão pode
+ser isolada, os equipamentos energizados devem ser devidamente desenergizados
+pelos responsáveis, para que a atividade tenha sua continuidade de forma segura.
+7 ATENDIMENTO DE OCORRÊNCIAS 65
+7.10.7Prescrições diversas
+Não só após a finalização das buscas, mas ao término de qualquer operação de
+mergulho em que tenha havido a submersão de militares, o registro da atividade deve
+ser realizado no REDS, bem como na caderneta de mergulho individual.
+Respeitados os limites não descompressivos para cada profundidade e a
+autonomia dos mergulhadores a partir de seu consumo, de forma suplementar, o
+tempo máximo submerso diário por mergulhador, é de até 240 minutos.
+Para manter a fidedignidade estatística, em ocorrências continuadas, cujas buscas se
+prolonguem por mais de um dia e ensejem em substituições de equipes, deve ser
+observado o que preconiza a ITO 25 vigente, a qual padroniza os registros de eventos
+no CBMMG, principalmente no que diz respeito à manutenção da natureza principal e
+do número da chamada, além das confecções de REDS diários associados.
+Para tanto, todos os recursos humanos e materiais empregados na operação devem
+constar no registro a ser controlado no posto de comando, para os casos em que
+tenha sido acionado o SCO, ou por atribuição de responsabilidade do comandante da
+operação definido para cada dia de operação.
+Em todas as ocasiões, iniciado o mergulho, caso seja necessária sua interrupção, ela
+acontece após criteriosa análise do comandante da operação/supervisor de mergulho.
+Quando ocorrer interrupção dos trabalhos de mergulho por razões de segurança, isso
+deve ser comunicado imediatamente ao comando a que estiver subordinado a
+guarnição, o qual determina os procedimentos a serem adotados, no que couber.
+As buscas superficiais são limitadas em até 8 dias após a notificação do afogamento,
+avaliando as possibilidades de reflutuação espontânea, movimentação do objeto
+buscado em relação ao último ponto de avistamento, entre outros. Após esse período,
+as guarnições devem reconsiderar o planejamento da operação e a possibilidade de
+acionamentos posteriores relativos ao encontro de cadáver.
+ITO 12 – OPERAÇÕES SUBMERSAS 66
+7.11 Finalização dos trabalhos no local
+Para os casos em que tenha sido feito o encontro e recuperação do cadáver, a retirada
+da água deve observar os preceitos de humanidade, profissionalismo e, acima de
+tudo, cuidado e sensibilidade, principalmente na presença de familiares.
+Os membros da GUBM devem evitar reações de euforia e satisfação pelo sucesso da
+localização do corpo que possam ser mal interpretadas pelos civis presentes no local.
+O corpo submerso, ao ser encontrado, deve ser marcado com uso de equipamentos
+(decomarker, carretilha, lift bag, marcadores de superfície), mantendo-o inalterado
+onde foi encontrado, até a chegada da perícia, para evitar a exposição desnecessária.
+Caso a GUBM opte por reflutuar o corpo e retirá-lo, ele deve ser amarrado, removido
+para um lugar seguro e reservado até a chegada da perícia técnica.
+A guarnição deve, sempre que possível, prezar pela preservação do local e do
+objeto/cadáver encontrado. Caso seja vislumbrado a necessidade de preservação de
+vestígios e locais de crime, conforme preconizado pela ITO 10 vigente, os objetos
+reconhecidos devem ser acondicionados, ainda dentro da água, em recipientes ou
+invólucros que preservem suas características originárias, até serem repassados para
+a perícia, com a devida atenção aos procedimentos regulamentares referentes à
+Cadeia de Custódia.
+Tão logo as guarnições tenham atingido o objetivo das buscas, os serviços de perícia
+e remoção por parte dos órgãos competentes devem ser acionados. Deve-se
+preservar a integridade do corpo e sua imagem, não permitindo que sejam feitas
+imagens por populares próximos, por meio de câmeras fotográficas ou qualquer outro
+tipo de equipamento.
+7.12 Atividades pós-operação
+Ao término do atendimento e finalização das atividades BM no local, a operação deve
+ser desmobilizada. Após a saída da água e desequipagem do mergulhador de busca
+e do mergulhador de segurança, os materiais e equipamentos utilizados na operação
+7 ATENDIMENTO DE OCORRÊNCIAS 67
+devem ser dispostos no “palco de ferramentas” para conferência, para que só então
+sejam guardados e devidamente acondicionados na viatura.
+De posse das informações coletadas no local da ocorrência, bem como o que foi
+executado pela guarnição, o REDS deve ser confeccionado contendo, no mínimo, as
+seguintes informações:
+a) o que a guarnição identificou no local;
+b) o que foi repassado pelas testemunhas;
+c) o que foi feito pela guarnição (detalhar objetivo da busca, método de busca
+utilizado, mergulhadores empenhados, profundidade atingida, fatores adversos
+e demais informações exigidas por doutrina do CBMMG);
+d) qual apoio a GU BM recebeu no local.
+Na UEOp, a viatura deve ser desequipada, os equipamentos manutenidos, com
+atenção às válvulas e coletes, e acondicionados em local adequado.
+ITO 12 – OPERAÇÕES SUBMERSAS 68
+8 RESPONSABILIDADES DOS MEMBROS DA EQUIPE DE MERGULHO
+Cada membro de uma guarnição de mergulho deve ter ciência de suas
+responsabilidades e atribuições nas operações submersas.
+8.1 Oficial de mergulho da unidade
+A função de oficial de mergulho da unidade (UEOp) é um encargo inerente ao oficial
+subalterno e intermediário, com curso de qualificação na atividade, seja ele obtido no
+CBMMG ou em outra instituição militar. O militar deve ter suas qualificações em
+mergulho publicadas em BI para exercer a função de oficial de mergulho. Dentre suas
+diversas atribuições e responsabilidades, compete:
+a) orientar os Comandantes de Companhia e Pelotão descentralizados e
+destacados sobre a necessidade de atualização da carta hidrográfica da área
+de atuação, identificando os riscos e balneários de maior concentração de
+banhistas, bem como sobre a balneabilidade de cada local;
+b) estimular o acompanhamento do registro de ocorrências de afogamento na
+área de articulação de toda a UEOp, com estatísticas e informações
+detalhadas, a fim de que seja possível traçar o perfil do afogado na região e
+realizar uma gestão do risco de afogamento, propondo ações de prevenção e
+mitigação;
+c) assessorar o responsável pelo almoxarifado da UEOp na elaboração e a
+atualização periódica da carta de materiais de mergulho da unidade/frações;
+d) identificar carências e propor melhorias de equipamentos e materiais de
+mergulho da unidade/frações;
+e) controlar a manutenção dos equipamentos e materiais de mergulho da
+unidade/frações;
+f) relacionar e manter atualizada a lista dos mergulhadores de sua área, segundo
+a qualificação individual de mergulho;
+g) assessorar o comando da UEOp no sentido de buscar melhorias para a
+atividade de mergulho;
+h) propor cursos, credenciamentos, treinamentos e qualificação em atividade de
+mergulho, no âmbito de competência de sua UEOp;
+8 RESPONSABILIDADES DOS MEMBROS DA EQUIPE DE MERGULHO 69
+i) fiscalizar o preenchimento adequado dos registros de ocorrência e da
+caderneta de registro de mergulho dos mergulhadores;
+j) controlar os acidentes de mergulho de sua área de atuação;
+k) elaborar e divulgar entre os mergulhadores da unidade/frações o Plano de
+Emergência para acidente de mergulho;
+l) recepcionar os REDS elaborados em decorrência das ocorrências de mergulho
+atendidas pela unidade, solicitando do elaborador correções ou ajustes,
+quando necessário, com vistas a manter a fidedignidade do registro de
+informações.
+8.1.1 Controle de treinamentos
+Os treinamentos diários são de responsabilidade da UEOp/fração até o nível de posto
+avançado BM. O registro deve ser feito nos anúncios já existentes e lançado no
+relatório de serviço.
+Entretanto, cabe ao oficial de mergulho da UEOp coordenar, promover, controlar e
+acompanhar a participação do efetivo de mergulhadores da unidade em cursos,
+treinamentos, workshops e outras atividades correlatas ao mergulho autônomo de
+segurança pública, seja com participação apenas do público interno, quanto externo.
+O controle deve permanecer em pasta digital na seção responsável pelo treinamento
+da UEOp, contendo todas as informações atinentes ao mergulho, incluindo registro
+fotográfico, para que haja uma continuidade do trabalho ao longo do tempo.
+8.1.2 Controle de equipamentos
+O controle de equipamentos de mergulho é de responsabilidade do almoxarifado da
+unidade até o nível de Cia Ind., que deve controlar inclusive os materiais das frações
+subordinadas (descentralizadas e destacadas) e buscar continuamente a melhoria
+dos equipamentos e materiais de mergulho de sua carga patrimonial. O oficial de
+mergulho da UEOp pode ainda assessorar quanto à aquisição de novos materiais.
+ITO 12 – OPERAÇÕES SUBMERSAS 70
+8.1.3 Definição das equipes
+A definição dos militares que compõem a equipe de mergulho para o atendimento de
+pronta resposta, conforme item 4 desta ITO, é de responsabilidade de cada
+CBU/chefe de serviço, observando-se as configurações de cada equipe.
+O oficial de mergulho da unidade pode ser consultado para a escolha da equipe que
+venha ser necessária no atendimento de situações complexas como a recuperação
+de aeronaves, embarcações, veículos submersos, ou situações que envolvam um
+planejamento de mergulho mais elaborado, com uso de diversas técnicas, recursos e
+militares, não se tratando de uma ocorrência habitual de recuperação e/ou resgate.
+Nesse caso, sua função é de assessor técnico do comandante de unidade, devido ao
+seu conhecimento na área, cabendo-lhe o julgamento técnico para a tomada de
+decisão da autoridade competente.
+8.1.4 Controle da caderneta de registro de mergulho
+O oficial de mergulho da unidade deve estimular e instruir os mergulhadores para que
+as cadernetas de registro de mergulho pessoais sejam devidamente preenchidos a
+cada atividade executada, seja ela de instrução ou de atendimento operacional.
+8.2 Supervisor da equipe de MSP
+O supervisor da equipe de MSP é o responsável pela condução de toda a ocorrência
+e deve primar, acima de tudo, pela segurança de sua equipe. A primeira ação adotada
+na cena da ocorrência é assumir o comando e controle da situação.
+Se possível, estabeleça um perímetro de segurança devidamente sinalizado com fitas
+zebradas ou qualquer outro meio de fortuna encontrado no local. Em alguns casos,
+barreiras físicas artificiais (cercas de arame e muros, estradas) ou naturais
+(vegetação, taludes) podem ser usados como referências para o estabelecimento do
+perímetro de segurança para a equipe que está na operação.
+Deve-se envidar esforços para retirar todo o pessoal flutuante que possa ser um fator
+8 RESPONSABILIDADES DOS MEMBROS DA EQUIPE DE MERGULHO 71
+de risco para a equipe, equipamentos e viaturas. A Polícia Militar deve ser acionada
+em apoio sempre que necessário.
+Busque identificar os familiares e informá-los dos procedimentos a serem adotados
+pelo CBMMG durante toda a operação. Seja transparente e passe confiança no
+trabalho a ser realizado pela corporação. Peça-os para aguardarem em local distante
+da cena para que o impacto emocional não venha afetar as atividades da operação,
+nos casos em que forem realizadas buscas de vítimas de afogamento, por exemplo.
+Seja direto, objetivo e claro nas informações. Tenha empatia e profissionalismo
+quando for repassá-las aos familiares.
+Busque preservar a dignidade do corpo e da família. As imagens devem ser
+registradas exclusivamente para fins de divulgação das ações na sala de imprensa do
+CBMMG e para fins de instrução interna. Não permita que curiosos, a imprensa ou
+servidores públicos civis e militares façam imagens do corpo encontrado.
+Outras funções devem ser executadas pelo supervisor da equipe de MSP:
+a) assumir a função de comandante da operação, na condição de militar mais
+antigo da guarnição, e nos casos em que a equipe estiver em sua menor
+composição, assumir ainda, a função de guia de mergulho;
+b) zelar pelo fiel cumprimento de todas as diretrizes e comportamentos de
+segurança definidos nesta instrução, em todas as fases da operação;
+c) impedir o início do mergulho se for constatado descumprimento de qualquer
+diretriz presente nesta instrução;
+d) cuidar para que nenhuma atividade externa que ofereça riscos aos
+mergulhadores ocorra no entorno da operação, antes e durante o mergulho
+propriamente dito;
+e) estabelecer o Posto de Comando, as instalações e as áreas do SCO (zonas
+quente, morna e fria), conforme o grau de complexidade da ocorrência;
+f) conhecer as condições físicas e psicológicas dos integrantes da equipe;
+g) cuidar para que nenhum mergulhador efetue a busca quando do conhecimento
+de algum problema de saúde ou estado de insegurança;
+ITO 12 – OPERAÇÕES SUBMERSAS 72
+h) realizar o planejamento de mergulho e os cálculos com auxílio dos demais
+integrantes da equipe de MSP;
+i) revisar o plano de emergência para o local, atribuindo as responsabilidade a
+cada MSP em caso de acidente;
+j) definir os procedimentos e métodos de busca a serem empregados;
+k) fazer com que os integrantes realizem a dupla checagem dos equipamentos
+antes de iniciar a entrada na água;
+l) ter o controle do mergulhador de segurança equipado na superfície;
+m) permitir que apenas militares devidamente treinados realizem os mergulhos
+adequados a sua capacidade de operação;
+n) manter-se sempre alerta para o surgimento dos fatores que ensejam a
+interrupção da operação, na garantia da segurança da equipe de mergulho;
+o) solicitar apoio de outros órgãos se necessário;
+p) solicitar recursos adicionais (perícia, funerária, guincho etc.) quando
+necessário, incluindo o contato prévio com o operador da câmara hiperbárica
+para os casos em que o recurso deve ser previsto;
+q) comunicar com o comandante de área;
+r) providenciar o preenchimento das cadernetas de mergulho;
+s) supervisionar o recolhimento dos equipamentos e sua higienização no
+encerramento da operação;
+t) elaborar o REDS e documentações adicionais, conforme o caso, cuidando para
+que as informações relativas ao tempo de fundo, profundidade, e as mesmas
+informações correlatas a um mergulho repetitivo sejam obrigatoriamente
+registrados no histórico do REDS, para fins de controle.
+8.3 Mergulhadores
+Atendendo o planejamento prévio e a definição de busca, os mergulhadores de busca
+e de segurança devem cumprir as determinações do supervisor de mergulho e
+aquelas previstas no planejamento, elencadas em doutrina específica, relacionadas
+aos métodos de busca e outras atribuições definidas, devendo ainda:
+a) manter atualizada a caderneta de mergulho individual, conforme modelo
+previsto no ANEXO D;
+8 RESPONSABILIDADES DOS MEMBROS DA EQUIPE DE MERGULHO 73
+b) informar ao comandante da operação qualquer incapacidade ou situação
+adversa que comprometa a segurança individual e da equipe de mergulho;
+c) cumprir com todas as regras de segurança do mergulho;
+d) manter a conservação e o cuidado de todo o equipamento de mergulho a que
+tem acesso, antes, durante e depois de qualquer operação.
+ITO 12 – OPERAÇÕES SUBMERSAS 74
+9 PLANO DE EMERGÊNCIA
+Considerando os riscos inerentes à atividade de mergulho, toda operação deve ser
+antecedida de minuciosa previsão de riscos, estabelecimento de contingências e
+estudo de aplicação de planos emergenciais para atendimento e resposta adequados
+no caso de acidentes.
+Os já citados riscos relacionados à atividade de mergulho, principalmente no que se
+refere às leis da física e ao ambiente hiperbárico, possuem diversos níveis de
+gravidade.
+9.1 Tipos de acidente de mergulho mais comuns
+Conforme já detalhado nesta instrução, os mergulhadores, devido ao risco inerente à
+atividade, estão sujeitos a acidentes provenientes dos efeitos da pressão, sejam eles
+diretos ou indiretos; provenientes do ambiente aquático (afogamento, natureza de
+fundo); e provenientes da variação de temperatura.
+Os efeitos diretos ou primários são aqueles que resultam da ação mecânica da
+pressão sobre as células e espaços corporais. Já os efeitos indiretos ou secundários
+são assim chamados, por causa das alterações fisiológicas, produzidas em
+decorrência das pressões parciais dos gases absorvidos pelo organismo. Podemos
+resumir na sequência abaixo:
+Diretos (causam lesões ou traumas devido à falta da equalização das pressões dos
+espaços aéreos corporais):
+a) barotrauma do ouvido médio;
+b) barotrauma do ouvido externo;
+c) barotrauma dos seios faciais;
+d) barotrauma dos pulmões;
+e) barotrauma total;
+f) barotrauma facial ou de máscara;
+g) barotrauma da roupa;
+9 PLANO DE EMERGÊNCIA 75
+h) barotrauma dental e embolia traumática pelo ar;
+i) síndrome da hiperextensão pulmonar - SHP.
+Indiretos (afetam diretamente o sistema nervoso, causando acentuada incapacidade
+motora e sensorial):
+a) bioquímicos:
+ narcose pelo nitrogênio;
+ intoxicação pelo oxigênio;
+ intoxicação pelo gás carbônico;
+ intoxicação por outros gases;
+ apagamento.
+b) biofísico:
+ doença descompressiva.
+De acordo com o preconizado pelo Protocolo de Atendimento Pré-Hospitalar (ITO 23),
+os acidentes aqui definidos podem apresentar pontualmente, como consequência, os
+sintomas listados abaixo para que sejam observados a curto e longo prazo, para a
+adequada tomada de decisão:
+a) dor;
+b) perda da capacidade auditiva, que pode ser parcial ou total;
+c) zumbido;
+d) sangramento pelo conduto auditivo;
+e) surdez temporária ou permanente;
+f) vertigem, desorientação espacial, náuseas e vômitos;
+g) equimoses faciais;
+h) sangramento pelo nariz;
+i) hemorragias do globo ocular e nas conjuntivas;
+j) deslocamento da retina e hemorragia intraocular;
+k) dor intensa sobre o seio da face afetado;
+l) dor torácica crescente ou sensação de aperto ao respirar ou tossir;
+ITO 12 – OPERAÇÕES SUBMERSAS 76
+m) dispneia;
+n) enfisema mediastinal;
+o) enfisema subcutâneo;
+p) edema agudo de pulmão com lesão local;
+q) tosse com produção muco sanguinolenta;
+r) pneumotórax;
+s) redução dos sons respiratórios;
+t) fadiga;
+u) mal-estar;
+v) confusão mental;
+w) dores articulares, nas costas ou abdominais;
+x) erupções cutâneas, coceira, manchas vermelhas ou azuladas na pele;
+y) dormências;
+z) formigamento;
+aa) paralisia;
+bb) perda do controle da bexiga ou do intestino;
+cc) tosse severa, boca espumante;
+dd) convulsões;
+ee) cegueira parcial ou total;
+ff) parada cardiorrespiratória (PCR).
+Esta ITO estabelece o Plano de Emergência, o qual contém os procedimentos a serem
+adotados pelos envolvidos na operação de mergulho na resposta relacionada a
+acidentes típicos de mergulho.
+Para que o referido plano se torne efetivo, de acordo com a NORMAN 15 (Brasil,
+2018), é necessário que sejam atendidos fatores como treinamento adequado para
+conhecimento das ações, das ferramentas de estabelecimento de SCO no local de
+atendimento da ocorrência, conhecimento de pontos de apoio real e potencial, além
+do adequado aparato logístico de suporte básico de vida, bem como do adequado
+aparato logístico relacionado à própria atividade.
+A ativação do plano ocorre mediante o desencadeamento de ações definidas a seguir.
+9 PLANO DE EMERGÊNCIA 77
+9.2 Ativação do plano
+O referido plano é ativado quando há a constatação de um fato que caracteriza
+acidente de mergulho, de qualquer natureza, principalmente pela manifestação de
+sinais e sintomas típicos. Para tanto, é necessário que o tipo de acidente seja
+devidamente identificado, o que influencia na tomada de decisão e etapas sequenciais
+do Plano de Emergência.
+Ressalta-se que, a depender do tipo de acidente, os efeitos e sintomas podem surgir
+posteriormente ao mergulho ou ao término da operação, a exemplo da doença
+descompressiva, em que os sintomas foram identificados após 24 horas, para os quais
+o este Plano de Emergência se mantém inalterado e deve ser ativado.
+9.3 Responsável pela ativação
+O Plano de Emergência é ativado:
+a) pelo coordenador da operação;
+b) pelo supervisor de mergulho (conforme denominação desta ITO);
+c) pelo próprio militar acidentado, para os casos em que a manifestação dos
+sintomas ocorrer em momento posterior à operação.
+9.4 Desenvolvimento da ativação
+Decidindo-se pela ativação do plano, o militar responsável, após realização do resgate
+e avaliação dos sinais vitais do mergulhador acidentado, deve proceder com a adoção
+dos primeiros socorros previstos na ITO 23 (P603).
+Em seguida, deve realizar o primeiro contato com o Centro de Operações de
+Bombeiros (COBOM), via tridígito 193, registrando o horário e a
+localização/coordenada do ocorrido, com o detalhamento do estado de saúde do
+militar acidentado, antevendo assim a priorização de contatos e acionamento dos
+pontos de apoio real, que devem ser realizados pelo COBOM.
+ITO 12 – OPERAÇÕES SUBMERSAS 78
+De imediato, o COBOM deve contatar o Batalhão de Operações Aéreas para verificar
+a possibilidade de remoção do militar por meio de transporte aeromédico. No caso de
+identificação tardia pelo próprio militar acidentado, este deve, do mesmo modo,
+efetuar contato com o COBOM, via tridígito 193.
+O militar responsável deve alimentar o COBOM com as seguintes informações:
+a) nome e idade do mergulhador acidentado;
+b) tipo de acidente;
+c) características do mergulho realizado;
+d) sinais e sintomas apresentados;
+e) resposta da vítima aos primeiros socorros e estado atual.
+Cabe ao COBOM o contato telefônico IMEDIATO com o hospital de referência que
+contemple serviço de medicina hiperbárica, para os casos que o acidente for relativo
+à doença descompressiva. Entretanto, o levantamento e conhecimento prévio do
+ponto de apoio real deve ser realizado pelo militar constante no item 1.2, como parte
+do planejamento da operação de mergulho.
+Empenhos em mergulhos profundos devem ser precedidos de contato com unidades
+de saúde preparadas para atendimentos diversos, para acionamento e funcionamento
+da câmara hiperbárica.
+9.5 Remoção do militar acidentado
+A remoção do militar e devido encaminhamento para atendimento hospitalar, bem
+como o método de remoção, são definidos por decisão conjunta entre o militar
+responsável descrito no item 9.2 e o COBOM, após consulta à regulação médica, caso
+haja, juntamente com o hospital de referência que dispõe de serviço de medicina
+hiperbárica.
+9 PLANO DE EMERGÊNCIA 79
+9.6 Detalhamento das fases do plano e critérios para estruturação
+Para estruturação do presente Plano de Emergência, a preparação e a resposta a
+acidentes de mergulho dos diversos tipos são desenvolvidas em distintas fases, que
+se determinam mesmo antes do acidente, durante a prevenção e durante a resposta,
+quando o acidente ocorre e ações desencadeadas, tais como mobilização de recursos
+e empenho de efetivo.
+9.6.1 Prevenção
+Inicialmente, os cursos de formação e habilitação de modo geral, nos quais a disciplina
+de mergulho autônomo integra a malha curricular, e principalmente nos
+credenciamentos e cursos de qualificação em mergulho autônomo, que visam formar
+exclusivamente os mergulhadores e multiplicadores da atividade na instituição, devem
+ser realizados de maneira a contemplar em sua ementa os assuntos relativos à
+fisiologia e física aplicadas ao mergulho, bem como os acidentes comuns à atividade,
+dando conhecimento amplo do assunto aos militares.
+Como base teórica das instruções, esta Instrução Técnica Operacional deve ser
+utilizada. Do mesmo modo, esta ITO deve ser observada nas outras ações
+preventivas, principalmente no planejamento de operações, suprimindo assim os
+riscos de acidentes de maneira efetiva.
+Aliado a isso, deve ser feita uma análise preliminar de risco. Trata-se de uma avaliação
+prévia de riscos decorrentes da atividade, considerando as características e os
+perigos relativos à natureza do trabalho e do local onde é realizado, antes do início de
+cada operação de mergulho. Por meio dessa análise, de modo preventivo, riscos
+podem ser identificados e suprimidos, para que a operação transcorra com maior
+segurança.
+A referida análise deve considerar a possibilidade de existência dos seguintes fatores
+na operação, de modo a conhecê-los e previamente suprimir os riscos:
+ITO 12 – OPERAÇÕES SUBMERSAS 80
+a) limitação da vazão e volume do suprimento de mistura respiratória pelos
+equipamentos autônomos;
+b) suprimento de mistura respiratória para o mergulho;
+c) contaminação ou composição inadequada da mistura respiratória;
+d) emprego de tempos limites de exposição nos mergulhos dependentes
+utilizando ar comprimido ou MRA;
+e) mergulhos próximos a aspirações ou descargas submersas;
+f) visibilidade no local;
+g) correntes submarinas;
+h) mergulhos junto a veículos de operação remota;
+i) emprego de equipamentos elétricos;
+j) emprego de equipamentos para jateamento com água a alta pressão;
+k) emprego de equipamentos de reflutuação;
+l) emprego de ferramentas de corte/solda;
+m) mergulhos a partir de navios em posicionamento dinâmico;
+n) enrosco e aprisionamento;
+o) evacuação hiperbárica;
+p) tratamento de acidentados em CH;
+q) proximidade de emissões de sonar ou de pesquisas sísmicas;
+r) deslocamentos aéreos após o mergulho;
+s) temperatura da água e da água utilizada para aquecimento do mergulhador;
+t) limites para exposição do mergulhador;
+u) familiarização da equipe com a atividade a ser executada.
+Uma vez conhecidas essas características do mergulho, os riscos associados também
+são conhecidos, de modo que a operação possa se desenvolver com maior
+segurança.
+9.6.2 Resposta
+A resposta imediata nos casos de acidente deve contemplar os primeiros socorros ao
+militar acidentado. Salienta-se que em caso de mal descompressivo, seja a doença
+descompressiva ou a síndrome da hiperdistensão pulmonar, existem riscos de
+agravamento da doença associados a fatores do próprio mergulho, como pressão
+9 PLANO DE EMERGÊNCIA 81
+elevada, tempo elevado de submersão, mistura gasosa imprópria, entre outros. Ainda,
+há fatores que podem surgir de acordo com o ambiente, como redução aguda de
+pressão, no caso de remoção por transporte aeromédico em alguns casos.
+Sendo assim, os primeiros socorros devem ser realizados com atenção a diversos
+fatores e variáveis ocasionadas pela atividade. Após a avaliação do estado da vítima
+seguindo a ITO 23 e para o caso de identificação de sinais/sintomas como dores
+articulares, fadiga, coceira e erupção da pele, devem ser adotados os procedimentos
+contidos na referida ITO 23.
+Caso o acidentado esteja a mais de uma hora e/ou cinquenta quilômetros de distância
+do hospital de referência, deve ser dada prioridade para o transporte aéreo.
+Pacientes conscientes devem ser orientados a não se sentarem durante os primeiros
+socorros ou o transporte salvo em caso de recomendação médica. Durante o tempo
+em que a busca pelo centro de medicina hiperbárica é feita, é importante que o
+paciente seja mantido respirando oxigênio com concentração inspirada tão próxima
+quanto possível a 100%.
+Para os demais casos, como afogamentos, barotraumas por efeitos diretos,
+hipotermia, entre outros, os procedimentos adotados devem seguir protocolos
+previstos na ITO 23.
+9.6.3 Alarme
+Nos casos em que haja suspeita ou confirmação de acidente de mergulho do tipo mal
+descompressivo, o acionamento imediato do COBOM deve ser realizado,
+considerando a necessidade de uso da medicina hiperbárica e aparato logístico
+suplementar.
+9.6.4 Acionamento dos recursos
+O acionamento da câmara hiperbárica e dos demais recursos de resposta é realizado
+exclusivamente pelo COBOM e plantão de Assessoria de Assistência à Saúde (AAS),
+após a triagem e a confirmação das informações recebidas pelo militar responsável
+ITO 12 – OPERAÇÕES SUBMERSAS 82
+ou do militar acidentado (manifestação tardia), por meio de contato telefônico direto
+com o hospital de referência e com outras agências.
+9.6.5 Transporte de emergência
+A logística para o transporte de emergência é feita a depender de cada caso, em
+decisão conjunta entre o militar responsável descrito no item 9.3, a equipe em campo
+e a equipe de regulação médica do Batalhão de Operações Aéreas, para que seja
+realizado o contato com o hospital de medicina hiperbárica.
+Pacientes com mal descompressivo devem ser prontamente encaminhados com o
+acompanhamento do militar responsável, para atendimento intra-hospitalar, onde
+profissionais habilitados atendem de forma definitiva o paciente. É obrigação desse
+militar acompanhar o paciente até que ele seja entregue ao médico encarregado no
+hospital de referência.
+9.6.6 Mobilização adicional de recursos
+Em caso de necessidade de recursos adicionais em qualquer fase do Plano, cabe ao
+COBOM juntamente com a Assessoria de Assistência à Saúde, a realização dos
+referidos contatos.
+9.6.7 Atribuições gerais
+São responsabilidades gerais dos setores envolvidos no Plano de Emergência para
+atendimento de acidente de mergulho:
+a) manter um plano de chamada atualizado do pessoal de sua unidade com
+responsabilidade na implementação do plano;
+b) desenvolver e manter atualizados os procedimentos operacionais padrão,
+necessários à realização das tarefas atribuídas à unidade na execução do
+plano;
+c) preparar e executar os convênios e termos de cooperação necessários à
+participação da sua unidade na efetivação do plano;
+9 PLANO DE EMERGÊNCIA 83
+d) identificar e suprir as necessidades de comunicação para a realização das
+tarefas atribuídas a respectiva unidade na implementação do plano;
+e) identificar fontes de equipamento e recursos adicionais para a realização das
+tarefas atribuídas a sua unidade na implementação do plano;
+f) prover meios para a garantia da continuidade das operações da sua unidade,
+incluindo o revezamento dos responsáveis por posições-chave.
+Todo o registro do acidente e ações de resposta previstas neste plano devem ser
+relacionados no REDS, para fins de registro, amparo e salvaguarda de direitos do
+militar acidentado.
+Belo Horizonte,12 de setembro de 2024.
+(a) DANIELA LOPES ROCHA DA COSTA, CORONEL BM
+CHEFE DO ESTADO-MAIOR
+ITO 12 – OPERAÇÕES SUBMERSAS 84
+REFERÊNCIAS
+Agência Nacional de Águas e Saneamento Básico - ANA - Agência Nacional de
+Águas e Saneamento Básico. Disponível em: https://www.gov.br/ana/pt-br. Acesso
+em: 06 set. 2023.
+ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS. NBR 15527: Água de chuva
+- Aproveitamento de coberturas em áreas urbanas para fins não potáveis. Rio de
+Janeiro, 2007.
+BRASIL. [Constituição (1988)]. Constituição da República Federativa do Brasil.
+Brasília, DF: Senado Federal, 2016
+BRASIL. Marinha do Brasil. Centro de Instrução e Adestramento Almirante Áttila
+Monteiro Aché. Manual de mergulho a ar. 1ª ed. Niterói: 2007.
+BRASIL. Marinha do Brasil – Diretoria de Portos e Costas. Normas da Autoridade
+Marítima para Atividades Subaquáticas - NORMAM – 15. 2ª Revisão. 2016.
+BRASIL. Ministério do Trabalho e Emprego. NR 15 – Atividades e Operações
+Insalubres. Brasília: Ministério do Trabalho e Emprego, 2014.
+CROCE, Delton e CROCE JR., Delton. Manual de medicina legal. São Paulo:
+Saraiva, 2012.
+DEMIRYÜREK, Deniz; BAYRAMOGLU, Alp; USTAÇELEBI, Semsttin. Infective
+agents in fixed human cadavers: a brief review and suggested guidelines.The
+Anatomical Records, v.269, p.194 – 197, 2002. Disponível em:
+http://onlinelibrary.wiley.com/doi/10.1002/ar.10143/pdf. Acesso em: 28 mai. 2014.
+DUARTE, José Vital. Ocorrências operacionais consideradas de alto risco no
+Corpo de Bombeiros Militar: uma análise crítica. Belo Horizonte: Academia de
+Polícia Militar - CPP, 1997. 189 p. Disponível em:
+https://intranet.policiamilitar.mg.gov.br/lite/monografia/web/monografiaarquivo/downl
+oad?id=3957. Acesso em: 28 out. 2022.
+ESPÍRITO SANTO. Corpo de Bombeiros Militar do Espírito Santo. Norma de
+Mergulho nº 01/NORMERG. Vitória: CBMES, 2014, 41 p.
+FOWLER, Mark E.VENANCIO, Ronaldo C. Possato; DITURI, Amy; DITURI Joseph;
+HORTON, Michael. The tao of public safety diving: manual do estudante.
+International Association of Nitrox and Technical Divers. 2016. 92 p.
+GALLI, Lorena Bognar. Sinais abióticos: putrefação, autólise, maceração, fauna
+cadavérica, mumificação e saponificação. Revista Jus Navigandi, ISSN 1518-4862,
+Teresina, ano 19, n. 4169, 30 nov. 2014. Disponível em:
+https://jus.com.br/artigos/33919. Acesso em: 20 jan. 2022.
+REFERÊNCIAS 85
+GLENN, Michael. ERDI Emergency response diver 1: manual de operações.
+Emergency Response Diving Internacional. Trad.: Eduardo Macedo, Josualdo
+Moura. 2012. 225 p.
+GOIÁS. Corpo de Bombeiros Militar do Estado de Goiás. Manual de Mergulho
+autônomo. Goiânia: CBMGO, 2012, 230 p.
+IGAM - Instituto Mineiro de Gestão das Águas . Glossário de termos: gestão de
+recursos hídricos e meio ambiente. Belo Horizonte: Instituto Mineiro de Gestão das
+Águas, 2008. 90 p.
+MINAS GERAIS. Centro de Informações de Defesa Social - CINDS. Anuário
+estatístico do Corpo de Bombeiros Militar de Minas Gerais 2021. Belo Horizonte:
+Corpo de Bombeiros Militar de Minas Gerais. 2022.
+MINAS GERAIS. Constituição do Estado de Minas Gerais. 30 ed. Belo Horizonte,
+MG: Assembleia Legislativa do Estado de Minas Gerais, 1989.
+MINAS GERAIS. Corpo De Bombeiros Militar De Minas Gerais. Manual de
+Bombeiros Militar – salvamento aquático. 1.ed. Belo Horizonte: CBMMG, 2022.
+MINAS GERAIS. Corpo de Bombeiros Militar de Minas Gerais. Memorando nº 3142
+– resgate/recuperação de vítima em águas poluídas. Belo Horizonte: CBMMG, 2017.
+20 p.
+NOAA. National Oceanic and Atmospheric Administration. Diving manual, diving
+for science and technology. Fourth Edition: U.S. Department of Commerce, United
+States, 2001. Publishing Company 2355 North Steves Boulevard, P.O. Box 30100
+30100 Flagstaff,AZ, USA 86003-0100, ISBN 0-941332-70-5.
+PARANÁ. Polícia Militar do Estado do Paraná. Comando do corpo de bombeiros. 3ª
+Seção do Estado-Maior. Nota de Instrução nº 004: regula os procedimentos para a
+realização de mergulho de segurança pública. Curitiba: PMPR/CCBM, 2016, 36 p.
+SÃO PAULO (Estado).Polícia Militar do Estado de São Paulo. Comando do Corpo
+de Bombeiros. Manual de operações de mMergulho. 1ª ed. vol. 27. São Paulo:
+PMESP/CCB, 2006, 224 p.
+VENÂNCIO, R. C. P. IANTD - International Association of Nitrox & Technical
+Divers. The TAO of public safety diving student manual. Version 21.1.0. 2020.
+ITO 12 – OPERAÇÕES SUBMERSAS 86
+APÊNDICE A - QUESTIONÁRIO DE OPERAÇÕES SUBMERSAS
+DADOS DO SOLICITANTE
+NOME:
+TELEFONE:
+DATA: ____/____/_______ HORÁRIO DO FATO: _______:________
+RELATO DO OCORRIDO
+DADOS DA(S) VÍTIMA(S)
+NOME(S):
+IDADE(S):
+PESO(S) (APROXIMADO):
+CARACTERÍSTICAS:
+VESTIMENTA(S):
+DADOS DO(S) BEM(NS)
+O QUE ESTÁ SENDO PROCURADO:
+CARACTERÍSTICAS:
+PESO:
+APÊNDICE A – QUESTIONÁRIO DE OPERAÇÕES SUBMERSAS 87
+DADOS DO LOCAL
+LOCALIZAÇÃO:
+REFERÊNCIAS:
+COORDENADAS:
+OBS: caso possível, pedir ao solicitante para enviar a localização para algum aparelho
+telefônico da guarnição, o que pode ser feito através de aplicativos disponíveis.
+NATUREZA DO CURSO D’ÁGUA
+REPRESA ( ) LAGOA ( ) RIO ( ) CACHOEIRA
+OUTROS:
+PROFUNDIDADE ESTIMADA: PROFUNDIDADE REAL:
+EXTENSÃO (LARGURA) DO CURSO D’ÁGUA LOCAL EM METROS:
+FONTES POLUIDORAS
+LOCAL É POLUÍDO: ( ) SIM ( ) NÃO
+QUAL TIPO: ESGOTOS ( ) AFLUENTES TÓXICOS ( ) PRODUTOS TÓXICOS ( )
+OUTROS TIPOS DE POLUENTES:
+FONTE DE ELETRICIDADE
+EXISTE FONTE DE ELETRICIDADE: SIM ( ) NÃO ( )
+QUAL TIPO:
+CARACTERÍSTICAS DO FUNDO
+NO FUNDO EXISTE: BARRO ( ) PEDRAS ( ) GALHOS ( ) ANZOL ( )
+OUTROS:
+SISTEMA DE VAZÃO D’ÁGUA
+O SISTEMA É: ( ) NATURAL ( ) DIQUES ( ) COMPORTAS ( )
+ITO 12 – OPERAÇÕES SUBMERSAS 88
+CONDIÇÕES DA ÁGUA
+TEMPERATURA APROXIMADA EM GRAUS CELSIUS:
+VISIBILIDADE: VÊ O FUNDO ( ) VÊ PARTE DO FUNDO ( ) ÁGUA TURVA ( )
+SEM VISIBILIDADE ( )
+CARACTERÍSTICAS DO LOCAL
+LOCAL FREQUENTADO POR PESCADORES: ( ) SIM ( ) NÃO
+TRÁFEGO DE EMBARCAÇÕES: ( ) SIM ( ) NÃO
+OPERAÇÕES DE DRAGAS: ( ) SIM ( ) NÃO
+POSSIBILIDADES DE CHUVAS FORTES: ( ) SIM ( ) NÃO
+CONDIÇÕES DAS MARGENS: BARRANCO ( ) VEGETAÇÃO ( ) ATOLEIRO ( )
+AREIA/TERRA ( )
+FACILIDADE DE ACESSO DE VIATURA: ( ) SIM ( ) NÃO
+SINAL DE TELEFONE NO LOCAL: ( ) SIM ( ) NÃO
+OUTRAS CARACTERÍSTICAS DO LOCAL:
+OUTRAS CARACTERÍSTICAS DO ACESSO PARA VIATURA:
+OUTRAS OBSERVAÇÕES:
+APÊNDICE B – CHECKLIST DE EQUIPAMENTOS 89
+APÊNDICE B – CHECKLIST DE EQUIPAMENTOS
+Equipamentos individuais básicos
+OBRIGATÓRIOS RECOMENDADOS
+ROUPA ÚMIDA LANTERNA
+LUVA DE NEOPRENE COMPUTADOR DE MERGULHO
+BOTA DE NEOPRENE PRANCHETA/SLATE
+NADADEIRA (ABERTA/FECHADA) FACA TIPO Z-KNIFE
+2 MÁSCARAS SEMIFACIAL
+1 CINTO DE LASTRO
+6 PASTILHAS DE LASTRO
+CILINDRO DE MERGULHO S80
+COLETE EQUILIBRADOR
+CONJUNTO DE VÁLVULAS REGULADORAS
+FACA DE MERGULHO
+PROFUNDÍMETRO/RELÓGIO
+SUBMERSÍVEL
+Fonte: elaborado pelos autores (2024).
+Equipamentos coletivos - logística básica de operação
+OBRIGATÓRIOS
+MÁSCARA TIPO FULL FACE (COM
+ACESSÓRIOS)
+1 CORDA DE FLUTUABILIDADE POSITIVA
+(9mm/60m)
+CONJUNTO DE VÁLVULAS REGULADORAS
+PARA MÁSCARA FULL FACE
+2 CORDAS DE FLUTUABILIDADE
+NEGATIVA (9mm/18m)
+MESA/ESTAÇÃO DE COMUNICAÇÃO
+SUBAQUÁTICA
+COMUTADOR DE GÁS (CONJUNTO DE
+MANGUEIRAS)
+HARNESS DE SEGURANÇA 2 SACOS DE ARREMESSO
+BOIAS CIRCULARES ANEL DE FITA
+5 POITAS MOSQUETÃO DE AÇO
+LIFT-BAG GANCHO DE RECUPERAÇÃO
+4 CABOS SOLTEIROS DUPLA DE CILINDROS
+LONA DE EXPOSIÇÃO REBREATHER
+BOLSA DE APH CILINDRO DE OXIGÊNIO
+Fonte: elaborado pelos autores (2024).
+Equipamentos coletivos - logística complementar de operação
+SONAR CARRETILHA
+SONDA (PROFUNDÍMETRO) ÍMÃ
+ENROLADOR DE CABO (4 mm/30 m) RIG PARA STAGE
+MOSQUETÃO DE SOLTURA RÁPIDA LONGE DE SEGURANÇA
+BINÓCULO HT’S
+CONES SACO CADAVÉRICO
+Fonte: elaborado pelos autores (2024).
+Logística para embarcação
+BARCO/BOTE (TAMPÃO) ÓLEO 2T / MISTURADOR
+MOTOR DE POPA/REMOS FITA CATRACA/ CORDA 20m
+TANQUE DE COMBUSTÍVEL (TAC) C/
+GASOLINA CABO SOLTEIRO
+Fonte: elaborado pelos autores (2024).
+ITO 12 – OPERAÇÕES SUBMERSAS 90
+APÊNDICE C - CADERNETA DE MERGULHO INDIVIDUAL
+LIVRO DE CONTROLE DE MERGULHO
+MERGULHO _______
+Ocorrência nº.: O.S.: Outros:
+Data: ___/___/___ Local: Cidade:
+Latitude GPS: Longitude GPS:
+MERGULHADORES
+1º Mergulhador: Roupa: Lastro:
+2º Mergulhador: Roupa: Lastro:
+PLANO DE MERGULHO
+1º Mergulho 2º Mergulho
+Prof. máxima: Volume do cilindro: Prof. máxima: Volume do cilindro:
+Tempo de fundo: Pressão inicial: Tempo de fundo: Pressão inicial:
+Parada de seg.: Pressão final: Parada de seg.: Pressão final:
+Hora de início: Consumo lit/min: Hora de início: Consumo lit/min:
+Hora final: Altitude: Hora final: Altitude:
+__________________________________________
+SUPERVISOR
+Fonte: elaborada pelos autores (2024).
+ANEXO A – TABELAS DE LIMITES SEM DESCOMPRESSÃO (TLSD) 91
+ANEXO A - TABELAS DE LIMITES SEM DESCOMPRESSÃO (TLSD)
+Fonte: NOAA (2010)
+ITO 12 – OPERAÇÕES SUBMERSAS 92
+ANEXO B - TABELA DE AJUSTE DE PROFUNDIDADE/ALTITUDE
+Fonte: NOAA (2010).
+ANEXO C – TABELA PARA GRUPOS REPETITIVOS – ADAPTAÇÃO À ALTITUDE 93
+ANEXO C - TABELA PARA GRUPOS REPETITIVOS – ADAPTAÇÃO À
+ALTITUDE
+Altitude (m) Grupo Repetitivo de entrada
+300 A
+600 B
+900 B
+1200 C
+1500 D
+1800 E
+2100 E
+2400 F
+2700 G
+3000 H
+Fonte: Minas Gerais (2022).
+Para mergulhos realizados após deslocamento via terrestre em que haja um aumento
+de altitude (redução da pressão atmosférica), deve ser observada tabela específica
+de acúmulo de nitrogênio residual ocasionado durante o deslocamento para operação,
+conforme tabela acima.
+Belo Horizonte, 12 de setembro de 2024.
+(a) DANIELA LOPES ROCHA DA COSTA, CORONEL BM
+CHEFE DO ESTADO-MAIOR

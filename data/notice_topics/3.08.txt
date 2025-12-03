@@ -1,0 +1,2559 @@
+Corpo de Bombeiros Militar de Minas Gerais.
+ Manual de Bombeiros Militar : Vistoria , Poda e Corte de
+ Árvores . 1.ed. Belo Horizonte: CBMMG, 2019.
+ 129 p. il.
+ 1. Corpo de Bombeiros Militar de Minas Gerais.
+2 . Manual 3. MABOM 4. Poda de árvores. 5.Vistoria .
+6. Corte de árvores. I. Título .
+
+
+CDD 351.046
+
+PREFÁCIO
+Vivemos em um ambiente marcado por alterações antropogênicas. Entretanto, além
+dos seres humanos, diversos seres vivos, como as árvores, podem residir em uma
+comunidade. E nessa convivência, esses vegetais podem trazer atributos positivos à
+sociedade. Por outro lado, situações de perigo também podem ocorrer. Estas, se
+não forem corrigidas, podem causar danos ao patrimônio público, privado e até
+mesmo a morte de pessoas.
+Dentre as diversas atividades realizadas pelo Corpo de Bombeiros Militar de Minas
+Gerais (CBMMG), o corte/poda de árvores é uma atividade de grande relevância no
+atendimento às demandas dos cidadãos mineiros, por eliminar riscos de quedas de
+árvores sobre bens, prevenir que os espécimes vitimem pessoas, desobstruir vias de
+acesso, dentre outros.
+Considerando a crescente demanda e a necessidade de regular essa atividade no
+âmbito do CBMMG; a possibilidade de inserção de novas técnicas; a carência de
+padronização de medidas de segurança para o exercício da função; o CBMMG adota
+este Manual como referência para as suas atuações nas diversas ocorrências
+envolvendo vistoria, corte e poda de árvores.
+Por meio da leitura desta obra, que está dividia em 10 capítulos, os leitores poderão
+encontrar parâmetros técnicos para entender a importância da atividade (Capítulo 1
+– Introdução), a importância das árvores para o meio ambiente e sua morfologia
+básica (Capítulo 2 – Noções Básicas de Botânica), conhecer e saber a operação
+básica de ferramentas e acessórios para a atividade de vistoria, corte e poda de
+árvore (Capítulo 3 – Ferramentas, Equipamentos e Acessórios), manejo de cordas e
+nós específicos para a atividade (Capítulo 4 – Corda, Nós e Amarrações Utilizados
+no Corte de Árvores). Manutenção e operação básica de motosserras (Capítulo 5),
+considerações de segurança para início dos trabalhos (Capítulo 6), avaliação do
+risco de dano decorrente de queda de árvore ou galhos (Capítulo 7), inspeção,
+lançamento, escalada e deslocamento em árvores (Capítulo 8), corte e poda
+(Capítulo 9), resgate de operadores em caso de acidentes e situação de risco
+(Capítulo 10).
+MABOM – VISTORIA, PODA E CORTE DE ÁRVORES
+As técnicas inseridas neste manual têm como objetivos principais: minimizar
+esforços desprendidos no desenvolvimento da atividade, diminuindo a incidência de
+lesões; maximizar a produtividade, considerando que a realização do corte/poda de
+árvores ocorrerá de forma mais ágil; aumentar a segurança e reduzir o desgaste de
+equipamentos, além de adotar critérios técnicos e objetivos para a avaliação do risco
+de dano decorrente de queda de árvore ou galhos.
+Vale ressaltar que todos os equipamentos e técnicas contidas neste Manual estão
+em conformidade com padrões internacionais, definidos pela International Society Of
+Arboriculture (Sociedade Internacional de Arboricultura) – ISA e pelo American
+National Standards Institute (Instituto Nacional Americano de Padronização) – ANSI.
+OS AUTORES.
+MABOM – VISTORIA, PODA E CORTE DE ÁRVORES
+LISTA DE ILUSTRAÇÕES
+Figura 1 – Representação da morfologia básica de uma árvore ...............................18
+Figura 2 – Raiz pivotante em A e fasciculada em B..................................................19
+Figura 3 – Desenho esquemático indicando o tronco de uma árvore .......................20
+Figura 4 – Estrutura interna básica do tronco de uma árvore ...................................20
+Figura 5 – Dinâmica de circulação da seiva pelos vasos de uma árvore ..................21
+Figura 6 – Ramificação a partir do tronco .................................................................21
+Figura 7 – Representação de uma folha e suas estruturas básicas..........................22
+Figura 8 – Classificação das folhas em simples (A) e composta (B).........................22
+Figura 9 – Estrutura básica de uma flor ....................................................................23
+Figura 10 – Exemplo de inflorescência .....................................................................23
+Figura 11 – Estrutura básica de um fruto (A) e exemplo de fruto tipo vagem (B)......24
+Figura 12 – Principais formatos de copas de árvores ...............................................25
+Figura 13 – Principais equipamentos de proteção: abafadores (A), capacete próprio
+para a atividade (B), capacete de atividade em altura (C), óculos de proteção (D) e
+calça para operador de motosserra (E)......................................................................27
+Figura 14 – Cinto para arborista................................................................................27
+Figura 15 – Motosserra de sabre longo (A), motosserra de sabre curto ..................28
+Figura 16 - Serra........................................................................................................28
+Figura 17 - Machado e facão.....................................................................................29
+Figura 18 – Para o sistema de ascensão e deslocamento (A) e redirecionamento e
+retenção de carga (B)................................................................................................29
+Figura 19 – Ancoragem recuperável (A), cubo (B), cordim com duas alças (C), linha
+e bolsa de arremesso (D)..........................................................................................30
+Figura 20 – Esporão (A), ascensor (B) e mosquetões (C) ........................................31
+Figura 21 – Apito e rádio (A), martelo de borracha e trena (B...................................32
+Figura 22 – Nós: azelha em oito (A), marchard (B), belonesi(C), lais de guia com
+pescador duplo no arremate (D)................................................................................34
+Figura 23 – Nós: fiel pelo seio (A), valdotan (B), laçada simples arrematada (C) e a
+volta da ribeira (D).....................................................................................................36
+Figura 24 – Regulagem do carburador da motosserra..............................................37
+MABOM – VISTORIA, PODA E CORTE DE ÁRVORES
+Figura 25 – Recipientes separados para armazenar óleo e gasolina para posterior
+mistura .......................................................................................................................40
+Figura 26 – Verificação da lubrificação da corrente ..................................................41
+Figura 27 – Direção de travamento do freio da corrente indicado pela seta .............42
+Figura 28 – Posições do interruptor combinado........................................................42
+Figura 29 – Verificação do passo da corrente (A) e calibrador de corrente (B).........43
+Figura 30 – Manutenção da distância entre o dente de corte e o limitador de
+profundidade .............................................................................................................44
+Figura 31 - Equipagem com cinto nível 3 (A), equipagem com cinto de arborismo (B)
+e equipagem com cinto nível 1 ou 2 (C)....................................................................47
+Figura 32 – Exemplos de indicativos de madeira degradada: buraco/abertura (A),
+madeira oca (B) e fungos xilófagos aparentes (C) ....................................................52
+Figura 33 – Exemplos de fungos apodrecedores da madeira ...................................53
+Figura 34 – Besouro gigante metálico (Euchroma gigantea): inseto adulto (A), larva
+(B), galerias no tronco causadas pela larva (C) ........................................................54
+Figura 35 - Áreas degradadas do tronco susceptíveis ao ataque de cupins .............54
+Figura 36 – Limites mínimos de segurança da espessura da parte sadia em relação
+ao diâmetro do tronco ...............................................................................................55
+Figura 37 – Exemplo de rachadura proveniente de ferimento...................................57
+Figura 38 - Exemplos de fissura de cisalhamento.....................................................58
+Figura 39 – Exemplo de árvore com fissura enrolada e seu esquema interno..........59
+Figura 40 - Exemplos de fissuras associadas à protuberância .................................60
+Figura 41 – Exemplos das perigosíssimas fissuras horizontais ................................61
+Figura 42 – Inclinação com soerguimento de solo no lado oposto............................62
+Figura 43 – Exemplos de medição do DAP de acordo com as características do
+tronco ........................................................................................................................63
+Figura 44 – Raízes estranguladoras do colo da raiz .................................................64
+Figura 45 – Presença de crista em caso de união forte dos galhos..........................65
+Figura 46 – Casca inclusa enfraquecendo a anexação do galho ao tronco ..............66
+Figura 47 – Exemplo de galho epicórmico (A) e esquema de inserção do galho
+epicórmico e do galho normal ao tronco (B)..............................................................66
+Figura 48 – Exemplo de árvores com cancro: no tronco (A) e no colo devido a
+cortadores de grama (B) ...........................................................................................68
+MABOM – VISTORIA, PODA E CORTE DE ÁRVORES
+Figura 49 – Exemplos de árvores inclinadas provavelmente em razão de corte de
+raízes opostas para construção de calçada ..............................................................70
+Figura 50 – Sinais de tensão e deformação em árvores inclinadas ..........................71
+Figura 51 – Exemplo de árvore em harpa .................................................................71
+Figura 52 – Exemplos de árvores com sinais de arquitetura deficiente ....................72
+Figura 53 – Esquema do processo de anelamento de Malpighi................................73
+Figura 54 - Esquema explicativo e quadro de avaliação de árvore de risco… .........76
+Figura 55 - Lista de verificação dos equipamentos ...................................................78
+Figura 56 – Recipientes para acondicionamento de cordas......................................79
+Figura 57 – Disposição dos materiais em lona..........................................................79
+Figura 58 – Lista de verificação da árvore e do local ................................................80
+Figura 59 – Lista de verificação do plano de trabalho ...............................................81
+Figura 60 – Lançamento com linha simples ..............................................................83
+Figura 61 – Lançamento com linha dobrada .............................................................84
+Figura 62 – Nós para linha de arremesso: nó fiel (A) e nó simples (B) .....................84
+Figura 63 – Técnica do arco e flecha para liberação da bolsa de arremesso ...........85
+Figura 64 – Ancoragem recuperável .........................................................................86
+Figura 65 – Passos para instalação da ancoragem recuperável...............................87
+Figura 66 – Passos para confecção do nó de arremesso .........................................87
+Figura 67 – Utilização de escadas ............................................................................89
+Figura 68 – Cabo solteiro alternativo (CSA)..............................................................89
+Figura 69 – Impulso com o corpo para ascensão......................................................90
+Figura 70 – Travamento com os pés (footlock secured) ...........................................91
+Figura 71 – Técnica de escalada - corda simples. Utilização da mesma árvore em
+A.Utilização de outra árvore em B.............................................................................93
+Figura 72 – Utilização do esporão.............................................................................94
+Figura 73 – Utilização da ACE ..................................................................................95
+Figura 74 – Auto Plataforma Escada (APE) ..............................................................95
+Figura 75 – Exemplos de ancoragens, sendo a ancoragem ideal: mais alta e
+centralizada. Importante mantê-la sempre tensionada..............................................97
+Figura 76 – Sistema de ascensão.............................................................................98
+Figura 77 – Utilização do sistema para deslocamento ..............................................98
+Figura 78 – Deslocamento para o lado e para trás, com corda tesionada ...............99
+Figura 79 – Dupla ancoragem.................................................................................100
+MABOM – VISTORIA, PODA E CORTE DE ÁRVORES
+Figura 80 – Redirecionamento em destaque dentro do círculo...............................101
+Figura 81 – Descida no sistema estático.................................................................102
+Figura 82 – Localização da crista da casca, colar e fossa basal.............................103
+Figura 83 – Poda em três cortes .............................................................................104
+Figura 84 – Compartimentalização adequada: início (A) e final do processo (B)....104
+Figura 85 – RCD ou balancinho ..............................................................................105
+Figura 86 – Ancoragem do sistema RDC................................................................106
+Figura 87 – Amarração do galho extraído em dois pontos com corda-guia amarrada
+à extremidade do galho...........................................................................................108
+Figura 88 – Exemplo de estropo .............................................................................111
+Figura 89 – Cálculo da altura estimada...................................................................109
+Figura 90 – Delimitação da área de risco e rota de fuga.........................................110
+Figura 91 – Entalhe de 70°......................................................................................110
+Figura 92 – Corte de abate .....................................................................................111
+Figura 93 – Ruptura do tronco durante o corre de abate ........................................112
+Figura 94 – Retirada dos ramos laterais em árvore caída.......................................112
+Figura 95 – Árvore caída: corte com pressão descendente (A) e corte com pressão
+ascendente (B)........................................................................................................113
+Figura 96 – Corte do tronco no solo: pela parte acessível (A) e pelo lado oposto,
+após rolar o tronco (B).............................................................................................114
+Figura 97 – Atenção do operador para se evitar o efeito rebote .............................114
+Figura 98 – Posicionamento do operador para evitar que a corrente da motosserra
+atinja o chão............................................................................................................115
+Figura 99 – Linha rápida (tirolesa)...........................................................................115
+Figura 100 – Controle de descida na linha rápida (tirolesa)....................................116
+Figura 101 – Método A de resgate: estabilização inicial da vítima ..........................119
+Figura 102 – Método A de resgate: conexão ao engate principal do cinto do
+socorrista.................................................................................................................119
+Figura 103 – Método A de resgate: descida da vítima ............................................120
+Figura 104 – Método B de resgate: conexão ao engate principal do cinto do
+socorrista.................................................................................................................121
+Figura 105 – Método B de resgate: transferência da ancoragem............................121
+Figura 106 – Método B de resgate: descida da vítima.......122
+MABOM – VISTORIA, PODA E CORTE DE ÁRVORES
+LISTA DE ABREVIATURAS E SIGLAS
+ACE - Auto Caçamba Elevatória
+ANSI - American National Standards Institute
+APE - Auto Plataforma Escada
+API - American Petroleum Institute
+CEMIG - Companhia Energética de Minas Gerais
+cm - Centímetro
+CSA - Cabo Solteiro Alternativo
+DAP - Diâmetro à Altura do Peito
+ILED - Inspeção, Lançamento, Escalada e Deslocamento
+ISA - International Society Of Arboriculture
+kN - Quilonewton
+m - Metro
+mm - Milímetro
+ITO - Instrução Técnica Operacional
+PBH - Prefeitura de Belo Horizonte
+PQD - Paraquedista
+RCD - Retenção com Controle de Descida
+RCR - RaioCrítico da Raiz
+SRT - Single Rope Technique
+ACE - Auto Caçamba Elevatória
+ANSI - American National Standards Institute
+MABOM – VISTORIA, PODA E CORTE DE ÁRVORES
+SUMÁRIO
+1 INTRODUÇÃO.......................................................................................................14
+2 NOÇÕES BÁSICAS DE BOTÂNICA.....................................................................16
+2.1 Importância das árvores para o ambiente urbano .........................................16
+2.2 Morfologia básica das árvores.........................................................................18
+2.2.1 Raiz..................................................................................................................18
+2.2.2 Caule................................................................................................................20
+2.2.3 Ramo ...............................................................................................................21
+2.2.4 Folha................................................................................................................22
+2.2.5 Flor...................................................................................................................23
+2.2.6 Fruto ................................................................................................................24
+2.2.7 Copa ................................................................................................................24
+3 FERRAMENTAS, EQUIPAMENTOS E ACESSÓRIOS.........................................26
+3.1 Abafadores de ruído..........................................................................................26
+3.2 Capacete próprio para atividade de poda/corte de árvores ..........................26
+3.3 Óculos de proteção...........................................................................................26
+3.4 Calça de operador de motosserra ...................................................................26
+3.5 Cinto para arborista/tipo paraquedista (PQD) ................................................27
+3.6 Motosserras.......................................................................................................28
+3.7 Serra ...................................................................................................................28
+3.8 Machado e facão ...............................................................................................29
+3.9 Polia....................................................................................................................29
+3.10 Ancoragem recuperável..................................................................................30
+3.11 Cordim com duas alças ..................................................................................30
+3.12 Cubo .................................................................................................................30
+3.13 Linha e bolsa de arremesso ...........................................................................30
+3.14 Esporão............................................................................................................31
+3.15 Ascensores ......................................................................................................31
+3.16 Mosquetão .......................................................................................................31
+3.17 Apito, rádio, martelo de borracha e trena maleável .....................................32
+4 CORDAS, NÓS E AMARRAÇÕES UTILIZADOS NO CORTE DE ÁRVORES.....33
+4.1 Azelha em oito...................................................................................................33
+4.2 Marchard ............................................................................................................34
+MABOM – VISTORIA, PODA E CORTE DE ÁRVORES
+4.3 Belonesi .............................................................................................................34
+4.4 Lais de guia com pescador duplo no arremate ..............................................34
+4.5 Fiel pelo seio......................................................................................................35
+4.6 Valdotan .............................................................................................................35
+4.7 Laçada simples..................................................................................................35
+4.8 Volta da ribeira ..................................................................................................35
+5 MANUTENÇÃO E OPERAÇÃO BÁSICA DE MOTOSSERRAS...........................37
+5.1 Carburador – funcionamento, regulagem básica e afinação.........................37
+5.1.1 Exemplo de regulagem padrão da motosserra Stihl MS 193......................38
+5.2 Filtro de ar..........................................................................................................39
+5.3 Vela de ignição ..................................................................................................39
+5.4 Cuidados com o sabre......................................................................................39
+5.5 Tensionamento da corrente .............................................................................39
+5.6 Abastecimento de combustível........................................................................39
+5.7 Lubrificação da corrente...................................................................................40
+5.8 Freio da corrente ...............................................................................................41
+5.9 Posições do interruptor combinado................................................................42
+5.10 Cuidados na afiação de correntes .................................................................43
+5.10.1 Passos para uma afiação adequada...........................................................43
+5.11 Distância do limitador de profundidade........................................................44
+5.12 Lista de verificação da motosserra antes da utilização...............................44
+6 CONSIDERAÇÕES DE SEGURANÇA PARA INÍCIO DOS TRABALHOS...........45
+7 AVALIAÇÃO DO RISCO DE DANO DECORRENTE DA QUEDA DE ÁRVORE OU
+GALHO .....................................................................................................................48
+7.1 Avaliação visual da árvore ...............................................................................50
+7.2 Fatores utilizados para analisar o risco de falha............................................51
+7.2.1 Madeira degradada.........................................................................................52
+7.2.2 Fissuras...........................................................................................................57
+7.2.3 Problemas relacionados à raiz......................................................................61
+7.2.4 Galhos fracamente unidos ............................................................................65
+7.2.5 Cancros...........................................................................................................67
+7.2.6 Arquitetura deficiente ....................................................................................68
+7.2.7 Árvore ou galhos mortos...............................................................................72
+7.3 Utilização do quadro de avaliação de árvore de risco ...................................74
+MABOM – VISTORIA, PODA E CORTE DE ÁRVORES
+8 ILED– INSPEÇÃO, LANÇAMENTO, ESCALADA E DESLOCAMENTO..............78
+8.1 Inspeção (I) ........................................................................................................78
+8.1.1 Inspeção dos equipamentos .........................................................................78
+8.1.2 Inspeção da árvore e local.............................................................................80
+8.1.3 Desenvolvimento do plano de trabalho........................................................80
+8.2 Lançamento de cordas (L)................................................................................81
+8.2.1 Linha de arremesso........................................................................................81
+8.2.2 Procedimento e técnica de arremesso.........................................................82
+8.2.3 Ancoragem recuperável.................................................................................85
+8.2.4 Nó para arremesso.........................................................................................87
+8.3 Escalada (E).......................................................................................................88
+8.3.1 Utilização de escadas ....................................................................................88
+8.3.2 Cabo solteiro alternativo (CSA) ....................................................................89
+8.3.3 Impulso com o corpo .....................................................................................90
+8.3.4 Travamento com os pés (footlock secured) ................................................91
+8.3.5 Corda simples (Single Rope Technique – SRT)...........................................92
+8.3.6 Utilização do esporão ....................................................................................93
+8.3.7 Utilização de viaturas.....................................................................................94
+8.3.8 Deslocamento (D)...........................................................................................96
+8.3.9 Ancoragem......................................................................................................96
+8.3.10 Sistema de ascensão e deslocamento .......................................................97
+8.3.11 Mudança de posição ....................................................................................99
+8.3.12 Dupla ancoragem .......................................................................................100
+8.3.13 Redirecionamentos ....................................................................................100
+8.3.14 Descida........................................................................................................101
+9 CORTE E PODA..................................................................................................103
+9.1.1 Poda em três cortes .....................................................................................103
+9.2 Retenção com controle de descida – (RCD ou balancinho)........................104
+9.2.1 Ancoragem do sistema de RCD ..................................................................106
+9.3 Estropo.............................................................................................................107
+9.4 Equipe de solo.................................................................................................108
+9.5 Supressão direta .............................................................................................108
+9.5.1 Cálculo da altura estimada ..........................................................................109
+9.5.2 Área de risco e rota de fuga ........................................................................109
+MABOM – VISTORIA, PODA E CORTE DE ÁRVORES
+9.5.3 Corte direcional ............................................................................................110
+9.6 Corte de árvore caída......................................................................................112
+9.7 Linha rápida (tirolesa).....................................................................................115
+10 RESGATE DE OPERADORES EM CASO DE ACIDENTES E SITUAÇÃO DE
+RISCO.....................................................................................................................117
+10.1 Orientações básicas .....................................................................................117
+10.2 Princípios para atuação................................................................................118
+10.3 Métodos de resgate.......................................................................................118
+10.3.1 Método A.....................................................................................................118
+10.3.2 Método B.....................................................................................................120
+10.3.3 Métodos alternativos ............................................................................122
+REFERÊNCIAS........................................................................................................123
+GLOSSÁRIO...........................................................................................................126
+MABOM – VISTORIA, PODA E CORTE DE ÁRVORES 14
+1 INTRODUÇÃO
+O Corpo de Bombeiros Militar de Minas Gerais (CBMMG) é um órgão estadual que
+se destaca por atuar na área de Prevenção e Combate a Incêndios, Salvamento em
+Altura, Salvamento Terrestre, Salvamento Aquático, dentre outras.
+Suas obrigações decorrem de sua missão, com previsão na Constituição da
+República Federativa do Brasil, na Constituição do Estado de Minas Gerais e em
+normas estabelecidas pela própria Instituição, que perpassam pela proteção de
+vidas e bens.
+Dentro da área de Salvamento Terrestre, podemos destacar o serviço de corte e
+poda de árvores. O trabalho desenvolvido pela Instituição, procura evitar ou mitigar
+os riscos ligados a uma árvore que apresente risco iminente de queda concomitante
+à ameaça à vida de pessoas e/ou patrimônio, ou quando em apoio a órgãos
+federais, estaduais e municipais com a devida autorização ambiental e em caso de
+árvores caídas que impeçam a mobilidade urbana.
+Existem diversas naturezas de ocorrências atendidas pelo CBMMG que envolvem
+árvores, dentre as quais podemos citar: corte/poda de árvores com risco iminente de
+queda, corte de árvore caída em via pública, corte/poda de árvore mediante ordem
+de serviço. Como um todo, envolve a avaliação do espécime arbóreo e condições do
+ambiente ao entorno, decisão de atuação, planejamento dos trabalhos, eliminação
+ou mitigação do risco. Esta última etapa pode ocorrer por meio de isolamento,
+estabilização, poda ou supressão total, conforme o caso.
+Até a edição desta obra, o procedimento de vistoria e tomada de decisão em relação
+à intervenção era realizado com base unicamente na ITO - 06 (1ª edição).
+A atividade em questão envolve diversos perigos para os militares, podendo gerar
+acidentes com lesões significativas. Dessa forma, é preciso que os militares
+recebam conhecimentos técnicos atualizados, treinamentos específicos e aparatos
+tecnológicos para uma atuação mais segura e com qualidade.
+MABOM – VISTORIA, PODA E CORTE DE ÁRVORES 15
+Diante desse contexto, o CBMMG edita o presente Manual de Vistoria, Corte e Poda
+de Árvores. Este manual apresenta doutrinas estabelecidas mundialmente pela
+International Society of Arboriculture (ISA), Pokorny (2003), Setor de Políticas
+Florestais da Região de Piemonte (Itália), além de doutrinas nacionais utilizadas pela
+Companhia Energética de Minas Gerais (CEMIG). Também podemos destacar que a
+obra está alinhada com os ordenamentos jurídicos previstos nas esferas municipal,
+estadual e federal.
+De posse desta obra, o bombeiro militar terá um instrumento de retaguarda
+atualizado para pesquisa e uma doutrina sólida de amparo técnico e jurídico. Assim,
+cabe à guarnição BM prestar um atendimento sistemático e técnico a ocorrências
+envolvendo espécimes arbóreos que necessitem da intervenção do CBMMG.
+MABOM – VISTORIA, PODA E CORTE DE ÁRVORES 16
+2 NOÇÕES BÁSICAS DE BOTÂNICA
+Neste tópico, serão abordadas noções básicas de Botânica com o objetivo de utilizar
+uma linguagem mais técnica, além de contribuir para a identificação correta de
+algumas estruturas básicas das plantas e avaliação de risco de queda das árvores.
+2.1 Importância das árvores para o ambiente urbano
+As árvores são seres vivos que pertencem ao reino dos vegetais (Plantae).
+Apresentam alto grau de complexidade e adaptações às condições do meio,
+permitindo sua convivência em diversos ambientes, incluindo áreas urbanas. As
+árvores são vegetais lenhosos, pois produzem madeira. Além disso, possuem tempo
+de vida prolongado, tronco e copa bem caracterizados. Uma árvore possui no
+mínimo cinco metros de altura, com diâmetro de tronco a partir de cinco centímetros
+medido a 1,30 m acima do solo (diâmetro à altura do peito – DAP). (MINAS GERAIS,
+2011).
+Nesse sentido, considerando sua finalidade, quando este Manual se refere à
+avaliação e intervenção em “árvores”, ele as considera em sentido amplo,
+englobando todas as plantas que, devido ao seu porte e/ou características, podem
+causar dano a pessoas e/ou patrimônio em caso de queda, como é o caso, por
+exemplo, das palmeiras.
+Ressalta-se que em centros urbanos também são utilizadas plantas, como palmeiras
+e arbustos, que, apesar de não serem conceitualmente consideradas como árvores,
+contribuem para o paisagismo e têm atributos ambientais de interesse,
+principalmente onde há falta de espaço para o uso de árvores. Dessa forma, esses
+vegetais são utilizados em projetos de arborização urbana.
+O reino vegetal apresenta mais de 350 mil espécies descritas, reunindo plantas
+microscópicas, ervas, arbustos e árvores. Entretanto, o objetivo deste manual e do
+presente capítulo é descrever características biológicas básicas apenas das árvores.
+MABOM – VISTORIA, PODA E CORTE DE ÁRVORES 17
+As árvores estão presentes nas diversas regiões do estado de Minas Gerais,
+contribuindo para a formação de matas e florestas. Os vegetais são muito
+importantes por serem a base de um ecossistema com grande diversidade, servindo
+como moradia e fonte de alimento para outros seres vivos, estando ainda
+relacionados ao ciclo de vida e sobrevivência de muitas espécies, incluindo os seres
+humanos.
+A presença de árvores nas cidades possui importância ecológica, histórica, cultural,
+social, estética e paisagística, contribuindo para:
+a) um microclima estável;
+b) o conforto térmico, a umidade do ar e presença de sombras;
+c) um ar de melhor qualidade;
+d) a diminuição da poluição;
+e) a diminuição do escoamento superficial das águas pluviais e erosões, devido
+à melhoria da infiltração da água no solo;
+f) controle do vento, fornecendo proteção e direcionamento;
+g) a proteção de mananciais d’água e do solo;
+h) a preservação dos genes da flora nativa;
+i) a moradia de animais silvestres, favorecendo o equilíbrio das cadeias e teias
+alimentares, e diminuição de pragas e agentes vetores de doenças;
+j) a formação de obstáculos visuais e/ou sonoros, proporcionando privacidade
+às pessoas;
+k) as rotinas cotidianas das pessoas, funcionando como pontos de referência;
+l) a melhoria da estética e bem-estar local;
+m) a valorização dos imóveis;
+n) a melhoria da saúde em geral da população.
+Por outro lado, a retirada das árvores contribui para alterações climáticas, na
+intensidade de radiação solar, da temperatura, da umidade relativa do ar, da
+precipitação e a circulação do ar, entre outros. Além disso, a retirada de árvores
+pode contribuir para a extinção de espécies de seres vivos que dependem delas de
+alguma forma.
+MABOM – VISTORIA, PODA E CORTE DE ÁRVORES 18
+Devido à importância das árvores para o meio ambiente, a atuação do CBMMG em
+realizar corte ou poda de árvores ocorrerá somente em casos de risco iminente ou
+em apoio a entes públicos, desde que devidamente autorizado por órgão ambiental
+competente e em caso de árvores caídas que impeçam a mobilidade urbana.
+2.2 Morfologia básica das árvores
+As árvores possuem estrutura básica conforme Figura 1.
+Figura 1 – Representação da morfologia básica de uma árvore
+Fonte: Elaborado pelo autor
+2.2.1 Raiz
+É a porção subterrânea da árvore, localizada sob o caule. Geralmente, desenvolvese para baixo e dentro do solo. Suas principais funções são a ancoragem, o
+armazenamento, a absorção e a condução. A região de transição entre a raiz e o
+caule é denominada colo. As raízes podem ser classificadas em: pivotante (axial) ou
+fasciculada, conforme Figura 2.
+MABOM – VISTORIA, PODA E CORTE DE ÁRVORES 19
+Figura 2 – Raiz pivotante em A e fasciculada em B
+Fonte: Elaborado pelo autor
+O crescimento da raiz ocorre em profundidade, visando alcançar camadas de solo
+menos sujeitas à flutuação de umidade. Concomitantemente, desenvolvem-se raízes
+mais próximas à superfície do solo, para absorção de nutrientes. Quando a
+biomassa aérea aumenta, algumas raízes passam a ter papel mais significativo de
+sustentação da árvore.
+O sistema radicular de uma árvore normalmente não se concentra somente na
+projeção da sua copa, mas pode se estender para duas a três vezes a sua largura. A
+maioria das raízes ocupa no máximo os 50 cm mais superficiais do solo,
+especialmente as raízes mais finas que fazem a absorção de água e nutrientes.
+Existem raízes mais profundas que dão principalmente suporte e estabilidade para a
+árvore. Ao contrário, raízes mais superficiais possuem menor capacidade de
+sustentar o espécime. Plantas que pertencem ao grupo das monocotiledôneas
+(milho, arroz, palmeiras e gramíneas em geral) possuem raízes fasciculadas, mais
+superficiais. Plantas que pertencem ao grupo das dicotiledôneas (pau-brasil, ipê,
+peroba, mogno, cerejeira, abacateiro) possuem raízes pivotantes, podendo ser mais
+profundas em relação às raízes fasciculadas.
+MABOM – VISTORIA, PODA E CORTE DE ÁRVORES 20
+2.2.2 Caule
+É a porção aérea da árvore, localizada entre o solo e a inserção dos primeiros ramos
+que formam a copa. Para as árvores pode-se utilizar o termo tronco (Figura 3). Já
+nas palmeiras, o caule é denominado estipe.
+Figura 3 – Desenho esquemático indicando o tronco de uma árvore
+Fonte: Elaborado pelo autor
+Nas árvores, o tronco é lenhoso e perene, e o diâmetro aumenta ao longo de sua
+vida. Na parte central do tronco estão presentes vasos (xilema), que transportam a
+seiva bruta para as partes aéreas (folhas) da árvore; subjacente à casca, estão
+presentes vasos (floema) que transportam a seiva elaborada, que vem das folhas
+para as raízes. Portanto, lesões nestes vasos podem prejudicar o desenvolvimento e
+a saúde das plantas. A Figura 4 apresenta um esquema sobre a estrutura interna
+básica de um tronco de árvore.
+Figura 4 – Estrutura interna básica do tronco de uma árvore
+Fonte: Elaborado pelo autor
+MABOM – VISTORIA, PODA E CORTE DE ÁRVORES 21
+A Figura 5 apresenta a dinâmica de circulação da seiva pelos vasos condutores da
+planta. Observa-se que a seiva bruta sobe até as folhas pelo xilema (em azul) e
+desce das folhas até a raiz pelo floema (em verde).
+Figura 5 – Dinâmica de circulação da seiva pelos vasos de uma árvore
+Fonte: Elaborado pelo autor
+2.2.3 Ramo
+Os ramos são subdivisões do caule ou tronco das árvores (Figura 6). São
+conhecidos popularmente como galhos, termo que algumas vezes será utilizado
+neste manual. Frequentemente apresentam cores, pelos e aromas bastante típicos.
+Deles brotam folhas, flores e frutos.
+Figura 6 – Ramificação a partir do tronco.
+Fonte: Elaborado pelo autor
+MABOM – VISTORIA, PODA E CORTE DE ÁRVORES 22
+2.2.4 Folha
+É um órgão normalmente laminar, principal responsável pela fotossíntese e pela
+transpiração. As partes constituintes das folhas estão representadas na Figura 7.
+Figura 7 – Representação de uma folha e suas estruturas básicas
+Fonte: Elaborado pelo autor
+Quanto à sua duração, as folhas podem ser caducas (quando em determinada
+estação do ano são totalmente perdidas) ou persistentes (quando a planta
+permanece com sua folhagem ao longo de todo ano). Quanto à subdivisão do seu
+limbo, são consideradas simples (Figura 8-A) ou compostas (Figura 8-B).
+Figura 8 – Classificação das folhas em simples (A) e composta (B)
+Fonte: Elaborado pelo autor
+MABOM – VISTORIA, PODA E CORTE DE ÁRVORES 23
+2.2.5 Flor
+É um conjunto de folhas modificadas e adaptadas à reprodução sexuada. As partes
+constituintes de uma flor são mostradas na Figura 9. O conjunto de flores em um
+mesmo ramo é denominado inflorescência (Figura10).
+Figura 9 – Estrutura básica de uma flor
+Fonte: Elaborado pelo autor
+Figura 10 – Exemplo de inflorescência (conjunto de flores em um mesmo ramo)
+Fonte: Elaborado pelo autor
+MABOM – VISTORIA, PODA E CORTE DE ÁRVORES 24
+2.2.6 Fruto
+É o ovário da flor desenvolvido, com as sementes já formadas. A Figura 11-A
+apresenta a estrutura básica de um fruto. Existem vários tipos de frutos, como por
+exemplo, as vagens, produzidas por plantas leguminosas (Figura11-B).
+Figura 11 – Estrutura básica de um fruto (A) e exemplo de fruto tipo vagem (B)
+Fonte: Elaborado pelo autor
+2.2.7 Copa
+É toda ramificação acima do tronco, formando a porção final da árvore em sua parte
+aérea, composta principalmente por galhos/ramos, que podem apresentar folhas,
+flores e frutos. A dimensão da copa, sua forma, coloração de suas folhas e flores
+são características que ajudam a identificar uma árvore. O formato da copa e sua
+ramificação são influenciados pelo tipo de crescimento do seu eixo principal, ou
+tronco, e de seus ramos.
+É importante conhecer o formato da copa das árvores (Figura 12) e relacionar a
+distribuição da massa da copa com o equilíbrio da árvore. As principais formas de
+copa estão descritas na figura abaixo. Árvores com copas mal distribuídas podem
+oferecer maior risco de queda.
+MABOM – VISTORIA, PODA E CORTE DE ÁRVORES 25
+Figura 12 – Principais formatos de copas de árvores
+Fonte: Elaborado pelo autor
+MABOM – VISTORIA, PODA E CORTE DE ÁRVORES 26
+3 FERRAMENTAS, EQUIPAMENTOS E ACESSÓRIOS
+Para que o bombeiro militar possa realizar a atividade de corte e poda de árvores
+com segurança e eficiência é necessário que os equipamentos e ferramentas sejam
+adequados ao serviço que será executado e às particularidades de cada militar. É
+essencial o treinamento contínuo que levará ao aperfeiçoamento e conhecimento de
+sua própria configuração.
+O presente Manual menciona alguns equipamentos, ferramentas e acessórios
+específicos da atividade de corte/poda de árvores, oportunizando uma visão geral
+das possibilidades de emprego na atividade bombeiro militar.
+3.1 Abafadores de ruído
+Abafadores de ruído para conexão em capacetes destinados à atividade de altura
+(Figura 13-A), com encaixe rápido e possibilidade de ajuste.
+3.2 Capacete próprio para atividade de poda/corte de árvores
+Próprio para a atividade, possui proteção auricular, de pescoço e viseira, além de
+canais para ventilação. Também poderá ser utilizado o capacete de salvamento em
+altura em conjunto com os óculos de proteção e abafador/protetor auricular
+(Figura 13-B e 13-C).
+3.3 Óculos de proteção
+Oferecem proteção para os olhos. Deverão ser utilizados durante toda atividade
+caso o bombeiro militar esteja utilizando capacete sem viseira (Figura 13-D).
+3.4 Calça de operador de motosserra
+Oferece proteção contra corte acidental com a corrente da motosserra (Figura 13-E).
+MABOM – VISTORIA, PODA E CORTE DE ÁRVORES 27
+Figura 13 – Principais equipamentos de proteção: abafadores (A), capacete próprio para a atividade
+(B), capacete de atividade em altura (C), óculos de proteção (D) calça para operador de motosserra
+(E)
+Fonte: Acervo do CBMMG
+3.5 Cinto para arborista/tipo paraquedista (PQD)
+O cinto apropriado para a atividade de arborismo possui ponto de ancoragem
+principal móvel (Figura 14), possibilitando maior mobilidade. Cintos tipo PQD
+também atendem aos mesmos requisitos.
+Figura 14 – Cinto para arborista
+Fonte: Acervo do CBMMG
+MABOM – VISTORIA, PODA E CORTE DE ÁRVORES 28
+3.6 Motosserras
+Para a realização da atividade sobre as árvores, recomenda-se a utilização de
+motosserras menores (Figura 15-B) e mais leves, com sabres entre 30 e 35 cm e
+motores de 30 a 35 cilindradas, a fim de aumentar a segurança e diminuir o
+desgaste físico do operador. Para operações no solo e corte de troncos, recomendase a utilização de motosserras com sabres maiores (Figura 15-A) com motores mais
+potentes.
+Figura 15 – Motosserra de sabre longo (A), motosserra de sabre curto (B)
+Fonte: Acervo do CBMMG
+3.7 Serra
+A serra deve ser compacta e possuir trituração tripla, específica para atividade,
+oferecendo economia de energia e maior segurança, por não haver necessidade de
+ligar a motosserra para a supressão de pequenos galhos (Figura 16).
+Figura 16 – Serra
+Fonte: Acervo do CBMMG
+A B
+MABOM – VISTORIA, PODA E CORTE DE ÁRVORES 29
+3.8 Machado e facão
+Recomenda-se que ferramentas de impacto como machado e facão (Figura 17)
+sejam utilizadas somente em solo, considerando que serras compactas são mais
+eficientes e expõem o operador que está sobre a árvore a menores riscos.
+Figura 17 – Machado e facão
+Fonte: Acervo do CBMMG
+3.9 Polia
+Pode ser simples ou com 03 pontos de ancoragem, permitindo uma configuração
+apropriada para o sistema de ascensão e deslocamento (Figura 18-A).
+Também existe uma polia própria para a realização de redirecionamento durante a
+atividade de corte e poda de árvores (Figura 18 -B). Na indisponibilidade, poderão
+ser utilizados: mosquetão de aço e/ou moitão. Polias utilizadas na atividade de
+poda/corte de árvores não deverão ser empregadas para salvamento em altura.
+Figura 18 – Para o sistema de ascensão e deslocamento (A) e redirecionamento e retenção de carga
+(B)
+Fonte: Acervo do CBMMG
+MABOM – VISTORIA, PODA E CORTE DE ÁRVORES 30
+3.10 Ancoragem recuperável
+Trata-se de uma fita ou de um pedaço de corda preso a dois mosquetões (ou a um
+anel e um mosquetão). Possibilita a instalação e retirada de ancoragens em
+forquilhas de árvores, estando no solo (Figura19-A).
+3.11 Cordim com duas alças
+Cordim para confecção de blocante com engate próprio para conexão nos
+mosquetões e polias (Figura19-C). Poderá ser utilizado um cordim comum com duas
+alças confeccionadas com pescador duplo.
+3.12 Cubo
+O cubo é utilizado para acondicionamento da linha de arremesso, evitando o contato
+com agentes que possam danificá-la e impedindo que fique presa em algum
+obstáculo (Figura 19-B).
+3.13 Linha e bolsa de arremesso
+Permitem, ainda em solo, alcançar a forquilha que será utilizada como ancoragem.
+Possibilita também a instalação de cordas-guia e balanço (Figura 19-D).
+Figura 19 – Ancoragem recuperável (A), cubo (B), cordim com duas alças (C), linha e bolsa de
+arremesso (D)
+Fonte: Acervo do CBMMG
+MABOM – VISTORIA, PODA E CORTE DE ÁRVORES 31
+3.14 Esporão
+Utilizado para subida em árvores. O equipamento possui garras que perfuram o
+tronco, possibilitando a ascensão com a força dos membros inferiores (Figura 20-A).
+Não deve ser utilizado em casos de poda, devido aos danos causados no tronco,
+que poderão constituir, no futuro, defeitos como cancros, fissuras ou infecções por
+fungos.
+3.15 Ascensores
+Conectados à linha de ascensão, permitem uma subida mais fluida e com menor
+desgaste físico (Figura 20-B).
+3.16 Mosquetão
+Recomenda-se a utilização de mosquetões de alumínio somente como equipamento
+de proteção individual. Para trabalhos que envolvam carga é indicado o uso de
+mosquetões de aço (Figura 20-C).
+Figura 20 – Esporão (A), ascensor (B) e mosquetões (C)
+Fonte: Acervo do CBMMG
+MABOM – VISTORIA, PODA E CORTE DE ÁRVORES 32
+3.17 Apito, rádio, martelo de borracha e trena maleável
+Apito e rádio servem para contato da equipe de solo com o militar que está sobre a
+árvore (Figura 21). O martelo de borracha e a trena servem para vistoriar árvores.
+Figura 21 – Apito e rádio (A), martelo de borracha e trena (B)
+Fonte: Acervo do CBMMG
+MABOM – VISTORIA, PODA E CORTE DE ÁRVORES 33
+4 CORDAS, NÓS E AMARRAÇÕES UTILIZADOS NO CORTE DE ÁRVORES
+A corda pode ser considerada um dos equipamentos mais importantes para o
+desenvolvimento do trabalho de corte/poda de árvores. O material mais utilizado na
+fabricação das cordas para arborismo é o poliéster. O nylon possui boa resistência
+ao estiramento e absorção de energia, mas diminui sua carga de ruptura quando
+molhado. Recomenda-se que cordas utilizadas para linha de ascensão, de
+deslocamento e pontos de ancoragem possuam resistência à abrasão, carga de
+ruptura de, no mínimo, 22 kN e uma espessura acima de 11 mm.
+Cordas desgastadas e inseguras devem ser inutilizadas de imediato e a seção
+responsável devidamente comunicada. A vida útil das cordas tem sido objeto de
+amplo debate. Fatores como o histórico de utilização, local de armazenamento e
+recomendações do fabricante devem ser considerados, contudo, caso não seja
+possível identificar a data de fabricação e o histórico de utilização, uma inspeção
+criteriosa deverá ser realizada.
+Cordas com indícios de desgaste serão admitidas somente para amarrações que
+não envolvam ancoragens e linhas de ascensão e de deslocamento. Recomenda-se
+que as cordas destinadas para segurança do operador sejam marcadas com a data
+de fabricação, tipo de uso e comprimento.
+Os militares devem conhecer alguns nós específicos e suas finalidades. O
+conhecimento da construção e finalidade são fundamentais, assim como a agilidade
+na execução. O nó deve ser arrematado, alinhado e organizado de tal forma que
+corresponda exatamente com a imagem descrita no Manual. Um nó mal
+confeccionado pode desatar ao ser submetido a uma carga e gerar um grave
+acidente.
+4.1 Azelha em oito
+Utilizado em pontos de ancoragem, linhas de ascensão e como nó de segurança no
+final da corda (Figura 22-A).
+MABOM – VISTORIA, PODA E CORTE DE ÁRVORES 34
+4.2 Marchard
+Realizado na corda principal, impedindo o deslizamento sob tensão e possibilitando
+a movimentação para cima e para baixo quando não houver tensão. O diâmetro do
+cordelete deverá ser menor do que o da corda onde o marchard será realizado
+(Figura 22-B).
+4.3 Belonesi
+É uma modificação do prussik, frequentemente utilizado por arboristas. Crescendo
+em popularidade devido ao seu melhor desempenho. Ele mantém uma fricção mais
+uniforme e trava ao sofrer tensão para baixo, além de ser utilizado para subida e
+descida (Figura 22-C).
+4.4 Lais de guia com pescador duplo no arremate
+Realizado na linha de ascensão e deslocamento, formando uma alça não-corrediça
+para instalação do sistema. É de grande confiabilidade, não estrangula sob pressão
+e é de fácil soltura. Deverá ser arrematado com pescador duplo. (Figura 22-D).
+Figura 22 – Nós: azelha em oito (A), marchard (B), belonesi(C), lais de guia com pescador duplo no
+arremate (D)
+Fonte: Acervo do CBMMG
+MABOM – VISTORIA, PODA E CORTE DE ÁRVORES 35
+4.5 Fiel pelo seio
+Na atividade de poda/corte de árvores é utilizado para engate de objetos. Por não se
+tratar de um engate 100% confiável, cabe cautela em sua utilização (Figura 23-A).
+4.6 Valdotan
+Atualmente é o blocante mais popular entre arboristas profissionais. Se a corda
+possuir 12,5 mm, o cordim do valdotan deve ter 8 ou 9 mm. O tamanho do cordim
+varia entre 0,70 e 0,87 m (com os anéis nas pontas) e 1,20 e 1,37 m (se os anéis
+ainda tiverem que ser confeccionados). Dependendo do diâmetro e de quantas
+voltas forem utilizadas, haverá maior ou menor atrito (Figura 23-B).
+4.7 Laçada simples
+Utilizado para ancoragem de galhos e em cordas-guia no momento do corte. Tem
+como principal característica soltar-se facilmente quando submetido à tensão
+(Figura 23-C).
+4.8 Volta da ribeira
+Ancoragem no tronco para fixação de polias, descida de dispositivos, descida
+controlada de grandes galhos. Nó de fácil confecção e soltura. Recomenda-se o uso
+de, no mínimo, cinco voltas (Figura 23-D).
+MABOM – VISTORIA, PODA E CORTE DE ÁRVORES 36
+Figura 23 – Nós: fiel pelo seio (A), valdotan (B), laçada simples arrematada (C) e a volta da ribeira (D)
+Fonte: Acervo do CBMMG
+MABOM – VISTORIA, PODA E CORTE DE ÁRVORES 37
+5 MANUTENÇÃO E OPERAÇÃO BÁSICA DE MOTOSSERRAS
+Este capítulo descreve a manutenção e operação operação básica de motosserras.
+Dependendo do modelo utilizado podem ocorrer variações na operação, mas o
+princípio de operação geralmente é comum a todas as marcas. No entanto,
+recomenda-se sempre ler o manual do fabricante antes da utilização.
+5.1 Carburador – funcionamento, regulagem básica e afinação
+O carburador comanda a rotação do motor e é onde ocorre a mistura do ar com o
+combustível. Essa mistura é ajustável nas motosserras e pode variar em função do
+clima, altitude, qualidade do combustível e tipo do óleo 2 tempos. São três as
+possibilidades de regulagem, conforme Figura 24.
+Figura 24 – Regulagem do carburador da motosserra
+Fonte: Elaborado pelo autor
+Os calibradores L e H ajustam a quantidade de combustível desejada para o fluxo
+de ar que a abertura reguladora da mistura permite. Girando-se para a direita, a
+mistura fica mais pobre e para a esquerda, mais rica. A mistura pobre propicia
+rotações mais altas enquanto a rica, rotações mais baixas. O parafuso T ou LA
+regula a aceleração quando a motosserra não está com o acelerador acionado. Para
+direita aumenta-se a rotação e, para esquerda, diminui-se. (HUSQVARNA, 2008).
+MABOM – VISTORIA, PODA E CORTE DE ÁRVORES 38
+5.1.1 Exemplo de regulagem padrão da motosserra Stihl MS 193
+De acordo com STHIL (2018), com o motor desligado, gira-se o parafuso H em
+sentido horário até o encosto e, posteriormente, gira-se uma volta e meia em sentido
+anti-horário. Gira-se o parafuso L em sentido horário até o encosto e,
+posteriormente, gira-se uma volta em sentido anti-horário.
+Com o motor ligado, por pelo menos 10 segundos, gira-se o parafuso LA em sentido
+horário, até que a corrente comece a se movimentar e, posteriormente, gira-se uma
+volta em sentido anti-horário. Importante ressaltar que cada modelo de motosserra
+possui uma regulagem padrão de carburador. Na Stihl MS 361 e na Husqvarna 268,
+como exemplo, os dois parafusos (H e L) retornam uma volta após atingirem o
+encosto.
+Para que seja realizada a verificação será necessário, portanto, acessar o manual
+específico da marca e modelo utilizado, disponibilizado pelos fabricantes, em seus
+respectivos endereços eletrônicos.
+Destaca-se que a regulagem padrão não garante o correto funcionamento do
+carburador, se fatores diversos como combustível e óleo de má qualidade forem
+utilizados ou se o equipamento possuir componentes desgastados. Um carburador
+estará corretamente ajustado se: a aceleração da serra ocorrer sem hesitações, não
+houver movimento da corrente quando o acelerador não estiver acionado e não
+houver dificuldades no arranque.
+Na análise, alguns defeitos comuns devem ser observados. Calibração pobre do
+parafuso L = dificuldade no arranque e má aceleração. Calibração pobre do parafuso
+H = menor potência, menor resistência e danos ao motor. Calibração rica dos
+parafusos L e H = problemas de aceleração ou rotação de trabalho baixa.
+MABOM – VISTORIA, PODA E CORTE DE ÁRVORES 39
+5.2 Filtro de ar
+O filtro de ar deverá ser limpo regularmente para evitar: distúrbios no carburador,
+problemas de arranque, diminuição de potência, desgaste das peças do motor e
+consumo anormal de combustível. Uma limpeza mais completa pode ser obtida
+utilizando-se água e sabão. O filtro deverá ser trocado em intervalos regulares,
+conforme manual do fabricante, e substituído em caso de danos. (HUSQVARNA,
+2008).
+5.3 Vela de ignição
+A vela de ignição pode sofrer danos caso: o carburador esteja regulado
+incorretamente; a mistura de combustível possua óleo demasiado; o filtro de ar
+esteja sujo. Isso pode formar crostas nos eletrodos que dificultam o funcionamento e
+arranque. Recomenda-se a troca após 100 horas de funcionamento.
+5.4 Cuidados com o sabre
+Deve-se virar o sabre após cada afiação ou substituição da corrente para evitar um
+desgaste unilateral, bem como limpar regularmente o furo de entrada do óleo, o
+canal de saída e a ranhura.
+5.5 Tensionamento da corrente
+A corrente deverá estar sem folga na parte inferior do sabre e, com o freio da
+corrente solto, deve ser possível girá-la sobre o sabre. Uma corrente nova terá que
+ser esticada com mais frequência que uma usada.
+5.6 Abastecimento de combustível
+A mistura de combustível envelhece e deve ser realizada somente em quantidade
+necessária para o trabalho diário. No momento do abastecimento, deve-se atentar
+para possíveis fontes de ignição.
+MABOM – VISTORIA, PODA E CORTE DE ÁRVORES 40
+A quantidade de óleo 2 tempos utilizada na mistura com o combustível dependerá
+da especificação do fabricante. No caso de óleos 2 tempos, classificação API para
+motores refrigerados a ar, utiliza-se a proporção de 1 (uma) parte de óleo para 25
+partes de gasolina. Já, para óleos da marca Stihl, utiliza-se a proporção de 1(uma)
+parte de óleo para 50 partes de gasolina. De qualquer modo, a proporção ideal
+sempre deverá ser verificada no manual da motosserra. (STHIL, 2018).
+A gasolina brasileira é composta por uma mistura de hidrocarbonetos e etanol
+anidro. Seus componentes sofrem deterioração com o tempo, principalmente pela
+ação da luz e do calor. Sendo assim, recomenda-se que o combustível seja mantido
+em local fresco, arejado, protegido contra ações das intempéries, em recipientes
+fechados e não transparentes (Figura 25).
+Figura 25 – Recipientes separados para armazenar óleo e gasolina para posterior mistura
+Fonte: Elaborado pelo autor
+Não é vedada a utilização de gasolina aditivada nas motosserras. Caso já tenha sido
+utilizada gasolina comum, só será possível utilizar gasolina aditivada se o
+equipamento for descarbonizado, para evitar o entupimento dos condutores, do
+carburador e travamento do motor pelo desprendimento de partículas de carvão.
+5.7 Lubrificação da corrente
+É necessário sempre manter o tanque de óleo para lubrificação da corrente
+abastecido para que a corrente não sofra danos. Considerando que não há um
+sinalizador que indique a falta de óleo no reservatório, recomenda-se que todas as
+MABOM – VISTORIA, PODA E CORTE DE ÁRVORES 41
+vezes que a motosserra for abastecida com combustível, também seja abastecida
+com óleo de lubrificação da corrente.
+A durabilidade da corrente e do sabre dependerá, essencialmente, da qualidade do
+óleo lubrificante, sendo proibido o abastecimento do reservatório com óleos já
+utilizados. Para constatar se a lubrificação está ocorrendo de forma satisfatória,
+deve-se verificar se há lançamento de óleo, conforme Figura 26.
+Figura 26 – Verificação da lubrificação da corrente
+Fonte: Elaborado pelo autor
+5.8 Freio da corrente
+O freio da corrente (Figura 27) é acionado automaticamente na ocorrência de um
+efeito rebote (motosserra lançada repentinamente e sem controle sobre o operador)
+suficientemente forte. Deverá ser acionado manualmente em caso de emergência e
+em todos os momentos em que o equipamento não estiver em situação de uso,
+inclusive durante a partida ou em marcha lenta. Antes do trabalho, com o motor em
+marcha lenta, deve-se verificar o funcionamento do freio, empurrando a proteção da
+mão em direção ao sabre e acelerando brevemente. A corrente não pode se mover,
+quando o acelerador for acionado.
+MABOM – VISTORIA, PODA E CORTE DE ÁRVORES 42
+Figura 27 – Direção de travamento do freio da corrente indicado pela seta
+Fonte: Elaborado pelo autor
+5.9 Posições do interruptor combinado
+As posições de trabalho do interruptor combinado estão indicadas na Figura 28, cuja
+descrição segue abaixo:
+a) stop 0: motor desligado;
+b) posição I: motor ligado ou com possibilidade departida;
+c) posição II (meia aceleração): utilizado para partida de motor aquecido;
+d) posição III (borboleta do afogador fechada): utilizada para ligar o motor frio.
+Figura 28 – Posições do interruptor combinado
+Fonte: Elaborado pelo autor
+MABOM – VISTORIA, PODA E CORTE DE ÁRVORES 43
+5.10 Cuidados na afiação de correntes
+Uma corrente afiada de maneira correta entra na madeira sem dificuldade, apenas
+com uma pequena pressão. Para escolha da lima mais adequada para afiação,
+deve-se verificar o passo da corrente (distância do centro de um rebite ao centro do
+próximo rebite, dividido por dois), representado pelo número impresso na guia da
+corrente, conforme Figura 29-A.
+Os ângulos do dente de corte devem ser mantidos durante a reafiação.
+Normalmente as correntes possuem ângulo de afiação em 30° (verificar
+especificação). Para controle dos ângulos, pode-se utilizar um calibrador de
+correntes (Figura 29-B), que auxilia também na afiação frontal, no controle da altura
+do limitador de profundidade, na definição do comprimento do dente de corte e da
+profundidade de ranhura.
+Figura 29 – Verificação do passo da corrente (A) e calibrador de corrente (B)
+Fonte: Elaborado pelo autor
+5.10.1 Passos para uma afiação adequada
+São os passos para uma afiação adequada da corrente:
+a) escolher a ferramenta de afiação de acordo com o passo da corrente;
+b) prender o sabre;
+c) bloquear a corrente;
+d) afiar com frequência, desgastando pouco, sendo que, para afiação simples,
+geralmente são necessárias duas a três limadas;
+e) conduzir a lima na horizontal, em ângulo reto;
+MABOM – VISTORIA, PODA E CORTE DE ÁRVORES 44
+f) limar somente em um sentido;
+g) a lima só pega no traço para frente, devendo retorná-la levantando-a;
+h) não limar elementos de ligação (elos) e de tração;
+i) girar a lima em distâncias regulares, para evitar o desgaste unilateral.
+5.11 Distância do limitador de profundidade
+O limitador de profundidade (Figura 30) determina a profundidade de penetração na
+madeira e, por consequência, a espessura das aparas. A distância reduz-se durante
+a afiação dos dentes de corte e deve ser limado para compensar a variação.
+Figura 30 – Manutenção da distância entre o dente de corte e o limitador de profundidade
+Fonte: Elaborado pelo autor
+5.12 Lista de verificação da motosserra antes da utilização
+São elementos que devem ser verificados na motosserra antes da utilização:
+a) vedação do sistema de combustível;
+b) possíveis vazamentos;
+c) funcionamento do freio da corrente;
+d) montagem do sabre;
+e) tensionamento correto da corrente;
+f) funcionamento do acelerador e trava;
+g) funcionamento do interruptor;
+h) conexão terminal da vela;
+i) combustível e óleo;
+j) limpeza do filtro de ar.
+MABOM – VISTORIA, PODA E CORTE DE ÁRVORES 45
+6 CONSIDERAÇÕES DE SEGURANÇA PARA INÍCIO DOS TRABALHOS
+A atividade de corte e poda de árvores apresenta um risco inerente que pode ser
+maximizado, caso não sejam seguidas medidas adequadas de segurança. O
+simples conhecimento das regras descritas neste Manual não certifica uma atuação
+protegida. Treinamentos devem ser realizados na busca da ambientação e
+aperfeiçoamento constantes, pois a segurança de todos os envolvidos deve estar,
+sempre, em primeiro lugar. Deve ser balizada pela correção de atitudes e
+compromisso contínuo em todos os níveis e nunca somente relacionada à
+equipamentos ou técnicas.
+Os militares que exercem a atividade devem utilizar roupas e calçados adequados
+às condições de trabalho, permitindo fácil movimentação. A critério do chefe de
+guarnição e considerando fatores climáticos, o uso da gandola poderá ser
+dispensado. Anéis, cordões, relógios e pulseiras não devem ser utilizados. As
+militares deverão estar com o cabelo devidamente preso conforme norma específica
+do CBMMG sobre o tema. O uso de capacetes aprovados por entidades de
+segurança é obrigatório.
+A exposição prolongada ao ruído das motosserras pode, comprovadamente, causar
+perda auditiva, sendo importante a utilização de abafadores/protetores auriculares.
+Óculos de proteção também devem ser utilizados, evitando danos irreparáveis aos
+olhos, no caso de um impacto direto. Recomenda-se o uso de protetor solar para o
+desempenho da atividade durante o dia.
+A utilização de luvas é opcional no deslocamento sobre as árvores. Contudo, ao
+realizar o corte, ao manusear e afiar correntes das motosserras ou qualquer outra
+ferramenta, o uso é obrigatório. A coordenação das operações, o pré-conhecimento
+das ações que serão desenvolvidas e a manutenção de comunicação eficiente (com
+rádios, apitos, etc) entre o militar que está realizando o corte e os que estão em terra
+são fundamentais para segurança da operação.
+MABOM – VISTORIA, PODA E CORTE DE ÁRVORES 46
+Os militares deverão estar atentos a insetos, aves e invertebrados que podem ser
+encontrados nos espécimes arbóreos. A utilização do macacão para apicultor deverá
+ser avaliada.
+A supressão de árvores próximas a redes de distribuição de energia elétrica pode
+apresentar um grave perigo para os militares e, em princípio, é de responsabilidade
+da concessionária de energia elétrica que atender à região. Assim, o CBMMG só
+atuará em apoio à concessionária, após solicitação. Antes de qualquer intervenção,
+os militares deverão se certificar de que a rede foi desligada e encontra-se
+devidamente aterrada.
+Ao realizar a atividade em vias públicas, deve-se adotar medidas para balizar ou
+mesmo impedir o trânsito de veículos e pedestres, incluindo a utilização de cones,
+fitas de isolamento e barreiras de contenção. No momento em que o militar for
+realizar o corte, é obrigatória a utilização do segundo ponto de ancoragem. Ao
+utilizar a motosserra, as duas mãos deverão estar segurando o equipamento. Se
+dois militares estiverem utilizando motosserras ao mesmo tempo, deverão obedecer
+a uma distância mínima de 3 metros entre eles.
+Os operadores de motosserras deverão atentar para o efeito rebote. Ocorre quando
+a corrente entra em contato com a madeira ou objeto duro com o quarto superior da
+ponta do sabre. Um kit de primeiros socorros e um militar em terra, devidamente
+equipado, deverão estar, sempre, em condições para o resgate de uma possível
+vítima. A Figura 31 descreve três formas de se equipar para as atividades de poda e
+corte de árvore.
+MABOM – VISTORIA, PODA E CORTE DE ÁRVORES 47
+Figura 31 – Equipagem com cinto nível 3 (A), equipagem com cinto de arborismo (B) e equipagem
+com cinto nível 1 ou 2 (C)
+Fonte: Acervo do CBMMG
+MABOM – VISTORIA, PODA E CORTE DE ÁRVORES 48
+7 AVALIAÇÃO DO RISCO DE DANO DECORRENTE DA QUEDA DE ÁRVORE OU
+GALHO
+A avaliação do risco de dano decorrente da queda de uma árvore ou galho é tarefa
+fundamental da atuação bombeiro militar. Afinal, é ela a responsável por definir as
+medidas de intervenção que poderão ser adotadas. Preocupar-se com a aquisição
+de conhecimentos a respeito do assunto e associá-los às previsões legais de
+atuação da Corporação são fatores determinantes para a quantidade de árvores
+cortadas, para os níveis de exposição dos militares ou cidadãos ao risco, e os
+equipamentos ao desgaste.
+Durante a etapa de avaliação, o foco do bombeiro militar deve estar sobre a análise
+do risco iminente de prejuízo à incolumidade de pessoas e/ou bens. Dessa maneira,
+serão considerados os alvos potencialmente atingíveis, o resultado do possível
+impacto e a probabilidade de um acidente ocorrer.
+Assim, se não há nenhum alvo, não há risco, porque se a árvore cair, nenhum dano
+ocorrerá. Na avaliação do alvo, também devem ser consideradas a frequência e a
+intensidade do uso daquele local, diferenciando-se, por exemplo, o pátio de uma
+escola primária, do quintal de uma casa.
+O risco é potencializado, portanto, se o alvo se refere à vida, e é menor quando for
+apenas um dano material. Além disso, a supressão total da árvore não deve ser a
+primeira alternativa de eliminação do risco a ser considerada, devendo o bombeiro
+militar se pautar pela seguinte ordem de preferência:
+a) remover o alvo ou isolar o acesso a ele, considerando a viabilidade e
+efetividade da ação;
+b) remover apenas os galhos defeituosos (poda), considerando a estabilidade
+residual da árvore;
+c) afixar cabos ou reforços na árvore (ou na parte defeituosa), considerando a
+efetividade e a disponibilidade de materiais;
+d) suprimir toda a árvore.
+MABOM – VISTORIA, PODA E CORTE DE ÁRVORES 49
+É de amplo conhecimento que, potencialmente, todas as árvores portam um
+determinado risco inerente. Devem ser procurados, portanto, sinais indicativos de
+falhas que apoiem o bombeiro vistoriador na tomada de decisão. Por esse motivo, a
+avaliação deve começar pelo entorno da árvore, observando o contexto em que ela
+está inserida: rede elétrica, condições de umidade do solo, possíveis alvos,
+construções, mudanças de nível no terreno/trincheiras dentro a zona de raízes da
+árvore, remoção de árvores adjacentes que previamente serviam como
+amortecimento do vento, substituição de calçadas/perdas de raiz provenientes de
+podas, falhas de árvores próximas causadas por doenças na raiz, mudança na
+dinâmica do vento devido a novas construções ou estruturas no local, etc.
+Em seguida, a árvore deve ser inspecionada em 360 graus, de forma sistemática e
+em todas as suas partes (copa, tronco, colo da raiz e raízes), de modo a se
+considerar o maior número de elementos no julgamento que definirá a ação a ser
+adotada. Ressalta-se que a saúde das árvores e sua estrutura não são a mesma
+coisa. Para que uma árvore se mantenha viva, às vezes, poucas camadas finas de
+xilema ativo e floema são necessários. Por outro lado, a saúde estrutural requer
+maior volume de tronco, por exemplo.
+No que se refere à raiz e colo da raiz, em suma, é importante verificar a presença de
+raízes danificadas, cortadas ou pavimentadas, se o colo da raiz está enterrado, se
+há rebaixamento ou soerguimento de solo perto da árvore, terraplanagens ou
+escavações recentes, compactação ou erosão do solo, corpos de frutificação de
+fungos apodrecedores crescendo na raiz ou perto da base dos troncos das árvores.
+Na região do tronco, entre outros, deve-se perceber a presença de codominância,
+fungos, cavidades, rachaduras, emendas, inchaços, ferimentos e tecidos em
+decomposição.
+Na copa, de forma geral, deve ser avaliado o seu vigor; o amarelamento das folhas
+ou desfolha; quebra expressiva de galhos (sinais de senilidade ou morte); presença
+de fungos ou cupins xilófagos; presença de abelhas nativas (indicando possíveis
+cavidades); a assimetria da copa, o acometimento por podas drásticas; o
+MABOM – VISTORIA, PODA E CORTE DE ÁRVORES 50
+apodrecimento de grandes troncos, perda ou estufamento de casca; infestação por
+ervas daninhas e exposição ao vento.
+Em se tratando de árvores, não é possível afirmar, com precisão, que haverá "risco
+nulo" de queda ou falhas, pois até mesmo árvores saudáveis poderão sofrer queda
+em condições climáticas adversas ou intervenções humanas abruptas. O risco ao
+alvo que exige a intervenção imediata se refere à alta probabilidade de falha na
+ausência de eventos climáticos adversos.
+Ressalta-se que árvores são seres vivos e, como tais, notadamente imprevisíveis em
+relação às falhas que podem apresentar. Além disso, nos centros urbanos, as
+possibilidades desse “risco nulo” são praticamente inexistentes, pois são ainda
+maiores as interações entre as árvores, pessoas e propriedades.
+7.1 Avaliação visual da árvore
+A avaliação visual da árvore (AVA), neste Manual, refere-se à uma avaliação em 360
+graus, sistemática, baseada na identificação de características e padrões estruturais
+externos que interferem no equilíbrio estrutural das árvores urbanas, consideradas
+as peculiaridades da espécie. O caráter subjetivo dessa avaliação é drasticamente
+reduzido a partir da adoção de um conjunto mínimo de critérios que visam abarcar
+as situações estatisticamente predominantes. A metodologia e critérios adotados
+para avaliação no âmbito deste Manual tiveram por referencial teórico as
+publicações da International Society of Arboriculture (ISA) e de Pokorny (2003).
+A avaliação tipicamente realizada pelo bombeiro militar é dita visual porque é feita a
+pé, próximo da árvore, e não se utiliza de equipamentos avançados de análise como
+ultrassons, penetrômetros, resistógrafos ou fractômetros. Todavia, deve-se lembrar
+que a experiência e o treinamento agilizam a avaliação e ponderam melhor as
+situações, especialmente porque refinam o conhecimento do conjunto de critérios
+adotados nas avaliações à realidade regional (relacionada às plantas e à sociedade)
+em que o bombeiro militar avaliador atua.
+MABOM – VISTORIA, PODA E CORTE DE ÁRVORES 51
+A estratégia adotada para apresentação da metodologia de avaliação visual da
+árvore compreende, primeiramente, uma apresentação geral das características
+visíveis mais recorrentes, que criam ou influenciam no risco de queda de uma árvore
+(ou parte dela). Tais fatores visam subsidiar o estabelecimento de uma concepção
+do bombeiro militar avaliador em relação à probabilidade de falha estrutural da
+árvore. Em seguida, é apresentado um quadro de avaliação de risco que norteia, de
+modo objetivo, o parecer do bombeiro militar.
+7.2 Fatores utilizados para analisar o risco de falha
+O termo “falha” refere-se à desestabilização da estrutura da árvore (ou de parte
+dela), que resulta na sua queda, decorrente de quebras, rachaduras, arrancamentos,
+entre outros. O termo “defeito”, no geral, refere-se à presença de fatores bióticos ou
+abióticos que favorecem a ocorrência das falhas. Os sete defeitos externos (visíveis)
+mais recorrentemente associados a falhas são:
+a) madeira degradada;
+b) fissuras;
+c) problemas no sistema radicular;
+d) galhos com junção fraca;
+e) presença de cancro;
+f) estrutura deficiente da árvore;
+g) morte da árvore ou galhos.
+Esses sete fatores, por serem mais comuns, fundamentam o quadro de avaliação de
+risco apresentado neste Manual. Contudo, remanesce um universo de fatores que
+não foram considerados e que também exercem influência sobre a dinâmica
+estrutural da árvore, sendo impossível exigir do avaliador, dada a iminência do risco
+e a relativa superficialidade da avaliação visual, determinar todas as demais
+variáveis que poderiam se comportar de maneira mais significativa para a
+estabilidade da árvore do que os sete elementos mais comuns.
+MABOM – VISTORIA, PODA E CORTE DE ÁRVORES 52
+7.2.1 Madeira degradada
+Madeira degradada refere-se àquela que está com sinais de apodrecimento ou
+apresenta furos/cavidades. A degradação avançada e as cavidades na madeira
+implicam em redução da resistência estrutural e da estabilidade. São indicativos de
+degradação em estágio avançado: madeira apodrecida, presença de corpos de
+frutificação de fungos, cavidades (madeira oca, como na Figura 32), buracos (furos
+visíveis externamente, por vezes utilizados como toca de animais) e extensas áreas
+enfraquecidas por perfurações de insetos.
+A fim de favorecer a identificação de cavidades no interior da madeira, o bombeiro
+militar poderá utilizar um martelo de borracha, batendo-o no tronco da árvore. A
+diferença de densidade decorrente da presença de cavidades ou apodrecimentos
+internos repercutirá em som diferente daquele verificado em partes sadias. Aplicar o
+método em árvores sadias da mesma espécie nas proximidades pode ajudar a
+comparar as alterações do som.
+Outra maneira complementar é enfiar uma haste de metal (por exemplo, uma chave
+de fenda longa) para estimar a profundidade de aberturas ou de madeira podre na
+parte interna da árvore.
+Figura 32 – Exemplos de indicativos de madeira degradada: buraco/abertura (A), madeira oca (B) e
+fungos xilófagos aparentes (C)
+Fonte: A: Brown (2010); B: Leroy (2016) e C: Keywordsdoctor (2012)
+MABOM – VISTORIA, PODA E CORTE DE ÁRVORES 53
+7.2.1.1 Fungos decompositores de madeira
+Em geral, os fungos se alimentam de matéria morta, podendo ser um bom indicador
+do estado físico da árvore. Normalmente, quando encontrado em um tronco, indica
+que a árvore está comprometida. Isso ocorre porque o fungo apenas será
+visualizado externamente, como na Figura 33, quando já se encontrar em estágio
+avançado de desenvolvimento, revelando seu corpo de frutificação, associado à
+reprodução. Um exemplo muito comum é o fungo popularmente conhecido como
+orelha-de-pau.
+A ação destes fungos pode causar a diminuição do tamanho das folhas, o
+amarelecimento da copa e queda de ramos, provocando a degradação e a morte
+das árvores infectadas.
+Figura 33 – Exemplos de fungos apodrecedores da madeira
+Fonte: A: Rocha (2012) e B: Arborline (2015)
+7.2.1.2 Ação degradadora por insetos
+Exemplos de problemas mais frequentes relacionados a insetos são: formigas,
+cochonilhas, pulgões, lagartas, cupins, besouro metálico gigante, dentre outros.
+Esses animais podem danificar as estruturas internas das árvores, comprometendo
+MABOM – VISTORIA, PODA E CORTE DE ÁRVORES 54
+sua estabilidade. A Figura 34 mostra um exemplo de inseto causador de problemas
+em árvores, o besouro metálico gigante.
+Na arborização urbana, um dos ataques mais constantes nas árvores são
+ocasionados por cupins, tanto na base quanto na interseção do tronco. A ocorrência
+de cupins geralmente acontece nos períodos de poda das árvores, devido à entrada
+de patógenos através das áreas expostas (Figura 35), rachaduras dos troncos e por
+outros malefícios advindos da poda inadequada.
+Figura 34 – Besouro gigante metálico (Euchromagigantea): inseto adulto (A), larva (B), galerias no
+tronco causadas pela larva (C)
+Fonte: Vichiato et al (2014).
+Figura 35 – Áreas degradadas do tronco susceptíveis ao ataque de cupins
+Fonte: Aracruz (2013)
+MABOM – VISTORIA, PODA E CORTE DE ÁRVORES 55
+7.2.1.3 Resistência das cavidades e aberturas
+Em decorrência de injúrias na árvore, fungos podem infectar o chamado câmbio que,
+com o passar do tempo, levam à degradação da madeira. A árvore possui, no
+entanto, um mecanismo natural de limitação dessa infecção, chamado
+compartimentalização (SEITZ, 1996) . Por esse processo, ela desenvolve madeira
+sadia externamente ao diâmetro compartimentalizado, permitindo que árvores com
+cavidades ou aberturas ainda se mantenham estruturalmente estáveis. Além disso,
+naturalmente, a árvore desenvolve camadas mais grossas de madeira na vizinhança
+da parte degradada, a fim de incrementar a resistência perdida na região.
+De acordo com Pokorny (2013), é possível avaliar a estabilidade residual de uma
+árvore com abertura ou cavidade a partir da proporção entre madeira podre/ausente
+e madeira sadia. Nessa análise, para árvores com cavidades não visíveis, para estar
+dentro do limite de segurança, deve haver, no mínimo, 1 (uma) polegada de
+espessura de madeira sadia para cada 6 (seis) polegadas de diâmetro de tronco. Os
+valores devem ser medidos à mesma altura do solo. A regra ainda se estende para
+cavidades abertas (desde que a abertura seja menor que 30% da circunferência do
+tronco), porém no dobro da proporção, ou seja, de 2 (duas) para 6 (seis) polegadas.
+A Figura 36 reúne essas informações.
+Figura 36 – Limites mínimos de segurança da espessura da parte sadia em relação ao diâmetro do
+tronco
+Fonte: Adaptado de Pokorny (2003)
+MABOM – VISTORIA, PODA E CORTE DE ÁRVORES 56
+A estabilidade mostrada na Figura 36 é possível porque as forças laterais e de
+torção a que o tronco é submetido concentram-se mais na espessura sadia do que
+na cavidade central.
+A presença, portanto, de cavidade ou aberturas no tronco, não implicam,
+necessariamente, no risco iminente de queda da árvore.
+7.2.1.4 Indicativos de risco de falha da madeira degradada
+São indicativos de alto risco de falha em relação à madeira degradada, de acordo
+com Pokorny (2003):
+a) degradação avançada, afetando mais de 40% da circunferência de qualquer
+tronco, galho ou do colo da raiz;
+b) tronco ou grandes galhos (muito pesados em razão do diâmetro ou
+comprimento) com indicativos de degradação avançada;
+c) cavidades ou aberturas que excedam os limites de segurança descritos na
+Figura 36.
+São elementos que indicam risco moderado de falha:
+a) sinais de degradação avançada afetando de 25% a 40% da circunferência
+de qualquer tronco, galho ou colo da raiz;
+b) presença de cavidades, porém com espessura da parte sadia ainda dentro
+dos limites de segurança (Figura 36).
+São indicativos de risco extremamente alto a associação do defeito decorrente da
+degradação avançada (tronco degradado ou com cavidade excedendo os limites de
+segurança) com a presença de rachaduras severas.
+MABOM – VISTORIA, PODA E CORTE DE ÁRVORES 57
+7.2.2 Fissuras
+Fissura é uma separação profunda da madeira, que vai desde a casca até a madeira
+interna. As fissuras ou rachaduras são descritas neste Manual de maneira ampla,
+sem distinção de espessura, representando defeitos de continuidade da madeira que
+reduzem a capacidade da árvore resistir a esforços.
+A maioria das fissuras são causadas pela cicatrização inadequada de ferimentos,
+pela separação de galhos com união fraca ou por podas inadequadas de galhos
+(muito curtas, atingindo o colar do galho e causando um ferimento do qual a árvore
+tem dificuldade de se recuperar). Além de diminuírem a resistência mecânica da
+estrutura, a fissura é porta de entrada de microrganismos que atuam intensificando
+essa diminuição. A figura abaixo é um exemplo de fissura externa no ponto “A” que
+iniciou de ferimentos antigos não recuperados mostrados em “B”.
+Figura 37 – Exemplo de rachadura proveniente de ferimento
+Fonte: adaptado de Treedictionary (2018)
+As fissuras podem ocorrer em qualquer parte da árvore, das raízes aos galhos. A
+madeira localizada por detrás da fissura pode estar sadia, apresentar podridão ou
+cavidade. Vários tipos de fissuras podem ser encontrados numa árvore e, segundo a
+localização, o tipo e a extensão determinam sua probabilidade de ruptura. As
+MABOM – VISTORIA, PODA E CORTE DE ÁRVORES 58
+fissuras podem ser verticais no sentido do comprimento da madeira (de
+cisalhamento, inclusa ou saliente) ou horizontais.
+7.2.2.1 Fissura de cisalhamento
+Separa o tronco em duas metades ao longo do sentido de crescimento da madeira e
+pode estar associada à presença de casca inclusa (Figura 38). As fissuras de
+cisalhamento são perigosas porque abrem o tronco em duas metades, alterando a
+dinâmica de estabilização mecânica da árvore e ocorre, em geral, em troncos
+codominantes com junção fraca. À medida que a árvore se move por ação do vento,
+uma das metades do tronco desliza sobre a outra, alongando a fissura. Assim, uma
+fissura de cisalhamento sempre tem um risco de ruptura elevado, podendo também
+ocorrer nos galhos.
+Figura 38 – Exemplos de fissura de cisalhamento
+Fonte: USDA (2018)
+7.2.2.2 Fissura enrolada
+A figura abaixo exemplifica bem a forma como ocorre esse defeito.
+MABOM – VISTORIA, PODA E CORTE DE ÁRVORES 59
+Figura 39 – Exemplo de árvore com fissura enrolada e seu esquema interno
+Fonte: adaptado de USDA (2015)
+Nesse tipo de fissura, as margens se enrolam para o interior do tronco. A fissura
+enrolada (inrolled crack) ou “chifres de carneiro” é formada quando uma lesão não
+compartimentaliza corretamente. As margens deste tipo de fissura fazem uma
+curvatura para o interior do tronco, enrolando em conjunto casca e madeira. A
+fissura pode aparecer aberta ou fechada e perpetua-se a ela própria, pois à medida
+que as camadas de crescimento da árvore vão surgindo, elas se enrolam sobre si
+nas margens, aumentando a fissura.
+A esse tipo de fissura está associada uma podridão severa, uma vez que todos os
+anos, com o crescimento da árvore, as margens voltam a abrir a lesão permitindo
+que a podridão se espalhe rapidamente. Muitas vezes, as fissuras enroladas estão
+associadas a fissuras secundárias no lado oposto do tronco ou ramo, por exemplo,
+as fissuras de cisalhamento.
+7.2.2.3 Fissura associada à protuberância
+As fissuras associadas a protuberâncias (ou fissura com nervura) são formadas
+devido a protuberâncias existentes na árvore, formando uma espécie de crista,
+quando fechada (Figura 40). As rachaduras podem ser abertas ou fechadas.
+MABOM – VISTORIA, PODA E CORTE DE ÁRVORES 60
+Uma árvore que tenha uma fissura associada a uma protuberância não possui o
+tronco com aspecto “normal”, ou seja, com forma cilíndrica, apresentando uma
+protuberância cujo interior abriga uma fissura.
+Este tipo de fissura é também encontrado na base de galhos mal inseridos e tende a
+se formar quando a árvore tenta compartimentalizar uma ferida. As margens da zona
+lesionada se unem, mas, devido a movimentos que podem ocorrer ou a
+temperaturas extremamente baixas, reabrem.
+Uma fenda com protuberância apresenta alto risco de falha quando associada a
+outra fissura ou a extensa degeneração da madeira. É necessário avaliar a
+espessura da parte sadia e o tamanho da abertura da fissura, para verificar a
+estrutura. As fissuras com protuberância também podem se formar na base de
+uniões fracas ou em grandes galhos.
+Figura 40 – Exemplos de fissuras associadas à protuberância
+Fonte: A: Pokorny (2003); B: WSL (2018)
+7.2.2.4 Fissura horizontal
+As fissuras horizontais ocorrem transversais ao sentido de crescimento da árvore e
+raramente são encontradas, uma vez que se desenvolvem, imediatamente, antes de
+a árvore entrar em ruptura, indicando risco iminente de falha, principalmente em
+árvores inclinadas (Figura 41).
+MABOM – VISTORIA, PODA E CORTE DE ÁRVORES 61
+Figura 41 – Exemplos de fissuras horizontais
+Fonte: Pokorny (2003)
+7.2.2.5 Indicativos de risco de falha relacionados às fissuras
+São indicativos de alto risco de falha, de acordo com Pokorny (2003):
+a) tronco rachado, dividido em dois devido à rachadura;
+b) tronco possui, além de degradação avançada, várias fissuras;
+c) os galhos que apresentem fissuras.
+São indicativos de risco extremamente alto de falha:
+a) presença de fissuras horizontais (principalmente aquelas presentes em
+árvores inclinadas);
+b) troncos ou galhos divididos em dois devido a rachadura;
+c) galhos com união fraca com fissuras, associado à madeira degradada.
+7.2.3 Problemas relacionados à raiz
+Os problemas relacionados à raiz se referem à ancoragem inadequada provida pelo
+sistema radicular, em decorrência de danos ou estrangulamento do tronco. Assim,
+quando uma árvore sofre extensas avarias nas raízes, se sujeita à ruptura por não
+garantir ancoragem suficiente aos esforços a que está submetida. Suas raízes
+podem ser perdidas em razão de escavações, abertura de valas, compactação do
+solo, pavimentação, podridões causadas por fungos e stress ambiental (secas ou
+excesso de água).
+MABOM – VISTORIA, PODA E CORTE DE ÁRVORES 62
+Alguns dos sinais comuns relacionados a problemas nas raízes são o amarelamento
+seguido de morte da copa, das extremidades para o centro (perda de vigor ou
+dieback), raízes com podridão, inclinação da árvore e presença de corpos de
+frutificação de fungos junto ao colo da raiz.
+Determinados problemas radiculares tornam-se evidentes quando a árvore
+desenvolve uma inclinação anormal. Nestes casos, uma porção do sistema radicular
+entrou em ruptura e a árvore começou a se inclinar, mas encontra-se estabilizada;
+pelo menos temporariamente, devido à ancoragem que o resto do sistema radicular
+ainda proporciona. As inclinações recentes das árvores vêm, geralmente,
+acompanhadas pela elevação do prato radicular, presença de fissuras no solo,
+elevação das raízes ou quebra de raízes no lado oposto à inclinação (Figura 42).
+Nesse sentido, devem ser especialmente ponderadas as limitações de solo a que o
+sistema radicular possa estar confinado (limitado por calçadas, grandes vasos de
+cimento, raízes cortadas para construção de alicerces ou passagem de tubulação,
+etc), uma vez que implica em distribuição inadequada dos esforços advindos do
+restante da árvore, comprometendo sua estabilidade estrutural.
+Figura 42 - Inclinação com soerguimento de solo no lado oposto
+Fonte: Passatiempomaintenance (2012)
+MABOM – VISTORIA, PODA E CORTE DE ÁRVORES 63
+7.2.3.1 Raio Crítico da Raiz (RCR)
+O RCR é usado para definir a porção do sistema radicular mais próximo do tronco,
+que é crítica para a estabilidade e vitalidade da árvore. Ele independe do formato da
+copa e, normalmente, é mais amplo do que a projeção da copa no solo. Uma árvore
+está devidamente ancorada quando as raízes dentro da área definida pelo RCR
+estão sólidas e vivas. Até 40% da área definida pelo raio crítico da raiz pode ser
+danificada antes que a ancoragem seja gravemente prejudicada.
+Pokorny (2003), apresenta a fórmula de cálculo do raio crítico da raiz como RCR =
+DAP * 0,18, sendo:
+a) RCR = raio crítico da raiz, em metros;
+b) DAP = diâmetro à altura do peito, em centímetros (medido a 1,3m acima do
+solo).
+Exemplo: se o diâmetro do tronco à altura do peito (DAP medido a 1,3m do solo)
+possui 10 cm, seu RCR = 10cm * 0,18 = 1,8 metros.
+Depreende-se da fórmula, que o RCR será 18 vezes a medidado DAP, observada a
+ordem de precisão das medidas envolvidas.
+A Figura 43 demonstra alguns exemplos de medição do DAP.
+Figura 43 – Exemplos de medição do DAP de acordo com as características do tronco
+Fonte: Adaptado de Portland (2018)
+MABOM – VISTORIA, PODA E CORTE DE ÁRVORES 64
+7.2.3.2 Estrangulamento do tronco pela raiz
+O crescimento das árvores urbanas é fortemente limitado pela ocorrência de solos
+superficiais ou presença de barreiras de cimento. Essas condições levam o sistema
+radicular a se desenvolver em um espaço confinado, formando raízes
+estranguladoras ou enoveladas (Figura 44). Árvores exibindo este tipo de raízes
+geralmente entram em ruptura em um ponto abaixo da raiz estranguladora, muitas
+vezes em razão de degradação avançada do colo da raiz.
+Figura 44 – Raízes estranguladoras do colo da raiz
+Fonte: Pokorny (2003)
+O problema surge com a árvore ainda jovem e, décadas mais tarde, a árvore
+começa a perder seu vigor e pode cair subitamente durante uma ventania, quando a
+compressão exercida pela raiz ultrapassa a capacidade da própria raiz e do tronco
+de dissiparem os esforços gerados. Esta situação ocorre com alguma frequência
+quando a raiz estranguladora envolve mais de 40% da circunferência do tronco
+(Pokorny, 2003).
+7.2.3.3 Indicativos de risco de falha relacionados à condição das raízes
+São indicativos de alto risco de falha relacionado à condição das raízes (POKORNY,
+2003):
+a) árvore inclinada com evidências recentes de soerguimento de raízes ou do
+solo;
+b) mais de 40% das raízes dentro do RCR danificadas, doentes, degradadas,
+cortadas ou mortas;
+c) raízes estranguladoras envolvendo mais de 40% da circunferência do colo
+MABOM – VISTORIA, PODA E CORTE DE ÁRVORES 65
+da raiz.
+Defeitos indicativos de alto risco de falha associados a fissuras ou a extensa
+degradação indicam risco extremamente alto de queda.
+7.2.4 Galhos fracamente unidos
+As uniões fracas dos galhos com o tronco representam aquelas decorrentes de
+galhos epicórmicos ou uniões com casca inclusa.
+7.2.4.1 Casca inclusa
+As uniões são ditas fortes quando possuem uma crista na parte superior da união
+(Figura 45). Por outro lado, é fraca quando os galhos crescem tão próximos que a
+casca que cresce entre eles vai para dentro da árvore, configurando a chamada
+"casca inclusa" que, ao se desenvolver, tende a separar as partes, ao invés de
+reforçá-las, favorece as fissuras (Figura 46). Ressalta-se que algumas espécies
+comumente apresentam esse defeito.
+Figura 45 – Presença de crista em caso de união forte dos galhos
+Fonte: Pokorny (2003)
+MABOM – VISTORIA, PODA E CORTE DE ÁRVORES 66
+Figura 46 – Casca inclusa enfraquecendo a anexação do galho ao tronco
+Fonte: Pokorny (2003)
+7.2.4.2 Galhos epicórmicos
+Quando a árvore sofre injúrias, uma poda severa ou a perda de um galho, sua
+reação será recompor a folhagem original a partir de gemas epicórmicas. Essa
+reposição ocorre com a formação de novos galhos que brotam ao longo do tronco e
+dos próprios galhos da árvore (Figura 47). Esses galhos epicórmicos possuem uma
+ligação deficiente com sua base, fator de perigo quando se desenvolverem e
+tornarem-se pesados. Resultado de uma brotação muito acelerada, normalmente,
+são suportados por uma estrutura que se liga superficialmente ao tronco, em vez de
+serem uma completa continuidade da madeira central.
+Figura 47 – Exemplo de galho epicórmico (A) e esquema de inserção do galho epicórmico e do galho
+normal ao tronco (B)
+Fonte: A: Long (2012); B: adaptado de NY (2018)
+MABOM – VISTORIA, PODA E CORTE DE ÁRVORES 67
+7.2.4.3 Indicativos de alto risco de queda relacionado com galhos fracamente unidos
+São indicativos de alto risco de queda relacionado com a fraca união de galhos
+(POKORNY, 2003):
+a) presença galhos fracamente unidos associados a fissuras ou associados a
+madeira com cancro ou degradada;
+b) galho epicórmico de grande porte unido a tronco com avançado estado de
+degradação.
+Os defeitos decorrentes de galhos fracamente unidos associados a fissura e, além
+disso, a madeira em avançado estado de degradação indicam risco extremamente
+alto de falha.
+7.2.5 Cancros
+O cancro é uma área em um galho, tronco ou raiz onde a casca e/ou câmbio estão
+mortos. O câmbio é um tecido das plantas que dá origem ao xilema e floema
+secundários, e que é responsável pelo aumento de diâmetro do caule e da raiz.
+Enquanto a árvore adiciona um novo anel de crescimento a cada ano, a área
+atingida pelo cancro não consegue fazê-lo. Pequenos cancros em proximidade
+podem predispor uma árvore à ruptura por não haver madeira suficiente para
+sustentar o local afetado.
+Semelhante aos cancros, a árvore pode apresentar tumores ou hipertrofia de tecidos
+chamados cecídios. Tais formações podem indicar injúrias sofridas pela árvore (e
+consequente exposição a fungos apodrecedores ou fragilidade estrutural) e são
+parecidos com “bolas” ou grandes “verrugas”.
+A madeira frequentemente se quebra perto de seus cancros. Eles podem ser
+causados por fungos, insetos, raios (descarga elétrica) ou danos mecânicos, como
+feridas causadas por veículos, vandalismo ou até cortadores de grama. Os cancros
+causados por fungos desenvolvem-se em longo prazo, impedindo a formação
+MABOM – VISTORIA, PODA E CORTE DE ÁRVORES 68
+normal de madeira no local. Às vezes, estes cancros rapidamente acometem a
+árvore, matando o tronco e os galhos acima do cancro (Figura 48).
+Figura 48 – Exemplo de árvores com cancro: no tronco (A) e no colo, devido a cortadores de grama
+(B)
+Fonte: A: Themortonarboretum (2018); B: Pokorny (2003)
+7.2.5.1 Indicativos de alto risco de falha relacionado à presença de cancro
+a) cancro afeta 40% ou mais da circunferência da árvore;
+b) presença de cancro associada à degradadação de 40% ou mais da
+circunferência da árvore.
+7.2.6 Arquitetura deficiente
+A arquitetura é dita deficiente quando o padrão de crescimento indica um
+desequilíbrio estrutural e fraqueza na raiz, tronco ou galhos da árvore. Os problemas
+relacionados à inclinação e defeitos em galhos são, na maioria dos casos, oriundos
+do seu padrão de crescimento, mudanças antigas no ambiente onde o espécime se
+encontra ou danos causados à árvore.
+Com relação aos troncos, verifica-se que aqueles que apresentam afunilamento,
+tendo um diâmetro que gradualmente decai da base para o alto, são mais fortes que
+troncos com afunilamento pobre. O afunilamento (conhecido também por forma
+neilóide) permite a distribuição da carga tanto do peso da copa quanto do vento ao
+longo da extensão do tronco.
+MABOM – VISTORIA, PODA E CORTE DE ÁRVORES 69
+Igualmente importante para a distribuição adequada das forças laterais, é que o colo
+da raiz esteja exposto, de modo que o tronco não esteja enterrado, estabelecendo
+ângulo de 90 graus com o solo (o que implicaria na concentração de cargas naquele
+ponto). A exposição do colo também impede o seu apodrecimento e permite as
+trocas gasosas.
+As árvores inclinadas são o exemplo mais comum de arquitetura deficiente.
+7.2.6.1 Árvores inclinadas
+Inicialmente, cabe destacar que todas as árvores se inclinam até certo ponto e, em
+alguns casos, essa inclinação se deve a uma condição nova ou recente, podendo
+ser causada também pelo vento.
+Especialmente, no ambiente urbano, é comum que árvores plantadas em calçadas,
+expostas à sombra de marquises ou estruturas apresentem inclinação advinda de
+fototropismo, orientando-se pela direção da luz. Em geral, o caule apresenta um
+fototropismo positivo, enquanto a raiz apresenta fototropismo negativo. Esse balanço
+permite que a árvore ainda estabeleça mecanismos de compensação estrutural em
+relação às cargas atuantes. Em todas as inclinações, não deve ser observada
+apenas a angulação do tronco de forma isolada, mas a distribuição total das cargas
+a que a árvore está submetida e que, muitas vezes, é compensada pela orientação
+em sentido contrário da copa ou mesmo de partes mais superiores do tronco.
+As inclinações são importantes porque evidenciam sobrecarga em determinadas
+partes da árvore, especialmente quando há evidências de que os reforços que
+compensariam essa sobrecarga unilateral estão enfraquecidos (como soerguimento
+de raízes do lado oposto da inclinação, fissuras horizontais ou madeira
+estruturalmente fraca em razão de degradação ou cancros, por exemplo).
+Se a árvore apresentar angulação excessiva, superior a 40 graus, direcionada para
+algum alvo, é necessário proceder a remoção do alvo ou a intervenção de supressão
+ou poda da árvore. A referência para a medição do ângulo é 0º para a árvore na sua
+MABOM – VISTORIA, PODA E CORTE DE ÁRVORES 70
+concepção ideal em relação ao terreno, de pé, sendo o ângulo calculado entre esta
+linha ideal imaginária e a árvore (e não entre a árvore e o solo).
+Figura 49 – Exemplos de árvores inclinadas provavelmente em razão de corte de raízes opostas para
+construção de calçada
+Fonte: A: Sulminas146 (2014) e B: Pinto (2010)
+Árvores inclinadas que apresentem defeito grave na parte inferior tronco ou no colo
+da raiz estão muito propensas a cair, pois coexistem o desequilíbrio estrutural e a
+perda de resistência do tronco e raízes. A alta probabilidade de queda persiste
+mesmo quando o defeito na parte inferior do tronco é apenas cancro ou degradação
+moderada da madeira. Uma árvore com angulação excessiva, com uma fissura de
+cisalhamento ou enrolada em seu tronco estará em risco iminente de queda.
+As árvores inclinadas também podem cair emitindo apenas sinais sutis. Uma árvore
+inclinada apresentando sinais de tensão e deformação, por exemplo, possuem alto
+risco de falha, pois, em tese, já falharam parcialmente.
+7.2.6.2 Sinais de tensão e deformação
+Os sinais de tensão são fissuras horizontais na parte superior da árvore inclinada,
+resultado do rompimento das fibras da madeira. Os sinais da deformação se dão
+através de protuberâncias na casca da madeira na parte inferior do tronco de uma
+árvore inclinada. A deformação acontece quando a madeira é comprimida devido ao
+excesso de carga decorrente da inclinação, podendo a casca se apresentar solta ou
+comprimida, conforme esquema da Figura 50.
+MABOM – VISTORIA, PODA E CORTE DE ÁRVORES 71
+Figura 50 – Sinais de tensão e deformação em árvores inclinadas
+Fonte: Adaptado de Pokorny (2003)
+7.2.6.3 Árvore em harpa (árvores sobre árvores)
+A arquitetura da árvore em harpa é geralmente produzida em resposta à perda de
+um galho principal na copa superior (coroa). Pode ser reconhecida como uma árvore
+com um grande galho horizontal que suporta vários galhos verticais menores,
+conforme figura abaixo.
+Figura 51 – Exemplo de árvore em harpa
+Fonte: Adaptado de Pokorny (2003)
+MABOM – VISTORIA, PODA E CORTE DE ÁRVORES 72
+Após alguns anos da formação, é comum encontrar rachaduras entre a união do
+galho horizontal e o tronco principal, em razão do aumento de peso e a
+movimentação do galho horizontal. Os galhos das árvores em harpa são
+especialmente vulneráveis aos ventos laterais.
+São também propensos à falha os galhos com curvas muito acentuadas ou
+retorcidos.
+7.2.6.4 Indicativos de risco de falha relacionados à arquitetura deficiente
+São indicativos de alto risco de falha (POKORNY, 2003):
+a) árvore com inclinação excessiva, apresentando ângulo superior a 40 graus
+(Figura 52A);
+b) árvore inclinada com fissura no tronco (Figura 52B);
+c) árvore inclinada com cancro ou degradação na base do tronco (Figura 52C);
+d) árvore inclinada com sinais de tensão e deformação (Figura 52D).
+Figura 52 – Exemplos de árvores com sinais de arquitetura deficiente
+Fonte: Pokorny (2003)
+7.2.7 Árvore ou galhos mortos
+Uma árvore ou galho morto é estruturalmente deficiente devido a defeitos préexistentes ou à rápida decomposição da madeira.
+MABOM – VISTORIA, PODA E CORTE DE ÁRVORES 73
+Mais frequentemente, as árvores vivas rompem primeiro onde apresentam seus
+defeitos. Por outro lado, as árvores mortas podem romper em qualquer lugar, sendo
+mais propício o rompimento onde já exista um defeito. À medida que o tempo passa,
+a probabilidade de ruptura das árvores mortas aumenta.
+Um galho morto pode permanecer preso (anexado) à árvore viva por muito tempo ou
+cair subitamente. Geralmente se quebram próximo à junção ou na própria junção
+com o tronco verde.
+Um galho quebrado que permanece dependurado à copa da árvore por outros
+galhos também é perigoso, porque já se quebrou e pode ser deslocado pelo vento
+ou pelo rompimento do galho que o sustenta.
+Convém destacar que a morte de algumas árvores é provocada pela ação humana,
+intencional, por meio da confecção do chamado anel de Malpighi.
+A retirada de um anel da casca em volta do tronco leva a árvore à morte, pois retira
+os vasos condutores de seiva elaborada, responsáveis por nutrir as partes inferiores
+da planta, como mostra a Figura 53.
+Figura 53 – Esquema do processo de anelamento de Malpighi
+Fonte: Adaptado de Barata (2013)
+MABOM – VISTORIA, PODA E CORTE DE ÁRVORES 74
+7.2.7.1 Indicativo de risco de ruptura relacionado à árvore ou galhos mortos
+São indicativos de alto risco de falha relacionado a árvores ou galhos mortos
+(POKORNY, 2003):
+a) qualquer galho dependurado;
+b) qualquer árvore ou galhos mortos.
+7.3 Utilização do quadro de avaliação de árvore de risco
+O quadro de avaliação de árvore de risco oferece condições de avaliar o risco
+iminente à vida e ao patrimônio, decorrente da falha de árvores ou parte delas.
+Nesse sentido, ele procura direcionar as primeiras ações para a eliminação do risco
+por meio da retirada ou isolamento de acesso ao alvo.
+Não sendo viáveis as medidas mitigadoras, será necessário avaliar os sinais que
+podem indicar a iminência de uma falha, levando em consideração o perfil da
+espécie e as condições do entorno a que ela está exposta.
+Decidida a intervenção, fazê-la na medida do necessário, suprimindo apenas as
+partes da árvore que expõem o alvo a perigo, e assegurando a estabilidade da
+estrutura remanescente.
+Dessa maneira, busca-se consolidar uma metodologia que ofereça resultados
+objetivos, complementada por fatores não abordados no modelo, mas que devem
+ser levados em conta pelo avaliador no momento da verificação. A descrição das
+etapas do quadro de avaliação e o quadro em si são apresentados na Figura 54.
+O avaliador deve utilizar o quadro como um balizador de suas ações, nunca
+desconsiderando a limitação da avaliação visual e as consequências para o alvo em
+caso de falhas. O processo de avaliação envolve o exame da árvore e das
+condições locais, ponderando-se o nível de risco de queda eventual ou provável
+MABOM – VISTORIA, PODA E CORTE DE ÁRVORES 75
+sobre pessoas, veículos ou propriedades, deixando de lado as vontades políticas, as
+motivações emocionais e as percepções distorcidas de segurança.
+Com relação às árvores, enquanto seres vivos, não existem níveis de risco
+“definidos e aceitáveis”, diferentemente de outros elementos urbanos (tubulação,
+fiação, pavimentação, etc). Vale lembrar ainda que: para existir risco, um alvo em
+potencial também deve existir.
+MABOM – VISTORIA, PODA E CORTE DE ÁRVORES 76
+Figura 54 – Esquema explicativo e quadro de avaliação de árvore de risco
+ITEM 1
+Avalie o alvo, procurando aplicar medidas mitigadoras e tomando a maior
+pontuação dentre as situações apresentadas.
+Pontuação de 0 a 3.
+ITEM 2
+Avalie o risco de queda de toda a árvore ou da parte específica que apresenta os
+defeitos relacionados, tomando sempre a pontuação dos defeitos (de 1 a 4) mais
+severos. As ações deverão ser mínimas o suficiente para eliminar o risco iminente
+ao alvo. Independentemente da quantidade de critérios com menor pontuação
+visualizados, a pontuação final será dada com relação ao risco mais severo
+apontado, ainda que seja apenas uma ocorrência.
+ITEM 3
+O maior diâmetro dentre as partes defeituosas, sempre com base nas partes
+específicas que apresentam os defeitos mais graves apontados no item 2 (e não,
+necessariamente, no maior diâmetro da árvore), influencia diretamente o potencial
+de dano em caso de falha e, consequentemente, altera a iminência da intervenção.
+ITEM 4
+A pontuação deste item é opcional. A critério do avaliador, podem ser somados 0,1
+ou 2 pontos, de modo a incrementar o risco final, com base em defeitos não
+contemplados no quadro e apresentados ao longo do Capítulo.
+SOMATÓRIO E RESULTADO
+Soma-se os itens de 1 a 4. Se o resultado for igual ou superior a 9, o risco será
+considerado iminente, necessitando intervenção para eliminação da árvore ou da
+parte defeituosa. O somatório máximo da tabela será 10 pontos ainda que, em
+razão dos pontos opcionais (item 4), ultrapassem esse valor.
+ITEM 1 – AVALIAÇÃO DOS ALVOS
+3 PONTOS 2 PONTOS 1 PONTO 0 PONTO (máx 3 pts)
+Há risco a pessoas (ocupação frequente) Há risco eventual a pessoas (ocupação
+ocasional)
+NÃO há risco a pessoas. Há risco a
+bens/propriedades
+NÃO há risco a pessoas. NÃO há risco
+bens/propriedades ______ pts Devem ser considerados todos os alvos dentro do perímetro cujo raio é de 1,5 * (altura da árvore), a partir do tronco. Sempre que viável, elimine o risco removendo o
+bem para fora da zona de risco. Sempre que viável, elimine o risco restringindo o acesso das pessoas à zona de risco.
+ITEM 2 – AVALIAÇÃO DA ÁRVORE E SEUS SEGUIMENTOS (TRONCO E GALHOS)
+4 PONTOS
+SITUAÇÕES DE RISCO
+EXTREMAMENTE ALTO
+3 PONTOS
+SITUAÇÕES DE RISCO ALTO
+2 PONTOS
+SITUAÇÕES DE RISCO MODERADO
+1 PONTO
+SITUAÇÕES DE RISCO BAIXO (máx 4 pts)
+Tronco degradado ou cavidade excedendo
+os limites de segurança² + rachadura
+severa
+Tronco degradado ou cavidade > 30%
+da circunferência ou igual/excedendo o
+limite de segurança²
+Tronco pouco degradado ou cavidade
+dentro dos limites de segurança²
+Perda de vigor menos intensa da copa
+ou dos galhos
++ ____ pts
+Rachaduras: tronco ou galho está rachado
+ao meio
+Rachaduras, especialmente aquelas em
+contato com o solo ou associadas com
+outros defeitos
+Rachaduras(s) sem processo de
+degradação extensa
+Pequenos defeitos ou
+ferimentos/cancros
+Defeito(s) afetando >= 40% da
+circunferência da árvore ou do RCR¹ +
+degradação extensa ou fissuras
+Defeito(s) afetando > 40% da
+circunferência do tronco/galho
+Defeito(s) afetando 30-40% da
+circunferência do tronco/galho
+² Se no tronco houver
+comprometimento do cerne
+(apodrecido ou cavidade) a árvore
+ainda pode suportar se não houver ou
+se a abertura externa da cavidade for
+< 30% da circunferência do tronco (a
+espessura da parte sadia do tronco
+deve ser no mín. 2 pol para cada 6 pol
+de diâmetro total do tronco). Se não
+houver abertura externa da cavidade,
+a espessura da parte sadia do tronco
+deve ser no mín. 1 pol para cada 6 pol
+de diâmetro total do tronco. Se houver
+30% ou mais de abertura externa da
+cavidade, a probabilidade de falha é
+extremamente alta.
+¹ RCR (raio crítico da raiz) = diâmetro
+do tronco (em cm) a 1,3m * 0,18
+(resposta em metros).
+Madeira degradada refere-se àquela
+que apresenta apodrecimento ou está
+ausente (cavidades), em um processo
+em que se torna gradativamente pior,
+devido à ação de bactérias ou fungos,
+por exemplo.
+União fraca de galho com fissura +
+degradação
+Copa quebrada ou danificada: árvore de
+madeira dura > 50%; pinheiros > 30%
+Copa quebrada ou danificada: árvore
+de madeira dura até 50%; pinheiros
+até 30%
+Inclinação da árvore com
+rachaduras/elevação de solo recentes +
+Rachadura ou degradação extensa
+União fraca do galho com rachaduras ou
+degradação
+União fraca do galho presente em
+galhos grandes ou em troncos
+codominantes com casca inclusa
+Galhos mortos: quebrados
+(dependurados) ou com rachadura
+Acinturamento das raízes com >= 40%
+da circunferência do tronco estrangulado
+Acinturamento do tronco pelas raízes <
+40% da circunferência do tronco
+estrangulado.
+Árvores mortas: morta +
+outros defeitos como fissuras, galhos
+dependurados, degradação extensa ou
+danos importantes à raiz
+Danos à raiz: >= 40% das raízes
+danificadas dentro do RCR¹
+Danos à raiz: <40% das raízes dentro
+do RCR¹ Obstrução física ao tráfego de pedestres
+e/ou veículos (obstrução inviável de via
+pública, passeio, etc)
+Inclinação da árvore com fissuras no
+solo/elevação recente ou rachaduras na
+madeira ou degradação extensa
+Árvore morta SEM outros defeitos
+significativos
+ITEM 3 – MAIOR DIÂMETRO DA PARTE DEFEITUOSA
+3 PONTOS 2 PONTOS 1 PONTO (máx 3 pts)
+Diâmetro> 51 cm Diâmetro de 10 a 51 cm Diâmetro< 10 cm + ____pts
+ITEM 4 – OUTROS FATORES DE RISCO PRESENTES (OPCIONAL)
+Acréscimo de 0 até 2 pontos a critério do avaliador + ____ pts
+O RISCO SERÁ IMINENTE SE O SOMATÓRIO DOS ITENS (TOTAL) >= 9 PTS (soma máxima de 10 pts) = ___ pts
+MABOM – VISTORIA, PODA E CORTE DE ÁRVORES 78
+8 ILED– INSPEÇÃO, LANÇAMENTO, ESCALADA E DESLOCAMENTO
+O sistema ILED traz um passo a passo que possibilita a ascensão, o trabalho e a
+descida da árvore com segurança e eficiência, seguindo uma sequência lógica de
+ação. O sucesso da atividade depende da execução de cada fase do sistema.
+8.1 Inspeção (I)
+A maioria dos acidentes que ocorrem durante as operações de corte de árvores
+podem e devem ser evitados, adotando-se procedimentos de inspeção pré-atividade,
+descritos a seguir.
+8.1.1 Inspeção dos equipamentos
+Deve-se realizar a inspeção completa de todos os equipamentos que serão
+utilizados na execução da atividade (Figura 55). Equipamentos danificados ou com
+sinais de desgaste e deterioração devem ser removidos ou reparados (quando for
+possível o reparo).
+Figura 55 – Lista de verificação dos equipamentos
+Fonte: Elaborado pelo autor
+A forma com que o equipamento é armazenado e organizado interfere diretamente
+na execução do trabalho e na preservação do material. As cordas devem estar
+MABOM – VISTORIA, PODA E CORTE DE ÁRVORES 79
+sempre bem acondicionadas, em locais apropriados, impedindo que entrem em
+contato com sujeira e umidade (Figura 56). Baldes são organizadores muito úteis
+para os equipamentos. As cordas utilizadas para escalada ou as linhas de
+arremesso podem ficar em seu interior, saindo somente em quantidade necessária
+para o desenvolvimento da atividade. Devidamente higienizados, vasilhames
+diversos podem ser adaptados para uso na atividade de corte/poda de árvores.
+Figura 56 – Recipientes para acondicionamento de cordas
+Fonte: Acervo do CBMMG
+Quando disponíveis, lonas devem ser utilizadas para organização, disposição e
+proteção dos equipamentos no palco de ferramentas (Figura 57).
+Figura 57 – Disposição dos materiais em lona
+Fonte: Acervo do CBMMG
+MABOM – VISTORIA, PODA E CORTE DE ÁRVORES 80
+8.1.2 Inspeção da árvore e local
+Deve-se realizar uma inspeção visual da árvore e do terreno onde ela se encontra
+antes do início da atividade, buscando identificar riscos potenciais. Todos os lados
+da árvore devem ser examinados, partindo das raízes até os galhos da copa. Além
+das informações contidas no Capítulo anterior, a respeito de defeitos mais comuns,
+convém observar os elementos listados na Figura 58.
+Figura 58 – Lista de verificação da árvore e do local
+Fonte: Elaborado pelo autor
+8.1.3 Desenvolvimento do plano de trabalho
+O último passo antes da subida na árvore é o desenvolvimento de um plano de
+trabalho que envolva a total compreensão do que será executado, a certeza de que
+todos os equipamentos estão em condições de uso, que o local de trabalho está
+seguro e que estão definidos o percurso e o método de ascensão na árvore.
+MABOM – VISTORIA, PODA E CORTE DE ÁRVORES 81
+Figura 59 – Lista de verificação do plano de trabalho
+Fonte: Elaborado pelo autor
+8.2 Lançamento de cordas (L)
+Para o estabelecimento de um ponto de ancoragem na árvore é necessário que o
+militar conheça as diversas formas de lançamento de cordas. O ponto de ancoragem
+principal pode ser alcançado do solo ou sobre a árvore.
+Ao atingir o ponto de ancoragem com o arremesso, será possível fixar a corda
+principal, viabilizando a ascensão do militar por meio das técnicas de escalada.
+É importante manter uma segunda linha para realização de um eventual resgate em
+caso de emergência. Esta linha poderá ser utilizada, mais tarde, para acessar de
+forma mais eficiente outra parte da árvore.
+8.2.1 Linha de arremesso
+A linha de arremesso (throwline) tornou-se, entre os arboristas profissionais, o
+método preferido para alcançar um ponto de ancoragem. A combinação com a bolsa
+de arremesso (throwbag) possibilita atingir pontos entre 20 e 25 metros com apenas
+um pouco de prática.
+MABOM – VISTORIA, PODA E CORTE DE ÁRVORES 82
+A instalação de uma ancoragem em local elevado na árvore permite um trabalho
+com maior segurança e eficiência, eliminando a necessidade de reposicionamento e
+possibilitando futuros avanços no deslocamento. Além da instalação dos pontos de
+ancoragem, a linha de arremesso possibilita a retirada de galhos mortos e instalação
+de cordas-guia e balanço.
+Existem vários tipos de linha de arremesso disponíveis, com diferentes materiais,
+resistência, peso e atrito. As mais populares são confeccionadas em polietileno ou
+polipropileno, com baixa tensão superficial, permitindo um deslizamento suave.
+Linhas de nylon também poderão ser utilizadas, principalmente em árvores com
+superfície áspera.
+As bolsas de arremesso estão disponíveis em pesos que variam entre 340g e 565g,
+sendo que os mais populares estão entre 395g e 450g. Os fatores que devem ser
+considerados para escolha de uma bolsa de arremesso são: a distância até a
+forquilha alvo e a superfície da árvore (áspera ou lisa).
+Bolsas mais leves atingem pontos mais altos, enquanto as mais pesadas
+possibilitam uma recuperação mais fácil em superfícies ásperas. O ideal é que a
+equipe possua bolsas com pesos diferentes, adequadas para os diversos tipos de
+situações, possibilitando também o lançamento de outra bolsa, caso a primeira fique
+presa em algum galho. Na ausência de uma bolsa de arremesso, outros materiais
+poderão ser utilizados, a título de improviso.
+8.2.2 Procedimento e técnica de arremesso
+Antes de realizar o arremesso, o militar deve estar utilizando capacete e protetor
+para os olhos, atentando para segurança no local e os riscos de atingir alvos
+diversos do principal.
+A linha de arremesso deve, sempre, estar em cubos, baldes ou sacos apropriados,
+impedindo que fique presa em obstáculos no solo.
+MABOM – VISTORIA, PODA E CORTE DE ÁRVORES 83
+Ao realizar o lançamento, o militar deverá alertar a equipe com um comando verbal:
+“atenção pra o lançamento”, devendo ser realizado somente após os envolvidos
+estarem atentos. As duas técnicas mais comuns são o lançamento com linha
+simples e lançamento com linha dobrada.
+8.2.2.1 Lançamento com linha simples
+Lançando somente com uma das mãos, com a bolsa de arremesso amarrada a 1 m
+de distância (sentido solo) do quadril, realiza-se um movimento de balanço e
+procede-se com o arremesso no momento em que o balanço da linha estiver para
+frente (Figura 60).
+Figura 60 – Lançamento com linha simples
+Fonte: Elaborado pelo autor
+8.2.2.2 Lançamento com linha dobrada
+Consiste em passar a linha dobrada pelo olhal da bolsa de arremesso, diminuindo a
+resistência inicial do movimento. O lançamento pode ser realizado com o balanço
+entre as pernas ou lateralmente (Figura 61).
+MABOM – VISTORIA, PODA E CORTE DE ÁRVORES 84
+Figura 61 – Lançamento com linha dobrada
+Fonte: Elaborado pelo autor
+8.2.2.3 Considerações sobre bolsa de arremesso
+A linha de arremesso deve estar presa à bolsa de arremesso com um nó que
+permita uma retirada fácil, mas que impeça que a linha se solte da bolsa ao agarrar
+em um galho (Figura 62). Depois de um lançamento bem sucedido, caso a intenção
+seja somente passar a corda na forquilha, sem utilização de uma ancoragem
+recuperável, a bolsa de arremesso deverá ser retirada e a linha de arremesso
+amarrada à corda com uso de dois nós tipo fiel (Figura 60-A), para que a linha não
+se solte da corda; ou com uso de um nó simples (Figura 60-B), após passagem no
+olhal da bolsa de arremesso.
+Figura 62 – Nós para linha de arremesso: nó fiel (A) e nó simples (B)
+Fonte: Elaborado pelo autor
+MABOM – VISTORIA, PODA E CORTE DE ÁRVORES 85
+Caso a bolsa de arremesso apresente dificuldades na decida, por ter se prendido a
+algum galho ou em superfícies ásperas de uma determinada árvore, a técnica a
+seguir, comumente chamada de arco e flecha (Figura 63), apresenta uma solução
+para liberação e recuperação.
+Na técnica, deve-se segurar firmemente a linha de arremesso com uma das mãos
+estendidas e, com um ou dois dedos da outra mão, aplica-se tensão na linha como
+se estivesse puxando uma corda de um arco. Isso vai enviar uma onda de vibrações
+ao longo da linha, liberando a bolsa de arremesso gradativamente.
+Figura 63 – Técnica do arco e flecha para liberação da bolsa de arremesso
+Fonte: Elaborado pelo autor
+8.2.3 Ancoragem recuperável
+Trata-se de um dispositivo instalado na forquilha da árvore (Figura 64), após a
+passagem da linha de arremesso, que proporciona uma via alternativa para linha de
+ascensão ou de deslocamento, evitando contato direto da corda com os galhos e,
+consequentemente, o desgaste do material.
+MABOM – VISTORIA, PODA E CORTE DE ÁRVORES 86
+Figura 64 – Ancoragem recuperável
+Fonte: Acervo do CBMMG
+A ancoragem é instalada e recuperada do solo, não havendo necessidade de
+deslocamento até a forquilha desejada. Existem diversos tipos de ancoragens
+recuperáveis, confeccionadas com materiais e equipamentos diferentes. Como
+forma de padronização, será adotado o anel de fita com mosquetões ou o cabo
+(corda) com mosquetões.
+O tamanho da alça varia entre 1 metro e 3 metros, dependendo do porte da árvore.
+A utilização de mosquetões no lugar de anéis fechados permite maior agilidade na
+montagem do dispositivo. A corda ou fita e os mosquetões devem possuir carga de
+ruptura igual ou superior a 22 KN.
+Para possibilitar a instalação, os dois mosquetões deverão possuir tamanhos
+diferentes, de forma que a bolsa de arremesso passe pelo interior do maior e não
+passe no interior do menor. Para instalar a ancoragem recuperável, observe os
+passos a seguir e a Figura 65:
+a) passo 1 - inserir o mosquetão menor próximo à bolsa de arremesso e o
+mosquetão maior no outro lado da linha;
+b) passo 2 - recuperar a linha de arremesso até que a fita ou o cabo passe pela
+forquilha;
+c) passo 3 - deixar que a linha de arremesso deslize com o peso da bolsa;
+MABOM – VISTORIA, PODA E CORTE DE ÁRVORES 87
+d) passo 4 - amarrar a corda e passar pela ancoragem recuperável.
+Figura 65 – Passos para instalação da ancoragem recuperável
+Fonte: Elaborado pelo autor
+8.2.4 Nó para arremesso
+O nó para arremesso (Figura 66) nada mais é que um arranjo realizado na
+extremidade da corda, com uma série de voltas, fazendo com que haja peso
+necessário para possibilitar o lançamento. Antes da introdução da bolsa de
+arremesso nas atividades de escalada em árvores, o nó de arremesso era o método
+padrão para instalação de cordas. Com prática, pode-se alcançar em torno de 12
+metros com a utilização deste nó.
+Figura 66 - Passos para confecção do nó de arremesso
+Fonte: Elaborado pelo autor
+MABOM – VISTORIA, PODA E CORTE DE ÁRVORES 88
+8.3 Escalada (E)
+Existe uma variedade de técnicas para se escalar uma árvore e cada militar irá se
+adaptar melhor a uma ou outra, contudo, o conhecimento e a familiaridade com
+todas permite a escolha daquela que mais se adapta à situação encontrada,
+maximizando o desempenho e produtividade. As técnicas abaixo descritas poderão
+ser utilizadas de forma combinada.
+Após ter escolhido uma das técnicas e for verificado algum risco durante a
+ascensão, a equipe deverá reconsiderar o plano de trabalho ou abortar a atividade
+até que se consiga melhor condição para execução.
+Quando a atividade envolver a supressão de árvore que, em decorrência do risco,
+impossibilite a ascensão do militar, viaturas apropriadas (com lance elevatório)
+deverão ser empenhadas para auxílio. Os trabalhos serão realizados sem que o
+militar tenha que estar sobre a árvore, mas, caso não seja possível a aproximação
+de viaturas, um backup deverá ser realizado em uma árvore ao lado, que esteja em
+boas condições.
+O sistema de linha de ascensão poderá ser dinâmico ou estático. Com o sistema
+dinâmico, a corda se move junto com o militar na ascensão. No sistema estático, a
+corda permanece fixa. A seguir serão listadas as técnicas de ascensão.
+8.3.1 Utilização de escadas
+As escadas fornecem um meio rápido, fácil e sem desgaste para acesso a árvores
+de menor porte. O militar deverá estar ancorado em uma linha de ascensão ou de
+deslocamento. Um segundo militar deverá apoiar a escada na base durante a
+subida, devendo, posteriormente, retirá-la do local, para que não seja atingida por
+galhos que possam danificá-la (Figura 67). Equipamentos e ferramentas não devem
+ser transportados nas mãos no momento da subida.
+MABOM – VISTORIA, PODA E CORTE DE ÁRVORES 89
+Figura 67– Utilização de escadas
+Fonte: Elaborado pelo autor
+8.3.2 Cabo solteiro alternativo (CSA)
+Em árvores de pequeno porte, com galhos pouco espaçados, o militar pode optar
+pelo uso do cabo solteiro alternativo (CSA) para ascensão, mantendo sempre três
+pontos de contato com a árvore (Figura 68).
+Figura 68 – Cabo solteiro alternativo (CSA)
+Fonte: Elaborado pelo autor
+MABOM – VISTORIA, PODA E CORTE DE ÁRVORES 90
+Os galhos devem ser testados antes que o bombeiro militar apoie todo o peso sobre
+eles. À medida que o militar avança, o ponto de ancoragem é passado para cima,
+mantendo sempre o segundo ponto ancorado. O militar deverá estar apoiado nos
+galhos e não somente no(s) ponto(s) de ancoragem. O comprimento da linha de
+ascensão é ajustado com um nó marchard.
+8.3.3 Impulso com o corpo
+Utiliza um sistema de linha dinâmico e é apropriado quando a linha de ascensão
+está instalada bem rente ao tronco. A configuração do sistema deve ser adequada
+de forma que proporcione maior conforto ao escalador. O militar coloca os pés na
+árvore, na altura do quadril e empurra para frente enquanto puxa, simultaneamente,
+a corda para baixo e desliza o blocante para cima (Figura 69).
+O atrito criado na forquilha da árvore ajuda a manter a posição do escalador até que
+o blocante possa ser avançado. Neste caso, não se utiliza a ancoragem recuperável.
+Figura 69 – Impulso com o corpo para ascensão
+Fonte: Elaborado pelo autor
+MABOM – VISTORIA, PODA E CORTE DE ÁRVORES 91
+8.3.4 Travamento com os pés (footlock secured)
+Utilizada quando a linha de ascensão encontra-se distante do tronco. Trata-se de um
+sistema de linha estático que fornece um meio extremamente rápido de escalada.
+Ao realizar a ascensão, o militar poderá estar ancorado em um sistema de backup
+dinâmico, principalmente em casos de árvore de grande porte. Se um sistema
+dinâmico não estiver instalado, necessariamente um equipamento que permita a
+descida deverá estar incorporado ao sistema de ascensão.
+O militar deverá confeccionar um nó blocante na linha de ascensão (dupla) e
+conectá-lo ao cinto. Em seguida, deve agarrar a corda dupla com as mãos, logo
+abaixo do blocante, elevar as pernas e travar a corda entre a sola de um dos pés e o
+dorso (parte de cima) do outro pé com um movimento que envolva a corda nas
+botas. Logo após, projeta-se o corpo para frente e para cima e eleva o blocante. Um
+ascensor pode substituir o blocante, caso esteja disponível e o escalador se adapte
+melhor ao equipamento (Figura 70).
+Figura 70 – Travamento com os pés (footlock secured).
+Fonte: Acervo do CBMMG
+MABOM – VISTORIA, PODA E CORTE DE ÁRVORES 92
+Precauções na utilização da técnica de travamento com os pés:
+a) o nó blocante apenas funcionará se for confeccionado de forma correta;
+b) as mãos deverão estar abaixo do nó blocante durante toda a execução,
+evitando assim, um acionamento acidental e uma descida descontrolada;
+c) o nó blocante é recomendado somente para subida e só poderá ser utilizado
+na descida se combinado com algum outro dispositivo;
+d) remova galhos e detritos que possam acionar acidentalmente o nó blocante;
+e) ao atingir um ponto da árvore que permita apoio dos pés, mantenha,
+sempre, o blocante esticado e ativo para que não ocorra o afrouxamento
+total do nó, acarretando a perda da sua função.
+8.3.5 Corda simples (Single Rope Technique – SRT)
+Utiliza um sistema de ascensão estático ideal para árvores de grande porte. Dentre
+os inúmeros métodos de ascensão em corda simples, descreveremos o padrão que
+será adotado pelo CBMMG. Não há impedimento para adequações à realidade dos
+materiais disponíveis, desde que possuam especificações contidas neste Manual.
+Primeiramente, instala-se a linha de ascensão em uma ancoragem recuperável. A
+linha de ascensão deverá ser fixada na base do tronco da árvore que se deseja subir
+(Figura 71-A) ou em uma árvore ao lado, com um dispositivo que permita descer o
+militar caso surja algum imprevisto (Figura 71-B). O militar deverá conectar-se à
+linha de ascensão com a utilização de um ascensor (ou dois, no caso de utilização
+do foot ascender) e, posteriormente, realizar a subida.
+MABOM – VISTORIA, PODA E CORTE DE ÁRVORES 93
+Figura 71 – Técnica de escalada - corda simples. Utilização da mesma árvore em A. Utilização de
+outra árvore em B
+Fonte: Elaborado pelo autor
+Após alcançar o ponto desejado, o militar utilizará um cabo para fixação de sua
+ancoragem individual e para montar o sistema para deslocamento, que poderá ser
+realizado na mesma corda ou em uma segunda, mantendo a primeira como linha de
+resgate.
+Uma precaução deve ser observada na utilização da técnica da corda simples:
+quando a linha é ancorada à base da árvore ou em uma árvore ao lado, a forquilha
+irá sofrer uma carga duas vezes maior do que se estivesse diretamente no militar.
+8.3.6 Utilização do esporão
+O esporão fornece um meio de escalada eficiente, mas somente deverá ser utilizado
+caso a árvore tenha que ser totalmente suprimida, considerando os danos causados
+pelas esporas. Para seu correto funcionamento, é necessário treinamento e
+inspeção do equipamento, verificando as tiras e se as garras estão afiadas. Um cabo
+MABOM – VISTORIA, PODA E CORTE DE ÁRVORES 94
+com uma laçada simples ou uma boca de lobo deverá ser utilizado para auxiliar a
+subida e impedir a queda, caso a agarra deslize (Figura72).
+Figura 72 – Utilização do esporão
+Fonte: Elaborado pelo autor
+A escalada com esporão é muito utilizada em plantas que não apresentam
+crescimento lateral, como as palmeiras, o que impossibilita a instalação da
+ancoragem recuperável. Quando possível (palmeiras de menor porte), uma corda
+pode ser passada pela copa (ou coroa) auxiliando a ascensão.
+8.3.7 Utilização de viaturas
+Existem situações em que o estado da árvore impossibilita que a equipe bombeiro
+militar realize a subida. Em outras, os trabalhos levariam dias para serem realizados
+devido ao porte do espécime. Nesses casos, o apoio das viaturas Auto Caçamba
+Elevatória (ACE) e Auto Plataforma Escada (APE) são indicadas, desde que
+verificadas as condições necessárias para acesso e operação dos veículos.
+MABOM – VISTORIA, PODA E CORTE DE ÁRVORES 95
+8.3.7.1 Auto Caçamba Elevatória (ACE)
+A ACE consegue atingir uma altura de 15 metros. Possui uma caçamba que permite
+ao militar acesso ao local de realização do corte sem a necessidade de estar
+ancorado à árvore que está sendo suprimida (Figura 73).
+Figura 73 - Utilização da ACE
+Fonte: Acervo do CBMMG
+8.3.7.2 Auto Plataforma Escada (APE)
+Trata-se de uma viatura de grande porte e de alto custo. Deve haver critério para
+empenho do recurso. Atinge a altura de 54 metros. Em virtude do peso, não pode
+ser empenhada sobre galerias ou solo com qualquer tipo de instabilidade. Não
+permite o empenho em aclives muito acentuados. Somente militares qualificados
+podem realizar a operação (Figura 74).
+Figura 74 – Auto Plataforma Escada (APE)
+Fonte: Acervo do CBMMG
+MABOM – VISTORIA, PODA E CORTE DE ÁRVORES 96
+8.3.8 Deslocamento (D)
+Após a ascensão, a próxima etapa é atingir uma posição que permita o trabalho com
+conforto e segurança. Com o uso da técnica descrita neste Manual será possível: a
+ancoragem, na linha de deslocamento, com um sistema adequado à atividade
+exercida; a movimentação de maneira segura; o alcance de locais de difícil acesso e
+a realização de uma descida segura.
+Importante ressaltar a necessidade de um segundo ponto de ancoragem, que irá
+auxiliar os deslocamentos, além de ser obrigatório no momento em que o militar
+estiver operando a motosserra. É vital o entendimento de que cada componente do
+sistema é como um elo, se um deles falhar, todo o sistema será comprometido.
+8.3.9 Ancoragem
+Trata-se da instalação da ancoragem removível na forquilha selecionada, com uso
+da linha e da bolsa de arremesso. Quanto mais alta for a ancoragem, maior a
+mobilidade do militar na árvore. Outra questão importante é selecionar um ponto
+central para que a movimentação seja ainda mais facilitada (Figura 75).
+MABOM – VISTORIA, PODA E CORTE DE ÁRVORES 97
+Figura 75 - Exemplos de ancoragens, sendo a ancoragem ideal: mais alta e centralizada.
+Importante mantê-la sempre tensionada, indicada pela cor verde
+Fonte: Elaborado pelo autor
+8.3.10 Sistema de ascensão e deslocamento
+A escolha de um sistema de ascensão e deslocamento adequado é fundamental
+para a segurança do militar e eficiência da operação. O sistema padrão é mostrado
+pela Figura 76.
+O referido sistema é comumente utilizado entre os arboristas profissionais, em
+atividades e competições ao redor do mundo. No entanto, algumas variações
+poderão ser realizadas de acordo com a preferência de cada militar.
+A utilização da polia no sistema permite que o militar gerencie a corda somente com
+uma das mãos. Ao puxar o chicote, a polia é direcionada para o nó blocante
+avançando-o sobre a linha de deslocamento (Figura 77).
+MABOM – VISTORIA, PODA E CORTE DE ÁRVORES 98
+Figura 76 – Sistema de ascensão
+Fonte: Acervo do CBMMG
+A polia também será útil para permitir uma ascensão mais fluida em um sistema
+dinâmico e para manutenção do atrito do nó blocante sobre a corda. Caso seja
+necessário avançar para um ponto mais distante, uma pressão sobre a volta superior
+do nó valdotan libera o sistema.
+Figura 77 – Utilização do sistema para deslocamento
+Fonte: Acervo do CBMMG
+Alça confeccionada com lais de guia,
+arrematado com pescador duplo
+Blocante com nó valdotan
+Polia conectada ao nó valdotan e ao
+ponto de ancoragem móvel do cinto
+Ponto de ancoragem móvel do cinto
+MABOM – VISTORIA, PODA E CORTE DE ÁRVORES 99
+8.3.11 Mudança de posição
+Caso não tenha sido possível atingir o ponto desejável para instalação da
+ancoragem recuperável com o lançamento realizado do solo, o militar, assim que
+chegar ao primeiro ponto sobre a árvore, realizará novo lançamento buscando o
+ponto correto para realização da atividade.
+Se o espaçamento dos galhos da árvore for relativamente próximo, a técnica do
+cabo solteiro alternativo pode substituir a necessidade de novo lançamento. Para
+lançamentos curtos, o nó para arremesso também poderá ser utilizado.
+A ancoragem mais alta possibilita um ganho essencial nos deslocamentos que serão
+realizados sobre o espécime arbóreo. A habilidade de caminhar sobre os galhos,
+utilizando o sistema de ancoragem, permitirá o alcance de locais improváveis.
+Arboristas profissionais preferem caminhar para os lados e para trás, sempre
+mantendo a tensão na linha de escalada (Figura 78).
+Figura 78 – Deslocamento para o lado e para trás, com corda tensionada
+Fonte: Elaborado pelo autor
+MABOM – VISTORIA, PODA E CORTE DE ÁRVORES 100
+Quanto maior for o ângulo, maior o risco de cair em um pêndulo descontrolado. Para
+evitar esse risco, faz-se necessária a utilização do segundo ponto de ancoragem ou
+de um redirecionamento.
+8.3.12 Dupla ancoragem
+A dupla ancoragem (Figura 79) poderá ser instalada em uma forquilha na mesma
+árvore ou em uma árvore ao lado. É utilizada quando o militar que está realizando o
+corte/poda necessita de uma medida adicional de segurança e estabilidade, em caso
+de galhos muito fracos e/ou escorregadios.
+Figura 79 – Dupla ancoragem
+Fonte: Elaborado pelo autor
+8.3.13 Redirecionamentos
+Existem duas técnicas para realização do redirecionamento da linha de
+deslocamento: a mecânica, com utilização de fitas e redirecionadores (Figura 80); e
+a natural, que utiliza somente a passagem da linha de deslocamento por uma
+forquilha natural da árvore. Ambas fornecem um melhor ângulo de trabalho sem a
+necessidade de alterar o ponto de ancoragem principal, além de reduzirem a chance
+de um balanço descontrolado. O retorno de um redirecionamento natural pode ser
+bastante trabalhoso devido ao aumento do atrito na linha de deslocamento.
+MABOM – VISTORIA, PODA E CORTE DE ÁRVORES 101
+Figura 80 – Redirecionamento em destaque dentro do círculo
+Fonte: Elaborado pelo autor
+8.3.14 Descida
+Diversas técnicas possibilitam a descida do militar após o término da atividade ou
+para substituição por outro membro da equipe.
+8.3.14.1 Descida no sistema dinâmico
+Deve-se verificar se há corda suficiente para que o militar alcance o solo. Não
+existindo, a ancoragem deverá ser reposicionada para baixo, verificando a existência
+de obstáculos que possam prejudicar a descida. Após as verificações, o militar
+aciona levemente o blocante com uma das mãos e segura o chicote com a outra
+(próxima ao quadril) para controlar a velocidade da descida. A descida deverá ser
+lenta, evitando danos à estrutura da linha de deslocamento e/ou de ascensão e
+possível queimadura nas mãos devido ao aquecimento.
+Uma medida de segurança é a confecção de uma azelha em oito no final da linha de
+ascensão evitando que, no caso de uma descida descontrolada, o militar atinja o
+chão.
+MABOM – VISTORIA, PODA E CORTE DE ÁRVORES 102
+8.3.14.2 Descida no sistema estático
+Com a corda simples ou dupla utiliza-se o freio oito e um backup acima do freio,
+confeccionado com um blocante, segurança alta (Figura 81). O nó utilizado poderá
+ser o prussik ou o marchard.
+Figura 81 – Descida no sistema estático
+Fonte: Elaborado pelo autor
+MABOM – VISTORIA, PODA E CORTE DE ÁRVORES 103
+9 CORTE E PODA
+Neste capítulo, serão descritas algumas técnicas para realização de poda e corte
+com uso de serras manuais e motosserras.
+Deve-se possuir conhecimento para realização de uma poda, considerando que a
+manipulação incorreta causará danos futuros à saúde e estrutura das árvores, a
+exemplo de fissuras ou apodrecimentos. O corte possui localização determinada e
+deve deixar uma superfície lisa e sem bordas irregulares. É importante conhecer as
+partes descritas na Figura 82 para a execução correta do corte/poda.
+O colar do galho é uma barreira protetora ativa que, se for lesionada, perderá sua
+eficiência, permitindo a penetração de microorganismos conduzindo à degradação
+da madeira.
+Figura 82 - Localização da crista da casca, colar e fossa basal
+Fonte: Elaborado pelo autor
+9.1.1 Poda em três cortes
+A poda deverá ser realizada com a técnica de três cortes para impedir que a crista e
+o colar sejam danificados (Figura 83).
+MABOM – VISTORIA, PODA E CORTE DE ÁRVORES 104
+Figura 83 – Poda em três cortes
+Fonte: Elaborado pelo autor
+Por meio do primeiro e segundo cortes, o galho será extraído, caindo diretamente ou
+sendo retido por cordas para direcionamento. O terceiro corte (acabamento) visa
+preservar o colar e a crista da casca, garantindo condições fisiológicas para o
+fechamento do ferimento. Um corte bem feito permite que ocorra a
+compartimentalização (fechamento químico e físico do ferimento), Figura 84.
+Figura 84 – Compartimentalização adequada: início (A) e final do processo (B)
+Fonte: Elaborado pelo autor
+9.2 Retenção com controle de descida – (RCD ou balancinho)
+A maioria das ocorrências envolvendo corte/poda de árvores estão relacionadas a
+MABOM – VISTORIA, PODA E CORTE DE ÁRVORES 105
+espécimes próximos a construções ou quaisquer tipos de obstáculos que impeçam a
+queda livre dos galhos.
+Existem diversas técnicas que permitem a retenção e controle da descida. Algumas
+são abordadas neste Manual, podendo sofrer alterações de acordo com a
+preferência da equipe e a melhor adaptação (Figura 85).
+Figura 85 – RCD ou balancinho
+Fonte: Elaborado pelo autor
+É de vital importância que as especificações de cada equipamento sejam
+compreendidas e os limites impostos pelos fabricantes sejam respeitados.
+Considerando que o peso dos galhos serão sempre estimados, a opção por uma
+atuação cautelosa e pela descida de galhos menores torna-se prioritária.
+A retenção com controle de descida (RCD) envolve vários equipamentos: cordas,
+mosquetões, polias e ancoragens para ser realizada de forma segura e eficiente.
+O tamanho e o peso do galho removido são o principal determinante para a força
+que será exercida sobre a ancoragem e os equipamentos. Contudo, fatores como a
+distância entre o galho e a ancoragem, o ângulo e o tamanho da corda no sistema,
+também interferem no cálculo.
+MABOM – VISTORIA, PODA E CORTE DE ÁRVORES 106
+Equipamentos que permitam a fricção são essenciais na realização da RCD. Sem
+eles, a equipe de solo teria extrema dificuldade em controlar a descida de galhos
+com pesos bem maiores que o do próprio corpo.
+As cordas e equipamentos utilizados na RCD não poderão ser empregados na linha
+de escalada, linha de deslocamento ou qualquer atividade que envolva ancoragem
+de pessoas, devendo ser devidamente demarcados e separados para este fim.
+9.2.1 Ancoragem do sistema de RCD
+A escolha pela instalação de uma ancoragem com equipamentos, para o sistema de
+RCD, é prioridade em relação ao uso da forquilha natural da árvore, pois permite
+melhor distribuição da carga pela corda, menor desgaste do equipamento e
+liberdade de posicionamento (Figura 86). O militar deverá estar posicionado de
+forma que o galho, após cair no sistema, não o atinja.
+Figura 86 – Ancoragem do sistema RDC
+Fonte: Elaborado pelo autor
+A amarração poderá ser realizada nas duas pontas do galho que será extraído,
+utilizando-se de um cabo independente, que posteriormente será unido à corda
+principal com um nó blocante e um mosquetão, possibilitando maior controle da
+MABOM – VISTORIA, PODA E CORTE DE ÁRVORES 107
+descida e menor balanço no momento da queda do galho. Uma corda-guia poderá
+ser utilizada para maior mobilidade (Figura 87).
+Figura 87 – Amarração do galho extraído em dois pontos com corda-guia amarrada à extremidade do
+galho
+Fonte: Elaborado pelo autor
+9.3 Estropo
+Consiste basicamente em realizar uma amarração acima e outra abaixo do local
+onde o galho será cortado, guarnecido por uma polia ou um dispositivo blocante para
+o controle da descida. Utilizado quando não há possibilidade de ancoragem em um
+ponto mais alto. O estropo é realizado no próprio galho ou tronco que irá sofrer a
+secção (Figura 88). Podendo ser confeccionado com vários tipos de nós e
+equipamentos. Deve-se ter cuidado para não atingir a corda no momento do corte.
+MABOM – VISTORIA, PODA E CORTE DE ÁRVORES 108
+Figura 88 – Exemplo de estropo
+Fonte: Elaborado pelo autor
+9.4 Equipe de solo
+Os militares que estiverem em solo são parte essencial da operação. Recai sobre
+eles a responsabilidade de montar as configurações dos sistemas, a manipulação de
+cordas, envio de equipamentos, tração de cabos, controle da descida dos galhos,
+definição da zona de queda, isolamento da área, dentre outras funções. A
+comunicação entre o(s) militar(es) que está(ão) sobre a árvore e a equipe de solo é
+fundamental para a segurança de toda operação.
+Um sistema de comunicação deve ser pré-estabelecido para garantir que o comando
+repassado foi recebido com clareza. Sempre que uma ação estiver para ser
+executada, a informação deverá ser transmitida (equipe de solo – militar sobre a
+árvore e militar sobre a árvore – equipe de solo) e o “OK” deverá ser aguardado para
+efetivação. Dispositivos de comunicação como rádios e apitos facilitam a
+comunicação, inclusive em caso de emergências.
+9.5 Supressão direta
+Após análise do local e do espécime, verificando-se a possibilidade de supressão
+direta, deve-se: calcular a altura estimada da árvore; definir a direção da queda, fora
+do alcance de possíveis obstáculos; considerar o possível lançamento de galhos
+MABOM – VISTORIA, PODA E CORTE DE ÁRVORES 109
+após o impacto com o solo; definir a área de risco e rotas de fuga; verificar a
+possibilidade de instalação de uma corda-guia; sinalizar o local; impedir a
+aproximação de curiosos e definir a técnica para supressão.
+A utilização de uma talha tirfor poderá ser avaliada para tensionamento do cabo que
+irá direcionar a queda em local apropriado.
+9.5.1 Cálculo da altura estimada
+É possível estimar a altura de uma árvore segurando um pedaço de galho com a
+mão estendida à frente, de forma que a distância entre o olho e a mão do militar seja
+igual ao tamanho do galho. Após, aponta-se o galho na vertical para árvore e afastase até que a distância entre o local do corte e o topo da árvore pareça ter a altura do
+pedaço do galho. Neste momento, a distância entre o militar e a árvore será próxima
+da altura da árvore. O procedimento é mostrado na Figura 89.
+Figura 89 – Cálculo da altura estimada
+Fonte: Elaborado pelo autor
+9.5.2 Área de risco e rota de fuga
+A área de risco e a rota de fuga são definidas conforme Figura 90. O militar que
+MABOM – VISTORIA, PODA E CORTE DE ÁRVORES 110
+estiver realizando o corte deverá cientificar-se da inexistência de obstáculos na área
+determinada como rota de fuga (45 graus, em ambos os lados, da linha de direção
+da queda).
+Figura 90 – Delimitação da área de risco e rota de fuga
+Fonte: Elaborado pelo autor
+9.5.3 Corte direcional
+O corte direcional permite determinar a direção de queda da árvore e é realizado em
+duas etapas: abertura do entalhe direcional e realização do corte de abate. O
+entalhe de 45 graus foi utilizado durante muitos anos, contudo verificou-se que a
+abertura de um entalhe de 70 graus, ou pouco maior, permite maior controle do
+direcionamento (Figura 91).
+Figura 91 – Entalhe de 70°
+Fonte: Elaborado pelo autor
+70° 90°
+MABOM – VISTORIA, PODA E CORTE DE ÁRVORES 111
+Uma dobradiça com espessura igual a 10% do diâmetro da árvore já possibilita bom
+funcionamento. Deve-se evitar que o corte de abate chegue até a dobradiça. A
+maioria dos manuais recomenda que o corte de abate seja realizado ligeiramente
+acima do entalhe direcional, para reduzir o risco de queda para o lado contrário. Isso
+é fundamental para dobradiças com 45 graus (Figura 92).
+Com o entalhe de face aberta (70 graus) não é necessário que o corte de abate
+esteja acima da dobradiça, podendo ser realizado no nível do entalhe.
+Figura 92 – Corte de abate
+Fonte: Elaborado pelo autor
+Não há impedimento para utilização do método tradicional, com a dobradiça em 45
+graus. No entanto, no momento da realização do corte de abate, o operador da
+motosserra deve se precaver dos perigos relacionados à inclinação excessiva ou
+possíveis falhas estruturais da árvore e ruptura do tronco (Figura 93).
+MABOM – VISTORIA, PODA E CORTE DE ÁRVORES 112
+Figura 93 – Ruptura do tronco durante o corte de abate
+Fonte: Elaborado pelo autor
+Caso seja identificado o risco de ocorrência de tal problema, o tronco deverá ser
+envolvido com um cabo antes do início do corte direcional.
+9.6 Corte de árvore caída.
+Depois que a árvore foi derrubada ou caso tenha sido encontrada caída, padronizase que, primeiramente, sejam retirados todos os ramos laterais, antes que sejam
+realizados os cortes no tronco (Figura 94).
+Figura 94 – Retirada dos ramos laterais em árvore caída
+Fonte: Elaborado pelo autor
+MABOM – VISTORIA, PODA E CORTE DE ÁRVORES 113
+Importante atentar para as recomendações de segurança:
+a) se dois militares estão utilizando a motosserra, deve-se manter uma
+distância mínima de 3 metros entre eles;
+b) o corte que um dos militares está realizando pode afetar partes da árvore
+onde outros estão trabalhando, por exemplo: o rolamento ocasionado pela
+liberação de um galho;
+c) caso seja verificado o risco de rolamento, o tronco deve ser calçado;
+d) sempre que for necessário realizar qualquer deslocamento, o freio da
+motosserra deverá ser acionado, pois é fácil perder o equilíbrio caminhando
+ao redor de galhos;
+e) deve-se ter cuidado com galhos e troncos tensionados: o sabre pode se
+prender ou o militar pode ser atingido, no caso de uma liberação repentina.
+Se a pressão for descendente (Figura 95-A), deve-se começar com um
+pequeno corte na parte inferior e depois terminar o corte na parte superior;
+se ascendente, é necessário utilizar o método inverso (Figura 95-B);
+Figura 95 – Árvore caída: corte com pressão descendente (A) e
+corte com pressão ascendente (B)
+Fonte: Elaborado pelo autor
+f) ao realizar o corte do tronco principal, cunhas podem auxiliar para que o
+sabre não fique preso; outra possibilidade é colocar galhos maiores no local
+onde o tronco irá cair, impedindo contato direto com o solo e permitindo a
+entrada do sabre em toda a extensão; pode-se realizar também todos os
+cortes acima (onde a motosserra possui acesso livre) e, posteriormente,
+MABOM – VISTORIA, PODA E CORTE DE ÁRVORES 114
+rolar o tronco para finalização do corte (Figura 96);
+Figura 96 – Corte do tronco no solo: pela parte acessível (A) e
+pelo lado oposto, após rolar o tronco (B)
+Fonte: Elaborado pelo autor
+g) é necessário ficar atento ao risco do efeito rebote, que ocorre quando a
+corrente entra em contato com a madeira ou objeto duro com o quarto
+superior da ponta do sabre (Figura 97);
+Figura 97 – Atenção do operador para se evitar o efeito rebote
+Fonte: Elaborado pelo autor
+h) o operador deve se posicionar de forma adequada para que a corrente da
+motosserra não atinja o chão (Figura 98).
+MABOM – VISTORIA, PODA E CORTE DE ÁRVORES 115
+Figura 98 – Posicionamento do operador para evitar que a corrente
+da motosserra atinja o chão
+Fonte: Elaborado pelo autor
+9.7 Linha rápida (tirolesa)
+A utilização de uma linha rápida na atividade de corte/poda de árvores será
+abordada de forma breve, considerando a diversidade de configurações possíveis.
+O objetivo, ao instalar a linha rápida, é criar uma via para que os galhos, ao serem
+suprimidos, sejam direcionados para um local apropriado (Figura 99). Utilizada
+quando não é possível descer os galhos próximo ao tronco, pela presença de
+obstáculos.
+Figura 99 – Linha rápida (tirolesa)
+Fonte: Elaborado pelo autor
+MABOM – VISTORIA, PODA E CORTE DE ÁRVORES 116
+Antes da instalação, é necessário avaliar cuidadosamente a estabilidade da
+estrutura onde será realizada a ancoragem, devido ao impacto sofrido no momento
+em que a carga for adicionada ao sistema.
+Trata-se de uma corda ancorada à árvore que está sendo suprimida e em outro
+ponto confiável, próximo à zona de queda. Uma segunda corda é utilizada para o
+controle da descida, passando por uma ancoragem independente, presa a um freio
+na base (Figura 100).
+Figura 100 – Controle de descida na linha rápida (tirolesa)
+Fonte: Elaborado pelo autor
+MABOM – VISTORIA, PODA E CORTE DE ÁRVORES 117
+10 RESGATE DE OPERADORES EM CASO DE ACIDENTES E SITUAÇÃO DE
+RISCO
+O desempenho de uma atividade que envolve riscos exige o conhecimento de
+técnicas adequadas para o salvamento de militares que possam vir a sofrer algum
+tipo de acidente.
+Este Manual apresenta orientações sobre métodos básicos de resgate de vítimas
+sobre árvores, sem necessidade de equipamentos especializados. As técnicas
+requerem conhecimento somente dos equipamentos e sistemas já descritos
+anteriormente.
+10.1 Orientações básicas
+É de suma importância que a equipe para intervenção esteja bem treinada, para
+que, em uma situação real, ela atue de forma ágil e adote as medidas corretas,
+impedindo o agravamento de lesões já existentes.
+Importante ressaltar que podem ocorrer casos graves de laceração que necessitarão
+de uma intervenção imediata, além do risco do acometimento de trauma de
+suspensão.
+Caso seja necessário, uma unidade de resgate deverá ser acionada para a
+condução da vítima ao hospital de referência. Obrigatoriamente, a equipe deve
+manter, em condições imediatas de emprego:
+a) um militar da equipe de solo devidamente equipado para realização de um
+possível resgate;
+b) um kit de primeiros socorros em condições de utilização;
+c) equipamentos para realização do resgate (cordas, polias, fitas, freios,
+mosquetões) dispostos em local apropriado.
+Em árvores de grande porte ou de difícil acesso, uma linha de resgate deverá estar
+MABOM – VISTORIA, PODA E CORTE DE ÁRVORES 118
+instalada e livre para atuação durante toda operação. Descarta-se este
+procedimento se a execução da atividade estiver sendo realizada por dois militares
+sobre a árvore.
+10.2 Princípios para atuação
+Os militares devem se orientar pelos seguintes princípios:
+a) não mover a vítima até que seja possível avaliar sua real condição;
+b) prendê-la ao seu ponto de ancoragem;
+c) remover qualquer perigo potencial como motosserras e ferramentas;
+d) realizar os primeiros-socorros;
+e) descer a vítima utilizando-se dos métodos descritos no subitem 10.3;
+f) dar continuidade ao socorrimento, atentando para o contido no Protocolo de
+Atendimento Pré-hospitalar vigente;
+g) aguardar a chegada da unidade de resgate para condução da vítima.
+10.3 Métodos de resgate
+A escolha do método de resgate dependerá do sistema utilizado pela vítima, do
+porte da árvore e do mecanismo da lesão.
+10.3.1 Método A
+Descrição do método:
+a) utilizado no caso em que a linha de ascensão ou deslocamento (onde a
+vítima está ancorada) esteja intacta e possua tamanho suficiente para
+chegada ao solo;
+b) sobe-se até o ponto de ancoragem mais próximo à vítima, capaz de suportar
+o peso do socorrista e socorrido (Figura 101);
+c) a vítima deverá ser conectada ao engate principal do cinto do socorrista para
+auxílio da descida, impedindo a separação entre eles (Figura 102);
+d) em seguida, inicie os primeiros socorros;
+MABOM – VISTORIA, PODA E CORTE DE ÁRVORES 119
+e) o socorrista opera o blocante da vítima e o seu próprio, possibilitando uma
+descida controlada (caso entenda ser mais viável, uma polia poderá ser
+instalada acima do blocante da vítima para possibilitar sua liberação).
+Figura 101 - Método A de resgate: estabilização inicial da vítima
+Fonte: Acervo do CBMMG
+Figura 102 – Método A de resgate: conexão ao engate principal do cinto do socorrista
+Fonte: Acervo do CBMMG
+f) realiza-se a descida (Figura 103);
+g) continuidade no socorrimento, conforme Protocolo de Atendimento Pré-
+MABOM – VISTORIA, PODA E CORTE DE ÁRVORES 120
+Hospitalar (APH) vigente.
+Figura 103 – Método A de resgate: descida da vítima
+Fonte: Acervo do CBMMG
+10.3.2 Método B
+Esse método é utilizado caso a linha de ascensão ou deslocamento (onde a vítima
+está ancorada) esteja danificada, presa ou não possua tamanho suficiente para
+chegar ao chão:
+a) o socorrista sobre até o ponto de ancoragem mais próximo à vítima, capaz
+de suportar o peso do socorrista e socorrido;
+b) a vítima é conectada ao engate principal do cinto do socorrista para auxílio
+da descida, impedindo a separação entre eles (Figura 104);
+c) em seguida, inicie os primeiros socorros;
+d) transfira a ancoragem da vítima para a do socorrista, liberando o peso e
+retirando a folga, para que ela seja desconectada ou cortada (Figura 105);
+MABOM – VISTORIA, PODA E CORTE DE ÁRVORES 121
+Figura 104 – Método B de resgate: conexão ao engate principal
+do cinto do socorrista
+Fonte: Acervo do CBMMG
+Figura 105 – Método B de resgate: transferência da ancoragem
+Fonte: Acervo do CBMMG
+MABOM – VISTORIA, PODA E CORTE DE ÁRVORES 122
+e) um blocante deverá ser adicionado ao lado estático da corda (sistema do
+socorrista) e conectado ao engate principal do cinto da vítima;
+f) realiza-se a descida (Figura 106);
+Figura 106 – Método B de resgate: descida da vítima
+Fonte: Acervo do CBMMG
+g) se a vítima estiver consciente, pode ser solicitado que ela ajude no processo
+de resgate (isso a manterá alerta até a chegada do socorro). Caso haja
+possibilidade, solicite também que a vítima movimente os membros
+inferiores. Em seguida, socorrer, conforme Protocolo de APH vigente.
+10.3.3 Métodos alternativos
+a) a subida pode ser realizada com uso de esporão, escadas ou outro
+equipamento que permita maior agilidade. Se uma viatura com lance
+elevatório estiver disponível, este recurso deverá ser utilizado.
+b) a corda anexa à vítima pode ser passada em uma ancoragem independente
+e a descida pode ser controlada do solo ou de outro ponto da árvore.
+c) se a vítima estiver ligada a uma linha de ascensão, utilizando-se a técnica da
+corda simples (SRT), o equipamento de frenagem poderá ser liberado e a
+vítima descida junto com o sistema.
+MABOM – VISTORIA, PODA E CORTE DE ÁRVORES 123
+REFERÊNCIAS
+ARACRUZ, Prefeitura Municipal de. Manual de recomendações técnicas para
+projetos de arborização urbana e procedimentos de poda. Aracruz: Prefeitura de
+Aracruz, 2013. 34 p. Disponível em: <http://www.pma.es.gov.br/aruivos/downloads/
+Manual_Arborizacao.pdf>. Acesso em: 15 mar. 2018.
+BARATA, Beatriz. Transporte no Floema. Universo incrível: portfólio de biologia e
+geologia. 15 maio 2013. Disponível em: <http://beatrizpbportefolio.blogspot.com.br
+/2013/05/transporte-no-floema.html>. Acesso em: 15 mar. 2018.
+BROWN, Keith. Cavity in Your Tree – Internal Decay. Austin tree experts. 11 jul.
+2010. Disponível em: <https://www.austintreeexperts.com/blog/cavity-tree-internaldecay-hollow/>. Acesso em: 23 set. 2018.
+GANODERMA common basal decay fungus of trees. Arborline tree care. 26 ago.
+2015. Disponível em: <https://www.arborlinetreecare.co.uk/news/2015/8/26/
+ganoderma-common-basal-decay-fungus-of-trees>. Acesso em: 15 mar. 2018.
+HUSQVARNA. Instruções para uso: T 425. Husqvarna, 2008. 332 p.
+JEPSON, Jeff. The Tree Climber’s Companion: A reference and training manual for
+professional tree climbers. 2.ed. Longville, Beaver Tree Publishing, 2007. 104 p.
+LILLY, Sharon. Tree Climber’s Guide. 3. Ed. Champaign, International Society of
+Arboricuhure, 2005. 171 p.
+JOHN B. Ward e Co. Arborists. Wood decay fungi by Ken LeRoy. Altura: 514
+pixels. Largura: 771 pixels. 96 dpi. 24 BIT CMYK. 208 KB. Formato Imagem JPEG.
+30 mar. 2016. Disponível em: <http://www.johnbward.com/wood-decay-fungi>.
+Acesso em: 23 set. 2018.
+KEYWORDSDOCTOR. Identifying heartwood decay. Kramer Tree Specialists. 08
+nov. 2012. Altura: 479 pixels. Largura: 553 pixels. 300 dpi. 24 BIT CMYK. 387 KB.
+Formato Imagem JPEG. Disponível em: <http://www.keywordsdoctor.com/aGVhcnR
+3b29kIGRlY2F5/>. Acesso em: 23 set. 2018.
+LONG, Stephen. How to Help Your Best Trees Grow. Hanover, USA: Center for
+Northern Woodlands Education, 08 maio 2012. Disponível em:
+<https://northernwoodlands.org/articles/article/how-to-help-your-best-treesgrow#prettyPhoto>. Acesso em: 23 set. 2018.
+MINAS GERAIS. CEMIG. . Manual de Arborização. Belo Horizonte: Fundação
+Biodiversitas, 2011. 112 p. Disponível em:
+<https://www.cemig.com.br/sites/imprensa/ptbr/Documents/Manual_Arborizacao_Cemig
+_Biodiversitas.pdf>. Acesso em: 04 fev. 2019.
+NEW YORK STATE, Department of Environmental Conservation. Recognizing
+Hazardous Defects In Trees. Disponível em: <https://www.dec.ny.gov/lands/
+5293.html>. Acesso em: 23 set. 2018.
+MABOM – VISTORIA, PODA E CORTE DE ÁRVORES 124
+PASSATIEMPOMAINTENANCE. Leaning Tree. 11 mar. 2012. Passatiempo Golf
+Club. Altura: 413 pixels. Largura: 550 pixels. 72 dpi. 24 BIT sRGB. 179 KB. Formato
+Imagem JPEG. Disponível em: <https://pasatiempomaintenance.wordpress.com/
+page/3/>. Acesso em: 23 set. 2018.
+PINTO, Jorge. Mais uma que estava inclinada. 05 out. 2010. Altura: 300 pixels.
+Largura: 400 pixels. 96 dpi. 24 BIT sRGB. 179 KB. Formato Imagem JPEG.
+Disponível em: <http://amigosprincipereal.blogspot.com.br/2010/10/mais-uma-queestava-inclinada.html>. Acesso em: 15 mar. 2018.
+POKORNY, Jill D., O'BRIEN, J., HAUER, R., JOHNSON, G., ALBERS, J., BEDKER,
+P., & MIELKE, M. (2003). Urban tree risk management: a community guide to
+program design and implementation. USDA Forest Service Northeastern Area State
+and Private Forestry 1992 Folwell Ave. St. Paul, MN 55108. 2003. 194 p. Disponível
+em:<https://parks.ny.gov/publications/documents/UrbanTreeRiskMgmnt.
+pdf>. Acesso em: 15 mar. 2018.
+PORTLAND, CITY OF. How to Measure a Tree. Disponível em:
+<https://www.portlandoregon.gov/trees/article/424017>. Acesso em: 23 set. 2018.
+ROCHA, Goretti. Síndico derruba 3 árvores de médio e grande porte, deixando
+rua sem sombras para estacionamento. 2012. Disponível em:
+<http://mirantesdealdeia2.blogspot.com.br/2012/>. Acesso em: 15 mar. 2018.
+SEITZ, Rudi Arno. A Poda de Árvores Urbanas. 1º Curso em Treinamento sobre
+Poda em Espécies Arbóreas Curitiba: Fundação de Pesquisas Florestais do Paraná,
+1996. 27 p. Disponível em:
+<http://www.ipef.br/publicacoes/curso_arborizacao_urbana/cap07.pdf>. Acesso em:
+15 mar. 2018.
+SULMINAS146. Codema esclarece corte de árvore centenária em Passa Quatro,
+no Sul de Minas. 2014. Disponível em: <http://www.sulminas146.com.br/arvorecentenaria-corre-risco-de-cair-em-cidade-sul-de-minas/>. Acesso em: 15 mar. 2018.
+STIHL. Stihl ms 290, 310, 390: Manual de Instruções de Serviços. São Leopoldo,
+2018. 52 p.
+TREEDICTIONARY. Cracks. Disponível em:
+<http://www.treedictionary.com/DICT2003/HTMLFILES/cracks.html>. Acesso em: 23
+set. 2018.
+THE ARBORICULTURAL ASSOCIATION AMPFIELD HOUSE. A Guide to Good
+Climbing Practice. Romsey, 2008. 51 p.
+THE MORTON ARBORETUM. Canker diseases. Disponível em:
+<http://www.mortonarb.org/trees-plants/tree-and-plant-advice/help-diseases/cankerdiseases>. Acesso em: 23 set. 2018.
+MABOM – VISTORIA, PODA E CORTE DE ÁRVORES 125
+USDA, Forest Service - Northeastern Area. Inrolled crack. Georgia, USA: USDA,
+2015. Disponível em:
+<https://www.forestryimages.org/browse/detail.cfm?imgnum=1408015>. Acesso em:
+23 set. 2018.
+USDA, Forest Service - Northeastern Area. shear crack. Georgia, USA: USDA,
+2018. Disponível em:
+<https://www.forestryimages.org/browse/subthumb.cfm?sub=17645>. Acesso em: 15
+mar. 2018.
+VICHIATO, Maria Rosa de Medeiros et al. Ocorrência de Euchromagigantea
+(Coleoptera: Buprestidae) em Belo Horizonte, MG. Revista de Tecnologia &
+Ciências Agropecuárias de João Pessoa, v.8, n.5, p. 7- 11, dez. 2014. Disponível
+em: <http://revistatca.pb.gov.br/edicoes/volume-08-2014/volume-8-numero-5-
+dezembro-2014/tca8502.pdf>. Acesso em: 15 mar. 2018.
+WSL, Swiss Federal Institute for Forest, Snow and Landscape Research. Glossary
+of Dendrochronology: frost crack. 2018
+Disponívelem<https://www.wsl.ch/dendro/products/dendro_glossary/viewImage_EN?
+id=122>.Acesso em: 23 set. 2018.
+MABOM – VISTORIA, PODA E CORTE DE ÁRVORES 126
+GLOSSÁRIO
+A
+Alburno - camada de células vivas existente no tronco de árvores lenhosas.
+Localiza-se entre a casca e o cerne. Possui coloração mais clara e menor espessura
+quando comparada à parte mais interna do caule. Constitui o tecido condutor de
+água e nutrientes das raízes até as folhas.
+Anel de Malpighi - consiste na retirada de um anel contendo alguns tecidos do
+caule ou dos ramos de uma angiosperma, principalmente o floema (vaso
+responsável pelo transporte de seiva elaborada para a raiz). Sem alimento para as
+raízes, o vegetal morre.
+Antera - parte do estame de forma e tamanho variado, onde se formam os vários
+pequenos sacos polínicos dentro dos quais se dá a formação do pólen.
+Arborismo - prática esportiva que consiste em percorrer um circuito formado por
+diferentes estruturas (pontes de cordas, redes etc.), montadas entre as copas das
+árvores.
+B
+Bainha - é a parte basal e dilatada de uma folha, onde se insere o pecíolo ou o
+limbo, e que abraça mais ou menos o caule.
+Botânica – ciência que estuda as plantas e organismos semelhantes a plantas.
+C
+Câmbio - tecido meristemático que dá origem a tecidos secundários, de onde
+resulta o crescimento em diâmetro da planta.
+Carpelo - órgão feminino da flor constituído, quando completo, de ovário, estilete e
+estigma. Sinônimo: Pistilo
+Cerne - região mais central e escura do caule das árvores. Constituído por xilema
+inativo, isto é, por vasos lenhosos que não conduzem mais seiva bruta. Possui
+significativa dureza e resistência, além de grandes quantidades de corantes e
+resinas que impedem a proliferação de microrganismos.
+Cicatriz de fogo – cicatrizes nas árvores deixadas pela ação do fogo.
+Elas favorecem o surgimento dos cancros e o ataque de insetos e fungos.
+MABOM – VISTORIA, PODA E CORTE DE ÁRVORES 127
+Cisalhamento - fenômeno de deformação ao qual um corpo está sujeito quando as
+forças que sobre ele agem provocam um deslocamento em planos diferentes,
+mantendo o volume constante.
+Cochonilhas - são pequenos insetos parasitas pertencentes à ordem Hemiptera e
+são conhecidos por atacarem plantações causando muitas perdas agrícolas. São
+encontrados em aglomerações nas folhas, frutos, ramos e raízes das mais diversas
+plantas.
+D
+Dieback - uma doença de plantas vasculares caracterizada por morte a partir da
+ponta de galhos e ramos, causada por parasitas, umidade insuficiente, problemas
+nas raízes, entre outros fatores.
+E
+Ecossistema - é o nome dado a um conjunto de comunidades que vivem em um
+determinado local e interagem entre si e com o meio ambiente, constituindo um
+sistema estável, equilibrado e auto-suficiente.
+Endocarpo - parede interna do fruto que envolve a semente, oriunda da parede
+interna do ovário.
+Entalhe- corte, fenda ou fissura em madeira ou em outros materiais.
+Epicarpo - parede externa do fruto que corresponde a parede externa do ovário.
+Estame - órgão masculino da flor que, quando completo, apresenta antera,
+conectivo e filete.
+Estigma - parte superior do pistilo, de forma e tamanho variado
+Estípula - formação laminar existente na base do pecíolo das folhas.
+Estropo - cabo entrançado pelas pontas, formando uma espécie de anel ou argola,
+e destinado a vários usos.
+F
+Floema - tecido vascular formado por células vivas de paredes finas de natureza
+celulósica e responsável pela translocação das substâncias orgânicas sintetizadas
+ou transformadas na fotossíntese.
+MABOM – VISTORIA, PODA E CORTE DE ÁRVORES 128
+G
+Gandola– vestimenta superior de manga comprida que compõe parte do uniforme
+operacional dos militares.
+M
+Mesocarpo - a parte mediana do fruto que corresponde ao mesófilo do ovário, pode
+ser carnoso e rico em substâncias de reservas ou rígido.
+Microclima - variação localmente restrita do padrão climático geral em decorrência
+de condições físicas específicas, como a topografia, a vegetação e o solo.
+Morfologia - estudo da configuração e da estrutura externa de um órgão ou ser vivo.
+N
+Nervuras - tecidos condutores que se apresentam agrupados em feixes vasculares.
+O
+Ovário - região inferior, dilatada do pistilo onde são formados os óvulos.
+P
+Pecíolo - ponto de inserção na base da folha.
+Pedúnculo - haste de uma inflorescência ou de uma flor solitária.
+Pericarpo - é o fruto em si, formado pelo desenvolvimento do ovário depois da
+fecundação do óvulo e que envolve a semente. Consta de três partes: epicarpo,
+mesocarpo e endocarpo.
+Pétala- constituinte da corola. Folhas modificadas geralmente responsáveis pela
+atração de polinizadores devido a variada coloração
+Pistilo - vide carpelo.
+Pulgões - são pequenos insetos sugadores de seiva elaborada e que prejudicam as
+culturas não apenas pela sucção de seiva, mas também pela inoculação de toxinas
+e transmissão de viroses.
+R
+Receptáculo - parte apical do pedúnculo de uma flor ou inflorescência que, ao
+formar o receptáculo, se alarga. Nele se inserem algumas ou todas as partes da flor.
+MABOM – VISTORIA, PODA E CORTE DE ÁRVORES 129
+S
+Sabre– parte de uma motosserra onde a corrente é acoplada para realização de
+corte.
+Sépala - apêndices estéreis da estrutura floral, geralmente de cor verde, existentes
+na parte externa do receptáculo.
+X
+Xilema - tecido composto por células mortas e parenquimáticas. Transporta água e
+sais minerais da raiz até às folhas.

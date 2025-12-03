@@ -1,0 +1,377 @@
+RESOLUÇÃO Nº 1157, DE 10 DE OUTUBRO DE 2023.
+Disciplina a utilização do Sistema Eletrônico de
+Informações para a confecção dos processos e procedimentos administrativos, que, por força legal,
+devam tramitar com restrições de acesso.
+O COMANDANTE-GERAL DO CORPO DE BOMBEIROS MILITAR DE MINAS
+GERAIS, no uso da atribuição que lhe confere o art. 6º da Lei Complementar nº 54, de 13 de dezembro de
+1999, e considerando:
+- os princípios da duração razoável do processo e da eficiência, previstos, respectivamente,
+no art. 5°, inciso LXXVIII, e art. 37, caput, da Constituição Federal;
+- a informatização dos processos judiciais no âmbito do Poder Judiciário, regulamentada
+pela Lei Federal n° 11.419/06;
+- o Decreto Estadual n° 47.222, de 26 de julho de 2017, que admite ao Poder Executivo
+Estadual o uso de meio eletrônico para a tramitação de processos administrativos;
+- o Decreto Estadual n° 47.228, de 4 de agosto de 2017, que instituiu o Sistema Eletrônico
+de Informações (SEI) como sistema oficial para formação, instrução e decisão de processos
+administrativos eletrônicos;
+- a Resolução BM nº 869, de 16 de setembro de 2019, que dispõe sobre a implantação,
+padronização e utilização do Sistema Eletrônico de Informações (SEI) como ferramenta de comunicação
+oficial para formatação, instrução e decisão de processos administrativos eletrônicos.
+RESOLVE:
+CAPÍTULO I
+DO PROCESSO E DO PROCEDIMENTO ELETRÔNICO SIGILOSO
+Seção I
+Das Generalidades
+Art. 1º - Esta Resolução disciplina a utilização do Sistema Eletrônico de Informações (SEI)
+para criação, instrução, decisão e tramitação, na modalidade eletrônica, de processos e procedimentos
+administrativos de apuração disciplinar, não disciplinar, atividades de polícia judiciária, de danos ao erário
+e demais processos que, por força legal, devam tramitar com restrições de acesso.
+Parágrafo único - Os processos e procedimentos administrativos a que faz menção o caput
+tramitarão no SEI em nível de acesso sigiloso e a expressão SEI SIGILOSO abrange os processos
+eletrônicos criados nos termos desta resolução.
+CBMMG - Resolução 1157 (74747220) SEI 1400.01.0039731/2023-64 / pg. 1
+Seção II
+Dos Objetivos
+Art. 2º - A utilização do SEI SIGILOSO atende aos seguintes objetivos:
+I - assegurar eficiência, eficácia e efetividade da gestão de documentos e processos,
+promovendo a adequação entre meios, ações, impactos e resultados, seguindo as diretrizes do Plano de
+Comando do Corpo de Bombeiros Militar de Minas Gerais (CBMMG);
+II - promover a utilização de meios eletrônicos para a realização dos processos
+administrativos com segurança, transparência e economicidade;
+III - aumentar a produtividade e a celeridade na tramitação de processos;
+IV - ampliar a sustentabilidade ambiental com o uso da tecnologia da informação e
+comunicação (TIC);
+V - garantir o acesso às informações e às instâncias administrativas por meio eletrônico.
+Seção III
+Das Competências
+Art. 3º - Compete às Unidades de Direção-Geral, Diretorias, Corregedoria, Assessoria de
+Assistência à Saúde e Academia de Bombeiros Militar a normatização e gestão das ações desenvolvidas
+no SEI SIGILOSO nas matérias de sua competência, além da:
+I - promoção de políticas de capacitação, monitoramento e avaliação das atividades do
+Sistema;
+II - apresentação à Diretoria de Logística e Finanças (DLF) de solicitações de
+cadastramento de administradores do Sistema, criação de Tipos de Processos, Tipos de Documentos e
+outras necessárias à utilização do SEI SIGILOSO;
+Paragrafo único - Os desdobramentos necessários serão realizados pelas Unidades
+competentes e previstas no caput através de atos normativos específicos.
+Art. 4º - Compete à Diretoria de Logística e Finanças (DLF):
+I - monitorar, desenvolver e aperfeiçoar o Sistema no que lhe competir;
+II - encaminhar à Secretaria de Estado de Planejamento e Gestão (SEPLAG), após análise,
+os pedidos de criação de Tipo de Processos, Documentos, e afins solicitados pelas Unidades
+Intermediárias;
+III - gerir tecnicamente o Sistema no que lhe competir;
+IV - acompanhar junto a SEPLAG a manutenção da segurança de acesso e de
+armazenamento do SEI voltadas à garantia da autenticidade e integridade dos processos;
+V - cadastrar e orientar usuários de forma que estejam adequados ao local/função exercidos
+conforme demanda apresentada pelas Unidades;
+VI - cadastrar administradores do Sistema SEI, treiná-los e orientá-los sobre o encargo,
+especialmente no tocante ao nível de acesso sigiloso.
+Parágrafo único - Será cadastrado, no mínimo, um administrador SEI dentre os militares
+lotados nos cartórios da Corregedoria, dos Comandos Operacionais de Bombeiros e de cada Unidade de
+Execução e Apoio.
+Art. 5º - Compete às Unidades:
+I - indicar à DLF os administradores do SEI, sendo, obrigatoriamente, um militar lotado no
+CBMMG - Resolução 1157 (74747220) SEI 1400.01.0039731/2023-64 / pg. 2
+cartório da Unidade;
+II - proceder ao arquivamento dos processos de natureza não disciplinar nas Unidades SEI
+dos respectivos cartórios;
+III - cientificar à respectiva unidade administradora e providenciar o bloqueio de acesso de
+usuário ao SEI que, em virtude de algum fato ou ocorrência, seja afastado do serviço;
+IV - solicitar à respectiva unidade administradora, no caso de afastamento definitivo de
+usuário, a exclusão de seu acesso ao SEI.
+Parágrafo único - Caso o volume de processos de natureza não disciplinar no SEI
+SIGILOSO seja significativo, poderá ser criada uma Unidade SEI de Acervo na Unidade.
+Art. 6º - Compete aos Cartórios das Unidades:
+I - assessorar os respectivos comandantes na gestão, coordenação, supervisão,
+acompanhamento e execução dos processos e procedimentos disciplinares e de polícia judiciária no SEI
+SIGILOSO;
+II - manter, no mínimo, um militar do setor credenciado em cada processo e procedimento
+de natureza disciplinar e de polícia judiciária em tramitação no SEI SIGILOSO;
+III - coordenar e fiscalizar a atuação dos administradores do SEI na respectiva seção;
+IV - orientar todos os usuários do SEI SIGILOSO na elaboração dos processos e
+procedimentos disciplinares e de polícia judiciária;
+V - utilizar e orientar o uso pelos militares da Unidade dos modelos favoritos, autotextos,
+bases de conhecimentos e processos modelos disponibilizados pelas Unidades Intermediárias no SEI;
+VI - credenciar e remover credenciais de autoridades, encarregados, sindicantes, integrantes
+de Comissão de Processo Administrativo Disciplinar (CPAD) e Conselho de Ética e Disciplina Militar da
+Unidade (CEDMU) dos processos no SEI SIGILOSO conforme o andamento do processo;
+VII - analisar e validar os cadastros de usuários externos envolvidos nos processos e
+procedimentos disciplinares e de polícia judiciária nos termos da legislação aplicável;
+VIII - criar ou dar andamento nos processos no SEI SIGILOSO;
+IX - migrar os processos concluídos para o modo restrito, encerrá-los e mantê-los em
+arquivo organizado digitalmente em Blocos Internos por tipo e ano de conclusão, distinguindo os de
+natureza não disciplinar, sem prejuízo para o previsto no art. 38;
+X - controlar e associar todas as portarias geradas pelo Sistema Informatizado de Gestão de
+Pessoas (SIGP) com o respectivo número do processo eletrônico do SEI SIGILOSO;
+XI - tramitar os processos eletrônicos referentes aos procedimentos de atividade de polícia
+judiciária à Justiça Militar Estadual do Estado de Minas Gerais conforme regulamentação do referido
+órgão.
+Parágrafo único - Os militares dos cartórios credenciados nos processos atuarão,
+exclusivamente, na orientação do uso da ferramenta.
+Art. 7º - Compete a todos os usuários do SEI:
+I - zelar pela correta utilização do SEI, impedindo que pessoas não autorizadas tenham
+acesso às informações contidas no Sistema;
+II - acessar regularmente o SEI, conforme normas vigentes, e consultar o andamento de
+todos os processos para o qual seja demandado;
+III - manter o sigilo de sua senha, das transações em que esteja habilitado e das informações
+reservadas às quais tenha acesso no Sistema;
+IV - comunicar formalmente à autoridade onde se encontrar o processo eventuais problemas
+CBMMG - Resolução 1157 (74747220) SEI 1400.01.0039731/2023-64 / pg. 3
+ou indisponibilidade do Sistema ou impedimentos legais que impossibilitem ou dificultem o acesso;
+V - informar ao setor ou responsável pela concessão de credencial o eventual
+credenciamento irregular em processo para o qual não foi designado, mantida a obrigação da manutenção
+do sigilo das informações das quais, eventualmente, obteve acesso.
+CAPÍTULO II
+DA GESTÃO DOS PROCESSOS SIGILOSOS
+Art. 8º - A gestão do uso do SEI SIGILOSO será realizada de forma compartilhada, em
+observância às competências das Unidades de Direção Geral, Intermediárias e de Execução e Apoio, que
+se dará de acordo com a natureza do processo.
+Parágrafo único - A DLF será responsável pela manutenção e aprimoramento tecnológico
+do SEI SIGILOSO no âmbito do CBMMG, recebendo as demandas das Unidades, analisando-as,
+respondendo-as ou repassando-as à SEPLAG para implementação nos termos da legislação aplicável.
+CAPÍTULO III
+DO PROCESSO ELETRÔNICO
+Seção I
+Da Criação, Da Tramitação, Dos Prazos, Da Exclusão e Da Cronologia
+Art. 9º - O SEI SIGILOSO será utilizado para iniciar, elaborar, editar, assinar, tramitar,
+receber e concluir os processos e procedimentos mencionados no art. 1º.
+§ 1º - Aplica-se aos processos eletrônicos no SEI SIGILOSO integralmente o disposto na
+Resolução Conjunta SEPLAG/SEC n. 9.921, de 02 de outubro de 2018, e na Resolução CBMMG n. 869,
+de 16 de setembro de 2019.
+§ 2º - Os processos eletrônicos no SEI SIGILOSO serão regidos pelas respectivas normas
+procedimentais e processuais, cumprindo ao SEI o papel de ferramenta de criação e condução dos
+processos em meio digital.
+Subseção I
+Da Criação
+Art. 10 - Os processos administrativos no SEI SIGILOSO serão criados em um processo
+eletrônico iniciado a partir do comando de “Iniciar Processo”, selecionando-se, em seguida, o “Tipo de
+Processo”.
+§ 1º - O tipo de processo será escolhido conforme sua natureza, sendo selecionado dentre
+aqueles destacados por meio de tarjas que os identificam como de nível de acesso sigiloso e assinalandose, ainda, a hipótese legal aplicável.
+§ 2º - Na tela de criação “Iniciar Processo” é obrigatória a indicação dos assuntos aplicáveis
+ao processo no campo “Classificação por Assuntos”.
+Art. 11 - O processo eletrônico no SEI SIGILOSO utilizará, a partir do menu “tipos de
+documentos”, documentos próprios do CBMMG disponíveis no SEI, de acordo com sua natureza e, na sua
+ausência, aqueles de uso geral disponibilizados pelo sistema.
+§ 1º - Os documentos produzidos ou inseridos nos processos no SEI SIGILOSO receberão
+classificação de “restrito” dentro dos respectivos processos sigilosos devendo ser selecionada a hipótese
+legal aplicável.
+CBMMG - Resolução 1157 (74747220) SEI 1400.01.0039731/2023-64 / pg. 4
+§ 2º - Os documentos de origem dos processos e procedimentos de natureza disciplinar e de
+polícia judiciária, tais como comunicações e queixas disciplinares, relatórios reservados, denúncias, notitia
+criminis e afins somente serão criados ou digitalizados no SEI SIGILOSO.
+Art. 12 - Os processos sigilosos serão movimentados para as Unidades SEI dos Cartórios
+por ocasião de seu encerramento, onde terão o nível de acesso alterado para "restrito", sendo concluídos e
+mantidos em Blocos Internos organizados para fins de arquivo.
+§ 1º - Os Cartórios das Unidades certificar-se-ão de que não há mais nenhum usuário
+credenciado antes de alterar o nível de acesso dos processos SEI.
+§ 2º - As Unidades que possuam a Unidade SEI Acervo, nos termos do parágrafo único do
+art. 5º, encaminharão e encerrarão os processos na referida Unidade SEI, devendo certificar-se de que não
+há mais nenhum usuário credenciado antes de alterar o nível de acesso dos processos.
+Subseção II
+Da Tramitação
+Art. 13 - A tramitação do processo no SEI SIGILOSO se dá por meio de credenciamento
+pessoal de usuário ativo, ato que concede acesso ao processo, seu conteúdo e suas funcionalidades.
+§ 1º - O criador do processo em nível sigiloso providenciará o credenciamento do militar a
+que se destinar o processo para seu trâmite regular.
+§ 2º - Nos processos e procedimentos de natureza disciplinar e de polícia judiciária será
+credenciado, para início de sua tramitação, o chefe do cartório da respectiva Unidade, se não for ele o
+criador do processo.
+§ 3º - Uma vez credenciado o militar destinatário, ato contínuo, o remetente renunciará à
+sua credencial, salvo nos casos previstos nesta resolução.
+§ 4º - Ocorrendo erro no credenciamento de acesso a processo eletrônico sigiloso, caso o
+concedente da credencial não a remova, o usuário credenciado erroneamente providenciará sua renúncia
+imediatamente ao tomar ciência, informando a quem lhe tenha concedido a credencial bem como
+retornando-lhe o processo.
+Art. 14 - Uma vez credenciado o acusado ou interessado, as notificações passam a ocorrer
+por meio do processo eletrônico no SEI SIGILOSO.
+§ 1º - Nos processos de natureza disciplinar, o encarregado ou o setor responsável pelo
+processo concederá a credencial ao acusado para a prática e/ou assinatura dos atos atinentes à manifestação
+ou participação da defesa, devendo removê-la logo após satisfeitos os atos mencionados.
+§ 2º - O credenciamento será renovado em cada ocasião em que a defesa for chamada a se
+manifestar.
+§ 3º - O encarregado não renunciará à sua credencial ao credenciar o acusado.
+§ 4º - Para a solicitação de vistas aos autos, fica dispensado o credenciamento, devendo ser
+fornecida cópia integral do conteúdo já concluído por meio de correspondência eletrônica no processo SEI
+até o próximo dia útil após o pedido.
+Art. 15 - É vedado ao acusado credenciado utilizar qualquer funcionalidade alheia à sua
+condição no processo, ficando proibido de:
+I - credenciar qualquer usuário no processo;
+II - alterar, excluir, incluir, duplicar e remeter qualquer documento que não seja de sua
+responsabilidade;
+CBMMG - Resolução 1157 (74747220) SEI 1400.01.0039731/2023-64 / pg. 5
+III - assinar ou disponibilizar para assinatura qualquer documento que não requeira sua
+participação;
+IV - concluir, relacionar, remeter, duplicar, disponibilizar acesso, reclassificar e alterar o
+processo.
+§ 1º - O descumprimento do previsto no caput implicará no descredenciamento do processo
+como usuário interno e a continuidade de seu acompanhamento e participação se dará somente como
+usuário externo do SEI, nos termos da Seção II desta Resolução.
+§ 2º - Aplica-se o disposto no caput ao militar usuário interno atuando como defensor.
+§ 3º - A inobservância do previsto neste artigo poderá configurar crime militar conforme
+art. 316 do Decreto-Lei nº 1001, de 21 de outubro de 1969, sem prejuízo das demais responsabilidades
+legais aplicáveis.
+Art. 16 - O militar credenciado será considerado cientificado no dia e no horário de acesso
+registrados pelo Sistema, sem prejuízo para outros meios de notificação legalmente válidos.
+§ 1º - Nos casos em que o acesso se dê em dia não útil, considerar-se-á cientificado no
+primeiro dia útil seguinte.
+§ 2º - A contagem dos prazos opera-se no momento da cientificação válida, nos termos das
+normas processuais aplicáveis ao processo.
+Art. 17 - Os representantes legais dos militares, se houver, bem como os peritos e as
+testemunhas que não forem usuários internos ativos, participarão do processo como usuários externos,
+obedecendo às normas aplicáveis a este acesso.
+Subseção III
+Dos Prazos
+Art. 18 - Os processos no SEI SIGILOSO terão seus prazos prorrogados nos casos de
+inoperância do sistema, por motivo técnico, por tempo superior a uma hora (60 minutos), consecutivos ou
+não, se ocorrida no período compreendido entre 06 e 23 horas.
+§ 1º - Para fins do previsto no caput, o prazo será contado por dia de inoperância e
+corresponderá ao período, em dias, de indisponibilidade do Sistema.
+§ 2º - Uma vez retomada a normalidade do SEI, os prazos retornam automaticamente sua
+contagem a partir do dia útil subsequente ao restabelecimento do Sistema.
+§ 3º - A inoperância, quando alegada, será atestada pelo encarregado ou pelo cartório da
+Unidade responsável pelo processo, mediante consulta ao sítio eletrônico de comunicados de
+indisponibilidade do SEI da SEPLAG, dando-se ciência ao interessado e a seu representante, se houver,
+da dilação do prazo.
+§ 4º - Não caracterizam indisponibilidade do SEI as falhas de transmissão de dados entre a
+estação de trabalho do usuário externo e a rede de comunicação pública, assim como a impossibilidade
+técnica que decorrer de falhas nos equipamentos ou programas do usuário.
+Subseção IV
+Das Exclusões
+Art. 19 - Os processos no SEI SIGILOSO eventualmente criados por equívoco no Sistema,
+que não tenham sido publicados, lançados no SIGP, nem tenham produzido efeitos jurídicos, serão
+excluídos ou terão reclassificados o grau de acesso, conforme o caso.
+§ 1º - No caso em que o equívoco se limitar a documentos integrantes dos processos e
+CBMMG - Resolução 1157 (74747220) SEI 1400.01.0039731/2023-64 / pg. 6
+procedimentos no SEI SIGILOSO, apenas estes serão excluídos.
+§ 2º - A exclusão será feita por administrador do Sistema lotado na Unidade responsável
+pelo processo ou procedimento mediante solicitação formal de militar a quem incumbir a responsabilidade
+pelo processo.
+Subseção V
+Da Cronologia
+Art. 20 - Os documentos são ordenados automaticamente na árvore do processo SEI
+consoante cronologia de inclusão, competindo ao responsável de cada etapa do processo verificar se a
+sequência da cadeia documental está em conformidade com as normas vigentes.
+Parágrafo único - A ordem dos documentos nos processos eletrônicos somente poderá ser
+alterada mediante solicitação formal e fundamentada ao administrador do Sistema da Unidade responsável
+pelo processo ou procedimento ou, em sua ausência, ao Administrador do Sistema da Subdiretoria de
+Tecnologia e Sistemas.
+Seção II
+Do Cadastro do Usuário Externo
+Art. 21 - A notificação de militar sobre instauração de processo administrativo informará o
+acusado, investigado ou interessado sobre a necessidade de seus representantes, se houver, se cadastrarem
+como usuário externo no SEI para fins de participação no processo, o qual ocorrerá por meio do sítio
+eletrônico próprio da SEPLAG.
+§ 1º - O cadastro do usuário externo obedecerá ao previsto no Capítulo VII da Resolução nº
+869 de 16 de setembro de 2019.
+§ 2º - O encarregado providenciará a notificação da instauração por e-mail institucional
+pessoal no próprio processo, encaminhando o termo de notificação ou abertura de vistas criado no SEI
+SIGILOSO.
+Art. 22 - O usuário externo ou o militar a quem ele representa comunicará ao encarregado
+do processo acerca da conclusão de seu cadastro no SEI, via SEI ou e-mail institucional indicado, devendo
+informar o nome completo, correio eletrônico cadastrado (e-mail) e Cadastro de Pessoa Física (CPF).
+§ 1° - O encarregado informará ao administrador do SEI de sua Unidade os dados indicados
+no caput, o qual providenciará a análise e autorização de acesso externo ao SEI.
+§ 2° - A liberação do usuário externo pelo administrador do SEI não importa em acesso aos
+autos do processo, nem ao direito de peticionamento imediato, o qual será liberado pelo encarregado de
+acordo com a fase do processo.
+§ 3º - O e-mail indicado no cadastro de usuário externo fica vinculado ao processo, sendo
+responsabilidade do usuário a sua manutenção e acesso regular.
+Art. 23 - Uma vez cadastrados os usuários externos, as notificações passam a ocorrer por
+meio do processo eletrônico no SEI SIGILOSO.
+§ 1º - Considerar-se-á realizada a notificação no dia em que se efetivar a consulta eletrônica
+ao e-mail cadastrado, ocasião em que o usuário manifestará sua ciência ao remetente por meio de resposta
+ao e-mail.
+§ 2º - Na hipótese do § 1º deste artigo, nos casos em que a consulta se dê em dia não útil, a
+notificação será considerada como realizada no primeiro dia útil seguinte.
+§ 3º - Após realizada a notificação, a contagem de prazo inicia-se no próximo dia útil
+CBMMG - Resolução 1157 (74747220) SEI 1400.01.0039731/2023-64 / pg. 7
+subsequente.
+Art. 24 - No curso do processo, toda notificação ao acusado e seus representantes
+franqueará acesso aos autos ou documentos específicos necessários à manifestação da defesa, observadas
+as regras processuais e procedimentais aplicáveis.
+Seção III
+Das Oitivas e Das Reuniões
+Art. 25 - A oitiva dos acusados, investigados, interessados, peritos e testemunhas ocorrerá,
+preferencialmente, por videoconferência e outros recursos tecnológicos de transmissão instantânea de sons
+e imagens indicados pelo encarregado ou sua Unidade.
+§ 1º - A notificação dos envolvidos conterá a indicação do modo em que se dará a
+audiência, se presencial ou por videoconferência, com as informações necessárias para sua participação,
+observadas as regras processuais e procedimentais aplicáveis.
+§ 2º - As oitivas realizadas, por videoconferência ou modo presencial, serão reduzidas a
+termo no processo eletrônico o qual será assinado digitalmente pelos participantes imediatamente ao
+término do procedimento.
+§ 3º - As oitivas realizadas por meio de videoconferência, em regra, não serão gravadas,
+ressalvado o previsto no §5º.
+§ 4º - Na impossibilidade técnica de realização de termo de audiência no SEI, adotar-se-á o
+método tradicional de digitação, impressão, assinatura pelos participantes e sua digitalização e inclusão no
+processo eletrônico.
+§ 5º - Nos processos de natureza disciplinar, obedecer-se-á ao previsto no Manual de
+Processos e Procedimentos Administrativos das Instituições Militares de Minas Gerais (MAPPA)
+aprovado pela Resolução Conjunta nº 4.220, de 28 de junho de 2012.
+§ 6º - Os processos eletrônicos relacionados às atividades de polícia judiciária obedecerão à
+legislação processual pertinente.
+Art. 26 - Em se tratando de acusado, perito ou testemunha usuário ativo, este aporá sua
+senha pessoal de acesso ao SEI para a assinatura do documento, em caso de audiência presencial.
+Art. 27 - O s envolvidos ou participantes que não sejam usuários ativos aporão suas
+assinaturas como usuário externo independente do meio em que se realize a audiência.
+§ 1º - Caso ainda não possuam cadastrado, os advogados ou representantes e as testemunhas
+o realizarão antes do início da oitiva.
+§ 2º - Compete ao encarregado ou escrivão do processo a disponibilização para assinatura
+externa pelos participantes da audiência.
+Art. 28 - As reuniões de CEDMU e de CPAD ocorrerão, preferencialmente, por
+videoconferência e outros recursos tecnológicos de transmissão instantânea de sons e imagens indicados
+pelo Presidente ou Unidade responsável pelo processo.
+Parágrafo único - Os procedimentos para realização e registro das reuniões obedecerão ao
+previsto no art. 25.
+Art. 29 - A aplicação do art. 25 e art. 28 dessa Resolução observará as restrições impostas
+pela Resolução Conjunta PMMG/CBMMG nº 5.240 de 22 de novembro de 2022.
+CBMMG - Resolução 1157 (74747220) SEI 1400.01.0039731/2023-64 / pg. 8
+CAPÍTULO IV
+DA DIGITALIZAÇÃO DE DOCUMENTOS E PROCESSOS FÍSICOS
+Art. 30 - Os documentos e os processos recebidos ou já existentes em suporte físico que
+necessitem ser tramitados serão digitalizados e continuarão seu curso no formato eletrônico, exceto em
+caso de impossibilidade técnica de uso do Sistema cujo prolongamento cause dano relevante à celeridade
+do processo.
+Parágrafo único - As demandas criadas, solucionadas e já arquivadas em suporte físico não
+serão digitalizadas, exceto quando vierem a integrar outros procedimentos ou processos eletrônicos como
+anexos.
+Art. 31 - Os processos, procedimentos e documentos que se encontrarem tramitando em
+suporte físico até a data de publicação dessa resolução poderão ser migrados para o SEI SIGILOSO
+mediante determinação da autoridade responsável pelo processo.
+Art. 32 - Os processos e procedimentos quando digitalizados serão inseridos, autenticados e
+continuados no SEI SIGILOSO em formatos digitais permitidos pelo Sistema.
+Parágrafo único - A origem do processo determinará, em regra, a sua forma de tramitação
+até a sua decisão definitiva na esfera administrativa.
+CAPÍTULO V
+DISPOSIÇÕES FINAIS
+Art. 33 - A utilização do SEI SIGILOSO no CBMMG ocorrerá de forma gradativa,
+conforme orientação das Unidades de Direção-Geral e Intermediária nas matérias de sua respectiva
+competência.
+Parágrafo único - A partir da utilização do SEI SIGILOSO, a autuação de novos processos e
+procedimentos e a produção de documentos nos termos desta resolução serão efetuadas em meio
+eletrônico no Sistema SEI.
+Art. 34 - A tramitação dos processos, procedimentos e documentos no SEI SIGILOSO
+observará as diretrizes relativas à cadeia de comando, ressalvadas as normas processuais e procedimentais
+aplicáveis.
+Art. 35 - O uso indevido do SEI SIGILOSO motivará a apuração de responsabilidade por
+parte dos autores, na forma da legislação em vigor.
+Art. 36 - Caberá às Unidades responsáveis pelos processos definir e redefinir o nível de
+acesso sempre que necessário, ampliando-o ou limitando-o em conformidade com a legislação aplicável.
+Art. 37 - A peça inaugural, as decisões não definitivas e a definitiva no âmbito
+administrativo serão arquivadas na pasta funcional do militar após o encerramento do processo.
+Parágrafo único - Para os casos em que as pastas funcionais já se encontrem em meio
+digital, o processo será integralmente arquivado na pasta funcional após sua conclusão.
+CBMMG - Resolução 1157 (74747220) SEI 1400.01.0039731/2023-64 / pg. 9
+Art. 38 - Ficam convalidados os processos e procedimentos realizados no SEI SIGILOSO
+desde a data de implementação, sem prejuízo para revisão de eventuais vícios não relacionados ao meio de
+condução do processo.
+Art. 39 - Os casos omissos serão encaminhados para análise e deliberação do Chefe do
+Estado-Maior.
+Art.40 - Fica aprovado o Manual de uso geral do SEI SIGILOSO na forma do anexo único.
+Art. 41 - Revogam-se a Resolução nº 1035, de 02 de fevereiro de 2022, e seu anexo, e a
+Resolução nº 1040, de 17 de fevereiro de 2022.
+Art. 42 - Esta Resolução entra em vigor na data de sua publicação.
+Comando-Geral em Belo Horizonte, 10 de outubro de 2023.
+Erlon Dias do Nascimento Botelho, Coronel BM
+Comandante-Geral

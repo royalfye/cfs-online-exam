@@ -1,0 +1,2336 @@
+787m
+ Corpo de Bombeiros Militar de Minas Gerais.
+ Manual de Bombeiros Militar: Movimentos de massa,
+ enchentes e inundações. 1.ed. Belo Horizonte: CBMMG,
+ 2024.
+ 109 p. il.
+
+1. Corpo de Bombeiros Militar de Minas Gerais. 2.
+Movimentos de massa, enchentes e inundações. 3. MMEI.
+4.CSSEI. 5.Manual. 6.MABOM. 7.CBMMG I.Título.
+
+ CDD 614.8
+
+APRESENTAÇÃO
+O objetivo deste Manual de Bombeiros Militar (MABOM) é ser um manual descritivo
+que esclarece, de forma simplificada, alguns movimentos de massa (deslizamentos,
+fluxo de detritos, quedas, tombamentos e rolamentos de blocos), as enchentes, as
+inundações, os alagamentos, as enxurradas e as cabeças d’água. Basicamente,
+esses fenômenos têm a sua gênese na interação da água com o solo, a qual,
+dependendo da situação, pode criar massas mais ou menos densas e viscosas. Além
+disso, a declividade do terreno se apresenta, também, como um fator importante, que,
+pela ação da gravidade, pode adicionar força e velocidade à massa ou à correnteza
+de um rio.
+A intensidade das chuvas e as características do terreno podem resultar nesses
+fenômenos. É importante ressaltar que cada um possui dinâmicas muito próprias que
+demandam o uso de diferentes equipamentos e técnicas no atendimento prestado
+pelas equipes de socorro. Então, este MABOM pretende descrever alguns dos
+fenômenos relacionados ao ciclo hidrológico abordados no Corpo de Bombeiros Militar
+de Minas Gerais (CBMMG), em doutrinas de Proteção e Defesa Civil e, ainda,
+proporcionar um arcabouço que sirva para o desenvolvimento de um segundo volume
+do MABOM de Movimentos de Massa, Enchentes e Inundações (MMEI).
+O capítulo 1 é uma introdução e aborda a perspectiva histórica do problema, ajudando
+a entender o motivo pelo qual os deslizamentos, enchentes e inundações afetam uma
+parcela importante da população brasileira. Em seguida, é traçado um panorama do
+desenvolvimento do Curso de Salvamento em Soterramentos, Enchentes e
+Inundações (CSSEI) no CBMMG.
+O capítulo 2 trata sobre hidrologia e hidrografia e apresenta considerações
+importantes sobre os processos e dinâmicas de um rio, que podem, de alguma forma,
+ser úteis para atividades de Salvamento Aquático, de Operações Submersas e de
+Operações com Embarcações.
+O capítulo 3 discorre sobre a dinâmica dos movimentos de massa que, dependendo
+do cenário da ocorrência, pode apresentar alguma interseção com as atividades de
+Busca e Resgate em Estruturas Colapsadas (BREC). Ainda, são destacadas medidas
+contra esses movimentos de massa.
+O capítulo 4, além de diferenciar alagamento, enchente, inundação, enxurrada e
+cabeça d’água, evidencia medidas que podem ser adotadas contra esses fenômenos.
+Ademais, é discutida a importância da abordagem estrutural e não estrutural, isto é,
+da adoção de políticas integradas na gestão desses fenômenos.
+Os recentes rompimentos e transbordamentos de barragens no estado de Minas
+Gerais motivaram a inclusão do capítulo 5. Nele, é dado um maior foco para as
+barragens destinadas a armazenar os rejeitos de mineração, devido às centenas de
+vítimas e danos sociais e ambientais incalculáveis que os rompimentos provocaram.
+Além disso, as causas de alguns dos rompimentos de barragens de rejeito também
+estão relacionadas à interação da água com o solo. A cinemática da onda, isto é, da
+massa de rejeito que é gerada pelo rompimento de algumas dessas barragens, se
+assemelha à dinâmica verificada nos fluxos de detritos.
+As considerações finais expressam o anseio dos autores, a partir desta obra, em
+estimular o desenvolvimento de normas, habilidades, técnicas, táticas, estratégias e
+equipamentos utilizados pelas equipes envolvidas em operações de salvamento em
+ocorrências que envolvam os fenômenos descritos e o rompimento/transbordamento
+de barragens. A aspiração dos autores é, também, que este documento seja uma
+referência útil para profissionais da área, autoridades públicas e interessados ao
+fornecer subsídios para a implementação de ações de proteção individual e
+comunitária. A adoção das medidas aqui sugeridas contribuirá significativamente para
+a redução de danos e prejuízos e permitirá uma sociedade mais resiliente.
+No final desta publicação, um glossário foi incluído para facilitar a consulta a termos
+técnicos e permitir um melhor entendimento do conteúdo apresentado.
+ LISTA DE SIGLAS E ABREVIATURAS
+ABNT Associação Brasileira de Normas Técnicas
+ANA Agência Nacional de Águas
+ANEEL Agência Nacional de Energia Elétrica
+ANM Agência Nacional de Mineração
+BBC British Broadcasting Corporation
+BREC Busca e Resgate em Estruturas Colapsadas
+CBMMG Corpo de Bombeiros Militar de Minas Gerais
+CBHSF Comitê da Bacia Hidrográfica do Rio São Francisco
+CEDEC Coordenadoria Estadual de Proteção e Defesa Civil
+Cobrade Classificação e Codificação Brasileira de Desastres
+CPRM Companhia de Pesquisa de Recursos Minerais - Serviço Geológico do
+Brasil
+CRED Center for Research on the Epidemiology of Disasters (Centro de
+Pesquisa em Epidemiologia de Desastres)
+CSSEI Curso de Salvamento em Soterramentos, Enchentes e Inundações
+EM-DAT Emergency Events Database (Banco de Dados de Eventos de
+Emergência)
+FEAM Fundação Estadual do Meio Ambiente
+GIDES Projeto de Fortalecimento da Estratégia Nacional de Gestão Integrada
+de Riscos em Desastres Naturais
+GMG Gabinete Militar do Governador
+GRIPS National Graduate Institute for Policy Studies (Instituto Nacional de PósGraduação em Estudos Políticos)
+IBGE Instituto Brasileiro de Geografia e Estatística
+IBRAM Instituto Brasileiro de Mineração
+IEF Instituto Estadual de Florestas
+IEPHA Instituto Estadual do Patrimônio Histórico e Artístico de Minas Gerais
+IGAM Instituto Mineiro de Gestão das Águas
+IMA Instituto Mineiro de Agropecuária
+IPEA Instituto de Pesquisa Econômica Aplicada
+IPT Instituto de Pesquisas Tecnológicas do Estado de São Paulo
+IRIC International River Interface Cooperative (Cooperativa Internacional de
+Interface Fluvial)
+ITO Instrução Técnica Operacional
+MABOM Manual de Bombeiros Militar
+MDR Ministério do Desenvolvimento Regional
+MMEI Movimentos de Massa, Enchentes e Inundações
+MPMG Ministério Público do Estado de Minas Gerais
+NASA National Aeronautics and Space Administration (Administração Nacional
+da Aeronáutica e Espaço dos Estados Unidos)
+NBR Norma Brasileira
+NOAA National Oceanic and Atmospheric Administration (Administração
+Nacional Oceânica e Atmosférica dos Estados Unidos)
+OMM Organização Mundial de Meteorologia
+PAE Plano de Ação de Emergência
+PBH Prefeitura de Belo Horizonte (MG)
+PNSB Política Nacional de Segurança de Barragens
+SEDEC Secretaria Nacional de Proteção e Defesa Civil
+SEMAD Secretaria de Estado de Meio Ambiente e Desenvolvimento Sustentável
+SEMASA Serviço Municipal de Saneamento Ambiental de Santo André (SP)
+SISEMA Sistema Estadual de Meio Ambiente e Recursos Hídricos
+SISNAMA Sistema Nacional do Meio Ambiente
+UNDRR United Nations Office for Disaster Risk Reduction (Escritório da ONU
+para Redução do Risco de Desastre)
+USGS United States Geological Survey (Serviço Geológico dos Estados
+Unidos)
+ZAS Zona de Autossalvamento
+LISTA DE FIGURAS
+Figura 1 - Diagrama do ciclo hidrológico ...................................................................16
+Figura 2 - Carta de inundação para o Córrego Cachoeirinha, Belo Horizonte ..........18
+Figura 3 - Gráfico de risco de inundação para o Córrego Cachoeirinha, Belo Horizonte
+..................................................................................................................................19
+Figura 4 - Diferença entre ciclone, furacão e tufão....................................................20
+Figura 5 - Ilustração de uma tromba d’água..............................................................20
+Figura 6 - Foto de uma tromba d’água ......................................................................21
+Figura 7 - Bacia hidrográfica do Rio Amazonas ........................................................21
+Figura 8 - Modelo tridimensional da bacia hidrográfica do Rio Guruji, Paraíba.........22
+Figura 9 - Tipos de padrões de canais de um curso d’água......................................23
+Figura 10 - Perfil transversal de um curso d’água .....................................................24
+Figura 11 - Perfil longitudinal de rios japoneses em relação a rios de outros países 26
+Figura 12 - Variação da velocidade em uma seção transversal de um curso d’água27
+Figura 13 - Variação vertical da velocidade de um curso d’água (proporcional em
+relação à média)........................................................................................................27
+Figura 14 - Distribuição das velocidades da água, em função da geometria da seção
+..................................................................................................................................28
+Figura 15 - Distribuição de correntezas em uma seção de rio ..................................28
+Figura 16 - Distribuição da velocidade da água em pontos de um curso meândrico 29
+Figura 17 - Efeito da velocidade da água nos meandros ..........................................30
+Figura 18 - Diferenciais de correnteza ......................................................................31
+Figura 19 - Refluxo em grandes obstáculos..............................................................31
+Figura 20 - Vórtice.....................................................................................................32
+Figura 21 - Linha de fervura ......................................................................................33
+Figura 22 - Onda estacionária...................................................................................33
+Figura 23 - Redemoinhos..........................................................................................34
+Figura 24 - Corredeira restringida/obstruída .............................................................34
+Figura 25 - Corredeira em região íngreme ................................................................35
+Figura 26 - Visão superior de uma queda d’água, linha de fervura e refluxo ............35
+Figura 27 - Seção longitudinal de uma queda d’água, linha de fervura e refluxo ......36
+Figura 28 - Seção transversal de uma inundação em área urbana...........................36
+Figura 29 - Diagrama com representação de um deslizamento planar.....................43
+Figura 30 - Deslizamento planar em Sardoá, Minas Gerais, em 2013 ......................44
+Figura 31 - Diagrama com representação de um deslizamento rotacional ...............45
+Figura 32 - Diagrama de um deslizamento rotacional ...............................................45
+Figura 33 - Deslizamento rotacional em Rio Claro, Rio de Janeiro ...........................45
+Figura 34 - Diagrama com representação de um deslizamento em cunha ...............46
+Figura 35 - Diagrama com representação de um fluxo de detritos............................47
+Figura 36 - Fluxo de detritos em Caraballeda, Venezuela, em 1999.........................47
+Figura 37 - Diagrama com representação de uma queda de blocos.........................48
+Figura 38 - Diagrama com representação de um tombamento de blocos.................48
+Figura 39 - Diagrama com representação de uma área com rolamento de blocos ...49
+Figura 40 - Rolamento de blocos em Vila Velha, Espírito Santo...............................49
+Figura 41 - Esquema de talude com corte com foliação desconfinada e confinada..51
+Figura 42 - Esquema com rupturas de terreno devido à ação da água.....................51
+Figura 43 - Perfil esquemático de enchente, inundação e alagamento.....................60
+Figura 44 - À esquerda, a Cachoeira Havasupai, EUA em normalidade. À direita, a
+mesma cachoeira sob os efeitos de uma cabeça d’água em 2019...........................62
+Figura 45 - Mapa de risco de inundação da cidade de Joso, Japão .........................69
+Figura 46 - Talude da Mina Gongo Soco, em 2019...................................................74
+Figura 47 - Deslizamento de porção da pilha cachoeirinha sobre o dique Lisa ........75
+Figura 48 - Galgamento de barragem em Pará de Minas, em 2022 .........................76
+Figura 49 - Exemplos de comportamento estrutural de barragens............................78
+Figura 50 - Componentes de uma barragem ............................................................79
+Figura 51 - Método de alteamento a jusante.............................................................81
+Figura 52 - Linha freática (linha de saturação)..........................................................81
+Figura 53 - Método de alteamento linha de centro ....................................................81
+Figura 54 - Método de alteamento a montante..........................................................82
+Figura 55 - Rompimento da barragem de Fundão em Bento Rodrigues...................83
+Figura 56 - Rompimento da Barragem B1 em Córrego do Feijão .............................84
+Figura 57 - Muro de contenção de rejeitos a jusante ................................................85
+Figura 58 - Exemplo de mapa dam break com mancha de inundação de barragem de
+mineração..................................................................................................................86
+LISTA DE QUADROS
+Quadro 1 - Classificação de movimentos de massa .................................................39
+Quadro 2 - Tipo de fluxo em relação à concentração de sedimentos .......................40
+Quadro 3 - Desastres geológicos da Cobrade ..........................................................41
+Quadro 4 - Fatores de segurança mínimos para deslizamentos...............................54
+Quadro 5 - Medidas estruturais contra movimentos de massa .................................54
+Quadro 6 - Tecnologias relacionadas a medidas estruturais contra enchentes,
+inundações e alagamentos........................................................................................62
+Quadro 7 - Medidas estruturais contra enchentes, inundações e alagamentos........64
+Quadro 8 - Tecnologias de medidas não estruturais contra enchentes, inundações e
+alagamentos..............................................................................................................67
+Quadro 9 - Medidas não estruturais contra enchentes, inundações e alagamentos .68
+SUMÁRIO
+1 INTRODUÇÃO .............................................................................................13
+2 HIDROLOGIA E HIDROGRAFIA .................................................................15
+2.1 Ciclo hidrológico ........................................................................................16
+2.2 Chuva...........................................................................................................17
+2.3 Ciclone.........................................................................................................19
+2.4 Tromba d’água............................................................................................20
+2.5 Bacia hidrográfica ......................................................................................21
+2.6 Características dos cursos d’água ...........................................................22
+2.6.1 Canal............................................................................................................22
+2.6.2 Leito.............................................................................................................23
+2.6.2.1 Perfil transversal...........................................................................................24
+2.6.2.2 Perfil longitudinal ..........................................................................................25
+2.6.3 Velocidade da água ....................................................................................26
+2.6.4 Fenômenos observados em rios...............................................................30
+2.6.4.1 Diferenciais de correnteza ............................................................................30
+2.6.4.2 Refluxo em grandes obstáculos....................................................................31
+2.6.4.3 Vórtice ..........................................................................................................32
+2.6.4.4 Linha de fervura e onda estacionária............................................................32
+2.6.5 Redemoinhos..............................................................................................33
+2.6.5.1 Corredeiras...................................................................................................34
+2.6.5.2 Queda d’água ...............................................................................................35
+2.6.5.3 Inundação em área urbana...........................................................................36
+2.6.5.4 Rios e cursos d’água em inundações ...........................................................37
+3 MOVIMENTOS DE MASSA .........................................................................38
+3.1 Deslizamentos.............................................................................................42
+3.1.1 Deslizamento planar...................................................................................43
+3.1.2 Deslizamento rotacional ............................................................................44
+3.1.3 Deslizamento em cunha.............................................................................46
+3.2 Fluxo de detritos.........................................................................................46
+3.3 Queda, tombamento e rolamento de blocos ............................................47
+3.4 Fatores condicionantes dos movimentos de massa...............................50
+3.4.1 O papel da água nos movimentos de massa ...........................................51
+3.4.1.1 Aumento do peso do solo e rochas ..............................................................52
+3.4.1.2 Redução da coesão e atrito..........................................................................52
+3.4.1.3 Pressão de poros (poropressão) ..................................................................52
+3.4.1.4 Lubrificação de superfícies de deslizamento ................................................52
+3.4.1.5 Erosão e carreamento de partículas.............................................................52
+3.5 Medidas preventivas contra movimentos de massa ...............................52
+3.5.1 Medidas estruturais contra movimentos de massa.................................53
+3.5.2 Medidas não estruturais contra movimentos de massa .........................58
+4 EVENTOS HIDROLÓGICOS .......................................................................59
+4.1 Alagamento .................................................................................................60
+4.2 Enchente .....................................................................................................60
+4.3 Inundação....................................................................................................60
+4.4 Enxurrada....................................................................................................61
+4.5 Cabeça d’água ............................................................................................61
+4.6 Medidas estruturais contra enchentes, inundações e alagamentos......62
+4.7 Medidas não estruturais contra enchentes, inundações e alagamentos
+......................................................................................................................66
+5 BARRAGENS ..............................................................................................71
+5.1 Rompimento de barragens ........................................................................73
+5.1.1 Barragens de água .....................................................................................77
+5.1.2 Barragens de rejeitos de mineração.........................................................80
+5.1.3 Medidas de segurança para barragens de rejeito de mineração............85
+6 CONSIDERAÇÕES FINAIS .........................................................................87
+ REFERÊNCIAS.............................................................................................88
+ GLOSSÁRIO.................................................................................................95
+CAPÍTULO 1 - INTRODUÇÃO 13
+1 INTRODUÇÃO
+No Brasil, o atual quadro de exclusão social quanto ao direito de moradia tem como
+pano de fundo o processo histórico de urbanização desordenada no país. A ausência
+ou má aplicação de uma política de habitação e de desenvolvimento urbano levou
+parte da população a ocupar áreas ambientalmente frágeis, especialmente em
+margens de rios e encostas (IPT, 2007). Em regiões marcadas por períodos chuvosos
+mais severos, tais ocupações, caracterizadas por um baixo padrão construtivo e pela
+ausência de infraestrutura urbana, tornam-se extremamente vulneráveis a eventos
+como os deslizamentos de encostas e inundações que, por sua vez, implicam em
+perdas de vidas humanas, animais e danos materiais (IPT, 2007).
+No estado de Minas Gerais, os movimentos de massa, enchentes, inundações,
+alagamentos, enxurradas e cabeças d’água geralmente estão concentrados no
+período chuvoso, que se estende entre os meses de outubro e março. Nesse período,
+historicamente, há maior incidência de chuvas que, ao interagir com a topografia, o
+tipo de solo e o tipo de ocupação, pode provocar esses fenômenos. Por lógica, os
+salvamentos efetuados pelo Corpo de Bombeiros Militar de Minas Gerais (CBMMG)
+em ocorrências dessas naturezas são sazonais, ou seja, estão concentrados no
+período de maior frequência de chuvas. Desse modo, durante a estiagem, isto é, no
+período de abril a setembro, quando as chuvas são menos intensas, as ações da
+Corporação devem convergir para o planejamento e capacitação técnica de modo a
+permitir que as equipes empenhadas reúnam condições de, a partir do
+reconhecimento e dimensão do problema, proceder um atendimento eficaz.
+O atendimento às ocorrências de soterramentos, enchentes, inundações,
+alagamentos, enxurradas e cabeças d’água remonta às origens da própria
+Corporação e são atividades que permeiam o cotidiano dos bombeiros militares. A
+qualificação em Salvamento em Soterramentos, Enchentes e Inundações, no
+CBMMG, é recente e remete aos primeiros anos da década de 2010. Na época, pelo
+volume de ocorrências e envergadura de algumas delas, entendia-se que eram
+necessários treinamentos mais específicos que capacitassem os militares em técnicas
+praticadas em atividades de Salvamento Aquático, Salvamento em Altura e Busca e
+Resgate em Estruturas Colapsadas (BREC). Com o tempo, novas técnicas e
+MABOM - MOVIMENTOS DE MASSA, ENCHENTES E INUNDAÇÕES – VOLUME I 14
+equipamentos foram incorporados a esses treinamentos que, pela sua relevância,
+foram transformados em um curso de qualificação, o Curso de Salvamento em
+Soterramentos, Enchentes e Inundações (CSSEI).
+Nos capítulos a seguir, são apresentadas características de diferentes fenômenos da
+natureza relacionados principalmente ao ciclo hidrológico, com o objetivo de
+esclarecer as suas particularidades. A temática de barragens é explorada devido à
+possibilidade de os rompimentos produzirem situações similares a alguns fenômenos
+mencionados anteriormente.
+CAPÍTULO 2 – HIDROLOGIA E HIDROGRAFIA 15
+2 HIDROLOGIA E HIDROGRAFIA
+O clima do planeta e suas mudanças é um dos assuntos mais debatidos na atualidade.
+A identificação dos fatores que influenciam a mudança climática, manifestada no
+aquecimento global e no aumento de frequência de eventos extremos, tem se
+constituído em um dos maiores desafios da ciência, bem como o estudo de suas
+consequências e medidas de prevenção. Além disso, a maior parte dos desastres no
+Brasil é causada pela dinâmica externa da Terra, ou seja, aquela conduzida pelo clima
+e pelos processos atmosféricos (Tominaga, 2015).
+As definições adotadas pelo Centro de Pesquisa em Epidemiologia de Desastres
+(CRED) buscam detalhar a escala temporal dos conceitos. Clima usualmente referese a processos atmosféricos de longa duração, que ocorrem em escalas médias a
+macro, intervalos das estações até variabilidades climáticas decenais, enquanto
+tempo associa-se a processos atmosféricos de curta duração, de escalas pequenas a
+médias, no intervalo de minutos a dias (Tominaga, 2015).
+A caracterização do clima é baseada na análise de uma série de dados dos elementos
+do clima registrados em estações meteorológicas durante longos períodos. A
+Organização Mundial de Meteorologia (OMM) recomenda ser necessário no mínimo
+30 anos de dados para estabelecer uma correta caracterização climática de uma área.
+Ao contrário, o tempo pode mudar totalmente de um momento a outro. Num
+determinado dia pode amanhecer com chuva e frio, tempo “feio”, mas no decorrer do
+dia o céu pode mudar, ficando sem nuvens, ensolarado e quente, tempo “bonito”
+(Tominaga, 2015).
+A combinação dos elementos constitutivos do clima (temperatura, umidade e pressão
+atmosférica), dos fatores geográficos do clima (latitude, continentalidade, vegetação,
+altitude, maritimidade e as atividades humanas) e do tempo atmosférico em um
+determinado lugar pode originar os desastres, considerando tanto aqueles
+deflagrados por algum(s) elemento(s) do clima, como a chuva para os deslizamentos,
+fluxo de detritos, inundações, enxurradas e alagamentos; como aqueles propriamente
+climáticos e meteorológicos, como os ciclones, geadas e tornados. Portanto, para
+melhor compreender os desastres e suas origens, é necessário abordar a dinâmica
+MABOM - MOVIMENTOS DE MASSA, ENCHENTES E INUNDAÇÕES – VOLUME I 16
+dos processos atmosféricos ou meteorológicos, ou seja, a configuração dos principais
+sistemas atmosféricos (Tominaga, 2015).
+2.1 Ciclo hidrológico
+A circulação da água na atmosfera, continentes e oceanos é chamada de ciclo
+hidrológico ou ciclo da água (Figura 1). É um sistema em que a água, com o calor
+obtido por meio da absorção da energia solar, evapora dos oceanos e, em menor
+quantidade, dos continentes e se direciona para a atmosfera com a consequente
+formação de nuvens. As correntes de ar movem as nuvens por grandes distâncias,
+que podem se precipitar sob a forma de chuva, granizo, geada ou neve. Essa
+precipitação pode cair no oceano, pode cair sobre os continentes e, então, se infiltrar
+no solo, escorrer para rios e lagos, ser absorvida por plantas ou retornar novamente
+para a atmosfera por meio da transpiração, evaporação ou evapotranspiração (USGS,
+2019).
+Figura 1 - Diagrama do ciclo hidrológico
+Fonte: USGS (2019)
+CAPÍTULO 2 - HIDROLOGIA E HIDROGRAFIA 17
+2.2 Chuva
+A chuva é o principal tipo de precipitação que ocorre no Brasil, uma vez que a
+precipitação em forma de neve está restrita a áreas serranas da região sul em
+ocorrências ocasionais. Assim, é comum o termo precipitação ser utilizado como
+sinônimo de chuva. A precipitação pluviométrica, ou chuva, é o elemento do clima que
+provoca as transformações mais rápidas na paisagem, sobretudo durante o verão, em
+episódios de chuvas concentradas que, não raras vezes, resultam em tragédias. Além
+disso, deflagra os principais desastres no país: as inundações e os deslizamentos
+(Tominaga, 2015).
+A quantidade de precipitação é normalmente expressa em termos da espessura da
+camada d’água que se formaria sobre uma superfície horizontal, plana e impermeável,
+com 1 m² de área. A unidade adotada é o milímetro, que corresponde à queda de um
+litro de água por metro quadrado da projeção da superfície terrestre, conforme: 1
+litro/m² = 1 mm. Isso significa que uma precipitação de 50 mm equivale à queda de 50
+litros de água por metro quadrado de terreno ou 500.000 litros por hectare. A
+precipitação é ainda caracterizada por sua duração (diferença de tempo entre os
+instantes de início e término) e por sua intensidade, definida como a quantidade de
+água caída por unidade de tempo e usualmente expressa em mm por hora (Tominaga,
+2015).
+A Prefeitura de Belo Horizonte (PBH) desenvolveu ações que permitem a melhora do
+nível de conhecimento da problemática de drenagem nas bacias hidrográficas do
+município. Então, foram elaborados estudos detalhados de modelagem matemática
+hidrológica e hidráulica aplicados a cada uma das bacias para identificar trechos
+críticos ou potencialmente sujeitos às ocorrências de inundações. Esses estudos
+possibilitaram a elaboração de cartas de inundações, que apresentaram a delimitação
+de manchas de inundação distribuídas pelo território do município. Além disso, para
+elaborar os gráficos de risco de inundação para Belo Horizonte, como exemplificado
+nas Figuras 2 e 3, foram consideradas variáveis como a duração da chuva (em
+minutos), a altura das chuvas (em milímetros) e a frequência das chuvas (PBH, 2018).
+MABOM - MOVIMENTOS DE MASSA, ENCHENTES E INUNDAÇÕES – VOLUME I 18
+Figura 2 - Carta de inundação para o Córrego Cachoeirinha, Belo Horizonte
+Fonte: PBH (2018)
+CAPÍTULO 2 - HIDROLOGIA E HIDROGRAFIA 19
+Figura 3 - Gráfico de risco de inundação para o Córrego Cachoeirinha, Belo Horizonte
+Fonte: PBH (2018)
+2.3 Ciclone
+Um ciclone tropical é um termo genérico usado por meteorologistas. Significa um
+sistema rotativo e organizado de nuvens e tempestades que se origina em águas
+tropicais ou subtropicais, de acordo com a Administração Nacional Oceânica e
+Atmosférica dos Estados Unidos (NOAA). Assim que a velocidade dos ventos atinge
+119 km/h ou mais, ele é classificado como furacão, tufão ou ciclone tropical,
+dependendo de onde a tempestade se origina no mundo (Figura 4). No norte do
+Oceano Atlântico e no nordeste do Pacífico, é chamado de furacão. No noroeste do
+Oceano Pacífico, tufão. No Pacífico Sul e no Oceano Índico, ciclone (BBC, 2018).
+Devido à força de Coriolis (um efeito da rotação da Terra que afeta o movimento dos
+objetos que se deslocam sobre a superfície do planeta), no Hemisfério Sul, os ventos
+que originam esses fenômenos giram no sentido horário. No Hemisfério Norte, ao
+contrário, os ventos giram no sentido anti-horário (Kobiyama et al., 2006).
+MABOM - MOVIMENTOS DE MASSA, ENCHENTES E INUNDAÇÕES – VOLUME I 20
+Figura 4 - Diferença entre ciclone, furacão e tufão
+Fonte: BBC (2018)
+2.4 Tromba d’água
+Tromba d’água, para Tominaga (2015), é um tipo de tornado que ocorre em amplas
+superfícies aquáticas, seja no mar ou em grandes extensões de água em áreas
+continentais (Figura 5 e 6). Os ventos podem atingir a velocidade de 100 km/h e,
+provocam a imagem de um cone em movimento que é, na verdade, um turbilhão de
+ar. Há registros de vítimas fatais, de pescadores e pessoas em pequenas
+embarcações ou próximas à orla, durante as trombas d’água. A tromba d’água,
+segundo Britannica (2023), não “suga” água a grandes alturas, embora possa elevar
+o nível da água a um metro ou mais em seu ponto de contato com a superfície.
+Figura 5 - Ilustração de uma tromba d’água
+Fonte: Tominaga (2015)
+CAPÍTULO 2 - HIDROLOGIA E HIDROGRAFIA 21
+Figura 6 - Foto de uma tromba d’água
+Fonte: NASA (2017)
+2.5 Bacia hidrográfica
+Bacia hidrográfica, bacia fluvial, bacia de drenagem, bacia de contribuição e bacia são
+sinônimos e representam um conjunto de terras drenadas por um rio principal e seus
+afluentes (Figuras 7 e 8). A noção de bacia hidrográfica inclui a existência de
+cabeceiras ou nascentes, divisores d’água, cursos d’água principais, afluentes,
+subafluentes etc. Em todas as bacias hidrográficas devem existir uma hierarquização
+na rede e a água escoa normalmente dos pontos mais altos para os mais baixos
+(Guerra, 1993).
+Figura 7 - Bacia hidrográfica do Rio Amazonas
+Fonte: NASA (2007)
+MABOM - MOVIMENTOS DE MASSA, ENCHENTES E INUNDAÇÕES – VOLUME I 22
+Figura 8 - Modelo tridimensional da bacia hidrográfica do Rio Guruji, Paraíba
+Fonte: Barbosa e Furrier (2011)
+2.6 Características dos cursos d’água
+Os cursos d’água naturais constituem os agentes mais importantes no transporte das
+águas superficiais e dos sedimentos. O rio é uma corrente contínua de água mais ou
+menos caudalosa, que deságua em outra, no mar ou num lago. “Rio” é um termo
+genérico muitas vezes empregado para designar mesmo os cursos de água menores,
+que, pela largura e extensão, deveriam receber a denominação de córrego, arroio,
+riacho ou ribeirão. O termo rio deve ser reservado para o principal e maior dos
+elementos componentes de determinada bacia hidrográfica (Emílio, 2023).
+2.6.1 Canal
+A fisionomia exibida por um curso de água ao longo do seu desenvolvimento
+longitudinal, sob a perspectiva de vista superior (canal), é descrita como retilínea,
+meândrica (meandrante) ou anastomosada, como demonstra a Figura 9.
+CAPÍTULO 2 - HIDROLOGIA E HIDROGRAFIA 23
+Figura 9 - Tipos de padrões de canais de um curso d’água
+Fonte: Durlo e Sutili (2014)
+Os meandros são curvas sinuosas geradas por um trabalho contínuo de escavação
+na margem côncava, ponto onde ocorrem as maiores velocidades da corrente, e de
+deposição na margem convexa, local de velocidades mais baixas (Emílio, 2023).
+O padrão fisionômico longitudinal assumido pelo canal também fica na dependência
+das características de cada trecho do curso de água, tais como as propriedades
+geomorfológicas, as condições da vegetação e do escoamento podendo, um mesmo
+rio, demonstrar, em pontos distintos, as três fisionomias ou mesmo uma certa
+combinação entre elas. Assim, a fisionomia pode ser bastante variável tanto no
+espaço como no tempo, para um mesmo curso de água. A jusante, os cursos de água
+tendem a assumir um padrão tipicamente meandrante (Durlo; Sutili, 2014).
+Um aspecto importante dos canais é a sua classificação como perene, intermitente e
+efêmero. Canais perenes são os que possuem escoamento independente das
+estações do ano, períodos ou regimes de precipitação. Já os cursos de água
+intermitentes só escoam em determinadas épocas do ano. Os canais efêmeros
+apresentam escoamento apenas durante as maiores precipitações, cessando seu
+fluxo pouco tempo após as chuvas (Durlo; Sutili, 2014).
+2.6.2 Leito
+O leito de um rio é a parte do sistema fluvial ocupada pela água por ele escoada e,
+portanto, pode variar ao longo do tempo e do espaço.
+MABOM - MOVIMENTOS DE MASSA, ENCHENTES E INUNDAÇÕES – VOLUME I 24
+2.6.2.1 Perfil transversal
+O perfil transversal de um curso de água mostra as características de seu fundo e
+margem, em corte perpendicular a seu leito (Durlo; Sutili, 2014).
+A margem é uma faixa de terras emersas ou firmes junto às águas de um rio, de um
+lago, ou uma lagoa. Elas são denominadas de esquerda e direita, tendo sempre como
+orientação o sentido da corrente. O observador fica de costas para montante, isto é,
+para as cabeceiras e tem do seu lado direito a margem direita e, do lado oposto, a
+margem esquerda (Guerra, 1993).
+A Figura 10 mostra as principais características de uma seção transversal de um curso
+d’água. Na ilustração, as margens esquerda e direita foram abreviadas como ME e
+MD, respectivamente.
+Figura 10 - Perfil transversal de um curso d’água
+Fonte: adaptado de Emílio (2023)
+Na Figura 10, estão representados:
+a) dique marginal – faixa de terra contínua ou não que acompanha trechos do leito
+do rio entre as margens e a planície de inundação;
+b) leito maior – banqueta de forma plana, inclinada levemente na direção da
+jusante e situada acima do nível das águas, na estação seca. O leito maior dos
+CAPÍTULO 2 - HIDROLOGIA E HIDROGRAFIA 25
+rios é ocupado, anualmente, durante a época das chuvas, ou então, por
+ocasião das maiores cheias (Guerra, 1993);
+c) leito menor – canal por onde correm, permanentemente, as águas de um rio,
+sendo a sua seção transversal mais bem observada por ocasião da vazante;
+(Guerra, 1993).
+d) talvegue – linha de maior profundidade no leito fluvial. Resulta da interseção
+dos planos das vertentes com dois sistemas de declives convergentes (Guerra,
+1993).
+2.6.2.2 Perfil longitudinal
+O perfil longitudinal de um curso d’água mostra a variação da sua declividade ou
+gradiente ao longo de seu desenvolvimento entre a nascente e a foz. As configurações
+longitudinais de um rio e a velocidade de suas águas dependem de diversos fatores,
+tais como o regime pluvial da área de drenagem, a constituição litológica do substrato
+e a topografia, que intervém na declividade do canal (Durlo; Sutili, 2014).
+A representação gráfica do perfil longitudinal de um curso de água (Figura 11) é
+simples e resulta na demonstração do percurso, visto de uma perspectiva em corte
+longitudinal. A altitude é demonstrada no eixo das ordenadas (eixo y), com leituras
+que podem ser fixadas de acordo com a notação das curvas de nível, bem como
+qualquer outra informação altimétrica de que se disponha. No eixo das abscissas (eixo
+x), é colocado o somatório das distâncias percorridas (distância acumulada ou
+progressiva) pelo curso de água entre cada cota (Durlo; Sutili, 2014).
+Na primeira porção do perfil longitudinal, os cursos de água possuem grande
+capacidade de escavação e transporte; em sua porção intermediária, a atividade
+predominante é o transporte dos materiais escavados a montante; e, ao final, a
+atividade processual mais evidente é a sedimentação. Esse comportamento se
+relaciona com a velocidade da água, por sua vez governada principalmente, pela
+declividade do leito, expressa pelo perfil longitudinal, pela seção transversal, pelas
+condições do material transportado, pelo revestimento das margens e do fundo do
+leito (Durlo; Sutili, 2014).
+MABOM - MOVIMENTOS DE MASSA, ENCHENTES E INUNDAÇÕES – VOLUME I 26
+Figura 11 - Perfil longitudinal de rios japoneses em relação a rios de outros países
+Fonte: Takahashi e Sakaguchi (1976)
+2.6.3 Velocidade da água
+A velocidade do fluxo depende, em grande parte, da inclinação do leito. Quanto maior
+a inclinação do leito, maior é a velocidade da água e, portanto, maior é sua capacidade
+de transporte de materiais. Isso torna a análise do perfil longitudinal de um curso de
+água uma importante ferramenta para a compreensão dos fenômenos e processos
+fluviais (Aulitzky; Fiebiger; Diera, 1990 apud Durlo; Sutili, 2014).
+No curso superior de um rio, isto é, nas regiões próximas às cabeceiras, onde
+predominam as atividades erosiva e transportadora, há grande quantidade de detritos
+fornecidos pelo intemperismo e por movimentos de massa das encostas, que se
+somam aos detritos originados da atividade erosiva do próprio curso d’água. Nessas
+condições, o rio aumenta a profundidade de seu leito, resultando numa forma de vale
+em “V”. Em sua porção média, graças à menor inclinação e velocidade das águas, o
+curso d’água diminui seu poder transportador, permitindo a deposição de corpos
+sólidos maiores que, por sua vez, protegem seu fundo contra o trabalho erosivo. Com
+o aumento da deposição de partículas nas regiões de menor velocidade, verifica-se
+uma mudança na configuração do leito (vale), que passa a ter a forma de um “U”
+bastante aberto e com a base muitas vezes maior que a altura. A erosão, que antes
+CAPÍTULO 2 - HIDROLOGIA E HIDROGRAFIA 27
+era em profundidade (escavação do fundo), agora passa a ser, predominantemente,
+lateral (Sawyer, 1975; Leinz; Amaral, 1978; Bordas; Semmelmann, 1993 apud Durlo;
+Sutili, 2014).
+A velocidade da água é função não apenas da declividade do perfil longitudinal, mas,
+como demonstram Netto e Alvarez (1982), altera-se também no sentido transversal
+do leito (Figuras 12). De um modo geral, a velocidade da água de um canal aberto
+(Figura 12) diminui da superfície para o fundo e do centro para as margens, como
+resultado da resistência oferecida pelas paredes (margens) e pelo fundo. Na
+superfície livre, a resistência apresentada pela atmosfera também influencia,
+diminuindo um pouco a velocidade (Durlo; Sutili, 2014).
+Figura 12 - Variação da velocidade em uma seção transversal de um curso d’água
+Fonte: Durlo e Sutili (2014)
+Verticalmente, a velocidade máxima (Figura 13) é encontrada em um ponto um pouco
+abaixo da superfície. A velocidade média localiza-se aproximadamente a 0,6 da
+profundidade, a contar da superfície (Durlo; Sutili, 2014).
+Figura 13 - Variação vertical da velocidade de um curso d’água (proporcional em relação à média)
+Fonte: Netto e Alvarez (1982 apud Durlo;Sutili, 2014)
+MABOM - MOVIMENTOS DE MASSA, ENCHENTES E INUNDAÇÕES – VOLUME I 28
+A perda de velocidade (Figuras 14 e 15) também ocorre com a existência de quedas
+e/ou ressaltos e com as mudanças no desenvolvimento horizontal do curso.
+Figura 14 - Distribuição das velocidades da água, em função da geometria da seção
+Fonte: Lame (1937 apud Christofoletti, 1981 apud Durlo e Sutili, 2014)
+Figura 15 - Distribuição de correntezas em uma seção de rio
+Fonte: Austrália (2009)
+CAPÍTULO 2 - HIDROLOGIA E HIDROGRAFIA 29
+Nos canais meandrantes, as curvas causam uma resistência adicional ao movimento
+(Figuras 16 e 17). A zona de maior velocidade desloca-se, por força inercial, para o
+raio externo (IIEx na Figura 16), com respectiva perda de velocidade no raio interno
+(IIIn na Figura 16). Devido à força centrífuga provocada pelo movimento da água no
+trecho curvo, há uma sobrelevação de nível na parte externa da curva Netto; Alvarez,
+(1982) e, segundo Leinz; Amaral (1978), um deslocamento do eixo do rio, ou seja, da
+zona de maior velocidade, nessa mesma direção (Durlo; Sutili, 2014).
+Figura 16 - Distribuição da velocidade da água em pontos de um curso meândrico
+Fonte: Weinmeister (1994 apud Durlo e Sutili, 2014)
+Acompanhando o eixo do curso de água, está a maior força erosiva e de transporte.
+O deslocamento do potencial de erosão e da capacidade de transporte, do centro para
+o raio externo da curva, causa a corrosão da margem e o aprofundamento do leito
+neste ponto (IIEx na Figura 16). As setas, na Figura 16, mostram o deslocamento da
+zona de maior velocidade. Nos perfis transversais I e III, situados em trechos
+retilíneos, observa-se que a velocidade da água tem distribuição simétrica e
+permanece relativamente pequena, próximo às margens. Ao contrário, os perfis II (In
+e Ex) e IV mostram grande velocidade da água próximo ao raio externo das
+respectivas curvas.
+MABOM - MOVIMENTOS DE MASSA, ENCHENTES E INUNDAÇÕES – VOLUME I 30
+Figura 17 - Efeito da velocidade da água nos meandros
+Fonte: Austrália (2009)
+2.6.4 Fenômenos observados em rios
+No curso de um rio, a declividade, a configuração do leito, a existência de afluentes,
+o estreitamento das margens e a existência de obstáculos são fatores que podem
+provocar o surgimento de diferentes fenômenos.
+2.6.4.1 Diferenciais de correnteza
+Os diferenciais de correnteza, isto é, as situações em determinados trechos em que o
+padrão de velocidade e a direção das correntezas podem ser alterados, são criados
+quando há pontos de confluência dos rios ou quando há uma mudança na
+configuração das margens (Figura 18) (Austrália, 2009).
+CAPÍTULO 2 - HIDROLOGIA E HIDROGRAFIA 31
+Figura 18 - Diferenciais de correnteza
+Fonte: Austrália (2009)
+2.6.4.2 Refluxo em grandes obstáculos
+Uma correnteza de água rápida, ao se deslocar por um grande obstáculo, pode criar
+um refluxo, isto é, a água pode fluir no sentido contrário da correnteza após passar
+pelo obstáculo (Figura 19) (Austrália, 2009).
+Figura 19 - Refluxo em grandes obstáculos
+Fonte: Austrália (2009)
+MABOM - MOVIMENTOS DE MASSA, ENCHENTES E INUNDAÇÕES – VOLUME I 32
+2.6.4.3 Vórtice
+À medida que a água passa por um obstáculo, como uma rocha, diversas coisas
+acontecem. Primeiro, há um acúmulo, uma elevação do nível de água a montante do
+obstáculo que cria uma região que tende a empurrar objetos flutuantes para longe.
+Em segundo lugar, enquanto a água se acumula a montante do obstáculo, há um
+rebaixamento do nível de água no lado a jusante e, então, a água flui ao redor do
+obstáculo e, em seguida, volta para ele, para preencher o nível que está rebaixado.
+Essa correnteza após o obstáculo, que está no sentido de montante, é chamada de
+vórtice, eddy, em inglês (Figura 20) (Austrália, 2009).
+Figura 20 - Vórtice
+Fonte: Austrália (2009)
+2.6.4.4 Linha de fervura e onda estacionária
+Um refluxo pode ser formado quando a água mergulha em um obstáculo e, depois,
+retorna para montante. A água, geralmente, é aerada e tem uma aparência espumosa
+branca. Essa área aerada da água em que está o refluxo é chamada de linha de
+fervura (Figura 21). À medida que a água se aprofunda, podem ser criadas ondas
+estacionárias (Figura 22), que se quebram no sentido de montante. Por fim, à medida
+que a água se aprofunda mais, as ondas param de quebrar e ficam menores
+(Austrália, 2009)
+CAPÍTULO 2 - HIDROLOGIA E HIDROGRAFIA 33
+Figura 21 - Linha de fervura
+Fonte: Austrália (2009)
+Figura 22 - Onda estacionária
+Fonte: Austrália (2009)
+2.6.5 Redemoinhos
+Redemoinhos, whirlpools, em inglês, são correntezas, geralmente, de formas
+circulares que se originam em torno de bancos ou estruturas (Figura 23) (Austrália,
+2009).
+MABOM - MOVIMENTOS DE MASSA, ENCHENTES E INUNDAÇÕES – VOLUME I 34
+Figura 23 - Redemoinhos
+Fonte: Austrália (2009)
+2.6.5.1 Corredeiras
+As corredeiras são criadas quando a água que flui em um rio é bruscamente
+restringida, obstruída ou quando desce por uma região íngreme (Figuras 24 e 25)
+(Austrália, 2009).
+Figura 24 - Corredeira restringida/obstruída
+Fonte: Austrália (2009)
+CAPÍTULO 2 - HIDROLOGIA E HIDROGRAFIA 35
+Figura 25 - Corredeira em região íngreme
+Fonte: Austrália (2009)
+2.6.5.2 Queda d’água
+As quedas d’água podem proporcionar o surgimento de refluxos e linhas de fervura
+(Figuras 26 e 27).
+Figura 26 - Visão superior de uma queda d’água, linha de fervura e refluxo
+Fonte: Austrália (2009)
+MABOM - MOVIMENTOS DE MASSA, ENCHENTES E INUNDAÇÕES – VOLUME I 36
+Figura 27 - Seção longitudinal de uma queda d’água, linha de fervura e refluxo
+Fonte: Austrália (2009)
+2.6.5.3 Inundação em área urbana
+Inundações em áreas urbanas (Figura 28) criam áreas em que a correnteza flui com
+velocidade maior ou menor, a depender da geografia existente no local, construções,
+árvores, vias etc.
+Figura 28 - Seção transversal de uma inundação em área urbana
+Fonte: Austrália (2009)
+CAPÍTULO 2 - HIDROLOGIA E HIDROGRAFIA 37
+2.6.5.4 Rios e cursos d’água em inundações
+Segundo Austrália (2009), nas inundações em rios e cursos d’água:
+a) o tamanho e a potência de um rio aumentam muito, assim como a sua
+capacidade de carga;
+b) a correnteza principal do rio fica ampliada, atinge a margem e ricocheteia
+ao invés de contorná-la suavemente em curva;
+c) quase todas as ameaças do rio se tornam mais perigosas e novas ameaças
+são criadas. Por exemplo, pode não haver espaço suficiente sob uma ponte
+ou linhas de alta tensão para a passagem de uma embarcação;
+d) a correnteza carrega detritos que podem se entrelaçar nas hélices dos
+motores das embarcações;
+e) árvores e outros objetos pesados carregados pela correnteza podem se
+acumular em pontes e formar represas naturais e caminhos estreitos;
+f) à medida que o rio passa por áreas urbanizadas e fazendas, aumenta-se o
+perigo de contaminação por pesticidas, esgoto, gado morto e produtos
+químicos;
+g) redemoinhos, vórtices, ondas estacionárias e corredeiras podem se formar
+em rios que normalmente são calmos.
+Além dos riscos elencados acima, em áreas urbanas ainda há o risco de choques
+elétricos e, em áreas rurais, existe o risco provocado por arames farpados.
+MABOM - MOVIMENTOS DE MASSA, ENCHENTES E INUNDAÇÕES – VOLUME I 38
+3 MOVIMENTOS DE MASSA
+É importante estabelecer uma distinção entre movimentos de massa e movimentos
+gravitacionais de massa. Na primeira definição, movimentos de massa, estão
+incluídos quaisquer movimentos em massa de material, independentemente da força
+causadora: gravidade, hídrica, eólica e tectônica. O segundo conceito é mais
+específico e se restringe apenas aos movimentos de massa em que a gravidade é a
+principal força causadora.
+Neste manual, adota-se a expressão movimento de massa para indicar o movimento
+do solo, rocha e/ou vegetação ao longo da vertente sob a ação direta da gravidade. A
+contribuição de outro meio, como água ou gelo, se dá pela redução da resistência dos
+materiais da vertente e/ou pela indução do comportamento plástico e fluido dos solos
+(Tominaga, 2015).
+No Brasil, os movimentos de massa são processos recorrentes e causam danos
+materiais e perdas de vidas. A prevenção contra esses eventos é de grande relevância
+para o crescimento ordenado das cidades, mas as ações nacionais nesse sentido
+ainda são insuficientes (Gides, 2018).
+Existem diferentes classificações para os processos de movimento de massa. Este
+MABOM se baseia na proposta de Augusto Filho (1992) em que há uma descrição de
+características, materiais envolvidos, velocidade e geometria dos movimentos de
+massa mais comuns nas encostas do território nacional (Quadro 1).
+CAPÍTULO 3 - MOVIMENTOS DE MASSA 39
+Quadro 1 - Classificação de movimentos de massa
+Processos Geometria, Material e Dinâmica
+Queda de blocos
+● Sem planos de deslocamento
+● Movimentos tipo queda livre ou em plano inclinado
+● Velocidades muito altas (vários m/s)
+● Material rochoso
+● Pequenos a médios volumes
+● Geometria variável: lascas, placas, blocos etc.
+- Rolamento de matacão - Tombamento
+Deslizamento
+● Poucos planos de deslocamento (externos)
+● Velocidades médias (m/h) a altas (m/s)
+● Pequenos a grandes volumes de materiais
+● Geometria e materiais variáveis
+● Planares: solos pouco espessos; solos e rochas com plano de fraqueza
+● Rotacionais: solos espessos, homogêneos e rochas muito fraturadas
+Fluxo de detritos
+● Muitas superfícies de deslizamento
+● Movimento semelhante ao de um líquido viscoso
+● Desenvolvimento ao longo das drenagens
+● Velocidades médias a altas
+● Mobilização de solo, rocha, detritos e água
+● Grandes volumes de material
+● Extenso raio de alcance, mesmo em áreas planas
+Fonte: Augusto Filho (1992)
+Há, ainda, outros métodos para classificação dos movimentos de massa. O'Brien &
+Julien (1985) propuseram, como verificado no Quadro 2, o comportamento do fluxo
+segundo a concentração volumétrica, isto é, de acordo com o volume de massa/solo
+presente em um volume de água. Para estes autores, o fluxo de materiais com
+concentração volumétrica de 20% ou menos é substancialmente aquoso e classificado
+como inundação de água (water flood). As inundações de lama (mud flood) têm uma
+concentração volumétrica entre 20% e 45% e maior densidade e viscosidade que as
+inundações de água (water flood). A propriedade dominante dos fluxos de lama
+(mudflows) é uma alta viscosidade, que geralmente resulta em uma velocidade menor
+do que as inundações de lama (mud flood) e a concentração volumétrica no intervalo
+entre 45% e 50%. Em geral, para concentrações volumétricas acima de 50%, o fluxo
+se transforma em deslizamento de terra (landslide). Dessa forma, é possível inferir
+que à medida que a proporção de água em uma massa de solo diminui, a velocidade
+diminui e, consequentemente, a área afetada torna-se menor.
+MABOM - MOVIMENTOS DE MASSA, ENCHENTES E INUNDAÇÕES – VOLUME I 40
+Quadro 2 - Tipo de fluxo em relação à concentração de sedimentos
+Tipo de fluxo Concentração
+por volume
+(Cv) de
+sedimento (em
+%)
+Concentração
+por peso (Cw) de
+sedimento (em
+%)
+Característica dos escoamentos
+Deslizamento
+de terra
+(landslide)
+0.53 – 0.90 0.75 – 0.96 Não há escoamento, falha por
+deslizamento em bloco
+0.50 – 0.53 0.73 – 0.75 Deformações internas e movimento lento
+devido às tensões
+Fluxo de
+lama
+(mudflows)
+0.48 – 0.50 0.72 – 0.73 Escoamento evidente, apesar de lento;
+deformações plásticas sem espraiamento
+sobre as superfícies adjacentes
+0.45 – 0.48 0.69 – 0.72 Início de espraiamentos, apesar da
+atuação de forças coesivas
+Inundação de
+lama (mud
+flood)
+0.40 – 0.45 0.65 – 0.69 Mistura-se com facilidade; apresenta
+fluidez na deformação alastrando-se sobre
+superfícies horizontais; durante o
+movimento, a superfície do fluido
+apresenta considerável declividade;
+aparecimento de ondas com dissipação
+rápida
+0.35 – 0.40 0.59 – 0.65 Acentuada sedimentação; alastra-se
+quase por completo sobre superfícies
+horizontais; identificação de duas fases
+(fase líquida aparece); ondas se
+propagam por distâncias consideráveis
+0.30 – 0.35 0.54 – 0.59 Separação de água na superfície; ondas
+propagam-se com facilidade; decantação
+de partículas granulares
+0.20 – 0.30 0.41 – 0.54 Ação de ondas distinta; superfície fluida;
+todas as partículas foram decantadas
+Inundação de
+água (water
+flood)
+< 0.20 < 0.41 Inundação provocada por propagação de
+onda no estado líquido com carga de
+sedimentos suspensos
+Fonte: O’Brien & Julien (1985)
+A Classificação e Codificação Brasileira de Desastres (Cobrade) (Quadro 3), por sua
+vez, foi criada a partir da Instrução Normativa do Ministério da Integração Nacional nº
+1, de 24 de agosto de 2012, pela Secretaria Nacional de Proteção e Defesa Civil
+CAPÍTULO 3 - MOVIMENTOS DE MASSA 41
+(Sedec) para atender à classificação dos desastres do Banco de Dados de Eventos
+de Emergência (EM-DAT) do CRED.
+Quadro 3 - Desastres geológicos da Cobrade
+(Continua)
+1. Quedas,
+tombamentos e
+rolamentos
+1. Blocos As quedas de blocos são movimentos rápidos e
+acontecem quando materiais rochosos diversos e de
+volumes variáveis se destacam de encostas muito
+íngremes, num movimento tipo queda livre.
+Os tombamentos de blocos são movimentos de massa em
+que ocorre rotação de um bloco de solo ou rocha em torno
+de um ponto ou abaixo do centro de gravidade da massa
+desprendida.
+Rolamentos de blocos são movimentos de blocos
+rochosos ao longo de encostas, que ocorrem geralmente
+pela perda de apoio (descalçamento).
+2. Lascas As quedas de lascas são movimentos rápidos e
+acontecem quando fatias delgadas formadas pelos
+fragmentos de rochas se destacam de encostas muito
+íngremes, num movimento tipo queda livre.
+3. Matacões Os rolamentos de matacões são caracterizados por
+movimentos rápidos e acontecem quando materiais
+rochosos diversos e de volumes variáveis se destacam de
+encostas e movimentam-se num plano inclinado.
+4. Lajes As quedas de lajes são movimentos rápidos e acontecem
+quando fragmentos de rochas extensas de superfície mais
+ou menos plana e de pouca espessura se destacam de
+encostas muito íngremes, num movimento tipo queda livre.
+2. Deslizamentos 1. Deslizamentos
+de solo e/ou
+rocha
+São movimentos rápidos de solo ou rocha, apresentando
+superfície de ruptura bem definida, de duração
+relativamente curta, de massas de terreno geralmente bem
+definidas quanto ao seu volume, cujo centro de gravidade
+se desloca para baixo e para fora do talude.
+Frequentemente, os primeiros sinais desses movimentos
+são a presença de fissuras.
+3. Corridas de
+massa
+1. Solo/Lama Ocorrem quando, por índices pluviométricos excepcionais,
+o solo/lama, misturado com a água, tem comportamento
+de líquido viscoso, de extenso raio de ação e alto poder
+destrutivo.
+MABOM - MOVIMENTOS DE MASSA, ENCHENTES E INUNDAÇÕES – VOLUME I 42
+Quadro 3 – Desastres geológicos da Cobrade
+(Conclusão)
+3. Corridas de
+massa
+2. Rocha/Detrito Ocorrem quando, por índices pluviométricos excepcionais,
+rocha/detrito, misturado com a água, tem comportamento
+de líquido viscoso, de extenso raio de ação e alto poder
+destrutivo.
+4. Subsidências
+e colapsos ---------------------
+Afundamento rápido ou gradual do terreno devido ao
+colapso de cavidades, redução da porosidade do solo ou
+deformação de material argiloso.
+Fonte: adaptado de Brasil (2024)
+Para uma leitura complementar, a Instrução Técnica Operacional (ITO) 33 - Proteção
+e Defesa Civil do CBMMG (Minas Gerais, 2022), aborda a identificação, categorização
+e mapeamento das áreas de risco geológico.
+3.1 Deslizamentos
+Os deslizamentos são movimentos rápidos, com volumes definidos, deflagrados em
+porções inclinadas do terreno em que há deslocamento descendente de solo, rocha
+e/ou material orgânico sob a ação da gravidade. O termo deslizamento tem diversos
+sinônimos como escorregamento, queda de barreira e desbarrancamento (Tominaga,
+2015).
+Em termos gerais, um deslizamento ocorre quando a força gravitacional vence o atrito
+interno das partículas, responsável pela estabilidade, e a massa de solo movimentase encosta abaixo. Normalmente, a infiltração de água no maciço de solo provoca a
+diminuição ou perda total do atrito entre as partículas. Quando o solo atinge o estado
+de saturação com perda total do atrito entre as partículas, passa a se mobilizar
+encosta abaixo (Tominaga, 2015).
+A velocidade do movimento depende da inclinação da superfície de deslizamento, da
+causa inicial de movimentação e da natureza do terreno. Variam de quase zero a
+alguns metros por segundo. Os movimentos mais bruscos ocorrem em terrenos
+relativamente homogêneos, que combinam coesão com atrito interno elevado. Nesses
+terrenos, a superfície de deslizamento é mais inclinada (Guidicini; Nieble, 1984).
+CAPÍTULO 3 - MOVIMENTOS DE MASSA 43
+Levando em consideração a geometria e a natureza dos materiais instabilizados, os
+deslizamentos podem ser subdivididos em três tipos: planar, rotacional ou em cunha
+(Gides, 2018).
+3.1.1 Deslizamento planar
+É o tipo de deslizamento mais frequente no Brasil (Figura 29). Normalmente,
+desenvolve-se durante ou logo após intensos episódios de chuva. Caracteriza-se por
+curta duração e rápido deslocamento de materiais, os quais se movimentam segundo
+planos de fraqueza associados às heterogeneidades geológicas, geotécnicas ou
+hidrológicas do maciço. Os materiais transportados são constituídos por rocha, solo
+ou solo e rocha (Gerscovich, 2012; Tominaga, 2012 apud Tominaga, 2015).
+Figura 29 - Diagrama com representação de um deslizamento planar
+Fonte: elaborado por Rafael Ribeiro (Gides, 2018)
+Na Figura 29, é possível observar que o solo não desliza em relação à superfície da
+rocha, mas segundo uma superfície dentro do próprio solo. Os deslizamentos planares
+ocorrem, predominantemente, em solos pouco desenvolvidos, em vertentes com altas
+declividades e podem atingir dezenas ou até centenas de metros (Figura 29). O seu
+poder de destruição é normalmente grande, com variações em função do volume e
+material deslocado (Gides, 2018).
+MABOM - MOVIMENTOS DE MASSA, ENCHENTES E INUNDAÇÕES – VOLUME I 44
+A morfologia dos deslizamentos planares caracteriza-se por serem rasos, com o plano
+de ruptura, na maioria das vezes, de 0,5 a 5,0 m de profundidade e com maiores
+extensões no comprimento, como exemplificado na Figura 30. Ocorrem em encostas
+tanto de alta como de baixa declividade (Fernandes; Amaral, 1996; Guidicini; Nieble,
+1984 apud Tominaga, 2015).
+Figura 30 - Deslizamento planar em Sardoá, Minas Gerais, em 2013
+Fonte: Pierry Aires/Esp.EM, (Vale, 2013)
+3.1.2 Deslizamento rotacional
+Os deslizamentos rotacionais caracterizam-se por uma superfície de ruptura curva, ao
+longo da qual se dá um movimento rotacional do maciço de solo (Figuras 31, 32 e 33).
+A ocorrência desses movimentos está associada geralmente à existência de solos
+espessos e homogêneos, como os decorrentes da alteração de rochas argilosas. O
+início do movimento muitas vezes é provocado pela execução de cortes na base
+desses materiais, como na implantação de uma estrada, ou para construção de
+edificações, ou ainda pela erosão fluvial no sopé da vertente (Fernandes; Amaral,
+1996 apud Tominaga, 2015).
+CAPÍTULO 3 - MOVIMENTOS DE MASSA 45
+Figura 31 - Diagrama com representação de um deslizamento rotacional
+Fonte: elaborado por Júlio Lana (Gides, 2018)
+Figura 32 - Diagrama de um deslizamento rotacional
+Fonte: Lopes (2006 apud Tominaga 2015)
+Figura 33 - Deslizamento rotacional em Rio Claro, Rio de Janeiro
+Fonte: CPRM (2023)
+MABOM - MOVIMENTOS DE MASSA, ENCHENTES E INUNDAÇÕES – VOLUME I 46
+3.1.3 Deslizamento em cunha
+A ocorrência de deslizamentos em cunha está mais restrita às regiões que
+apresentam um relevo fortemente controlado por estruturas geológicas (Figura 34).
+Esses deslizamentos são associados aos maciços rochosos nos quais a existência de
+duas estruturas planares, desfavoráveis à estabilidade, condiciona o deslocamento de
+um prisma ao longo do eixo de interseção desses planos. Ocorrem principalmente em
+taludes de corte ou em encostas que sofreram algum tipo de desconfinamento, natural
+ou antrópico (Infanti Jr.; Fornasari Filho, 1998 apud Tominaga, 2015).
+Figura 34 - Diagrama com representação de um deslizamento em cunha
+Fonte: Tominaga (2015)
+3.2 Fluxo de detritos
+Os fluxos de detritos são formas de escoamento de caráter essencialmente
+hidrodinâmico, ocasionados pela perda de atrito interno das partículas de solo, em
+virtude da destruição de sua estrutura interna, na presença de excesso de água
+(Figuras 35 e 36). Esses movimentos são gerados a partir de grande aporte de
+materiais como solo, rocha e árvores que, ao atingirem as drenagens, formam uma
+massa de elevada densidade e viscosidade. A massa deslocada pode atingir grandes
+distâncias com extrema rapidez, mesmo em áreas pouco inclinadas, com
+consequências destrutivas muito maiores que os deslizamentos (Guidicini; Nieble,
+1984; Fernandes; Amaral, 1996 apud Tominaga, 2015).
+CAPÍTULO 3 - MOVIMENTOS DE MASSA 47
+Figura 35 - Diagrama com representação de um fluxo de detritos
+Fonte: elaborado por Rafael Ribeiro (Gides, 2018)
+Figura 36 - Fluxo de detritos em Caraballeda, Venezuela, em 1999
+Fonte: Foto de Lawson Smith (Williams, 2016)
+3.3 Queda, tombamento e rolamento de blocos
+A queda de blocos (Figura 37) é um movimento abrupto e geralmente rápido em que
+blocos de rocha se desprendem de um afloramento rochoso ou de uma encosta e
+caem livremente devido à gravidade. Esse tipo de movimento é comum em encostas
+íngremes e falésias. É um movimento livre e rápido, vertical ou quase vertical. A
+trajetória é em linha reta e praticamente não há interação com a encosta até atingir o
+solo.
+MABOM - MOVIMENTOS DE MASSA, ENCHENTES E INUNDAÇÕES – VOLUME I 48
+Figura 37 - Diagrama com representação de uma queda de blocos
+Fonte: UNESP (2024)
+O tombamento de blocos (Figura 38) é um movimento rotacional em que um bloco de
+rocha ou um segmento de solo gira em torno de um ponto de rotação na sua base,
+tombando sobre si mesmo. Esse movimento é típico em encostas com fraturas ou
+descontinuidades verticais.
+Figura 38 - Diagrama com representação de um tombamento de blocos
+Fonte: UNESP (2024)
+O rolamento de blocos (Figuras 39 e 40) é um movimento em que o bloco de rocha
+ou solo rola pela superfície do terreno de maneira contínua ou descontínua. Esse tipo
+CAPÍTULO 3 - MOVIMENTOS DE MASSA 49
+de movimento ocorre em superfícies inclinadas e irregulares permitindo que o bloco
+ganhe velocidade e possa até saltar.
+Figura 39 - Diagrama com representação de uma área com rolamento de blocos
+Fonte: elaborado por Rafael Ribeiro (Gides, 2018)
+Figura 40 - Rolamento de blocos em Vila Velha, Espírito Santo
+Fonte: CPRM (2023)
+As causas das quedas de blocos, tombamentos e rolamentos são diversas: variação
+térmica do maciço rochoso, perda de sustentação dos blocos por ação erosiva da
+água, alívio de tensões de origem tectônica, vibrações e outras (Guidicini; Nieble,
+1984 apud Tominaga, 2015).
+MABOM - MOVIMENTOS DE MASSA, ENCHENTES E INUNDAÇÕES – VOLUME I 50
+3.4 Fatores condicionantes dos movimentos de massa
+Os agentes predisponentes correspondem ao conjunto de condições geológicas,
+topográficas e ambientais da área onde se desenvolve o movimento de massa. São,
+portanto, as condições naturais dadas pelas características intrínsecas dos materiais,
+sem a ação do homem. Já os agentes efetivos referem-se ao conjunto de fatores
+diretamente responsáveis pelo desencadeamento do movimento de massa, incluindose a ação humana. Podem ser agentes efetivos preparatórios como: pluviosidade,
+erosão pela água ou vento, oscilação de nível dos lagos, marés e lençol freático, ação
+de animais e ação humana (Tominaga, 2015).
+A ação do homem é vista por diversos autores como importante agente modificador
+da dinâmica natural do relevo e, por conseguinte, da estabilidade das vertentes. A
+ocupação desordenada das vertentes nas regiões serranas brasileiras tem provocado
+inúmeros acidentes (Tominaga, 2015).
+Dentre as ações humanas, as seguintes situações podem facilitar o processo de
+movimento de massa em encostas ocupadas:
+a) a execução de cortes acentuados no talude, que os deixam muito inclinados;
+b) a execução de corte em talude com foliação (disposição das rochas)
+desconfinada (Figura 41);
+c) o desmatamento, que remove a cobertura vegetal e a proteção natural do
+solo;
+d) a presença de espécies de árvores, como a bananeira, que retém água;
+e) o lançamento de águas servidas nas encostas, que pode desestabilizar o solo
+(Figura 41);
+f) o acúmulo de lixo/entulho nas encostas, que pode facilitar o acúmulo de água;
+g) a existência de fossas sanitárias e aterros, que pode acumular água no
+subsolo;
+h) a execução inadequada de aterros.
+CAPÍTULO 3 - MOVIMENTOS DE MASSA 51
+Figura 41 - Esquema de talude com corte com foliação desconfinada e confinada
+Fonte: CPRM (2018)
+Figura 42 - Esquema com rupturas de terreno devido à ação da água
+Fonte: Tominaga (2015)
+3.4.1 O papel da água nos movimentos de massa
+A água desempenha um papel crucial nos movimentos de massa e as principais
+maneiras pelas quais ela pode influenciar nesses movimentos estão elencadas a
+seguir.
+MABOM - MOVIMENTOS DE MASSA, ENCHENTES E INUNDAÇÕES – VOLUME I 52
+3.4.1.1 Aumento do peso do solo e rochas
+Quando a água se infiltra no solo ou nas rochas, ela aumenta o peso desses materiais.
+Esse aumento de peso pode superar a resistência ao cisalhamento do material
+(material se deforma ou rompe facilmente com forças aplicadas paralelamente à sua
+superfície), fazendo com que ele se desloque encosta abaixo.
+3.4.1.2 Redução da coesão e atrito
+A presença de água pode reduzir a coesão entre partículas de solo e diminuir o atrito
+entre as camadas de rocha. Isso facilita o deslizamento, pois o material se torna
+menos estável e mais propenso a se mover.
+3.4.1.3 Pressão de poros (poropressão)
+A água pode aumentar a pressão de poros no solo saturado, o que reduz a resistência
+efetiva dele. A pressão de poros age contra as forças de ligação, de coesão das
+partículas do solo, facilitando o deslizamento de massa.
+3.4.1.4 Lubrificação de superfícies de deslizamento
+Em deslizamentos de rocha, a água pode atuar como um lubrificante em superfícies
+de deslizamento, diminuindo o atrito e facilitando o movimento.
+3.4.1.5 Erosão e carreamento de partículas
+A água pode erodir as margens e bases de encostas, removendo material e
+diminuindo a sua estabilidade. Isso pode desencadear movimentos de massa como
+quedas de blocos e deslizamentos.
+3.5 Medidas preventivas contra movimentos de massa
+O crescimento da ocupação desordenada em áreas de encostas leva a um
+progressivo aumento no número de acidentes associados a movimentos de massa,
+CAPÍTULO 3 - MOVIMENTOS DE MASSA 53
+muitas vezes com dimensões catastróficas. Desse modo, a adoção de medidas
+preventivas adequadas pode mitigar ou mesmo evitar danos. Essas medidas são
+classificadas em estruturais e não estruturais.
+3.5.1 Medidas estruturais contra movimentos de massa
+Em geral, as medidas estruturais envolvem obras de engenharia de alto custo, como
+obras de contenção de taludes, implantação de sistemas de drenagem e
+reurbanização de áreas. Assim, em cada caso, a solução mais viável deve ser
+avaliada pelos profissionais competentes considerando variáveis como o custo, a
+duração, a mão de obra, o risco e a vulnerabilidade.
+A Associação Brasileira de Normas Técnicas (ABNT), por meio da Norma Brasileira
+(NBR) 11.682/2009, que trata de estabilidade de encostas, estabelece os requisitos
+para o estudo e controle da estabilidade de encostas e de taludes resultantes de cortes
+e aterros realizados em encostas. Essa norma abrange, também, as condições das
+investigações geológico-geotécnicas, de projeto, de execução, de acompanhamento,
+de manutenção e de monitoramento das obras de estabilização.
+A metodologia recomendada pela NBR 11.682/2009 admite que o valor do fator de
+segurança pode variar em função da situação potencial de ruptura do talude, no que
+diz respeito ao perigo de perda de vidas humanas e à possibilidade de danos materiais
+e de danos ao meio ambiente. Além disso, devem ser consideradas as situações
+atuais e futuras, previstas ao longo da vida útil do talude estudado. O fator de
+segurança (em relação à resistência ao cisalhamento do solo) é o valor da razão entre
+a resistência (tensão cisalhante máxima disponível) e a resistência mobilizada (tensão
+cisalhante atuante ao longo da superfície de ruptura) (ABNT, 2009).
+Em outras palavras, a resistência máxima disponível é o quanto de força o solo pode
+aguentar antes de começar a deslizar ou falhar. É a força máxima que o solo tem para
+resistir a um movimento de deslizamento ou falha. Por sua vez, a resistência
+mobilizada é a força que está realmente atuando no solo naquele momento. É a força
+que está tentando fazer o solo deslizar ou falhar. Por fim, o fator de segurança é a
+medida de quão seguro ou estável é o solo em uma encosta. É um número que traduz
+MABOM - MOVIMENTOS DE MASSA, ENCHENTES E INUNDAÇÕES – VOLUME I 54
+se o solo pode resistir a deslizamentos ou falhas. O fator de segurança é calculado
+dividindo a resistência máxima (a força que o solo pode aguentar) pela resistência
+mobilizada (a força que está tentando fazer o solo deslizar/falhar). Um fator de
+segurança maior do que 1 indica que o solo é estável e pode resistir ao deslizamento,
+enquanto um fator menor que 1 indica que o solo está em risco de deslizar/falhar.
+O Quadro 4 estabelece os fatores de segurança segundo vidas humanas, danos
+materiais e ambientais.
+Quadro 4 - Fatores de segurança mínimos para deslizamentos
+Nível de segurança contra
+danos a vidas
+humanas
+Nível de
+segurança contra
+danos materiais e ambientais
+Alto Médio Baixo
+Alto 1,5 1,5 1,4
+Médio 1,5 1,4 1,3
+Baixo 1,4 1,3 1,2
+Fonte: ABNT (2009)
+O Quadro 5, a seguir, apresenta alguns exemplos de medidas estruturais contra
+movimentos de massa.
+Quadro 5 - Medidas estruturais contra movimentos de massa
+(Continua)
+Técnica/Descrição Imagem
+Drenagem superficial
+Estruturas de direcionamento e
+controle de águas superficiais. A sua
+função é evitar o aumento de carga
+no maciço ou estrutura de contenção,
+bem como evitar degradação do solo
+e comprometimento da sustentação
+por erosão ou retirada de material
+sólido de estabilização. Exemplo:
+canaleta, calhas e galerias escadas.
+Fonte: Cavalcanti (2017)
+CAPÍTULO 3 - MOVIMENTOS DE MASSA 55
+Quadro 5 – Medidas estruturais contra movimentos de massa
+(Continuação)
+Técnica / Descrição Imagem
+Drenagem profunda
+Estruturas usadas para aumentar a
+resistência ao cisalhamento do solo
+e para disciplinar o fluxo da água
+subterrânea e, assim, melhorar a
+estabilidade do talude. Exemplo:
+dreno horizontal profundo, ponteira
+filtrante e trincheira drenante.
+Fonte: Solotrat, (2023)
+Muro de arrimo
+É uma estrutura de contenção e sua
+função é garantir a estabilidade de
+encostas ao suportar as tensões do
+peso próprio do maciço e, também,
+por carregamentos extras. Tem
+aplicabilidade maior para
+estabilização de encostas de terra.
+Fonte: ESC (2023)
+Muro de gabião
+É formado por elementos que se
+assemelham a gaiolas constituídas
+por telas de arame preenchidas com
+rochas. É uma estrutura para
+contenção e estabilização de
+encostas. Tem aplicabilidade maior
+para estabilização de encostas de
+terra.
+Fonte: Geotech (2023)
+MABOM - MOVIMENTOS DE MASSA, ENCHENTES E INUNDAÇÕES – VOLUME I 56
+Quadro 5 – Medidas estruturais contra movimentos de massa
+(Continuação)
+Técnica / Descrição Imagem
+Proteção de superfícies
+É uma técnica que diminui a
+exposição do solo com
+biotecnologia (plantio de espécies
+vegetais selecionadas) ou materiais
+artificiais impermeáveis. Em
+algumas plantas, as raízes ajudam
+na contenção do terreno. Tem
+aplicabilidade maior em
+estabilização de encostas de terra.
+Fonte: os autores (2020)
+Barragens Sabo
+“Sabo” deriva do japonês “Sa”
+(sedimento) e “Bo” (proteção). São
+estruturas para capturar sedimentos
+e troncos oriundos de fluxos de
+detritos. Após o enchimento da área
+a montante, a remoção dos detritos
+é recomendada. Tem aplicabilidade
+maior para fluxo de detritos. Fonte: Japão (2023)
+Bacia de dissipação
+Estruturas construídas na base das
+encostas onde os fluxos de detritos
+são frequentes. São usadas em
+áreas em que os detritos devem ser
+contidos para que o solo e os
+detritos sejam impedidos de fluir
+para áreas sensíveis. Essas bacias
+devem ser esvaziadas após o
+enchimento. Tem aplicabilidade
+maior para fluxo de detritos. Fonte: LA County (2023)
+CAPÍTULO 3 - MOVIMENTOS DE MASSA 57
+Quadro 5 – Medidas estruturais contra movimentos de massa
+(Continuação)
+Técnica/Descrição Imagem
+Cortina atirantada
+São contenções sustentadas por
+tirantes protendidos que são
+ancorados no maciço e servem para
+conter encostas. Tem aplicabilidade
+maior para estabilização de encosta
+rochosa.
+Fonte: Torcisão (2018)
+Cortina de encaminhamento
+As cortinas de encaminhamento
+capturam os blocos de rocha,
+controlam a sua descida entre a
+malha e a superfície da rocha e os
+encaminham para uma zona de
+captação. Tem aplicabilidade maior
+contra quedas, tombamentos e
+rolamentos de blocos.
+Fonte: Geobrugg (2023)
+Concreto projetado
+Técnica aplicada por jato de ar
+diretamente na superfície de uma
+rocha instável. É um método rápido e
+relativamente simples para fornecer
+reforço de superfície entre blocos de
+rocha e, também, para reduzir o
+desgaste e a descamação da
+superfície. Tem aplicabilidade maior
+contra queda, tombamentos e
+rolamentos de blocos.
+Fonte: Britannica (2023)
+MABOM - MOVIMENTOS DE MASSA, ENCHENTES E INUNDAÇÕES - VOLUME I 58
+Quadro 5 – Medidas estruturais contra movimentos de massa
+(Conclusão)
+Técnica / Descrição Imagem
+Barreira de proteção
+Exemplos de estruturas usadas para
+capturar blocos de rocha e evitar que,
+por ação da gravidade, ganhem
+velocidade e atinjam áreas sensíveis.
+Tem aplicabilidade maior para
+rolamentos de blocos. A segunda foto
+representa uma estrutura em Niigata,
+Japão. Fonte: Maccaferri (2023)
+Fonte: os autores (2020)
+Fonte: elaborado pelos autores
+3.5.2 Medidas não estruturais contra movimentos de massa
+As medidas não estruturais se referem às ações de políticas públicas voltadas ao
+planejamento do uso do solo e ao gerenciamento, planos de proteção e defesa civil,
+treinamentos, simulados, instalação de sistemas de alerta etc. Algumas dessas
+medidas podem ser verificadas no capítulo 4, mais especificamente no Quadro 9, que
+apresenta medidas não estruturais contra enchentes, inundações e alagamentos.
+CAPÍTULO 4 - EVENTOS HIDROLÓGICOS 59
+4 EVENTOS HIDROLÓGICOS
+Os eventos hidrológicos são eventos naturais relacionados ao ciclo da água na Terra,
+pois envolvem a movimentação e a distribuição da água na atmosfera, na superfície
+e no subsolo. Eles abrangem processos físicos que ocorrem na atmosfera e na
+superfície terrestre e, muitas vezes, estão associados a eventos extremos, podendo
+causar danos significativos ao meio ambiente, infraestrutura e vida humana.
+Neste capítulo, são tratados alguns eventos hidrológicos ou, como também são
+denominados, fenômenos hidrológicos. Em suma, os eventos hidrológicos são os
+processos de movimentação da água no ciclo hidrológico e abrangem: a precipitação,
+a evaporação, a transpiração, a infiltração, as secas, o escoamento subterrâneo, o
+escoamento superficial e, com destaque, os alagamentos, as enchentes, as
+inundações, as enxurradas e as cabeças d’água.
+Em condições naturais, as planícies e as partes mais baixas de vales estreitos
+apresentam lento escoamento superficial das águas das chuvas. Nas áreas urbanas,
+os fenômenos hidrológicos são intensificados por alterações antrópicas, como a
+impermeabilização do solo, retificação (modificação artificial do curso de um rio para
+torná-lo mais retilíneo) e assoreamento (acúmulo de sedimentos) dos cursos d’água.
+No Brasil, o modelo de urbanização que impera é a ocupação das planícies de
+inundação, isto é, a ocupação de áreas planas, extensas e adjacentes a cursos d'água
+que se alagam periodicamente quando o nível da água sobe, além das
+impermeabilizações ao longo das vertentes, que, mesmo em cidades de topografia
+mais plana, onde a infiltração é favorecida, pode facilitar a ocorrência de desastres
+(Tavares; Silva, 2008).
+Nos tópicos a seguir, são apresentados alguns eventos comuns no território brasileiro.
+Para uma leitura complementar, a ITO 33 - Proteção e Defesa Civil, do CBMMG
+(Minas Gerais, 2022), aborda a identificação, categorização e mapeamento das áreas
+de risco hidrológico.
+MABOM - MOVIMENTOS DE MASSA, ENCHENTES E INUNDAÇÕES – VOLUME I 60
+Figura 43 - Perfil esquemático de enchente, inundação e alagamento
+Fonte: SEMASA (2015)
+4.1 Alagamento
+Alagamento (Figura 43), segundo o IPT/CPRM (2014), é o acúmulo momentâneo de
+água, em terrenos com baixa declividade, devido à baixa capacidade de escoamento
+do sistema de drenagem. Ocorre em locais cuja drenagem não é capaz de suportar
+momentaneamente o volume de água. Pode ser causado por chuvas intensas,
+transbordamento de rios e avanço de marés, por exemplo.
+4.2 Enchente
+Enchente ou cheia (Figura 43) é o fenômeno natural que ocorre nos cursos de água
+em regiões urbanas e rurais. Consiste na elevação dos níveis de um curso de água,
+seja este de pequena (córrego, riacho, arroio, ribeirão) ou de grande dimensão (rio)
+(Santos, 2007).
+Em uma enchente, o volume de água fica confinado no canal principal do curso de
+água, ou seja, não extrapola as margens.
+4.3 Inundação
+Inundação (Figura 43) é o atingimento e submersão da planície aluvial pelo
+transbordamento das águas do canal principal do rio, devido à evolução do processo
+de enchente. As planícies aluviais são as áreas localizadas ao longo dos cursos
+CAPÍTULO 4 - EVENTOS HIDROLÓGICOS 61
+d'água e são formadas pela deposição de sedimentos transportados pela correnteza.
+Esses sedimentos são chamados de aluviões.
+A inundação caracteriza-se pela elevação temporária do nível d’água relativo ao leito
+regular do canal, comumente em razão do acréscimo de vazão da água ocasionado
+por eventos chuvosos de longa duração e elevados índices pluviométricos
+acumulados (IPT/CPRM, 2014).
+4.4 Enxurrada
+Enxurrada é o escoamento superficial de alta velocidade e energia, provocado por
+chuvas intensas e concentradas, normalmente em pequenas bacias de relevo
+acidentado. É definida pela elevação súbita das vazões de determinada drenagem e
+transbordamento brusco da calha fluvial. Apresenta grande poder destrutivo (Brasil,
+2024).
+Caracteriza-se por alta energia de transporte e capacidade de arraste, com elevado
+potencial de impacto destrutivo. Pode induzir a instabilização e o solapamento de
+taludes marginais ao longo do curso d’água (IPT/CPRM, 2014).
+4.5 Cabeça d’água
+A cabeça d’água (Figura 44) é o aumento praticamente instantâneo na vazão e no
+nível das águas, em determinada seção de um curso d’água, após um episódio de
+chuvas concentradas na cabeceira da bacia. Muitas vezes, no local em que ocorre
+esse fenômeno, as chuvas são ausentes ou praticamente nulas. As cabeças d’água
+acontecem sobretudo em bacias pequenas, com grande declividade e com solos de
+baixa capacidade de infiltração. Além disso, elas ocorrem quando a profundidade
+inicial do rio, antes da chegada da cheia, é baixa (Collischonn; Kobiyama, 2019).
+Em algumas regiões do Brasil, esse fenômeno também é chamado de tromba d’água.
+Como exemplificado no capítulo 2 deste manual, são fenômenos com características
+distintas.
+MABOM - MOVIMENTOS DE MASSA, ENCHENTES E INUNDAÇÕES – VOLUME I 62
+Figura 44 - Acima, a Cachoeira Havasupai, EUA em normalidade. Abaixo, a mesma cachoeira sob os
+efeitos de uma cabeça d’água em 2019
+Fonte: Fonseca (2019)
+4.6 Medidas estruturais contra enchentes, inundações e alagamentos
+As enchentes, inundações e alagamentos podem ser controlados com mecanismos
+que atuam no escoamento pluvial ou que amortecem as ondas de cheias nos cursos
+d’água. O Instituto de Pesquisa Econômicas Aplicada (IPEA), no Quadro 6, ilustra
+algumas tecnologias relacionadas a medidas estruturais para evitar e/ou mitigar os
+efeitos negativos desses eventos hidrológicos supracitados.
+Quadro 6 - Tecnologias relacionadas a medidas estruturais contra enchentes, inundações e
+alagamentos
+(Continua)
+Tecnologias Descrição
+Diques (vide
+Quadro 7)
+Muros verticais ou inclinados construídos em diferentes materiais e dispostos a
+certa distância do rio para proteger as áreas ribeirinhas das inundações urbanas
+(vide Quadro 7 - Dique na margem direita do rio Ara).
+CAPÍTULO 4 - EVENTOS HIDROLÓGICOS 63
+Quadro 6 – Tecnologias relacionadas a medidas estruturais contra enchentes, inundações e
+alagamentos
+(Continuação)
+Tecnologias Descrição
+Canalizações
+Modificações da morfologia de rios ou córregos a partir do aumento da área
+transversal da calha ou pelo aumento da velocidade. O aumento da velocidade
+ocorre pela redução da rugosidade da calha ou pelo aumento da declividade pelo
+corte de meandros. Tais modificações resultam em um aumento da vazão para um
+nível constante baseado nas condições hidrológicas locais.
+Reservatórios
+(vide Quadro 7)
+Reservatórios que retêm parte do volume de escoamento superficial, reduzindo a
+vazão no rio de tal forma que não provocam inundações ou alagamentos. Após a
+retenção, a vazão é escoada para o rio de forma controlada (vide Quadro 7 -
+Barragem de Yamba).
+Pavimentos
+permeáveis
+Pavimentos que infiltram as águas pluviais até coletores subterrâneos e tratam
+essas águas a partir de um filtro de areia-brita. Podem ser utilizados em ruas e
+estradas de tráfego leve ou pesado e em estacionamentos.
+Bacias de
+detenção (vide
+Quadro 7)
+Depressões em locais com condições de deter o escoamento pluvial. Armazenam
+temporariamente as águas pluviais antes de transferi-las controladamente ao
+sistema de drenagem. Podem ter infiltração associada. Existem três tipos
+principais:
+a) superficiais naturais: depressões no solo natural;
+b) superficiais artificiais: escavações com seu leito coberto ou não por concreto
+(vide Quadro 7 - Bacia de detenção superficial ao redor do Estádio de
+Yokohama, Japão); e
+c) subterrâneas: tanques ou coletores, sob estacionamentos, praças, parques
+ou ruas, abastecidos por um sumidouro de águas pluviais (vide Quadro 7 -
+Bacia de detenção subterrânea em Tóquio, Japão).
+Bacias de
+retenção
+Depressões que retêm as águas pluviais por maior tempo que as bacias de
+detenção. Possuem os tipos superficial natural e superficial artificial. Geralmente
+têm processos de infiltração e filtração/tratamento associados. A filtração é
+realizada utilizando camadas de areia-brita. Quando realizam um tratamento
+biológico ou por sedimentação, são denominadas de biorretenção ou
+sedimentação, respectivamente. No primeiro caso, utiliza-se a fitorremediação
+(uso de plantas para conter, degradar ou eliminar poluentes presentes na água),
+no segundo, os poluentes se depositam no fundo da bacia por gravidade.
+Trincheiras de
+infiltração
+Coletores longitudinais ou pequenos canais, com o leito coberto por brita de
+diferentes tamanhos, que coletam as águas pluviais. Usualmente são instalados
+em ruas, estacionamentos e edificações, e podem incluir tanques ou tubos
+perfurados sob seu leito, para transporte até o sistema de drenagem.
+MABOM - MOVIMENTOS DE MASSA, ENCHENTES E INUNDAÇÕES – VOLUME I 64
+Quadro 6 – Tecnologias relacionadas a medidas estruturais contra enchentes, inundações e
+alagamentos
+(Conclusão)
+Tecnologias Descrição
+Bacias de
+infiltração
+Estruturas superficiais, geralmente rasas, de armazenamento temporário das
+águas pluviais. Seu fundo é composto de solos altamente permeáveis que facilitam
+a infiltração rápida das águas para um aquífero ou um coletor subterrâneo. Durante
+a infiltração, essas bacias podem realizar filtração.
+Tetos e paredes
+verdes
+Camada de vegetação-solo instalada no topo ou paredes de edificações e retém
+e/ou armazena as águas pluviais, que depois são descarregadas até uma área
+permeável ou para um tanque de captação.
+Jardins
+filtrantes
+Jardins que incluem filtros de areia-brita-cascalho. Geralmente, usam plantas
+nativas a fim de evitar o uso de fertilizantes químicos.
+Restauração de
+rios urbanos
+Restauração das condições naturais dos rios e córregos urbanos. Inclui: recuperar
+o leito maior, preservar a sinuosidade, implementar rugosidade nas canalizações,
+para reduzir as velocidades de escoamento e restaurar a mata ciliar, e medidas
+para o saneamento dos fundos de vale.
+Sistemas de
+captação
+Sistemas que coletam e armazenam as águas pluviais para reduzir a velocidade
+da descarga no sistema de drenagem urbana
+Fonte: IPEA (2021), com adaptações
+No Quadro 7, alguns exemplos de medidas estruturais contra enchentes, inundações
+e alagamentos são apresentados.
+Quadro 7 - Medidas estruturais contra enchentes, inundações e alagamentos
+(Continua)
+Medida estrutural Imagem
+Dique na margem
+direita do rio Ara,
+Tóquio, Japão. A
+função dessa
+estrutura é servir
+como uma barreira
+que impede que a
+água afete a área
+urbana do outro
+lado do dique.
+Fonte: os autores (2019)
+CAPÍTULO 4 - EVENTOS HIDROLÓGICOS 65
+Quadro 7 – Medidas estruturais contra enchentes, inundações e alagamentos
+(Continuação)
+Medida estrutural Imagem
+Comporta hidráulica
+no rio Ara, Tóquio,
+Japão. O propósito é
+represar e direcionar
+as águas do rio para
+evitar/mitigar
+inundações.
+Fonte: os autores (2019)
+Canal de desvio em
+uma seção do rio
+Kusaka, Japão. O
+objetivo é direcionar a
+água que costumava
+inundar uma vila para
+outro local.
+Fonte: os autores (2020)
+Bacia de detenção
+superficial ao redor do
+Estádio de Yokohama,
+Japão. Ela armazena
+temporariamente o
+volume excedente de
+água do Rio Tsurumi
+para evitar inundações
+na região. O estádio foi
+construído sob
+colunas de suporte
+para que não seja
+inundado.
+Fonte: os autores (2019)
+MABOM - MOVIMENTOS DE MASSA, ENCHENTES E INUNDAÇÕES – VOLUME I 66
+Quadro 7 – Medidas estruturais contra enchentes, inundações e alagamentos
+(Conclusão)
+Medida estrutural Imagem
+Barragem de
+Yamba (ao fundo)
+em Gunma, Japão,
+funciona como um
+reservatório que
+retém parte do
+volume das águas
+do escoamento
+superficial das
+chuvas. Assim,
+evita-se enchentes
+e inundações a
+jusante.
+Fonte: os autores (2020)
+Fonte: elaborado pelos autores
+No próximo tópico, são apresentadas as medidas não estruturais contra enchentes,
+inundações e alagamentos e a importância de haver uma integração com as medidas
+estruturais de modo a criar uma abordagem holística e eficaz na gestão de riscos
+associados a esses eventos.
+4.7 Medidas não estruturais contra enchentes, inundações e alagamentos
+As medidas de controle não estruturais são medidas de caráter preventivo que
+procuram evitar e mitigar os danos de enchentes, inundações e alagamentos. Elas
+podem, segundo Tucci (2001), ser agrupadas em:
+a) construções à prova desses fenômenos, mecanismos de proteção para reduzir
+as perdas em prédios localizados em áreas de risco;
+b) sistemas de previsão e alerta, que incluem coleta de dados de precipitações e
+vazões em tempo real, transmissão a uma central de processamento, previsão
+de cheias a partir de modelos matemáticos e planos da Defesa Civil, com ações
+de proteção individual e comunitária para reduzir os danos;
+CAPÍTULO 4 - EVENTOS HIDROLÓGICOS 67
+c) regulamentação do uso da terra, regulação da ocupação de zonas com risco;
+d) seguro, proteção econômica frente a eventuais perdas.
+O IPEA estruturou o Quadro 8 que exibe tecnologias de medidas não estruturais
+contra enchentes, inundações e alagamentos.
+Quadro 8 - Tecnologias de medidas não estruturais contra enchentes, inundações e alagamentos
+Tecnologias Descrição
+Softwares para modelagem
+do escoamento em redes de
+drenagem (vide Quadro 9)
+Softwares para modelagem da chuva-vazão e/ou hidráulica em
+ambientes urbanizados que permitem determinar quantidade e
+qualidade das águas pluviais.
+Sistemas de controle à
+distância de redes de
+drenagem urbana
+Sistemas que utilizam sensores de nível para controlar o
+fechamento/abertura de válvulas presentes em bacias de
+detenção e monitorar em tempo real os níveis.
+Sistemas de realidade
+virtual
+Sistemas baseados em modelos digitais de elevação, criados a
+partir da topografia do terreno e imagens aéreas.
+Barreiras portáteis com
+vedação à prova de água
+(vide Quadro 9)
+Barreiras plásticas que possuem câmaras de ar nas suas
+extremidades com um sistema de bombeamento que, quando
+acionado, aumenta a sua vedação. Uma válvula controla a
+retenção/detenção do ar e, quando necessário, o ar pode ser
+retirado pela sua abertura e a barreira pode ser desmontada.
+Barreiras de inundações
+(flood barriers)
+Barreiras móveis com diferentes formatos (sacos, caixas etc.) e
+feitas de diferentes materiais (polímeros, areia etc.). Quando
+organizadas em conjunto, podem formar barreiras temporárias
+para a proteção de determinado ambiente. Muito usadas em
+situações emergenciais.
+Bombas hidráulicas
+ativadas por sensores
+Bombas hidráulicas em reservatórios com sensor de nível da água
+que, quando acionado, bombeia a água para a rede de drenagem
+ou outro local escolhido.
+Fonte: adaptado do IPEA (2021)
+No Quadro 9, exemplos de medidas não estruturais contra enchentes, inundações e
+alagamentos são demonstradas. O primeiro exemplo é o uso de uma simulação
+numérica, isto é, a inserção de variáveis em software (programa de computador),
+como precipitação, topografia, tipo de solo, saturação do solo e tipo de ocupação, para
+que seja produzido um mapa das áreas que eventualmente seriam afetadas, a
+depender do volume de chuvas. Esse mapa pode servir de base para a confecção de
+mapas de risco, como verificado na Figura 45, em que os locais em que há maior risco
+MABOM - MOVIMENTOS DE MASSA, ENCHENTES E INUNDAÇÕES – VOLUME I 68
+de inundação são indicados, bem como rotas de fuga e abrigos. Desse modo, a
+população pode realizar, em caso de necessidade, uma evacuação mais organizada
+por conhecer antecipadamente essas informações.
+Quadro 9 - Medidas não estruturais contra enchentes, inundações e alagamentos
+Medida não estrutural Imagem
+Exemplo de simulação
+numérica de inundação do
+software International River
+Interface Cooper-ative (iRIC)
+no rio Akatani, Japão, em
+2007.
+A Figura 45 apresenta um
+desdobramento de um mapa
+feito por simulação numérica.
+Fonte: iRIC (2019)
+Exemplo de barreira portátil
+de borracha com vedação à
+prova de água.
+Fonte: Dyrhoff (2020)
+Sistema de alerta composto
+por alto-falantes e sirenes no
+Japão.
+Fonte: Gordenker (2020)
+Fonte: elaborado pelos autores (2024)
+CAPÍTULO 4 - EVENTOS HIDROLÓGICOS 69
+Figura 45 - Mapa de risco de inundação da cidade de Joso, Japão
+Fonte: Japão (2024)
+MABOM - MOVIMENTOS DE MASSA, ENCHENTES E INUNDAÇÕES – VOLUME I 70
+Para obtenção de resultados mais eficazes no controle de enchentes, inundações e
+alagamentos, a integração de medidas estruturais e não estruturais é essencial para
+uma gestão abrangente. Esse tipo de abordagem não apenas melhora a proteção
+contra desastres, mas também promove a resiliência das comunidades, a
+sustentabilidade ambiental e a eficiência econômica.
+A importância da integração entre medidas estruturais e não estruturais pode ser
+verificada em aspectos como:
+a) redução de riscos: as medidas estruturais podem reduzir significativamente o
+impacto físico das enchentes, inundações e alagamentos, enquanto as não
+estruturais aumentam a resiliência da comunidade e melhoram a capacidade
+de resposta;
+b) relação custo-efetividade: dependendo do contexto, as medidas não estruturais
+podem ser mais baratas e rápidas de implementar. Combiná-las com medidas
+estruturais pode otimizar o uso de recursos financeiros;
+c) adaptabilidade: medidas não estruturais, como políticas de planejamento
+urbano, podem ser mais facilmente ajustadas ao longo do tempo em resposta
+às mudanças nas condições ambientais e ao aumento da frequência e
+severidade dos eventos climáticos extremos;
+d) proteção ambiental: as medidas estruturais, se não forem bem planejadas,
+podem ter impactos negativos no meio ambiente. Integrar medidas não
+estruturais pode ajudar a mitigar esses impactos e promover soluções mais
+sustentáveis;
+e) engajamento comunitário: a implementação de medidas não estruturais
+envolve, educa e cria, na comunidade, uma cultura de prevenção e resiliência
+que pode salvar vidas e minimizar danos.
+CAPÍTULO 5 - BARRAGENS 71
+5 BARRAGENS
+No Brasil, as primeiras experiências da engenharia de barragens foram construções
+para sanar os problemas provenientes dos longos períodos de estiagem. Mais tarde,
+houve um avanço nas construções de barragens com fins hidrelétricos para o
+aproveitamento dos recursos hídricos existentes, fazendo com que o Brasil seja hoje
+um dos países com o maior número desse tipo de obras no mundo, além das
+barragens para contenção de rejeitos da exploração mineral (Alves; Lima, 2022).
+Uma barragem, segundo a Lei Federal nº 14.066, de 30 de setembro de 2020, a qual
+altera a Lei Federal nº 12.334, de 20 de setembro de 2010, que estabelece a Política
+Nacional de Segurança de Barragens (PNSB), é qualquer estrutura construída dentro
+ou fora de um curso permanente ou temporário de água, em talvegue (parte mais
+profunda de um vale ou um leito de rio) ou em cava exaurida com dique, para fins de
+contenção ou acumulação de substâncias líquidas ou de misturas de líquidos e
+sólidos, compreendendo o barramento e, ainda, as estruturas associadas
+(vertedouros, comportas, tomadas d’água, sistemas de monitoramento, casa de
+máquinas e outros).
+As barragens são construídas para atender diferentes interesses, como garantir a
+regularidade de água para o consumo humano, produção de energia elétrica,
+irrigação, dessedentação de animais, piscicultura, navegação, lazer, contenção de
+materiais para evitar/mitigar deslizamentos ou inundações a jusante e, ainda,
+contenção de resíduos (orgânicos, químicos, radiológicos, nucleares, industriais e
+minerais).
+Em âmbito federal, cabe à Agência Nacional de Águas e Saneamento Básico (ANA)
+a função de órgão fiscalizador de segurança de barragens de usos múltiplos em rios
+federais que não gerem energia elétrica como uso preponderante e, ainda, algumas
+atribuições especiais: articulação entre os fiscalizadores de segurança de barragens,
+elaboração do Relatório de Segurança de Barragens e implementação e gestão do
+Sistema Nacional de Informações sobre Segurança de Barragens. À Agência Nacional
+de Energia Elétrica (ANEEL) cabe a fiscalização de segurança das barragens de
+geração de energia elétrica e, por fim, é a Agência Nacional de Mineração (ANM) a
+MABOM - MOVIMENTOS DE MASSA, ENCHENTES E INUNDAÇÕES – VOLUME I 72
+responsável pela fiscalização da segurança das barragens de rejeitos de mineração
+(ANA, 2023).
+No estado de Minas Gerais, de acordo com a Lei Estadual nº 23.291, de 25 de
+fevereiro de 2019 (Minas Gerais, 2019), que institui a política estadual de segurança
+de barragens, a fiscalização ambiental compete aos órgãos e entidades do Sistema
+Estadual de Meio Ambiente e Recursos Hídricos (Sisema). Segundo o Decreto
+Estadual nº 48.078, de 5 de novembro de 2020, o Plano de Ação de Emergência (PAE)
+deve ser analisado e aprovado de forma integrada pelos seguintes órgãos e
+entidades: Gabinete Militar do Governador e Coordenaria Estadual de Defesa Civil
+(GMG-Cedec); Instituto Estadual do Patrimônio Histórico e Artístico de Minas Gerais
+(Iepha); Secretaria de Estado de Meio Ambiente e Desenvolvimento Sustentável
+(Semad); Fundação Estadual de Meio Ambiente (Feam); Instituto Mineiro de Gestão
+das Águas (Igam); Instituto Estadual de Florestas (IEF) e Instituto Mineiro de
+Agropecuária (IMA).
+O PAE é um documento estratégico elaborado para assegurar a pronta resposta em
+situações de emergência que possam comprometer a segurança da barragem e a
+integridade das áreas a jusante. Esse plano é essencial para minimizar os impactos
+de possíveis incidentes e garantir a segurança da população e do meio ambiente. Os
+principais componentes de um PAE incluem:
+a) identificação e caracterização da barragem: informações detalhadas sobre a
+barragem, incluindo localização, características técnicas, finalidade, e
+informações sobre o reservatório;
+b) análise de riscos e cenários de emergência: avaliação dos possíveis riscos
+associados à barragem e identificação dos cenários de emergência mais
+prováveis, como o seu rompimento, transbordamento ou a presença de falhas
+estruturais;
+c) mapa de inundação: representação gráfica das áreas que seriam afetadas em
+caso de rompimento da barragem, indicando a extensão e a profundidade da
+inundação esperada;
+d) sistema de monitoramento e alerta: descrição dos dispositivos e procedimentos
+para monitorar a condição da barragem e detectar sinais de perigo. Inclui
+CAPÍTULO 5 - BARRAGENS 73
+também o sistema de comunicação para alertar as autoridades e a população
+em caso de emergência;
+e) procedimentos de resposta a emergências: orientações claras e detalhadas
+sobre as ações a serem tomadas em diferentes níveis de emergência. Isso
+inclui procedimentos para evacuação, mobilização de recursos de emergência
+e medidas para mitigar os efeitos do incidente;
+f) planos de evacuação: detalhamento das rotas de evacuação, pontos de
+encontro seguros e procedimentos para garantir a retirada ordenada e segura
+da população nas áreas de risco;
+g) treinamento e simulados: programas de treinamento para a equipe de operação
+da barragem, autoridades locais e comunidades, além de simulados regulares
+de emergência para testar e aprimorar a eficácia do PAE;
+h) revisão e atualização do plano: procedimentos para a revisão periódica e
+atualização do PAE, garantindo que o plano permaneça relevante e eficaz
+diante de mudanças nas condições da barragem, do entorno ou das
+regulamentações.
+5.1 Rompimento de barragens
+As barragens são estruturas de engenharia sujeitas a falhas humanas, que podem
+estar presentes no projeto, durante as obras de construção e/ou durante a sua
+operação. O colapso parcial ou total de uma barragem pode estar associado a falhas
+de origem humana ou a causas naturais.
+Em Minas Gerais, com maior repercussão na mídia, houve o rompimento de barragens
+de rejeitos de mineração no distrito de São Sebastião das Águas Claras (Macacos),
+município de Nova Lima (MG), em 2001; no município de Itabirito (MG), no ano de
+2014; no subdistrito de Bento Rodrigues, município de Mariana (MG), em 2015; e no
+povoado de Córrego do Feijão, município de Brumadinho (MG), no ano de 2019
+(Castro, 2021).
+No município de Barão de Cocais (MG), no ano de 2019, tendo em vista a condição
+crítica de estabilidade da Barragem Sul Superior da mina de Gongo Soco, a
+MABOM - MOVIMENTOS DE MASSA, ENCHENTES E INUNDAÇÕES – VOLUME I 74
+mineradora Vale evacuou cerca de 150 famílias atingidas (452 pessoas) que foram
+levadas para hotéis em cidades da região (G1, 2019a).
+A Figura 46 demonstra um perfil esquemático da situação verificada na Barragem Sul
+Superior: a possibilidade de rompimento do talude norte causando o rompimento da
+Barragem Sul Superior localizada a jusante. Segundo a Vale (2024), a
+descaracterização (vide página 74) da Barragem Sul Superior está prevista para o ano
+de 2029.
+Figura 46 - Talude da Mina Gongo Soco, em 2019
+Fonte: G1 (2019b)
+CAPÍTULO 5 - BARRAGENS 75
+Em 2022, após as fortes chuvas que assolaram Minas Gerais no início do mês de
+janeiro, em Nova Lima (MG), na Mina Pau Branco, da Mineradora Vallourec, houve o
+carreamento de uma porção de material que estava disposto na pilha de estéril, rejeito
+de mineração drenado e compactado, fruto do empilhamento a seco, técnica que
+consiste em desidratar os rejeitos para remover a maior parte da água para se obter
+um material sólido (vide página 76). O material da pilha de Cachoeirinha, mistura de
+água das chuvas e de rejeito de mineração, deslizou pelo talude, transbordou sobre o
+dique Lisa a jusante e invadiu a rodovia BR-040 (Figura 48).
+Figura 47 - Deslizamento de porção da pilha cachoeirinha sobre o dique Lisa
+Fonte: G1 (2022)
+MABOM - MOVIMENTOS DE MASSA, ENCHENTES E INUNDAÇÕES – VOLUME I 76
+Ainda no início de 2022, em Pará de Minas (MG), devido às chuvas intensas, houve o
+galgamento (transbordamento) de uma pequena barragem destinada a geração de
+energia para uma empresa local de tecelagem (Figura 49). As autoridades locais, por
+precaução, recomendaram a evacuação de moradores que se encontravam a jusante
+dessa barragem.
+Figura 48 - Galgamento de barragem em Pará de Minas, em 2022
+Fonte: MPMG (2022)
+O rompimento e o galgamento em barragens pode ocasionar a liberação violenta do
+material armazenado para jusante, causando a degradação de cursos d’água, solos,
+fauna, flora, bens e vidas.
+Desse modo, tendo em vista que, no estado de Minas Gerais, as principais ocorrências
+relacionadas às barragens envolvem aquelas destinadas ao acúmulo de rejeitos de
+mineração, um foco maior é dado a elas neste manual. Então, o nivelamento básico
+CAPÍTULO 5 - BARRAGENS 77
+desse tipo de conteúdo se torna fundamental para aperfeiçoar o atendimento prestado
+pelo CBMMG.
+5.1.1 Barragens de água
+No Brasil, é comum o uso do termo açude para descrever uma barragem de
+armazenamento de água. Na prática, trata-se de uma barreira artificial, usada para
+reter água, podendo reservar água da chuva ou a água corrente de algum curso
+d’água. É muito usado em regiões onde há escassez de água durante períodos de
+estiagem e, ainda, para outras finalidades, como abastecimento de áreas agrícolas,
+residenciais e industriais, produção de energia elétrica, defesa contra cheia de rios,
+entre outras (MDR, 2023).
+As barragens podem ser classificadas considerando diferentes critérios. Segundo
+Pinheiro (2019), os mais utilizados são de acordo com o tipo de material de construção
+e, também, de acordo com o comportamento estrutural. Os materiais de construção
+abrangem, geralmente, elementos como terra, enrocamento (em linhas gerais, um
+maciço composto por blocos de rocha compactados), aço, borracha, madeira,
+alvenaria e concreto. A classificação de comportamento estrutural (Figura 49)
+classifica, principalmente, métodos como gravidade, arco e arco-gravidade.
+Os principais componentes de uma barragem para geração de energia elétrica podem
+ser verificados na Figura 50.
+MABOM - MOVIMENTOS DE MASSA, ENCHENTES E INUNDAÇÕES – VOLUME I 78
+Figura 49 - Exemplos de comportamento estrutural de barragens
+Fonte: Iberdrola (2024)
+CAPÍTULO 5 - BARRAGENS 79
+Figura 50 - Componentes de uma barragem
+- Barramento: estrutura transversal em um
+vale que, junto com a fundação e as
+ombreiras, é responsável pela retenção de
+material. Pode ser executado com diferentes
+técnicas e materiais: aterro (terra,
+enrocamento, rejeitos), concreto, alvenaria,
+etc.
+- A seção transversal do barramento, na
+maioria das vezes, tem a forma trapezoidal,
+sendo o lado maior o contato com o terreno
+natural, chamado de fundação, os lados
+inclinados designados por taludes ou
+paramentos, e o lado menor denominado de
+crista ou coroamento da barragem.
+- A crista (ou coroamento) liga
+transversalmente as duas margens e permite
+o acesso a vários dos componentes das
+barragens. A crista deve possuir inclinação
+para o reservatório, de modo a escoar a água
+das chuvas, e ser coberta com um pavimento
+para permitir o tráfego de veículos.
+- As zonas das margens em contato direto
+com o barramento são denominadas de
+ombreiras, existindo uma na margem direita,
+designada de ombreira direita, e outra na
+margem esquerda, a ombreira esquerda. A
+margem direita de um curso de água localizase à direita de um observador que olha para o
+barramento a partir de montante e a margem
+esquerda é a margem oposta.
+- As descargas (ou descarregadores) de fundo
+são equipadas com uma comporta para
+operação. São, na sua maioria, um conduto
+inserido na fundação da barragem.
+- Para permitir o uso da água do reservatório
+para qualquer fim, as barragens dispõem de
+tomada d’água podendo, em pequenas
+barragens, a tomada d’água e a descarga de
+fundo serem a mesma estrutura. Em
+barragens de geração de energia elétrica, a
+água é conduzida até a casa de força, onde
+passa por turbinas e posteriormente é
+restituída ao rio.
+- O reservatório é a água, substância líquida
+ou mistura de líquidos e sólidos armazenada
+em uma barragem.
+- As estruturas extravasoras de barragens são
+constituídas por vertedouros de superfície,
+com ou sem comportas, para a evacuação de
+cheias, e por descargas de fundo para o
+esvaziamento do reservatório.
+Fonte: ANA (2021)
+MABOM - MOVIMENTOS DE MASSA, ENCHENTES E INUNDAÇÕES – VOLUME I 80
+5.1.2 Barragens de rejeitos de mineração
+As barragens de rejeitos de mineração são estruturas construídas ao longo do tempo
+por meio de alteamentos sucessivos, isto é, elevações ou diques que são feitos em
+sequência. Dessa forma, um dique de partida é inicialmente construído e canhões
+descarregam hidraulicamente o rejeito e preenchem o espaço criado. Em seguida, um
+novo alteamento é feito para aumentar a capacidade do reservatório e permitir que
+mais rejeitos sejam descarregados. Há três métodos principais de construção deste
+tipo de barragem: jusante, linha de centro e montante (IBRAM, 2016).
+No método de alteamento a jusante (Figura 52), cada alteamento é feito no sentido de
+jusante. Além disso, sistemas de drenagem interna podem ser instalados durante a
+construção da barragem e estendidos durante os alteamentos, o que aumenta a sua
+estabilidade ao permitir o controle da linha freática ou linha de saturação, para alguns
+autores, da estrutura da barragem (Figura 53), ou seja, ao permitir um rebaixamento
+da linha que representa o limite ou a interface onde todo o espaço poroso de um solo
+está preenchido com água. Abaixo dessa linha, o solo está totalmente saturado de
+água e, acima dela, o solo pode estar parcialmente saturado ou completamente seco,
+dependendo das condições locais. Em barragens de terra, por exemplo, a linha
+freática é crítica para a estabilidade da estrutura, pois a pressão da água pode afetar
+a resistência ao cisalhamento (deformação ou rompimento com forças aplicadas
+paralelamente à sua superfície) do solo, aumentando o risco de deslizamentos ou
+falhas na barragem. Por fim, a barragem pode ser projetada e construída com a
+resistência requerida, incluindo a resistência a forças sísmicas (Araújo, 2006).
+CAPÍTULO 5 - BARRAGENS 81
+Figura 51 - Método de alteamento a jusante
+Fonte: IBRAM (2016)
+Figura 52 - Linha freática (linha de saturação)
+Fonte: Instituto Minere (2016)
+No método de alteamento linha de centro (Figura 54), cada alteamento é feito sob o
+eixo do alteamento anterior. Nesse método, há a possibilidade de utilização de zonas
+de drenagem interna em todas as fases de alteamento, o que permite o controle da
+linha freática e favorece a dissipação das pressões dos poros, tornando o método
+adequado para uso mesmo em áreas de alta sismicidade. A pressão nos poros é a
+pressão que um fluido exerce nos poros dos elementos porosos (solos e rochas, por
+exemplo) (Araújo, 2006).
+Figura 53 - Método de alteamento linha de centro
+Fonte: IBRAM (2016)
+MABOM - MOVIMENTOS DE MASSA, ENCHENTES E INUNDAÇÕES – VOLUME I 82
+O método de alteamento a montante (Figura 55) é uma alternativa mais barata que
+requer menos material em sua construção e, muitas vezes, acaba sendo a escolha
+para armazenar rejeito. Nesse método, os alteamentos são feitos sobre materiais
+previamente depositados e não consolidados. Portanto, sob condição saturada, isto
+é, quando todos os espaços entre as partículas dos rejeitos estão preenchidos com
+água, e quando a compactação desses rejeitos é pequena, o material tende a ter baixa
+resistência ao cisalhamento e maior suscetibilidade à liquefação (mudança rápida do
+estado sólido para o líquido) por cargas dinâmicas (em movimento) e estáticas. Ainda,
+existe uma dificuldade na implantação de um sistema de drenagem interna eficiente
+para controlar o nível de água no interior da barragem, constituindo um problema
+adicional que impacta a estabilidade de toda a estrutura (Araújo, 2006).
+Figura 54 - Método de alteamento a montante
+Fonte: IBRAM (2016)
+De acordo com a Lei Federal nº 14.066, de 30 de setembro de 2020, fica proibida a
+construção ou o alteamento de barragem de mineração pelo método a montante.
+Segundo esse dispositivo, o empreendedor deve concluir a descaracterização da
+barragem construída pelo método a montante até 25 de fevereiro de 2022,
+considerada a solução técnica exigida pela entidade que regula e fiscaliza a atividade
+minerária e pela autoridade licenciadora do Sistema Nacional do Meio Ambiente
+(Sisnama). O prazo pode ser prorrogado em razão da inviabilidade técnica para a
+execução da descaracterização da barragem no período previsto, desde que a
+decisão para cada estrutura seja referendada pela autoridade licenciadora do
+Sisnama.
+Uma barragem de mineração descaracterizada, segundo a Resolução nº 95 da ANM,
+de 7 de fevereiro de 2022, é a estrutura que não recebe, permanentemente, aporte de
+rejeitos e/ou sedimentos oriundos de sua atividade fim, a qual deixa de possuir
+CAPÍTULO 5 - BARRAGENS 83
+características ou de exercer função de barragem, de acordo com projeto técnico.
+Para tal, as seguintes etapas devem ser concluídas:
+a) descomissionamento: encerramento das operações com a remoção das
+infraestruturas associadas, tais como, mas não se limitando, a espigotes e
+tubulações, exceto aquelas destinadas à garantia da segurança da estrutura;
+b) controle hidrológico e hidrogeológico: adoção de medidas efetivas para reduzir
+ou eliminar o aporte de águas superficiais e subterrâneas para o reservatório,
+bem como a redução controlada da linha freática no interior do reservatório;
+c) estabilização: execução de medidas tomadas para garantir a estabilidade física
+e química de longo prazo das estruturas que permanecem no local; e
+d) monitoramento: acompanhamento pelo período mínimo de 2 (dois) anos após
+a conclusão das etapas anteriores, objetivando assegurar a eficácia das
+medidas de estabilização e de controle hidrológico e hidrogeológico.
+As barragens de rejeitos de mineração que se romperam em Bento Rodrigues, no ano
+de 2015, (Figura 56), e Córrego do Feijão, no ano de 2019, Figura 57, foram erguidas
+ao longo dos anos pelo método de alteamento a montante. No episódio de Córrego
+do Feijão, o rompimento da barragem e a consequente liberação do rejeito
+armazenado gerou ondas de lama que, em alguns locais, atingiram cerca de 20 metros
+de altura e alcançaram velocidades estimadas de até 90 km/h. A velocidade somada
+à densidade do material contribuiu para que o poder destrutivo das ondas dizimasse
+vidas, edificações e veículos que estavam em seu caminho (Ameno, 2020).
+Figura 55 - Rompimento da barragem de Fundão em Bento Rodrigues
+Fonte: VOA News (2015)
+MABOM - MOVIMENTOS DE MASSA, ENCHENTES E INUNDAÇÕES – VOLUME I 84
+Figura 56 - Rompimento da Barragem B1 em Córrego do Feijão
+Fonte: Wikipedia (2019)
+Para efeito de comparação, a quantidade de movimento (momento linear) nos pontos
+em que a onda de rejeito alcançou 20 metros de altura era equivalente a um caminhão
+carregado com 40 toneladas de carga se deslocando a 90 km/h, isto é, perfazendo
+um valor superior a 1.000.000 kg.m/s. A quantidade de movimento, a título de
+curiosidade é expressa pela fórmula 𝑝 = 𝑚𝑣, em que “m” representa a massa e “v” a
+velocidade (Ameno, 2020).
+Os rompimentos de barragem de mineração em que o rejeito se comporta como um
+fluído, devido a presença de um volume significativo de água em sua composição, se
+comportam como um fluxo de detritos. O diferencial é que são situações em que o
+volume costuma ser muito superior ao de um fluxo de detritos propriamente. A título
+de exemplo, o volume de rejeito liberado após o rompimento da Barragem de Fundão,
+distrito de Bento Rodrigues, município de Mariana, equivalia a um campo de futebol
+(104 x 68 metros) completamente preenchido com uma coluna de 4,5 km de altura de
+rejeito. Na barragem B1, povoado de Córrego do Feijão, município de Brumadinho,
+essa coluna seria de aproximadamente 1,5 km de altura (Ameno, 2021).
+CAPÍTULO 5 - BARRAGENS 85
+A água, assim como nos deslizamentos, é o agente que desagrega os grãos de solo,
+reduz a sua coesão e pode, dependendo da situação, desestabilizar as estruturas. Ela
+pode facilitar a ocorrência de colapsos estruturais como os verificados em Bento
+Rodrigues e no Córrego do Feijão. Por essa razão, nos últimos anos, os processos de
+desaguamento dos rejeitos e empilhamento a seco ganharam notoriedade em
+diversos países (Ameno, 2021).
+O empilhamento a seco, também chamado de dry stacking, em inglês, é um método
+em que são utilizados filtros-prensa para reduzir a umidade dos rejeitos. Em seguida,
+esse material é disposto em pilhas.
+5.1.3 Medidas de segurança para barragens de rejeito de mineração
+Uma medida adotada para conter o material, em um eventual rompimento de
+barragem de mineração, é a construção, a jusante, de muros de contenção para
+capturar os rejeitos. No Brasil, é uma medida recentemente empregada por algumas
+mineradoras.
+Na Figura 58, é exemplificado um muro de contenção que foi instalado na Mina
+Fábrica, entre os municípios de Ouro Preto (MG) e Itabirito (MG), com a previsão de
+conter os rejeitos das barragens de Forquilhas I, II, III, IV e Grupo. A estrutura de
+contenção a jusante possui 95 metros de altura e 330 metros de comprimento.
+(Rodrigues, 2021).
+Figura 57 - Muro de contenção de rejeitos a jusante
+Fonte: Vale (2024)
+MABOM - MOVIMENTOS DE MASSA, ENCHENTES E INUNDAÇÕES – VOLUME I 86
+Outra medida importante é a divulgação de mapas de inundação baseado na
+capacidade máxima prevista para a estrutura pela empresa responsável pelo
+empreendimento minerário. No mapa de dam break (rompimento de barragem),
+conforme Figura 58, é interessante que haja o compartilhamento de informações
+importantes como: dados básicos da barragem, data, localização geográfica, lista de
+contatos, identificação dos níveis de emergência, protocolos de ação, sala de controle,
+sistema de alerta e alarme, evacuação, comunicação de risco voltada às
+comunidades, cadastro da população inserida na zona de autossalvamento (ZAS) e
+locais para acomodação das pessoas que forem evacuadas.
+Figura 58 - Exemplo de mapa dam break com mancha de inundação de barragem de mineração
+Fonte: Vale (2018)
+Além das duas medidas mencionadas, é possível a adoção de outras medidas como:
+treinamentos, simulados, sistemas de alerta e alarme que foram explanadas nos
+capítulos anteriores.
+CAPÍTULO 6 - CONSIDERAÇÕES FINAIS 87
+6 CONSIDERAÇÕES FINAIS
+O manual tem como objetivo principal fornecer uma compreensão abrangente sobre
+os conceitos relacionados aos movimentos de massa, rios, enchentes, inundações,
+alagamentos, enxurradas, cabeças d’água e barragens. Por meio de uma abordagem
+detalhada e técnica, foram apresentadas as estruturas e processos verificados no
+curso de um rio, a classificação e dinâmica dos movimentos de massa, as tecnologias
+empregadas contra enchentes, inundações e alagamentos e, por fim, as medidas de
+segurança para barragens, especialmente em contextos de mineração.
+Entre os tópicos abordados, foram incluídas discussões sobre a importância das
+medidas estruturais e não estruturais com vistas a mitigar ou evitar os impactos
+gerados por alguns fenômenos.
+A apresentação de situações reais como as verificadas em Bento Rodrigues (MG),
+Córrego do Feijão (MG), Nova Lima (MG) e Pará de Minas (MG) ilustram, de maneira
+prática, os riscos, as consequências e a recorrência de falhas em barragens. Esses
+exemplos servem para evidenciar a importância da preparação das equipes de
+socorro para cenários complexos e, muitas vezes, caóticos.
+O objetivo deste manual não é apenas descrever os riscos associados a eventos
+geológicos, hidrológicos e rompimentos de barragem, mas fomentar o
+desenvolvimento de normas, técnicas, táticas, estratégias e equipamentos para
+atuação das equipes envolvidas na operação de salvamento.
+Esperamos que este documento seja uma referência útil para profissionais da área,
+autoridades públicas e demais interessados ao fornecer subsídios para a
+implementação de ações de proteção individual e comunitária. A adoção das medidas
+aqui sugeridas contribui significativamente para a redução de danos e prejuízos, e
+permite uma sociedade mais resiliente.
+Assim, acreditamos que o MABOM - MMEI cumpre o seu propósito ao oferecer uma
+visão clara e detalhada dos processos geológicos e hidrológicos, os riscos e
+consequências inerentes e as medidas estruturais e não estruturais para enfrentá-los. 
+
+GLOSSÁRIO
+Açude – equivalente a barragem em curso de água, com a finalidade de irrigação de
+terras e abastecimento de água para a população (IBGE, 2015).
+Afluente – curso d’água cujo ou descarga que contribui para aumentar outro no qual
+desemboca. Chama-se ainda de afluente o curso d’água que desemboca num lago
+ou numa lagoa. O trabalho erosivo dos rios afluentes e subafluentes é geralmente
+menor que o do rio principal, pois o volume d’água é sensivelmente menor (Guerra,
+1993).
+Água de escoamento superficial – água que começa a escoar quando a quantidade
+precipitada é maior que a velocidade de infiltração (Guerra, 1993).
+Água de rolamento – denominação adotada por alguns estudiosos para o lençol de
+escoamento superficial, run-off, do inglês (Guerra, 1993).
+Alagamento – acúmulo momentâneo de água ante a dificuldade de escoamento
+superficial em terrenos com baixa declividade ou por deficiência ou baixa capacidade
+de escoamento do sistema de drenagem. Os alagamentos não estão relacionados
+com os rios. Eles são acúmulos momentâneos de água em determinada área
+(geralmente urbana) e são causados em locais cuja drenagem não é capaz de
+suportar o volume de água de um evento intenso de chuva (IPT/CPRM, 2014).
+Aluvião – detritos ou sedimentos carregados e depositados pelos rios (Guerra, 1993).
+Apluvião – partículas carregadas pelas águas das chuvas (Guerra, 1993).
+Aquífero – região em que a camada aquífera nos poços artesianos se encontra
+intercalada entre dois terrenos impermeáveis. A rocha, cuja permeabilidade permite a
+retenção de água, dá origem a águas interiores ou freáticas (Guerra, 1993).
+Área de drenagem – o mesmo que bacia de drenagem ou bacia hidrográfica (Guerra,
+1993).
+MABOM - MOVIMENTOS DE MASSA, ENCHENTES E INUNDAÇÕES - VOLUME I 96
+Arroio – termo regional com ocorrências nos estados da Região Sul referente a cursos
+de água de pequena extensão (IBGE, 2015).
+Assoreamento – processo geomórfico de deposição de sedimentos, exemplo: fluvial,
+eólico, marinho (Guerra, 1993).
+Bacia – depressão de forma variada ou conjunto de terras pouco inclinadas, podendo
+ser ocupada ou não com rios, lagos etc. Essa forma de relevo se opõe aos maciços,
+cadeias de montanhas, planaltos etc. (Guerra, 1993).
+Bacia de drenagem – o mesmo que área de drenagem ou bacia hidrográfica (Guerra,
+1993).
+Bacia fluvial – o mesmo que bacia hidrográfica (Guerra, 1993).
+Bacia hidrográfica – conjunto de terras drenadas por um rio principal e seus
+afluentes. Nas depressões longitudinais se verifica a concentração das águas das
+chuvas, isto é, do lençol de escoamento superficial, formando os rios. A noção de
+bacia hidrográfica obriga naturalmente a existência de cabeceiras ou nascentes,
+divisores d’água, cursos d’água principais, afluentes, subafluentes etc. Em todas as
+bacias hidrográficas, deve existir uma hierarquização na rede potâmica, e a água se
+escoa normalmente dos pontos mais altos para os mais baixos (Guerra, 1993).
+Banco – camada ou estrato de material depositado, tendo uma espessura
+relativamente grande. Geralmente se usa esse termo para os depósitos de areia
+estratificada – banco de areia (Guerra, 1993).
+Banco de areia – acumulação de aluviões e seixos nas margens dos rios e na beira
+dos litorais onde predominam as areias (Guerra, 1993).
+Banqueta – o mesmo que leito maior (Guerra, 1993).
+GLOSSÁRIO 97
+Barranco – escavamento feito pelos agentes naturais, como o das águas ou
+provocado pelo homem, num trecho de uma encosta, próximo da base. O termo
+barranco é um tanto vago e usado mais na linguagem popular (Guerra, 1993).
+Braço – trecho de rio ou de mar que adentra na terra (IBGE, 2015).
+Brejo – terreno normalmente planificado, pantanoso, encharcado, com ocorrências
+nas cabeceiras dos rios ou a partir do seu transbordamento (IBGE, 2015).
+Cabeça d’água – um tipo de enxurrada em que é possível observar a chegada da
+onda de cheia como uma descontinuidade visível da vazão e do nível da água. É um
+tipo de cheia (ou enchente) em que o aumento da vazão, em um determinado local,
+não é apenas rápido, mas sim, praticamente instantâneo. As cabeças d’água
+acontecem sobretudo em bacias pequenas, com grande declividade e com solos de
+baixa capacidade de infiltração. Além disso, as cabeças d’água ocorrem quando a
+profundidade inicial do rio, antes da chegada da cheia, é baixa. Em geral, as chuvas
+que originam as cabeças d’água ficam concentradas na cabeceira da bacia e ausentes
+ou praticamente nulas no local do fenômeno em que a onda de cheia é observada,
+minutos ou horas depois da ocorrência da chuva (Collischonn; Kobiyama, 2019).
+Cabeceira – área onde os olhos d’água dão origem a um curso fluvial, é o oposto de
+foz. Não se deve pensar que a cabeceira seja um lugar bem definido. Por vezes ela
+constitui uma verdadeira área. As cabeceiras também são denominadas de nascente,
+fonte, minadouro, mina, lacrimal, pantanal, manancial etc. (Guerra, 1993).
+Cachoeira – queda d’água no curso de um rio, ocasionada pela existência de um
+degrau no seu perfil longitudinal. As causas da existência dessas diferenças de nível
+no leito de um rio podem estar ligadas a falhas, dobras, erosão, diques etc. No pé da
+cachoeira, na maioria das vezes, há o aparecimento de marmitas ou caldeirões
+produzidos pelo choque da água ao cair. Geralmente as águas carregam materiais
+sólidos em suspensão, seixos, que são responsáveis pela escavação das marmitas
+(Guerra, 1993).
+MABOM - MOVIMENTOS DE MASSA, ENCHENTES E INUNDAÇÕES - VOLUME I 98
+Caldeirão – o mesmo que marmita. No Nordeste do Brasil, também é usada como
+sinônimo de sumidouro. Em Minas Gerais, essa denominação é empregada para as
+cavidades onde ocorrem “perdas” de água (Guerra, 1993).
+Canal – local por onde escoam as águas fluviais (IBGE, 2015).
+Capilaridade – fenômeno físico responsável pela subida ou descida do nível de água
+no solo, através dos tubos capilares existentes nas rochas. Esse fenômeno é mais
+comum em rochas e solos permeáveis (Guerra, 1993).
+Cascata – sucessão de pequenos saltos em um curso d’água onde aparecem blocos
+de rochas. Uma cascata representa uma certa quebra na uniformidade do declive e é
+explicada pela resistência oferecida por certas soleiras ou bancos de rochas mais
+resistentes à erosão (Guerra, 1993).
+Catadupa – denominação usada por certos autores como sinônimo de catarata
+(Guerra, 1993).
+Catarata – queda ou degrau no perfil longitudinal de um rio, produzindo grande queda
+d’água (Guerra, 1993).
+Cheias – o mesmo que enchentes.
+Ciclo das águas – o mesmo que ciclo hidrológico (Guerra, 1993).
+Ciclo hidrológico – tem origem na evaporação. As águas das chuvas ao caírem na
+superfície do solo tomam os seguintes destinos: uma parte pode infiltrar-se, outra
+correr superficialmente, e outra evaporar-se, retornando à atmosfera para constituir
+um novo ciclo (Guerra, 1993).
+Ciclone – um ciclone tropical é um termo genérico usado por meteorologistas.
+Significa um sistema rotativo e organizado de nuvens e tempestades que se
+originaram em águas tropicais ou subtropicais, de acordo com a NOAA. Assim que a
+velocidade dos ventos atinge 119 km/h ou mais, ele é classificado como furacão, tufão
+GLOSSÁRIO 99
+ou ciclone tropical, dependendo de onde a tempestade se origina no mundo (Figura
+4). No norte do Oceano Atlântico e no nordeste do Pacífico, é chamado de furacão.
+No noroeste do Oceano Pacífico, tufão. No Pacífico Sul e no Oceano Índico, de ciclone
+(BBC, 2018). Devido à força de Coriolis, no Hemisfério Sul, os ventos giram no sentido
+horário. No Hemisfério Norte, ao contrário, os ventos giram no sentido anti-horário
+(Kobiyama et al., 2006).
+Cisalhamento – deformação que ocorre em um material quando é submetido a
+esforços de corte. Isso se dá quando uma força é aplicada perpendicularmente à sua
+superfície, assemelhando-se a um corte com uma faca. Essa força pode ser
+desencadeada por diversos fatores, como ventos fortes, terremotos ou mesmo o peso
+da própria estrutura. Quando um material sofre cisalhamento, suas camadas
+superficiais deslizam umas sobre as outras, resultando em uma deformação
+transversal. Esse fenômeno pode provocar o surgimento de trincas e a redução da
+resistência do material (Construliga, 2024).
+Confluência – local onde dois ou mais rios se encontram (Guerra, 1993).
+Corredeira – o mesmo que salto no leito de um rio (IBGE, 2015).
+Córgão – termo regional, utilizado na área rural como aumentativo de córrego, sem
+alteração conceitual significativa. Córrego grande (IBGE, 2015).
+Corguinho – termo regional, utilizado na área rural como diminutivo de córrego, sem
+alteração conceitual significativa. Córrego pequeno (IBGE, 2015).
+Córrego – curso de água corrente de pequeno porte. Ocorre em todas as regiões
+fisiográficas brasileiras, na maioria das Unidades da Federação (IBGE, 2015).
+Corrente – o mesmo que correnteza.
+Correnteza – deslocamento de um líquido em determinada direção, geralmente de
+forma rápida (Priberam, 2023).
+MABOM - MOVIMENTOS DE MASSA, ENCHENTES E INUNDAÇÕES - VOLUME I 100
+Crista – interseção do plano das vertentes, constitui o oposto de talvegue. A crista é
+constituída por uma linha determinada pelos pontos mais altos, a partir da qual
+divergem os dois declives das vertentes (Guerra, 1993).
+Débito fluvial – o mesmo que descarga fluvial.
+Declividade – inclinação de um terreno, medida em graus ou porcentagem (Santos,
+2007).
+Delta – depósito aluvial que aparece na foz de certos rios, avançando como um leque,
+na direção do mar. Essa deposição exige certas condições como ausência de
+correntes marinhas, fundo raso, abundância de detritos etc. (Guerra, 1993).
+Descarga fluvial – quantidade de água que passa por uma seção do rio em um
+segundo. Os dados são apresentados sob a forma de m3
+/s. A existência de postos
+fluviométricos ao longo dos rios é importante, porque, a partir dos dados coletados,
+vai gerar todo um planejamento voltado para um melhor aproveitamento da água,
+como por exemplo, na construção de açudes, canais de irrigação etc. (Guerra, 1993).
+Dique marginal – faixa de terra contínua ou não que acompanha trechos do leito do
+rio entre as margens e a planície de inundação.
+Divisor de águas – linha separadora das águas pluviais. Geralmente se pensa em
+divisores formados por altas montanhas. Todavia, um divisor de águas não é sempre
+constituído por elevadas cristas (Guerra, 1993).
+Dolina – depressão de forma acentuadamente circular, afunilada, com larguras e
+profundidades variadas que aparecem nos terrenos calcários. As dolinas podem ser
+devido à dissolução ou ao desmoronamento de tetos de cavernas. No fundo dessas
+depressões se encontra geralmente água, que ocasiona a dissolução dos calcários
+(Guerra, 1993).
+GLOSSÁRIO 101
+Drenagem – traçado produzido pelas águas de escorrência que modelam a
+topografia. O conjunto desses traçados de drenagem formam os padrões de
+drenagem (Guerra, 1993).
+Embocadura – o mesmo que foz de um rio (Guerra, 1993).
+Enchente – fenômeno natural que ocorre nos cursos de água em regiões urbanas e
+rurais. Ela consiste na elevação dos níveis de um curso d’água, seja este de pequena
+(córrego, riacho, arroio, ribeirão) ou de grande dimensão (rio), podendo causar
+inundações, ou seja, o transbordamento de água do canal principal (Santos, 2007).
+Encosta – declive nos flancos de um morro, de uma colina ou de uma serra (Guerra,
+1993).
+Enxurrada – enchente ou inundação brusca e de curta duração, desenvolvida em
+bacias de drenagem restritas no contexto de relevo serrano ou morros altos, por
+ocasião de chuvas intensas. Caracteriza-se por alta energia de transporte e
+capacidade de arraste, com elevado potencial de impacto destrutivo. Pode induzir a
+instabilização e o solapamento de taludes marginais ao longo do curso d’água
+(IPT/CPRM, 2014).
+Erosão fluvial – trabalho contínuo e espontâneo das águas correntes na superfície
+do globo terrestre (Guerra, 1993).
+Erosão pluvial – trabalho executado pelas águas das chuvas na superfície do relevo
+(Guerra, 1993).
+Escoamento fluvial – corresponde à quantidade total de água que alcança os cursos
+fluviais, incluindo o escoamento pluvial, que é imediato, e a quantidade de água que,
+pela infiltração, vai se juntar a ela, de modo lento (Guerra, 1993).
+Estreito de um rio – passagens relativamente mais apertadas de um curso d’água
+(Guerra, 1993).
+MABOM - MOVIMENTOS DE MASSA, ENCHENTES E INUNDAÇÕES - VOLUME I 102
+Estuário – forma de desaguadouro de um rio no oceano. O estuário forma uma boca
+única e é, geralmente, batido por correntes marinhas e correntes de marés que
+impedem a acumulação de detritos, como ocorre nos deltas. Os estuários têm a forma
+aproximada de um triângulo cuja pequena base se encontra na direção do oceano e
+o vértice na direção do continente (Guerra, 1993).
+Fervedouros – nascentes de rios subterrâneos que, geralmente, não têm espaço
+para vazão da água e, por isso, formam uma espécie de piscina natural (Tocantins,
+2023).
+Fonte – lugar onde brotam ou nascem águas. Algumas vezes usa-se no plural, isto é,
+fontes como sinônimo de cabeceira (Guerra, 1993).
+Foz – boca de descarga de um rio. Esse desaguamento pode ser feito no mar, em um
+lago, em uma lagoa, ou mesmo em um outro rio. A forma da foz pode ser classificada
+em dois tipos: 1 - estuário, 2 - delta. A do primeiro tipo é constituída por um longo
+canal de forma afunilada; e a do segundo, quando se verifica o aparecimento de uma
+série de ilhas, braços e canais formando uma intrincada rede potâmica (Guerra, 1993).
+Hidrografia – parte da geografia física que estuda as águas correntes, águas
+paradas, águas oceânicas e as águas subterrâneas (Guerra, 1993).
+Igarapé – denominação dada aos pequenos rios, na região amazônica. É um termo
+indígena que significa “caminho da canoa” e corresponde ao termo “arroio” da região
+sul do Brasil. Todavia, o volume d’água de um igarapé é, de modo geral, muito superior
+ao de um arroio (Guerra, 1993).
+Interflúvio – pequenas ondulações que separam os vales (Guerra, 1993).
+Inundação – atingimento e submersão da planície aluvial pelo transbordamento das
+águas do canal principal do rio, devido à evolução do processo de enchente ou cheia.
+Caracteriza-se pela elevação temporária do nível d’água relativo ao leito regular do
+canal em dada bacia de drenagem, comumente em razão do acréscimo de vazão da
+água ocasionado por eventos chuvosos de longa duração e elevados índices
+GLOSSÁRIO 103
+pluviométricos acumulados. O excesso de água pode alcançar a planície aluvial atual
+(leito menor, várzea) e os terraços fluviais antigos (leito maior), topograficamente
+alçados em relação à cota da planície aluvial atual, bem como outros terrenos mais
+elevados, situados em flancos de encostas adjacentes (IPT/CPRM, 2014).
+Jusante – área que fica abaixo de outra, ao se considerar a corrente fluvial pela qual
+é banhada. Costuma-se também empregar a expressão relevo de jusante ao se
+descrever uma região que está numa posição mais baixa, em relação ao ponto
+considerado. O oposto de jusante é montante (Guerra, 1993).
+Lago – depressões do solo produzidas por causas diversas e cheias de águas
+confinadas, mais ou menos tranquilas, pois dependem da área que ocupam. As
+formas, as profundidades e as extensões dos lagos são muito variáveis. Geralmente
+são alimentados por um ou mais rios afluentes. Possuem também rios emissários, o
+que evita o seu transbordamento (Guerra, 1993).
+Lagoa – depressão de formas variadas – principalmente tendendo a circulares – de
+profundidades pequenas e cheia de água doce ou salgada. As lagoas podem ser
+definidas como lagos de pequena extensão e profundidade. É comum preservarmos
+a denominação lagoa para as lagunas situadas nas bordas litorâneas, que possuem
+ligação com o oceano, por exemplo, a Lagoa dos Patos, no Rio Grande do Sul, e a
+Lagoa Rodrigo de Freitas, no Rio de Janeiro (Guerra, 1993).
+Lençol freático – água que se acumula no subsolo acima de um substrato
+impermeável e abastece as nascentes, rios, cisternas e poços (Santos, 2007).
+Leito de vazante – o mesmo que leito menor (Guerra, 1993).
+Leito fluvial – canal escavado pelo talvegue do rio para o escoamento dos materiais
+e das águas. Em função do escavamento desse talvegue resulta a forma do vale, das
+vertentes e das próprias cristas. O leito fluvial é também chamado de álveo (Guerra,
+1993).
+MABOM - MOVIMENTOS DE MASSA, ENCHENTES E INUNDAÇÕES - VOLUME I 104
+Leito maior – banqueta de forma plana, inclinada levemente na direção da jusante e
+situada acima do nível das águas, na estação seca. O leito maior dos rios é ocupado,
+anualmente, durante a época das chuvas, ou então, por ocasião das maiores cheias
+(Guerra, 1993).
+Leito menor – canal por onde correm, permanentemente, as águas de um rio, sendo
+a sua seção transversal melhor observada por ocasião da vazante. Durante as cheias,
+os cursos d’água sobem e inundam a banqueta superior, leito maior (Guerra, 1993).
+Lençol de escoamento superficial – formado pelas águas de chuvas que, ao caírem
+na superfície terrestre, escorrem imediatamente no sentido de maior declive. As águas
+desse lençol, que correm pela superfície, alimentam, de modo irregular, os rios, por
+causa da sua dependência das chuvas (Guerra, 1993).
+Linha freática (linha de saturação) – conceito usado principalmente em geologia e
+engenharia civil, particularmente em estudos de solos e barragens. Ela representa o
+limite ou a interface onde todo o espaço poroso de um solo está preenchido com água.
+Abaixo dessa linha, o solo está totalmente saturado de água; acima dela, o solo pode
+estar parcialmente saturado ou completamente seco, dependendo das condições
+locais. Em barragens de terra, por exemplo, a linha de saturação de água é crítica
+para a estabilidade da estrutura, pois a pressão da água pode afetar a resistência ao
+cisalhamento do solo, aumentando o risco de deslizamentos ou falhas na barragem
+(Craig, 2004).
+Manancial – o mesmo que nascente (Guerra, 1993).
+Margem – faixa de terras emersas ou firmes junto às águas de um rio, um lago, ou
+uma lagoa. As margens de um rio são denominadas de esquerda e direita, tomandose, sempre, como orientação o sentido da corrente. O observador fica de costas para
+montante, isto é, para as cabeceiras, e tem do seu lado direito a margem direita e do
+lado oposto a margem esquerda (Guerra, 1993).
+Marmitas – buracos que aparecem no leito dos rios produzidos pelas águas
+turbilhonares. Esses buracos surgem, comumente, logo após uma cachoeira, ou
+GLOSSÁRIO 105
+então, quando há um rápido desnível, sendo, no entanto, o leito do rio de rocha dura
+e compacta (Guerra, 1993).
+Meandros – sinuosidades descritas pelos rios, formando, por vezes, amplos
+semicírculos, em zona de terrenos planos (Guerra, 1993).
+Mina d’água – o mesmo que olho d’água.
+Montante – lugar situado acima de outro, tomando-se em consideração a corrente
+fluvial que passa na região. O relevo de montante é, por conseguinte, aquele que está
+mais próximo das cabeceiras de um curso d’água, enquanto o de jusante está mais
+próximo da foz (Guerra, 1993).
+Nascente – o mesmo que cabeceira de um rio. Geralmente não é um ponto e sim
+uma zona considerável da superfície da terra (Guerra, 1993).
+Olho d’água – designação dada aos locais onde se verifica o aparecimento de uma
+fonte ou mina d’água. As áreas onde aparecem os olhos d’água são, geralmente,
+planas e brejosas (Guerra, 1993).
+Pororoca – impacto causado pelo encontro das águas oceânicas que se projetam em
+sentido contrário à correnteza do rio, dominando-a. A pororoca causa grandes danos,
+pois a água invade as margens destruindo os obstáculos encontrados (Guerra, 1993).
+Postos fluviométricos – locais ao longo dos rios onde estão instalados aparelhos
+com o objetivo de medir vários índices, tais como: a velocidade da corrente, a
+descarga ou débito fluvial, o nível das águas etc. (Guerra, 1993).
+Queda d’água – degrau existente no perfil longitudinal de um rio fazendo com que se
+verifique uma interrupção na continuidade do declive. Esses degraus podem ser
+produzidos por movimentos tectônicos. As quedas d’água, assim como as cachoeiras,
+catadupas, catarata e, mesmo as corredeiras, constituem variedade de saltos cuja
+denominação varia, de modo geral, com as regiões (Guerra, 1993).
+MABOM - MOVIMENTOS DE MASSA, ENCHENTES E INUNDAÇÕES - VOLUME I 106
+Ravinas – sulcos produzidos nos terrenos, devido ao trabalho erosivo das águas de
+escoamento (Guerra, 1993).
+Rede de drenagem – o mesmo que rede hidrográfica (Guerra, 1993).
+Rede hidrográfica – maneira como se dispõe o traçado dos rios e dos vales. Todas
+as grandes formas da paisagem são sulcadas por rios que vão esculpir de modo
+particular o relevo, quer destruindo as partes altas, quer acumulando nas partes
+baixas. A drenagem do relevo se faz de acordo com a declividade geral da região. A
+rede hidrográfica tem muitas vezes um traçado característico segundo a estrutura ou
+a natureza das rochas (Guerra, 1993).
+Regime fluvial – variação do nível das águas do rio durante o ano. O escoamento
+das águas depende do clima, daí a existência de: rios de regime nival ou glaciário,
+aqueles que recebem água devido ao derretimento das neves ou geleiras, quando
+termina o inverno; e os de regime pluvial, os que são alimentados pelas águas das
+chuvas, coincidindo as grandes cheias com a estação chuvosa (Guerra, 1993).
+Regime hidrográfico – o mesmo que regime fluvial (Guerra, 1993).
+Remanso – trecho de rio no qual a corrente fluvial fica praticamente parada (Guerra,
+1993).
+Ressurgência – fonte de água que aparece em terrenos calcários. São
+caracterizadas pela grande abundância de água e, também, pela intermitência. Na
+maioria dos casos não passam de antigos cursos d’água sumidos, que ressurgem
+(Guerra, 1993).
+Riacho – termo regional de ocorrência na Região Nordeste do Brasil e que se traduz
+num curso de água ou corrente de água, que flui ou desemboca no oceano, num lago
+ou noutro curso de água (IBGE, 2015).
+Ribeirão – termo regional de ocorrência no Rio de Janeiro (normalmente próximo à
+fronteira com Minas Gerais), São Paulo (interior), Goiás e Mato Grosso e que se traduz
+GLOSSÁRIO 107
+num curso de água ou corrente de água, que flui ou desemboca no oceano, num lago
+ou noutro curso de água (IBGE, 2015).
+Rio – corrente líquida resultante da concentração do lençol de água em um vale. Um
+curso de água pode, em toda a sua extensão, ser dividido em três partes: curso
+superior, curso médio e curso inferior (Guerra, 1993).
+Rio efêmero – rio que existe somente quando fortes chuvas acontecem, as chamadas
+torrentes (CBHSF, 2014).
+Rio emissário – rio que tem a sua origem em um lago (Guerra, 1993).
+Rio intermitente – rio que existe durante a época das chuvas, vide rio temporário
+(Guerra, 1993).
+Rio perene – rio que existe durante o ano todo (CBHSF, 2014).
+Rio subterrâneo – curso d’água que corre em parte de seu percurso encoberto
+(Guerra, 1993).
+Rio sumido – rio que existe quando há uma perda em rocha calcária (Guerra, 1993).
+Rio temporário – o mesmo que rio intermitente.
+Salto – denominação genérica dada a todos os tipos de desnivelamento ou degraus
+encontrados no perfil longitudinal de um rio, por exemplo: cascata, catarata, catadupa,
+queda d’água, cachoeira e corredeira. As corredeiras e cascatas são formadas por
+fracos desnivelamentos em relação às cataratas, cachoeiras e quedas d’água
+(Guerra, 1993).
+Seixo – fragmentos de rochas transportadas pelas águas, cujo resultado é um
+arredondamento das arestas (Guerra, 1993).
+MABOM - MOVIMENTOS DE MASSA, ENCHENTES E INUNDAÇÕES - VOLUME I 108
+Sumidouro – depressão onde pode existir uma circulação subterrânea (Guerra,
+1993).
+Surgência – fonte hídrica natural de água subterrânea, que brota nos pontos onde o
+nível freático se encontra com a superfície do terreno (IGAM, 2008).
+Talude – superfície inclinada do terreno na base de um morro ou de uma encosta do
+vale, onde se encontra um depósito de detritos (Guerra, 1993).
+Talvegue – linha de maior profundidade no leito fluvial. Resulta da interseção dos
+planos das vertentes com dois sistemas de declives convergentes; é o oposto da crista
+(Guerra, 1993).
+Topografia – arte de representar, em uma folha de papel, uma determinada área da
+superfície do globo terrestre. Diz respeito à altitude e aos declives (Guerra, 1993).
+Torrentes – cursos d’água periódicos produzidos por enxurradas selvagens, algumas
+vezes de grande violência (Guerra, 1993).
+Transporte fluvial – carregamento dos sedimentos realizados pelas águas dos rios
+(Guerra, 1993).
+Tributário – o mesmo que rio afluente (Guerra, 1993).
+Tromba d’água – tipo de tornado que ocorre em amplas superfícies aquáticas, seja
+no mar ou em grandes extensões de água em áreas continentais (Figura 5). Os ventos
+podem atingir a velocidade de 100 km/h e provocam a imagem de um cone em
+movimento que é, na verdade, um turbilhão de ar (Tominaga, 2015). Há registros de
+vítimas fatais, de pescadores e pessoas em pequenas embarcações ou próximas à
+orla, durante as trombas d’água. A tromba d’água não “suga” água a grandes alturas,
+embora possa elevar o nível da água a um metro ou mais em seu ponto de contato
+com a superfície (Britannica, 2023).
+GLOSSÁRIO 109
+Vale – corredor ou depressão de forma longitudinal (em relação ao relevo contíguo)
+que pode ter, por vezes, vários quilômetros de extensão (Guerra, 1993).
+Várzeas – terrenos baixos e mais ou menos planos que se encontram junto às
+margens dos rios (Guerra, 1993).
+Vazante – do ponto de vista hidrográfico, significa a época de águas baixas no leito
+de um rio. É o oposto das cheias (Guerra, 1993).
+Vertentes – planos de declives variados que divergem das cristas ou dos interflúvios,
+enquadrando o vale (Guerra, 1993). Superfície inclinada pela qual há o escoamento
+de algo.
+Voçoroca – escavação ou rasgão do solo ou de rocha decomposta, ocasionado pela
+erosão do lençol de escoamento superficial. Nas regiões recentemente
+desflorestadas, observa-se, por vezes, o aparecimento de grandes
+desbarrancamentos de material decomposto e de solos que são carregados pelas
+enxurradas (Guerra, 1993

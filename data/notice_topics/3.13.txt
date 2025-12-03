@@ -1,0 +1,2126 @@
+Corpo de Bombeiros Militar de Minas Gerais.
+ Instrução Técnica Operacional 11. Prevenção e
+ Combate aos incêndios em Vegetação. 2.ed.
+ Belo Horizonte: CBMMG, 2024.
+
+ 83 p.
+
+ 1. Corpo de Bombeiros Militar de Minas Gerais.
+2. ITO 11. 3. Instrução Técnica Operacional 11.
+4.Prevenção e Combate a incêndio. 5.Incêndios em
+Vegetação. I. Título
+
+LISTA DE SIGLAS E ABREVIAÇÕES
+ABTF Auto Bomba Tanque Florestal
+ASF Auto Salvamento Florestal
+BEMAD Batalhão de Emergências Ambientais e Resposta a Desastres
+BM Bombeiro Militar
+CBMMG Corpo de Bombeiros Militar de Minas Gerais
+CBU Coordenador de Bombeiros da Unidade
+CEB Comando Especializado de Bombeiros
+CIF Combate a Incêndio Florestal
+CILT Combate a Incêndio em Vegetação próximo a Linhas de
+Transmissão de Energia Elétrica
+COB Comando Operacional de Bombeiros
+COBOM Centro de Operações de Bombeiros
+COE Coordenador de Operações Especializadas
+COMPDEC Coordenador Municipal de Proteção e Defesa Civil
+CPCIF
+CPA
+Curso de Prevenção e Combate a Incêndio Florestal
+Companhia de Proteção Ambiental
+DIAO Diretriz Integrada de Ações e Operações
+EPC Equipamentos de Proteção Coletiva
+EPI Equipamento de Proteção Individual
+FEAs Ferramentas, Equipamentos e Acessórios
+FT Fogo Técnico
+GCIF Guarnição de Combate a Incêndio Florestal
+GD Gestão de Desastres
+GRD Gestão de Risco de Desastres
+GuBM Guarnição de Bombeiro Militar
+IEF Instituto Estadual de Florestas
+IF Incêndio Florestal
+ITO Instrução Técnica Operacional
+NIF Núcleo de Incêndio Florestal
+PC Posto de Comando
+PCIF Pelotão de Combate a Incêndio Florestal
+POP Procedimento Operacional Padrão
+REDS Registos de Evento de Defesa Social
+RPA Aeronave Remotamente Pilotada (Remoted Piloted Aircraft)
+S2ID Sistema Integrado de Informações sobre Desastres
+SCO Sistema de Comando em Operações
+SOF Sala de Operações da Fração
+SOU Sala de Operações da Unidade
+UC Unidades de Conservação
+UEOp Unidade de Execução Operacional
+.
+LISTA DE QUADROS
+Quadro 1 - Sinais sonoros de segurança com apito......................................... 30
+Quadro 2 - Equipamentos de proteção individual............................................. 33
+Quadro 3 - Equipamentos de proteção coletiva ............................................... 34
+Quadro 4 - Equipamentos motorizados............................................................ 35
+Quadro 5 - Equipamentos ou ferramentas manuais......................................... 36
+Quadro 6 - Equipamentos de comunicação ..................................................... 36
+Quadro 7 - Equipamentos auxiliares ................................................................ 37
+Quadro 8 - Equipamentos de orientação.......................................................... 38
+Quadro 9 - Regra dos 30.................................................................................. 66
+SUMÁRIO
+1 INTRODUÇÃO ...........................................................................................12
+2 FINALIDADE..............................................................................................13
+3 OBJETIVOS...............................................................................................14
+4 CONCEITOS E DEFINIÇÕES....................................................................15
+4.1 Incêndio florestal ou incêndio em vegetação ........................................15
+4.2 Prevenção em incêndios em vegetação.................................................15
+4.3 Período de estiagem ................................................................................15
+4.4 Sistema de Comando em Operações - SCO...........................................15
+4.5 Anatomia do incêndio em vegetação......................................................16
+4.5.1 Cicatriz do incêndio..................................................................................16
+4.5.2 Bolsas ou bolsões ....................................................................................16
+4.5.3 Dedos.........................................................................................................16
+4.5.4 Flancos ......................................................................................................16
+4.5.5 Focos secundários ...................................................................................16
+4.5.6 Frente principal ou cabeça do incêndio..................................................17
+4.5.7 Ilhas............................................................................................................17
+4.5.8 Linha de fogo.............................................................................................17
+4.5.9 Perímetro ...................................................................................................17
+4.5.10 Retaguarda ou cauda................................................................................17
+4.6 Química do incêndio em vegetação........................................................17
+4.6.1 Chama........................................................................................................18
+4.6.2 Combustível ..............................................................................................18
+4.6.3 Comburente...............................................................................................18
+4.6.4 Combustão ................................................................................................18
+4.7 Linhas de controle....................................................................................18
+4.7.1 Aceiro.........................................................................................................18
+4.7.1.1 Aceiro natural .............................................................................................19
+4.7.1.2 Aceiro artificial ............................................................................................19
+4.7.1.3 Aceiro emergencial.....................................................................................19
+4.7.1.4 Aceiro preventivo........................................................................................19
+4.7.1.5 Aceiro químico............................................................................................19
+4.7.2 Incrementos do aceiro..............................................................................19
+4.7.2.1 Linha fria.....................................................................................................20
+4.7.2.2 Linha negra.................................................................................................20
+4.7.2.3 Rebaixamento de vegetação......................................................................20
+4.7.2.4 Bordadura...................................................................................................20
+4.7.2.5 Vala de segurança......................................................................................20
+4.8 Técnicas de combate ...............................................................................21
+4.8.1 Ataque direto.............................................................................................21
+4.8.2 Ataque indireto..........................................................................................21
+4.8.3 Ataque paralelo .........................................................................................21
+4.9 Fogo técnico (FT) .....................................................................................21
+4.9.1 Fogo controlado........................................................................................21
+4.9.2 Fogo de supressão ...................................................................................22
+4.9.2.1 Fogo tático..................................................................................................22
+4.9.2.2 Contrafogo..................................................................................................22
+4.10 Critérios de segurança.............................................................................22
+4.10.1 Área de segurança....................................................................................22
+4.10.2 Linha de controle ......................................................................................22
+4.10.3 Ponto de ancoragem.................................................................................23
+4.10.4 Rota de fuga ..............................................................................................23
+5 SEGURANÇA NAS OPERAÇÕES............................................................24
+5.1 Segurança coletiva e individual ..............................................................24
+5.1.1 12 normas básicas de segurança............................................................24
+5.1.1.1 C - comportamento do incêndio..................................................................25
+5.1.1.2 S - segurança no combate..........................................................................25
+5.1.1.3 O - organização ..........................................................................................26
+5.1.2 Protocolo Internacional de Segurança em Incêndios Florestais
+(LACES)....................................................................................................................27
+5.1.2.1 Observadores (lookout) ..............................................................................27
+5.1.2.2 Pontos de ancoragem (anchor points)........................................................28
+5.1.2.3 Comunicações (communications)...............................................................28
+5.1.2.4 Rotas de fuga (escape route) .....................................................................28
+5.1.2.5 Áreas de segurança (safety zone)..............................................................28
+5.2 Posicionamento de viaturas....................................................................29
+5.3 Sinais sonoros de segurança com apito................................................30
+5.4 Situações de risco que ameaçam a segurança da operação ...............30
+6 FERRAMENTAS, EQUIPAMENTOS, ACESSÓRIOS (FEAS) E
+VIATURAS................................................................................................................32
+6.1 Equipamentos de proteção individual – EPI ..........................................32
+6.2 Equipamentos de proteção coletiva – EPC............................................34
+6.3 Equipamentos operacionais para combate............................................34
+6.3.1 Equipamentos motorizados .....................................................................35
+6.3.2 Equipamentos ou ferramentas manuais .................................................36
+6.3.3 Equipamentos de comunicação ..............................................................36
+6.3.4 Equipamentos auxiliares..........................................................................37
+6.3.5 Equipamentos de orientação ...................................................................37
+6.4 Viaturas .....................................................................................................38
+6.5 Aeronaves .................................................................................................40
+7 DIRETRIZES PARA A GESTÃO DO RISCO DE INCÊNDIO EM
+VEGETAÇÃO............................................................................................................42
+7.1 Ações de prevenção.................................................................................42
+7.1.1 Abordagem aos visitantes de parques e de reservas ambientais........43
+7.1.2 Visita de orientação ..................................................................................43
+7.1.3 Palestras em escolas................................................................................44
+7.1.4 Blitz educativa...........................................................................................44
+7.1.5 Patrulhamento e vigilância.......................................................................44
+7.1.6 Vistorias em lote vago..............................................................................45
+7.1.7 Legislação municipal................................................................................45
+7.1.8 Construção e manutenção de aceiros ....................................................46
+7.1.9 Fogo técnico..............................................................................................46
+7.1.10 Ponto base.................................................................................................47
+7.1.11 Ações de preparação................................................................................47
+7.1.12 Preparação de FEAs .................................................................................47
+7.1.13 Montagem de kits para respostas fora da sede da UEOp .....................47
+7.1.14 Formação, treinamento e requalificação de brigadas florestais...........48
+7.1.15 Treinamento do 4º esforço/administração..............................................48
+7.1.16 Treinamento de NIFs (núcleos de incêndios florestais) e treinamento
+de multiplicadores de CIF (TMCIF) ........................................................................48
+7.1.17 Curso de Prevenção e Combate a Incêndios Florestais (CPCIF)..........49
+7.1.18 Curso de Geoprocessamento (CGEO) ....................................................49
+7.1.19 Curso de Fogo Técnico (CFT)..................................................................49
+7.1.20 Curso de Perícia de Incêndios em Vegetação (CPIV) ............................49
+7.1.21 Levantamento estatístico de incidência de incêndios em vegetação..50
+7.1.22 Mapeamento de área de risco e georreferenciamento ..........................50
+7.1.23 Plano de ação para localidades com recorrência de incêndio em
+vegetação de grande vulto .....................................................................................51
+7.1.24 Preparação das defesas civis ..................................................................51
+7.2 Ações de gestão relacionadas ao efetivo...............................................52
+7.2.1 Efetivo ordinário........................................................................................52
+7.2.2 Apoio e reforço operacional ....................................................................52
+7.2.3 Brigadas florestais....................................................................................53
+7.2.4 Sala de coordenação e controle ..............................................................53
+7.2.5 Apoio especializado..................................................................................53
+8 DIRETRIZ PARA GESTÃO DO INCÊNDIO EM VEGETAÇÃO.................54
+8.1 Do recebimento da informação do incêndio via 193 ou por detecção.55
+8.2 Da preparação e do deslocamento .........................................................55
+8.3 Da avaliação do cenário...........................................................................56
+8.4 Do SCO......................................................................................................58
+8.4.1 Da instalação do SCO...............................................................................58
+8.4.2 Diretriz para estruturação física das instalações padronizadas...........60
+8.5 Do desenvolvimento das ações de resposta .........................................61
+8.5.1 Das técnicas de combate .........................................................................62
+8.5.1.1 Ataque direto ..............................................................................................63
+8.5.1.2 Ataque indireto ...........................................................................................63
+8.5.1.3 Ataque paralelo ..........................................................................................63
+8.5.2 Do fogo de supressão ..............................................................................64
+8.5.3 Da aplicação da técnica do fogo de supressão......................................65
+8.5.4 Do combate noturno.................................................................................66
+8.6 Da desmobilização e do retorno .............................................................68
+8.7 Da documentação.....................................................................................68
+8.8 Das ações de recuperação ......................................................................69
+8.9 Das operações continuadas ....................................................................69
+8.9.1 Patrulhamento...........................................................................................69
+8.9.2 Visualização ou detecção.........................................................................70
+8.9.3 Confirmação ..............................................................................................70
+8.9.4 Ataque inicial.............................................................................................70
+8.9.5 Controle .....................................................................................................70
+8.9.6 Extinção.....................................................................................................70
+8.9.7 Rescaldo....................................................................................................71
+8.9.8 Monitoramento ..........................................................................................71
+8.9.9 Medição de área queimada ......................................................................71
+8.9.10 Desmobilização.........................................................................................72
+8.9.11 Documentação ..........................................................................................72
+9 AÇÕES BOMBEIRO MILITAR EM SITUAÇÃO DE FLAGRANTE DELITO
+EM INCÊNDIOS CRIMINOSOS................................................................................73
+10 PRESCRIÇÕES DIVERSAS ......................................................................74
+REFERÊNCIAS.........................................................................................................76
+APÊNDICE A - CHECK LIST PARA O TELEATENDENTE.....................................78
+APÊNDICE B - CALENDÁRIO ANUAL DE GRD E GD - RISCO DE INCÊNDIOS EM
+VEGETAÇÃO............................................................................................................80
+APÊNDICE C - MODELO DE HISTÓRICO DE REDS (O.04.000) DE COMBATE A
+INCÊNDIOS EM VEGETAÇÃO ................................................................................81
+APÊNDICE D - GUIA PARA COLETA DE INFORMAÇÕES - REDS (O.04.000) ....82
+ITO 11 – PREVENÇÃO E COMBATE AOS INCÊNDIOS EM VEGETAÇÃO 12
+1 INTRODUÇÃO
+O Corpo de Bombeiros Militar de Minas Gerais (CBMMG) busca atualizar suas normas
+e doutrinas com vistas a executar o ciclo completo de Proteção e Defesa Civil na
+gestão do risco de desastre (GRD) e resposta ao desastre no estado de Minas Gerais.
+Com isso, vislumbrou-se a necessidade de revisão da Instrução Técnica Operacional
+(ITO) nº 11, para nortear as ações de gestão do risco de incêndios em vegetação e
+organizar a base doutrinária para as ações de resposta às queimadas de maneira
+uniforme e sinérgica em todo o estado mineiro.
+Na primeira parte desta ITO, o leitor terá acesso a conceitos que servirão de base
+para o entendimento do conteúdo desta norma. Em seguida, são apresentadas
+orientações sobre a segurança, descrição dos equipamentos de combate, dos
+equipamentos de proteção individual e coletiva, das viaturas e das aeronaves, além
+de conceitos e informações basilares da atividade de combate a incêndio em
+vegetação.
+A presente ITO é dividida em duas fases, a primeira, para uso no período de
+normalidade, a qual orienta a aplicação dos preceitos GRD, ao passo que a segunda
+fase será utilizada durante o período crítico, em que se aplicam os princípios da gestão
+do desastre (GD).
+Entende-se que, assim, a ITO contemplará os requisitos da sazonalidade dos
+incêndios em vegetação, e, ao ser aplicada, esta norma tem potencial para assessorar
+as unidades do CBMMG na gestão dos riscos e dos desastres atinentes aos incêndios
+em vegetação.
+2 FINALIDADE 13
+2 FINALIDADE
+Esta ITO tem a finalidade de estabelecer os principais procedimentos a serem
+observados pelo CBMMG na gestão do risco de desastres, frente aos incêndios em
+vegetação e, na gestão de desastres, na coordenação das ações de resposta em
+ocorrências dessa natureza.
+Para tanto, este documento busca dar clareza às responsabilidades que cada setor
+específico do CBMMG executará, tanto no período de normalidade, quanto no período
+crítico de ocorrências dos incêndios em vegetação.
+Acredita-se, com isso, que a Corporação irá executar com maior eficiência as ações
+de prevenção, preparação e mitigação do risco de incêndios em vegetação. Ademais,
+trata-se de um instrumento para conferir maior embasamento técnico às ações de
+resposta aos incêndios dessa natureza.
+Como resultado, espera-se a redução das incertezas e dos riscos inerentes à
+prevenção e combate aos incêndios em vegetação, contribuindo, consequentemente,
+com a eficácia e a efetividade das ações desenvolvidas diariamente pelo CBMMG em
+todo o território de Minas Gerais.
+ITO 11 – PREVENÇÃO E COMBATE AOS INCÊNDIOS EM VEGETAÇÃO 14
+3 OBJETIVOS
+Para esta ITO, os objetivos a serem alcançados são:
+a) apresentar e padronizar termos e conceitos relacionados aos incêndios em
+vegetação;
+b) estabelecer parâmetros de segurança para atuação do bombeiro militar em
+ocorrências de incêndios em vegetação;
+c) orientar quanto à importância do uso de equipamentos de proteção individual e
+coletiva, além do uso de ferramentas e outros materiais utilizados no combate
+aos incêndios em vegetação;
+d) definir ações gerais e específicas da gestão do risco de incêndio em vegetação
+e da gestão dos incêndios propriamente ditos;
+e) propor ações cíclicas de gestão do risco de incêndio em vegetação a serem
+adotadas pelo CBMMG;
+f) estabelecer procedimentos operacionais para atuação em incêndios em
+vegetação de grandes proporções.
+4 CONCEITOS E DEFINIÇÕES 15
+4 CONCEITOS E DEFINIÇÕES
+Neste tópico são apresentados os principais conceitos e definições que norteiam a
+aplicação desta ITO. Os conceitos ora explicitados estão organizados por assuntos e
+são termos comumente encontrados nos principais manuais, artigos e instruções
+operacionais em língua portuguesa sobre o conteúdo abordado.
+4.1 Incêndio florestal ou incêndio em vegetação
+Fogo sem controle que incide sobre qualquer tipo de vegetação, na maioria das vezes
+é provocado pelo homem, intencionalmente ou não, ou ainda, sob condições muito
+específicas, o incêndio pode ser de causa natural.
+4.2 Prevenção em incêndios em vegetação
+Todas as medidas cujo objetivo é reduzir ou eliminar as possíveis causas dos
+incêndios em vegetação e evitar suas propagações caso ocorram.
+4.3 Período de estiagem
+Período prolongado de mudanças climáticas e baixa pluviosidade, ou sua ausência,
+no qual a perda de umidade do solo é superior à reposição de água. Para fins de
+operações e prevenção, considera-se período de estiagem entre os meses de abril a
+setembro, em Minas Gerais.
+4.4 Sistema de Comando em Operações - SCO
+Ferramenta gerencial, de concepção sistêmica e contingencial, modular e flexível, que
+padroniza as ações de resposta em situações críticas de qualquer sinistro. Para fins
+de aplicação dessa ferramenta, deve-se adotar a doutrina vigente padronizada pelo
+CBMMG.
+ITO 11 – PREVENÇÃO E COMBATE AOS INCÊNDIOS EM VEGETAÇÃO 16
+4.5 Anatomia do incêndio em vegetação
+Conhecer o comportamento do incêndio florestal é de vital importância para o sucesso
+da operação. Assim, saber diferenciar algumas características, tais como, a anatomia
+do incêndio em vegetação, auxilia na previsibilidade do comportamento do fogo e,
+consequentemente, na escolha das melhores estratégias para seu controle.
+4.5.1 Cicatriz do incêndio
+Toda área de vegetação consumida ou atingida pelas chamas durante o incêndio em
+vegetação, caracterizada pela mancha de carbonização no terreno.
+4.5.2 Bolsas ou bolsões
+Reentrâncias na margem do fogo, área entre flanco e dedo, resultante de determinada
+linha de fogo, com queima mais lenta em relação ao restante da linha.
+4.5.3 Dedos
+Projeções alongadas do fogo para fora do corpo do incêndio que não fazem parte da
+frente principal, surgem dos flancos e se propagam com velocidade superior a estes.
+Apresentam risco em potencial, caso não sejam controlados.
+4.5.4 Flancos
+Os lados do fogo, entre a cabeça e a retaguarda, paralelamente à direção do vento.
+Os flancos geralmente avançam com lentidão devido à menor intensidade das
+chamas.
+4.5.5 Focos secundários
+Pontos de fogo externos ao perímetro do incêndio principal, causados geralmente pela
+ação do vento. Normalmente, são encontrados próximos à cabeça do incêndio.
+4 CONCEITOS E DEFINIÇÕES 17
+4.5.6 Frente principal ou cabeça do incêndio
+Parte do incêndio com maior intensidade e que avança mais rapidamente na mesma
+direção e sentido do vento. O controle das chamas nessa parte do incêndio
+geralmente representa o controle do incêndio.
+4.5.7 Ilhas
+Partes formadas por vegetação não queimada, situada dentro do perímetro do
+incêndio/cicatriz.
+4.5.8 Linha de fogo
+Faixa contínua ou não, na qual deslocam-se as chamas do incêndio ou da queima
+controlada.
+4.5.9 Perímetro
+Limite do fogo, caracterizado pela mancha de carbonização e limite do contorno das
+chamas.
+4.5.10 Retaguarda ou cauda
+Extremidade oposta à frente principal, que avança mais lentamente contra o vento, o
+incêndio tem menor intensidade de propagação nessa área.
+4.6 Química do incêndio em vegetação
+A combustão é uma reação química de oxidação rápida, na qual ocorre a liberação de
+calor ou liberação de luz e calor entre alguma substância e o oxigênio. Há combustão
+sem chama, que acontece entre substâncias nas quais há pouco carbono (Faraday,
+2003; Friedman, 1998; Turns, 2013 apud CBMMG, 2020).
+ITO 11 – PREVENÇÃO E COMBATE AOS INCÊNDIOS EM VEGETAÇÃO 18
+4.6.1 Chama
+Parte visível do fogo sustentada pela queima dos gases volatizados que foram
+emanados do material vegetal combustível.
+4.6.2 Combustível
+Material a ser consumido pelo comburente na reação de oxidação em cadeia. Em
+incêndios florestais, é a vegetação.
+4.6.3 Comburente
+Elemento que causa a combustão quando em contato com o material combustível. O
+oxigênio é o principal exemplo de comburente.
+4.6.4 Combustão
+Reação química em cadeia entre o material combustível e o comburente, que resulta
+em liberação de energia na forma de calor ou liberação de luz e calor.
+4.7 Linhas de controle
+Estruturas implementadas ou já existentes no terreno com potencial de mitigar os
+danos de um eventual incêndio.
+4.7.1 Aceiro
+Faixa de terreno desprovida de vegetação combustível, que dificulta ou impede o
+avanço das chamas e facilita o combate. Pode ser natural ou criado pela ação
+humana.
+4 CONCEITOS E DEFINIÇÕES 19
+4.7.1.1 Aceiro natural
+Faixa de terreno naturalmente sem vegetação, como por exemplo curso d’água, areal
+e afloramentos rochosos.
+4.7.1.2 Aceiro artificial
+Faixa de terreno sem vegetação devido à ação humana, por exemplo, as estradas e
+as linhas férreas. O aceiro artificial ainda se divide em: emergencial, preventivo e
+químico.
+4.7.1.3 Aceiro emergencial
+Aceiro construído no momento do combate, com o objetivo de evitar a propagação do
+incêndio.
+4.7.1.4 Aceiro preventivo
+Aceiro produzido no período pré-estiagem e manutenido durante o período crítico com
+o intuito de evitar que um incêndio ultrapasse essa faixa de terreno.
+4.7.1.5 Aceiro químico
+Faixa de vegetação, com largura variável, em que é aplicada uma solução de
+retardante com o objetivo de impedir ou dificultar a propagação do incêndio e,
+consequentemente, facilitar o combate.
+4.7.2 Incrementos do aceiro
+Para aumentar a eficiência e a efetividade de um aceiro, alguns incrementos podem
+ser implementados, conforme descrito a seguir.
+ITO 11 – PREVENÇÃO E COMBATE AOS INCÊNDIOS EM VEGETAÇÃO 20
+4.7.2.1 Linha fria
+Faixa de vegetação com largura variável, em que é aplicada água de modo a aumentar
+a umidade sobre a vegetação para dificultar a propagação do incêndio, facilitando o
+combate.
+4.7.2.2 Linha negra
+Faixa de terreno com largura e comprimento variáveis em que, após planejamento
+prévio, o fogo é empregado de modo tático, a partir de uma linha de controle,
+consumindo o combustível (vegetação) existente, evitando a propagação do incêndio
+para outras áreas.
+4.7.2.3 Rebaixamento de vegetação
+Faixa de vegetação rebaixada por meio do pisoteamento, uso de maquinários e/ou
+ferramentas, de modo a aumentar o adensamento da vegetação, reduzir a superfície
+de contato do combustível com o comburente e dificultar a propagação do fogo.
+4.7.2.4 Bordadura
+Corte ou roçada da vegetação no limite da linha de controle, realizado no lado para
+onde se dirige o fogo, com o objetivo de reduzir a intensidade das chamas até a faixa
+limítrofe sem vegetação.
+4.7.2.5 Vala de segurança
+Vala contínua escavada na parte baixa de taludes ou encostas incendiadas, com o
+intuito de aparar elementos incandescentes que podem se desprender da encosta e
+transportar as brasas morro abaixo.
+4 CONCEITOS E DEFINIÇÕES 21
+4.8 Técnicas de combate
+A seguir são descritas as principais técnicas empregadas no combate aos incêndios
+em vegetação utilizadas pelo CBMMG.
+4.8.1 Ataque direto
+Técnica em que o combate é aplicado diretamente nas chamas do incêndio em
+vegetação.
+4.8.2 Ataque indireto
+Técnica aplicada em áreas ainda não atingidas pela linha de fogo, com o objetivo de
+produzir uma linha de controle e causar a autoextinção do incêndio.
+4.8.3 Ataque paralelo
+Técnica na qual se maneja o combustível com métodos de ataque indireto, o que
+reduz a intensidade das chamas e facilita o combate direto.
+4.9 Fogo técnico (FT)
+Também conhecido como manejo integrado do fogo (MIF), é a prática que envolve o
+uso intencional de fogo abrangendo as técnicas de fogo controlado e de fogo de
+supressão, com vistas a reduzir a ocorrência ou a severidade dos incêndios em
+vegetação, bem como combatê-los quando em propagação.
+4.9.1 Fogo controlado
+Fogo utilizado para manejo do combustível em espaços florestais, sob condições,
+normas e procedimentos apropriados à satisfação de objetivos específicos e
+quantificáveis em um plano de queima prescrita.
+ITO 11 – PREVENÇÃO E COMBATE AOS INCÊNDIOS EM VEGETAÇÃO 22
+4.9.2 Fogo de supressão
+Fogo empregue no combate aos incêndios em vegetação, compreendendo o fogo
+tático e o contrafogo.
+4.9.2.1 Fogo tático
+Fogo usado de modo controlado, com o objetivo de reduzir a disponibilidade de
+combustível em um local de interesse, antes da chegada do incêndio.
+4.9.2.2 Contrafogo
+Fogo usado durante o combate a incêndios em vegetação em que se cria uma linha
+de fogo a partir de um local ancorado e seguro, que irá propagar até encontrar a linha
+de incêndio.
+4.10 Critérios de segurança
+Conjunto de medidas que visam garantir a segurança e minimizar os riscos para as
+guarnições e demais envolvidos nas ações de combate a incêndios em vegetação. Os
+principais parâmetros de segurança a serem observados são os seguintes: área de
+segurança, linha de controle, ponto de ancoragem e rota de fuga.
+4.10.1 Área de segurança
+Área segura de conhecimento de todos da operação, onde os combatentes podem
+encontrar refúgio em um incêndio florestal. Em caso de haver mais de uma área de
+segurança, elas devem ser conectadas por rotas de fuga. A área de segurança pode
+ser estabelecida dentro da área queimada.
+4.10.2 Linha de controle
+Faixa perimetral do sinistro formada por aceiros e incrementos, onde se espera que o
+incêndio fique confinado ou seja combatido e debelado.
+4 CONCEITOS E DEFINIÇÕES 23
+4.10.3 Ponto de ancoragem
+Área segura onde se inicia ou termina o deslocamento da tropa ou a construção dos
+métodos mitigatórios, com o objetivo de evitar que o combatente seja cercado pelo
+incêndio.
+4.10.4 Rota de fuga
+Caminho seguro definido pelo militar mais antigo da operação ou da guarnição de
+combate a incêndio florestal (GCIF), pelo qual as equipes percorrem em situações
+emergenciais até a chegada na área de segurança ou ponto de ancoragem.
+ITO 11 – PREVENÇÃO E COMBATE AOS INCÊNDIOS EM VEGETAÇÃO 24
+5 SEGURANÇA NAS OPERAÇÕES
+Neste tópico são apresentados os principais conceitos e definições que norteiam a
+aplicação da segurança nas operações relacionadas ao combate a incêndios florestais
+no CBMMG.
+5.1 Segurança coletiva e individual
+Com o objetivo de evitar ou reduzir o risco de acidentes nas ocorrências e operações
+de combate a incêndios em vegetação, é necessário definir medidas e procedimentos
+de autoproteção e ações de coordenação que devem ser preconizadas durante as
+ações de combate e extinção dos incêndios.
+O comandante das operações e os comandantes de guarnições devem realizar o
+briefing, em que, além de detalhes específicos da missão, devem abordar aspectos
+de segurança com os bombeiros militares e brigadistas envolvidos na operação.
+A rapidez nas ações não deve se sobrepor à segurança do homem e a improvisação
+jamais deve substituir a técnica correta do emprego dos recursos humanos e
+logísticos.
+Para tanto, são estabelecidas, no âmbito da Corporação e com aplicação estendida
+aos demais que atuarem em conjunto ou subordinados aos militares do CBMMG nas
+operações de combate a incêndios em vegetação, 12 normas de segurança que
+devem ser utilizadas em associação ao protocolo internacional de segurança em
+incêndios em vegetação - LACES (mnemônico extraído das palavras em inglês:
+lookout (observadores); anchor points (pontos de ancoragem); communications
+(comunicações); escape route (rotas de fuga); safety zone (zonas de segurança).
+5.1.1 12 normas básicas de segurança
+C - comportamento do incêndio; S - segurança no combate; O - organização (CSO).
+5 SEGURANÇA NAS OPERAÇÕES 25
+5.1.1.1 C - comportamento do incêndio
+a) 1ª norma - manter-se informado sobre as condições meteorológicas e sua
+previsível evolução:
+ é fundamental saber sobre previsões de mudança do tempo, em particular,
+sobre o vento, sua velocidade, direção e como tende a mudar.
+b) 2ª norma - manter-se sempre informado sobre o comportamento atual do
+incêndio:
+ é importante saber sobre: a velocidade, o sentido de propagação e a
+intensidade de cada uma das frentes ativas; o tipo de combustível; a
+topografia; a exposição (relação do sol e a umidade do combustível); e a
+direção e o sentido do vento;
+ a informação deve ser obtida seja por observação direta ou por aqueles que
+têm uma visão do todo da operação (comandante da operação, chefe da
+guarnição ou observador).
+c) 3ª norma - não basear todas as ações no comportamento atual e esperado
+do incêndio:
+ é importante tentar prever a evolução do incêndio de modo a tomar medidas
+com uma margem de segurança maior, visando reduzir os riscos inerentes
+às mudanças repentinas no comportamento do fogo.
+5.1.1.2 S - segurança no combate
+a) 4ª norma - identificar as rotas de fuga e manter todos os elementos da
+equipe/grupo informados:
+ todas as rotas de fuga devem conduzir a uma zona de segurança para a
+qual todos os elementos possam se dirigir em caso de uma situação de alto
+risco e que comprometa a segurança individual ou da equipe;
+ as rotas de fuga e zonas de segurança devem existir em número suficiente
+de acordo com a dimensão do incêndio e ser de conhecimento de todos.
+ITO 11 – PREVENÇÃO E COMBATE AOS INCÊNDIOS EM VEGETAÇÃO 26
+b) 5ª norma - colocar observadores quando há perigo previsível:
+ o observador deve estar em uma posição segura e que permita uma visão
+ampla do cenário, além disso ele deve ter comunicação com o comandante
+da operação, e, se possível, com todos os comandantes de GCIF.
+c) 6ª norma - manter-se alerta, calmo e atuar decisivamente:
+ em caso de dúvidas sobre o que fazer ou sobre a segurança, deve-se
+consultar o mais antigo do grupo, seguindo sempre que possível a cadeia
+de comando.
+d) 7ª norma - manter-se hidratado:
+ o militar hidratado reduz o desgaste e as chances de baixa durante a
+operação. A hidratação deve ser feita com a ingestão lenta de soluções de
+eletrólitos e também com água pura.
+5.1.1.3 O - organização
+a) 8ª norma - manter comunicações com os militares em campo, elementos
+de comando das operações, agentes de outros órgãos e SOU/COBOM:
+ as comunicações são de vital importância para reduzir o risco de acidentes.
+Elas devem ser curtas e claras e a mensagem deve ser sempre confirmada
+por quem a recebeu.
+b) 9ª norma - dar instruções claras e assegurar-se de que são
+compreendidas:
+ cada mensagem recebida deve ser confirmada. No caso de não entender
+ou ter dúvidas, é preciso solicitar o reenvio da mensagem.
+c) 10ª norma – ter o controle do pessoal empenhado a todo instante:
+ ter atenção aos militares da GCIF e jamais abandonar o trabalho/equipe
+sem anunciar;
+ deslocar-se sempre em duplas;
+ durante toda a operação, o comandante do incidente, o militar mais antigo
+ou o militar designado deve manter o controle do efetivo e das equipes em
+combate e local de atuação. Para tanto, todos os chefes de GCIF devem
+manter o posto de comando (PC) informado sobre sua localização e seus
+deslocamentos.
+5 SEGURANÇA NAS OPERAÇÕES 27
+d) 11ª norma – a responsabilidade pela segurança é solidária, ou seja,
+pertence a todos:
+ os bombeiros empenhados no combate são responsáveis uns pelos outros;
+ deve-se atentar ao estado geral dos militares da GCIF e acompanhar a
+hidratação de todos;
+ deve-se estar atento e observar situações de perigo e/ou riscos que
+envolvam combatentes da guarnição, viaturas e equipamentos, além de
+agentes de outros órgãos que possam atuar em conjunto.
+e) 12ª norma - a segurança deve ser um objetivo prioritário durante todo o
+trabalho de combate ao incêndio desde o deslocamento até a
+desmobilização:
+ após cumprir e manter o cumprimento das regras anteriores, deve-se
+combater o incêndio firmemente tendo sempre atenção com a segurança.
+5.1.2 Protocolo Internacional de Segurança em Incêndios Florestais (LACES)
+O protocolo é composto pelos seguintes itens:
+a) lookout (observadores);
+b) anchor points (pontos de ancoragem);
+c) communications (comunicações);
+d) escape route (rotas de fuga);
+e) safety zone (zonas de segurança).
+Cada item está descrito a seguir.
+5.1.2.1 Observadores (lookout)
+São militares ou equipamentos lançados em locais estratégicos. Em se tratando de
+militares, dar preferência aos que possuem formação em comportamento do fogo. A
+responsabilidade desses militares é abastecer o comandante da operação, com
+informações meteorológicas e o desenvolvimento da linha de fogo.
+ITO 11 – PREVENÇÃO E COMBATE AOS INCÊNDIOS EM VEGETAÇÃO 28
+5.1.2.2 Pontos de ancoragem (anchor points)
+As linhas de contenção (métodos de mitigação) devem ser iniciadas (ancoradas) em
+locais seguros e todos devem estar em alerta permanente.
+5.1.2.3 Comunicações (communications)
+Todos os militares e agentes envolvidos no combate devem portar algum mecanismo
+de comunicação efetivo, a manutenção das comunicações deve ser constante.
+5.1.2.4 Rotas de fuga (escape route)
+Devem ser definidas, antes de começar o combate, da seguinte forma:
+a) estabeleça mais que uma alternativa, pois pode acontecer de o incêndio
+impedir a saída;
+b) verifique se as vias são acessíveis;
+c) considere sempre o pior cenário, não o comportamento atual do incêndio;
+d) mantenha todos os elementos da equipe informados sobre todas as rotas de
+fuga.
+5.1.2.5 Áreas de segurança (safety zone)
+Devem ser estabelecidas da seguinte forma:
+a) identifique zonas de segurança antes de começar qualquer atividade de
+combate;
+b) escolha zonas sem combustível ou já queimadas;
+c) informe sua localização a todos da equipe;
+d) tenha em mente que novos focos secundários e novos incêndios implicam na
+necessidade de identificar novas zonas de segurança;
+e) planeje eventual evacuação caso a zona não fique segura;
+f) considere sempre o pior cenário.
+5 SEGURANÇA NAS OPERAÇÕES 29
+5.2 Posicionamento de viaturas
+A escolha do estacionamento das viaturas é de suma importância para as operações
+de combate a incêndio em vegetação. Com isso, o posicionamento da viatura no
+terreno ou nas adjacências do incêndio deve ser avaliada, para que ela fique em local
+seguro e ao mesmo tempo possibilite a utilização de suas capacidades (uso de água
+ou transporte de tropa e de equipamentos).
+A alocação da viatura não é fixa, ou seja, seu posicionamento tem que ser reavaliado
+constantemente, acompanhando a dinâmica do incêndio. Deve-se ter atenção às
+projeções de partículas, mudança de direção da propagação das chamas ou outros
+fatores que necessitem a mudança do local de estacionamento da viatura.
+É comum que o motorista da viatura também atue no combate manual às chamas.
+Essa situação implica em maior atenção de toda equipe envolvida. Com relação ao
+emprego das viaturas, seguem as seguintes determinações:
+a) a viatura deve estar sempre fechada, inclusive janelas e boxes, permanecendo
+a chave com o motorista;
+b) nunca deixe o veículo na rota de propagação do incêndio, dentro da área não
+queimada;
+c) sempre que possível, estacione o veículo em local dentro de uma área aceirada
+ou com a vegetação já queimada, nesta última hipótese, vistorie a área antes
+e tome cuidado para não estacionar sobre braseiros incandescentes, pontas
+de vegetação ou outras situações que possam causar avarias nos pneus;
+d) em encostas, estando o incêndio subindo o talude, nunca deixar a viatura
+posicionada em local acima das chamas;
+e) cuidado com materiais incandescentes que possam rolar sobre a viatura
+posicionada abaixo do incêndio, quando este estiver ocorrendo em uma
+encosta. Nessa situação, o ideal é construir uma vala de segurança para
+prevenir acidentes com o veículo.
+ITO 11 – PREVENÇÃO E COMBATE AOS INCÊNDIOS EM VEGETAÇÃO 30
+5.3 Sinais sonoros de segurança com apito
+Os componentes de cada GCIF devem manter contato visual constante entre si, sendo
+convencionados os sinais sonoros de segurança com o apito descritos no Quadro 1.
+Quadro 1 - Sinais sonoros de segurança com apito
+Quantidade Tipo de silvo Tradução Execução
+1
+Longo CESSAR OPERAÇÃO /
+SILÊNCIO
+Todos param o que estão
+fazendo para obter
+informações ou novas
+determinações operacionais
+de combate.
+2
+Um longo seguido de
+um curto
+RETOMAR A OPERAÇÃO A GCIF retoma os trabalhos
+ou acata as novas
+diretrizes.
+3
+Curtos EVACUAR Risco iminente para a GCIF,
+que deve caminhar para a
+área de segurança, através
+da rota de fuga.
+Fonte: CBMMG (2024).
+ATENÇÃO! Os sinais sonoros de segurança com o apito devem ser realizados pelo
+primeiro combatente que perceber uma situação de risco, independentemente de seu
+Posto/Graduação ou função na GCIF.
+5.4 Situações de risco que ameaçam a segurança da operação
+As situações de risco devem ser observadas e sempre que possível mitigadas, pois a
+segurança deve ser prioridade na operação de combate ao incêndio em vegetação. A
+existência dessas situações por si só não inviabiliza o combate, contudo, demanda
+maior atenção das equipes para evitar a ocorrência de acidentes. São situações de
+risco:
+a) não ter comunicação entre as equipes e o comando da operação;
+b) trabalhar sem a previsão e disponibilidade de hidratação para as equipes;
+c) deslocar sozinho ou longe da GCIF no teatro de operações;
+d) iniciar o combate sem uma avaliação do cenário e um plano de ação difundido
+aos combatentes;
+5 SEGURANÇA NAS OPERAÇÕES 31
+e) não ter identificação clara de zonas de segurança e de rotas de fuga;
+f) trabalhar sem iluminação correta do terreno no período noturno;
+g) não ter conhecimento/acompanhamento meteorológico e dos fatores locais que
+influenciam o comportamento do incêndio;
+h) trabalhar com quaisquer equipes que não participaram do briefing ou não
+receberam as instruções e missões do PC (táticas, estratégias e riscos);
+i) combater o incêndio em encostas, estando o fogo abaixo da equipe;
+j) atacar frontalmente um incêndio com grande intensidade de dispersão de
+energia calorífica e grande velocidade de propagação;
+k) posicionar-se em encosta onde materiais incendiados podem rolar (galhos,
+troncos etc.) vindo a provocar focos secundários;
+l) não atentar para a ocorrência de projeções frequentes de partículas
+incandescentes;
+m) descansar próximo à frente do incêndio ou próximo aos aceiros;
+n) trabalhar sem a devida segurança debaixo de cabos e estruturas de
+transmissão de energia elétrica (consultar POP específico de Combate a
+Incêndio em Vegetação próximo a Linhas de Transmissão de Energia Elétrica
+- CILT);
+o) trabalhar sem EPI ou treinamento específico para o combate ao incêndio em
+vegetação.
+ATENÇÃO! Todas as informações desse tópico e seus respectivos Apêndices devem
+ser repassados, sempre que possível, aos militares do CBMMG e aos atores
+envolvidos na gestão dos incêndios em vegetação, sendo essa medida obrigatória
+durante as operações de combate a incêndio em vegetação e todo período crítico.
+Assim, a responsabilidade de difusão dessas informações é do comandante das
+operações, ou seja, do coordenador de bombeiros da unidade - CBU, do chefe de
+serviço, do chefe da guarnição de bombeiro militar (GuBM) ou do militar mais antigo,
+devendo ser executada no início das atividades de combate ou ao entrar de serviço.
+ITO 11 – PREVENÇÃO E COMBATE AOS INCÊNDIOS EM VEGETAÇÃO 32
+6 FERRAMENTAS, EQUIPAMENTOS, ACESSÓRIOS (FEAS) E VIATURAS
+Neste tópico estão relacionados os equipamentos de proteção individual e coletivos,
+bem como os principais tipos de viaturas e equipamentos tecnológicos que podem ser
+utilizados no combate aos incêndios em vegetação.
+No deslocamento da GCIF carregando ferramentas, equipamentos, acessórios
+(FEAs), deve-se observar a distância de 2 metros ou 2 passos aproximadamente um
+do outro, com o lado de impacto da ferramenta voltado para frente e o corte
+direcionado para baixo, sendo obrigatório o uso de luvas de proteção para o transporte
+e manuseio das ferramentas.
+A distribuição de ferramentas é feita de acordo com a estratégia apresentada, o tipo
+de vegetação, o tipo de incêndio e, consequentemente, a técnica de combate.
+6.1 Equipamentos de proteção individual – EPIs
+As atividades de combate a incêndios em vegetação possuem determinados riscos
+que devem ser eliminados ou mitigados, com o uso de EPIs, os quais devem estar em
+boas condições de uso e devem ser certificados para o emprego operacional.
+Os EPIs fornecidos pela Instituição para a proteção durante as atividades de combate
+a incêndio em vegetação são de uso obrigatório em ocorrências atendidas por
+militares do CBMMG, no estado de Minas Gerais ou em operações conjuntas com
+outros órgãos da federação ou do sistema ambiental.
+Os EPIs para as operações de combate a incêndio em vegetação estão relacionados
+no Quadro 2.
+6 FERRAMENTAS, EQUIPAMENTOS, ACESSÓRIOS (FEAs) E VIATURAS 33
+Quadro 2 - Equipamentos de proteção individual
+Ord Descrição
+1 Capacete de proteção de incêndio em vegetação ou de salvamento
+2 EPI multiuso para CIF ou fardamento operacional completo (4º A – alta visibilidade)
+3 Lanterna (de mão e de cabeça)
+4 Balaclava
+5 Óculos de proteção
+6 Luvas de proteção (vaqueta ou de raspa)
+7 Coturno, bota de CIF ou bota multimissão
+8 Perneira
+9 Ferramenta portátil de corte (faca ou facão com bainha)
+10 Cantil ou mochila de hidratação
+12 Equipamento de comunicação (HT, celular, telefone via satélite etc.)
+13 Dispositivo de proteção de vias aéreas (conforme item IV a seguir)
+14 Apito para comunicação entre a GCIF
+Fonte: elaborado pelos autores.
+Observações:
+a) as unidades devem envidar esforços para a aquisição de EPIs com certificação
+para atividades de combate a incêndio florestal - CIF;
+b) além dos equipamentos de proteção individual citados, recomenda-se que o
+combatente florestal esteja portando repositor hidroeletrolítico, protetor solar,
+repelente e equipamentos básicos de sobrevivência para pernoite emergencial
+(isqueiro, manta térmica aluminizada, bússola, GPS ou aplicativo de
+navegação), pilhas reservas, luvas reservas, kit de primeiros socorros e outros;
+c) para as atividades de prevenção, o capacete pode ser substituído pelo chapéu
+tipo australiano para maior conforto e proteção contra os raios solares.
+d) o uso apenas da balaclava para filtrar fuligem, da máscara respiratória com ou
+sem filtro, do próprio equipamento autônomo de proteção respiratória ou de
+outro equipamento equivalente deve ser avaliado pelo BM mais antigo ou pelo
+próprio combatente exposto ao ambiente, conforme disponibilidade do item;
+ITO 11 – PREVENÇÃO E COMBATE AOS INCÊNDIOS EM VEGETAÇÃO 34
+e) ao fazer uso de equipamento motomecanizado (soprador, motosserra e
+outros), utilizar protetor auricular para redução de ruídos.
+Quando disponível, é importante que o militar porte o abrigo contra o fogo (fire shelter)
+e o suprimento emergencial de oxigênio (Micro-K ou similar), além de outras
+tecnologias com o objetivo de preservar e proteger a vida da equipe empenhada.
+6.2 Equipamentos de proteção coletiva – EPC
+Tais equipamentos são de uso comum de todos envolvidos na operação, destinados
+ao emprego operacional e proteção coletiva em caso de acidente. Devem estar
+disponíveis, preferencialmente, no PC ou nas viaturas utilizadas nas operações,
+sendo recomendados os seguintes equipamentos para uso coletivo:
+Quadro 3 - Equipamentos de proteção coletiva
+Ord DESCRIÇÃO
+1 Bolsa de resgate para primeiros socorros, contendo no mínimo: manta aluminizada,
+atadura (P, M e G), campo operatório, gaze, kit queimaduras, talas para imobilização,
+cilindro carregado de O2, BVM, colar cervical (P, M e G) e torniquete tático.
+2 DEA (Desfibrilador Externo Automático)
+3 Maca Envelope (tipo Sked)
+1
+4 Prancha longa1
+Fonte: elaborado pelos autores.
+Recomenda-se a disponibilidade, no PC ou nas viaturas empregadas nas operações,
+de materiais reservas cuja falta eventual e pontual possa impedir o emprego do
+combatente, como: pares de luvas, óculos, lanterna, pilhas etc.
+6.3 Equipamentos operacionais para combate
+As ocorrências de incêndios em vegetação, principalmente as de grande vulto,
+geralmente são complexas e exigem uma grande quantidade de equipamentos
+operacionais.
+
+1 Objetiva facilitar a operação de resgate proporcionando o transporte mais rápido e adequado.
+6 FERRAMENTAS, EQUIPAMENTOS, ACESSÓRIOS (FEAs) E VIATURAS 35
+O planejamento antes e durante a operação deve ser dinâmico e eficaz, aproveitando
+as oportunidades climáticas, humanas e logísticas presentes.
+Outro fator importante em operações de combate a incêndio é a comunicação do PC
+ou base com as equipes em campo, a qual deve ser de forma clara, planejada e
+padronizada. O uso de equipamentos tecnológicos favorece o sucesso da operação,
+contribuindo para a confiabilidade das informações, dos dados e dos registros
+posteriores. Para tanto, a previsão de equipamentos no PC e/ou viaturas, é
+fundamental para o bom andamento dos trabalhos e sucesso rápido e seguro da
+missão.
+Os equipamentos são classificados da seguinte forma: equipamentos motorizados;
+equipamentos ou ferramentas manuais; equipamentos de comunicação;
+equipamentos auxiliares e equipamentos de orientação; conforme detalhamento a
+seguir.
+6.3.1 Equipamentos motorizados
+Equipamentos motorizados são aqueles dotados de força motriz própria (elétricos, à
+combustão, pneumáticos, dentre outros), utilizados para o trabalho, para conduzir ou
+levar de um lugar para o outro diversos tipos de materiais e/ou pessoas, conforme
+apresentado no Quadro 4. Nele, segue uma relação dos principais equipamentos
+motorizados utilizados no CBMMG para a atividade de CIF.
+Quadro 4 - Equipamentos motorizados
+Ord DESCRIÇÃO
+1 Kit Pick Up (bomba, implementos e reservatório de água)
+2 Motosserras
+3 Soprador
+4 Motobomba portátil (com mangueiras e esguicho)
+5 Roçadeira
+6 Motopoda
+Fonte: elaborado pelos autores.
+ITO 11 – PREVENÇÃO E COMBATE AOS INCÊNDIOS EM VEGETAÇÃO 36
+6.3.2 Equipamentos ou ferramentas manuais
+Os equipamentos ou ferramentas utilizadas para atividades manuais pelas equipes de
+CIF estão relacionados no Quadro 5.
+Quadro 5 - Equipamentos ou ferramentas manuais
+Ord DESCRIÇÃO
+1 Bomba ou mochila costal de 20 litros
+2 Abafador (tipo pá e tipo chicote)
+3 Foice
+4 Enxada
+5 Enxadão
+6 Ferramentas multiuso (mcleod, gorgui, chibanca etc.)
+7 Queimador tipo pinga fogo
+Fonte: elaborado pelos autores.
+6.3.3 Equipamentos de comunicação
+Equipamentos de comunicação são aqueles utilizados pelas equipes para facilitar o
+fluxo de informações e diretrizes que coordenam a atuação dos envolvidos no CIF,
+conforme apresentado no Quadro 6.
+Quadro 6 - Equipamentos de comunicação
+Ord DESCRIÇÃO
+1 Rádio HT
+2 Telefone celular
+3 Apito
+4 Repetidora móvel ou estação de rádio comunicação
+5 Telefone satelital
+6 Transceptores terrestres de internet via satélite
+Fonte: elaborado pelos autores.
+6 FERRAMENTAS, EQUIPAMENTOS, ACESSÓRIOS (FEAs) E VIATURAS 37
+6.3.4 Equipamentos auxiliares
+Equipamentos auxiliares são aqueles que não são empregados no combate direto ou
+indireto ao incêndio florestal, entretanto, têm sua importância, principalmente, para a
+tomada de decisões estratégicas na operação.
+Esses equipamentos expandem a percepção do incêndio, seja por meio da leitura da
+direção e velocidade do vento, da captação de imagens aéreas ou aferição da
+umidade, e assim possibilitam um melhor planejamento das operações. O Quadro 7
+apresenta alguns exemplos de equipamentos auxiliares.
+Quadro 7 - Equipamentos auxiliares
+Ord DESCRIÇÃO
+1 Medidor meteorológico portátil
+2 Drone (RPA)
+3 Notebook com acesso à internet2
+4 Projetor multimídia2
+5 Biruta portátil
+Fonte: elaborado pelos autores.
+6.3.5 Equipamentos de orientação
+Equipamentos de orientação são utilizados para facilitar o deslocamento das
+guarnições de CIF pelo terreno. Eles podem variar de acordo com a tecnologia e
+conhecimento dos envolvidos na operação. No Quadro 8, são apresentados alguns
+equipamentos de orientação pelo terreno.
+
+2 Especificamente para instalação do SCO
+ITO 11 – PREVENÇÃO E COMBATE AOS INCÊNDIOS EM VEGETAÇÃO 38
+Quadro 8 - Equipamentos de orientação
+Ord DESCRIÇÃO
+1 Receptor GPS
+2 Celular com aplicativo de orientação geográfica
+3 Bússola
+4 Cartas topográficas
+5 Binóculo/monóculo
+6 Sinalizadores
+Fonte: elaborado pelos autores.
+ATENÇÃO! As relações contidas no item 6.3 são sugestivas e não obrigatórias. A
+falta de qualquer dos itens não inviabiliza a operação de combate a incêndio em
+vegetação.
+6.4 Viaturas
+O uso de viaturas especializadas é fundamental para o combate eficaz aos incêndios
+em vegetação, pois, em grande parte das ocorrências dessa natureza, não é possível
+a utilização das viaturas comumente empregadas no combate a incêndio urbano,
+devido, principalmente, ao tipo de terreno e acesso aos focos de incêndio.
+As aeronaves são empregadas para auxiliar no transporte de tropas, avaliação e
+planejamento das operações, combate às chamas e na logística da operação.
+No Manual de Gerenciamento de Frota do CBMMG, existem viaturas próprias para a
+atividade de combate a incêndios em vegetação, entretanto, há também aquelas
+desenvolvidas para uso urbano que podem ser utilizadas em ambientes rurais durante
+o combate a incêndios em vegetação. Seguem os principais exemplos desses
+veículos abaixo:
+a) Auto Socorro Florestal (ASF): veículo adaptado ou customizado, montado
+em caminhonete 4X4, com cabine dupla ou simples, com carroceria capaz de
+suportar kit Pick Up (reservatório de água, motobomba, mangueira e esguicho)
+6 FERRAMENTAS, EQUIPAMENTOS, ACESSÓRIOS (FEAs) E VIATURAS 39
+possui engate para reboque, pode levar água ou outro sistema de combate a
+incêndio adequado para incêndio em vegetação. Destina-se ao atendimento de
+ocorrências de combate a incêndio em vegetação;
+b) Auto Bomba Tanque Florestal (ABTF): veículo especial, customizado ou
+adaptado, dotado de bomba de incêndio, compartimento para transporte de
+equipamentos e reservatório d’água com capacidade de 4.000 a 8.000 litros.
+Empregado, preferencialmente, nos serviços de combate a incêndio florestal e
+alternativamente no incêndio urbano. Excelente para o ataque de pequenos
+focos de incêndio e reabastecimento de bomba ou mochila costal. Caminhão
+semelhante aos utilizados por usinas de açúcar e álcool, com característica de
+robustez e grande capacidade de armazenamento de água, ideal que se tenha
+quebra-mato, canhão, esguicho tipo “bico de pato”, mangotinho e saída de
+mangueiras;
+c) Auto Salvamento Leve (ASL): destina-se ao atendimento dos diversos tipos
+de ocorrências de bombeiros que necessitam do emprego de pessoal
+especializado e materiais específicos para as atividades de salvamento
+terrestre, salvamento em altura, salvamento aquático e mergulho. Devido à
+restrição de capacidade de carga e espaço, seu leiaute deve ser adaptável,
+permitindo que a viatura comporte os equipamentos adequados para cada tipo
+de ocorrência. Pode ser empregada em áreas urbana e rural para o combate a
+incêndio em vegetação;
+d) Auto Bomba Tanque (ABT): destina-se a atuação em ocorrências de
+prevenção e combate a incêndios quando o principal meio de extinção é a água.
+Veículo desenvolvido para combate a incêndio urbano, mas que pode ser
+empregado em incêndios em vegetação próximo a rodovias, em área rural, em
+lotes vagos e qualquer outros em que a situação exigir seu emprego, desde
+que exista acesso por estradas que permitam a circulação desses caminhões
+carregados;
+e) Auto Bomba Tanque Salvamento (ABTS): destina-se a atuação em
+ocorrências de prevenção, combate a incêndios e salvamento. Veículo
+desenvolvido para combate a incêndio e salvamento em áreas urbanas, mas
+que pode ser empregado em incêndios em vegetação próximos a rodovias, em
+área rural, em lotes vagos e outros em que a situação exigir seu emprego,
+ITO 11 – PREVENÇÃO E COMBATE AOS INCÊNDIOS EM VEGETAÇÃO 40
+desde que exista acesso por estradas que permitam a circulação desses
+caminhões carregados;
+f) Transporte de Pessoal (TPO): veículo utilizado no transporte leve ou pesado,
+exclusivo de pessoas, tanto na atividade fim quanto na administrativa, podendo
+ser empregado nos incêndios em vegetação, desde que exista condições para
+o tráfego desses veículos;
+g) quadriciclo: veículo utilizado para uma primeira resposta ou fiscalização
+dentro de Unidade de Conservação (UC), pode ser empregado nos incêndios
+em vegetação para possibilitar ações de comunicação, prevenção, transporte
+de material, transporte de tropa ou outras atividades em que o deslocamento
+com outros veículos seja mais dificultado. É importante que esse veículo tenha
+características para deslocamento em terrenos acidentados;
+h) motocicleta: veículo utilizado para uma primeira resposta ou fiscalização no
+âmbito urbano, pode ser empregado nos incêndios em vegetação para
+possibilitar ações de comunicação, prevenção, transporte de pequenos objetos
+ou outras atividades em que o deslocamento com outros veículos seja mais
+dificultado. É importante que esse veículo tenha características para
+deslocamento em terrenos acidentados.
+6.5 Aeronaves
+Dentre as aeronaves utilizadas pelo CBMMG para combate aos incêndios florestais
+estão:
+a) aeronave remotamente pilotada (RPA): útil para visão ampla de continuidade
+e progressão do incêndio, identificando as partes do incêndio e áreas que
+devem ser protegidas prioritariamente, além de possuir precisão na medição
+de áreas queimadas e aferição da temperatura por sensores térmicos. Além
+disso:
+ o emprego de RPA visa complementar o emprego de helicóptero no
+CBMMG, gerando ganho operacional, diminuição de custos, melhor
+resposta no cenário de operações e possibilidades maiores de
+observação da ocorrência e, quando possível, até a transmissão em
+tempo real do cenário;
+6 FERRAMENTAS, EQUIPAMENTOS, ACESSÓRIOS (FEAs) E VIATURAS 41
+ o acionamento dos RPA pode ser realizado pelo COBOM/SOU/SOF, e
+as codificações previstas na Diretriz Integrada de Ações e Operações
+(DIAO) que se relacionam com a atividade de PCIF são: Operações
+Aéreas para Combate a Incêndio Florestal; Monitoramento Aéreo de
+Reservas Ambientais; Levantamento Aéreo de Focos de Incêndio
+Florestal e o Levantamento Aéreo de Áreas Desmatadas. Por meio
+dessas codificações o comandante de operações possui um arcabouço
+de possibilidades para uso operacional dos RPA.
+b) asas rotativas: utilizadas para o transporte de tropa, equipamentos e
+suprimentos, além do combate com o lançamento de água através do Bambi
+Bucket. Pode ser empregada também para o monitoramento, medição de área
+queimada e reconhecimento do incêndio, auxiliando nas decisões do PC;
+c) asas fixas para transporte de pessoal: aviões usados para transporte de
+pessoal e equipamentos em grandes incêndios, com o deslocamento de
+equipes especializadas por distâncias consideráveis no estado ou em apoio a
+outras unidades federativas, quando solicitado;
+d) tanque de asa fixa (Air Tractor): aeronaves de asas fixas com tanque
+reservatório, variando entre 1.500 a 3.000 litros, utilizada para combate a
+incêndios em vegetação, por meio do lançamento de água, ou água mais
+retardante sobre as chamas, auxiliando as equipes em campo.
+ITO 11 – PREVENÇÃO E COMBATE AOS INCÊNDIOS EM VEGETAÇÃO 42
+7 DIRETRIZES PARA A GESTÃO DO RISCO DE INCÊNDIO EM VEGETAÇÃO
+Entende-se o incêndio em vegetação, independente da sua causa ou origem, como
+um evento adverso com potencialidade de se tornar um desastre. É imprescindível
+atuar na gestão desse risco.
+Visando um trabalho com maior efetividade, sugere-se a atuação em conjunto com as
+entidades e órgãos ligados ao meio ambiente nos níveis municipal, estadual e federal,
+tais como: Secretaria de Estado de Meio-Ambiente e Desenvolvimento Sustentável
+(SEMAD), Fundação Estadual do Meio Ambiente (FEAM), Instituto Estadual de
+Florestas (IEF), Instituto Brasileiro do Meio Ambiente e dos Recursos Naturais
+Renováveis (IBAMA), Brigadas Florestais, Prefeituras Municipais, Secretaria
+Municipal de Meio Ambiente, Polícia Militar de Meio Ambiente, Ministério Público
+Estadual, Coordenadoria Estadual de Defesa Civil (CEDEC/MG), Coordenadoria
+Municipal de Proteção e Defesa Civil (COMPDEC), Guarda Municipal, Brigada
+Municipal, entre outros.
+Nesse contexto, o presente trabalho também visa estabelecer objetivos e metas
+integradas para gestão do risco de incêndios em vegetação, a fim de que cada órgão
+contribua em sua área específica de atuação, junto da população comumente afetada
+e demais setores da sociedade civil organizada.
+Para isso, descrevem-se, a seguir, as ações que todas as unidades do CBMMG
+devem implementar no período pré-estiagem, devendo sempre registrar tais medidas
+por meio de planejamentos, planos e atas, aplicando regularmente o método PDCA -
+plan (planejar), do (fazer), check (checar), act (agir).
+7.1 Ações de prevenção
+Entende-se prevenção como ações de planejamento, de ordenamento territorial e de
+investimento destinadas a reduzir a vulnerabilidade dos ecossistemas e das
+populações e a evitar ou a minimizar a ocorrência de acidentes, desastres e a
+intensidade deles, por meio da identificação, do mapeamento e do monitoramento de
+7 DIRETRIZES PARA A GESTÃO DO RISCO DE INCÊNDIO EM VEGETAÇÃO 43
+riscos e da capacitação da sociedade em atividades de proteção e defesa civil (Brasil,
+2023).
+O risco de incêndio em vegetação está fortemente ligado à ação antrópica e,
+principalmente, ao desconhecimento e negligência quanto às consequências de
+hábitos criminosos como o uso do fogo para limpeza da terra e destruição de lixo.
+Diante desse cenário, destaca-se o alto potencial de ações de prevenção de cunho
+educacional voltadas à mudança de comportamento da população.
+Nesse contexto, as ações de prevenção descritas nesta ITO são medidas que visam
+impedir os incêndios em vegetação, com o intuito de reduzir os impactos negativos
+dessas ações para o meio ambiente, bem como os prejuízos para a sociedade.
+7.1.1 Abordagem aos visitantes de parques e de reservas ambientais
+Essa medida pode ser empregada durante pontos base, patrulhamento ou outras
+ações em áreas de interesse ambiental. Tal ação pode usar, como ferramenta
+didática, bancos de dados de registros estatísticos que evidenciem a recorrência de
+incêndios em vegetação, bem como a apresentação dos danos provocados pelos
+sinistros ocorridos. Durante a abordagem, deve-se transmitir informações verbais ou
+por meio de panfletos contendo dicas preventivas e orientações para o acionamento
+do CBMMG em caso de incêndios.
+7.1.2 Visita de orientação
+Nessa modalidade, os bombeiros militares (BMs) se deslocam até as casas dos
+moradores do entorno de áreas de interesse ambiental, comunidades quilombolas,
+indígenas, outras comunidades ou em localidades com registro estatístico de
+recorrência de incêndios em vegetação, com o objetivo de ressaltar a importância da
+prevenção, dos riscos advindos do uso do fogo para limpeza do solo, das
+consequências dos incêndios e da importância do acionamento precoce para reduzir
+os danos causado pelo incêndio.
+ITO 11 – PREVENÇÃO E COMBATE AOS INCÊNDIOS EM VEGETAÇÃO 44
+7.1.3 Palestras em escolas
+Essa medida tem impacto a longo prazo na mudança cultural da sociedade e deve ser
+empregada de maneira planejada e constante pelas Unidades de Execução
+Operacional (UEOp). Deve-se dar prioridade às escolas e universidades públicas
+(municipais, estaduais e federais). Além das escolas, esse tipo de palestra pode ser
+ministrado às empresas e órgãos do setor público. Em ambos os casos, o objetivo é
+o mesmo: apresentar o risco do uso do fogo, as consequências dos incêndios em
+vegetação e a importância da prevenção.
+7.1.4 Blitz educativa
+Essa atividade pode ser executada pela UEOp em parceria com a gerência das
+unidades de conservação (UC), IEF, Polícia Militar Ambiental, órgãos de trânsito e
+outros setores relacionados ao meio ambiente. A escolha do local deve ser antecedida
+de estudo para se atingir os objetivos pretendidos da campanha.
+7.1.5 Patrulhamento e vigilância
+Essa atividade deve ser antecedida de estudo de viabilidade pela UEOp, devendo ser
+empregada em áreas de interesse ambiental ou em localidades com registro
+estatístico de recorrência de incêndios em vegetação. O patrulhamento pode ser
+motorizado ou a pé. Quanto à vigilância, essa deve ser, preferencialmente, por vídeo
+(uso de sistemas de monitoramento por câmera).
+Para tanto, as UEOp devem estimular os órgãos responsáveis pela área ou até
+mesmo o proprietário, quando a área for particular, para que se invista nesse tipo de
+dispositivo, pois além de possibilitar a identificação das causas e possíveis autores,
+pode-se coibir o uso do fogo. Esse tipo de tecnologia é capaz de possibilitar uma
+rápida detecção do incêndio, proporcionando uma resposta mais efetiva por parte dos
+órgãos envolvidos no combate.
+7 DIRETRIZES PARA A GESTÃO DO RISCO DE INCÊNDIO EM VEGETAÇÃO 45
+7.1.6 Vistorias em lote vago
+Atividade operacional realizada conforme programação das UEOp ou do Estado-Maior
+Bombeiro Militar (EMBM), com o objetivo de verificar altura e tipo de vegetação, área
+do terreno e outros aspectos relevantes para a prevenção aos incêndios, tais como:
+presença de lixo, se há cercamento por muros etc. Cabe às unidades encaminhar os
+registos de evento de defesa social (REDS) ao Ministério Público e à Secretaria de
+Meio Ambiente Municipal para dar prosseguimento à responsabilização dos
+proprietários e consequente efetivação da ação preventiva.
+Além disso, é de suma importância que as UEOp provoquem o poder executivo e
+legislativo municipal a propor normas que impliquem sanções municipais, como
+advertências e multas, de modo a estimular os proprietários de lotes vagos a zelar
+pelo seu patrimônio, no tocante à gestão do combustível, e reduzir a frequência e a
+intensidade de incêndios em lotes vagos.
+Relatórios locais de georreferenciamento podem ser realizados pelas unidades, por
+meio do cruzamento dos dados entre os lotes vagos vistoriados e as áreas queimadas
+no período de estiagem, evidenciando às autoridades ambientais o potencial risco de
+sinistro das propriedades em condições inadequadas de conservação.
+7.1.7 Legislação municipal
+As unidades BMs devem diligenciar, junto ao poder legislativo municipal, pelo fomento
+de normas e medidas legais de prevenção contra incêndios em lotes e/ou terrenos
+vagos ou baldios nas áreas urbanas e rurais da cidade. Ainda, essas unidades BMs
+devem municiar o poder executivo municipal, quando firmado em convênio entre os
+entes municipais e estaduais, com documentação oficial (REDS), para assessorar o
+órgão na tomada de decisão quanto a sanções administrativas e multas oriundas de
+vistorias de prevenção BM.
+ITO 11 – PREVENÇÃO E COMBATE AOS INCÊNDIOS EM VEGETAÇÃO 46
+7.1.8 Construção e manutenção de aceiros
+As UEOp devem estimular a construção e/ou manutenção de aceiros por parte dos
+proprietários de terrenos rurais, UC, responsáveis por áreas de interesse ambiental
+ou localidades com registro estatístico de recorrência de incêndios em vegetação.
+Para essa ação, as UEOp devem planejar visitas de orientação e fiscalização, dando
+prioridade nas localidades com recorrência de incêndio.
+Em áreas de interesse público, é importante estruturar uma força tarefa, junto ao órgão
+responsável. Essa medida, quando planejada e executada, proporciona um caminho
+para melhoria da interação entre agências e o reconhecimento prévio da área por
+parte dos militares da respectiva unidade BM, facilitando a resposta em caso de
+incêndio em vegetação no futuro. Para esse tipo de atividade, sugere-se o emprego
+de recursos humanos dos cursos de formação/requalificação de militares ou do curso
+de formação de brigadistas florestais.
+7.1.9 Fogo técnico
+É uma ação de mitigação que se baseia na gestão do combustível através da queima
+da vegetação com a intenção de diminuir a biomassa vegetal e facilitar o controle dos
+incêndios em vegetação.
+O fogo técnico pode ser executado no período pré-estiagem, na forma da queima
+prescrita/queima controlada, sendo precedida de autorização do órgão ambiental
+competente e respeitando os requisitos legais vigentes e as normas do CBMMG com
+relação a essa temática.
+Já no período crítico, na forma do fogo de supressão, pode-se utilizar a queima de
+uma faixa de vegetação ainda não consumida para reduzir os possíveis danos de um
+incêndio. O uso do fogo de supressão deve sempre obedecer aos parâmetros de
+segurança desta ITO (ver tópico 5).
+7 DIRETRIZES PARA A GESTÃO DO RISCO DE INCÊNDIO EM VEGETAÇÃO 47
+7.1.10 Ponto base
+No período crítico, a UEOp deve avaliar a escala de militares em ponto base nas áreas
+com histórico recorrente de sua região de articulação. O objetivo de tal medida é dar
+uma primeira resposta mais célere aos focos de incêndio, reduzindo os danos dos
+eventuais sinistros.
+7.1.11 Ações de preparação
+Consiste em atividades e medidas tomadas de preferência no período de normalidade,
+para assegurar uma resposta eficaz aos incêndios em vegetação. A seguir, sugere-se
+algumas ações que podem ser adotadas no âmbito do CBMMG.
+7.1.12 Preparação de FEAs
+Consiste no ato de revisar, manutenir e reparar ferramentas, equipamentos e
+apetrechos operacionais disponíveis para as ações de combate aos incêndios em
+vegetação. Essa ação deve ser tomada ao final do período crítico e no período de
+normalidade com relação ao risco de incêndio em vegetação, para que os respectivos
+setores do CBMMG possam prever aquisições para repor ou suplementar os
+equipamentos em necessidade. Além disso, durante todo o período crítico, essa ação
+deve ser diária, para evitar falhas de equipamentos durante as ações de resposta.
+Manter ferramentas de corte afiadas, limpas e lubrificadas, ferramentas de escavação
+bem cunhadas, ferramentas de combate direto como abafadores e chicotes com seus
+tirantes bem afixados e bem acomodados, equipamentos manutenidos e lubrificados
+para pleno funcionamento, são exemplos básicos dessa preparação.
+7.1.13 Montagem de kits para respostas fora da sede da UEOp
+Consiste em separar ferramentas e equipamentos de combate, EPIs, EPCs, notebook,
+projetor, material de escritório e outros apetrechos operacionais sobressalentes para
+ITO 11 – PREVENÇÃO E COMBATE AOS INCÊNDIOS EM VEGETAÇÃO 48
+resposta ordinária da UEOp, para que eles fiquem em condições de emprego em
+operações que demandem longos deslocamentos fora da sede da UEOp.
+Essa medida deve ser tomada durante o período de normalidade com relação ao risco
+de incêndio em vegetação, para que os kits estejam em condições de pronto emprego
+logo no início do período crítico, atingindo assim, o objetivo de proporcionar agilidade
+à ação de resposta.
+7.1.14 Formação, treinamento e requalificação de brigadas florestais
+Atendendo à demanda de órgãos públicos, condomínios, empresas e voluntários do
+entorno de UC ou de interesse ambiental, obedecendo ao disposto na Portaria nº 52
+do CBMMG, após autorização do Comando de área/ABM, são realizados cursos de
+formação e requalificação de brigadas florestais voluntárias.
+Tal ação visa formar brigadistas com conhecimento básico para primeira resposta na
+extinção do princípio do incêndio em vegetação, controle das chamas e leitura e
+identificação do incêndio para acionamento das equipes BM, além de trabalhos em
+conjunto com militares do CBMMG.
+7.1.15 Treinamento do 4º esforço/administração
+O referido treinamento visa a requalificação e atualização dos BMs que estão sem
+contato direto com a atividade fim, em sua maioria lotados nos setores da
+administração do CBMMG, para compor o efetivo operacional no período de estiagem,
+apoiando no atendimento às demandas reprimidas e ocorrências de grande vulto
+dessa natureza no âmbito do estado ou da federação.
+7.1.16 Treinamento de NIFs (núcleos de incêndios florestais) e treinamento de
+multiplicadores de CIF (TMCIF)
+Os treinamentos e as instruções contínuas são o alicerce nos quais o CBMMG norteia
+suas ações como referência para manter suas equipes bem preparadas para as
+respostas operacionais. O objetivo desse treinamento é habilitar multiplicadores para
+7 DIRETRIZES PARA A GESTÃO DO RISCO DE INCÊNDIO EM VEGETAÇÃO 49
+disseminar a doutrina atualizada aos bombeiros militares sobre os incêndios em
+vegetação, além de instrutores em cursos de formação de brigada florestal.
+7.1.17 Curso de Prevenção e Combate a Incêndios Florestais (CPCIF)
+O Curso de Qualificação em Prevenção e Combate a Incêndios em Vegetação mais
+completo do CBMMG, que visa capacitar os militares de todo o estado em táticas e
+técnicas de prevenção e combate a incêndios em vegetação. Ao concluí-lo com
+aproveitamento, o BM está habilitado a ser instrutor de prevenção e combate a
+incêndios em vegetação, tornando-se referência na área.
+7.1.18 Curso de Geoprocessamento (CGEO)
+O Curso de Qualificação em Geoprocessamento do CBMMG visa capacitar os
+militares de todo o estado para o uso de ferramentas de produção de mapas, detecção
+de focos de calor, análise e tratamento de imagens de satélite. Ao concluí-lo com
+aproveitamento, o BM pode contribuir tanto no período de gestão do risco quanto na
+resposta aos incêndios.
+7.1.19 Curso de Fogo Técnico (CFT)
+O Curso de Qualificação em Fogo Técnico do CBMMG visa capacitar os militares de
+todo o estado em técnicas de queima controlada e fogo de supressão. Ao concluí-lo
+com aproveitamento, o bombeiro militar está habilitado a planejar queimas controladas
+com objetivos específicos e a coordenar o uso do fogo de supressão em operações
+de combate.
+7.1.20 Curso de Perícia de Incêndios em Vegetação (CPIV)
+O Curso de Qualificação em Perícia de Incêndios em Vegetação do CBMMG visa
+capacitar os militares de todo o estado em técnicas de investigação de incêndios em
+vegetação por ferramentas de georreferenciamento e por análises de evidências em
+ITO 11 – PREVENÇÃO E COMBATE AOS INCÊNDIOS EM VEGETAÇÃO 50
+campo. Ao concluí-lo com aproveitamento, o BM está habilitado a produzir laudos que
+indiquem a provável zona de origem de um incêndio florestal.
+7.1.21 Levantamento estatístico de incidência de incêndios em vegetação
+O levantamento estatístico de ocorrências relacionadas aos incêndios em vegetação,
+bem como os locais de maior incidência de incêndios, auxilia o CBMMG na realização
+de trabalhos conjuntos com entes governamentais e/ou devidamente constituídos,
+para elaboração de projetos e programas de redução aos incêndios. Esse
+levantamento/diagnóstico deve ser feito anualmente pelas UEOp para subsidiar os
+planejamentos locais, tendo essas informações impacto direto no sucesso das ações
+de prevenção, mitigação, preparação e resposta.
+7.1.22 Mapeamento de área de risco e georreferenciamento
+O mapeamento é uma atividade com diversas formas de execução. Independente da
+forma, as UEOp devem empregar esse tipo de ação com o objetivo de estabelecer um
+banco de dados atualizado com os pontos de interesse, embasando o planejamento
+de prevenção, mitigação, preparação e resposta aos incêndios em vegetação. Os
+responsáveis pelas UC, prefeituras municipais e outros órgãos públicos e privados
+devem ser procurados para obtenção de mapas e bancos de dados já existentes com
+o objetivo de otimizar esse levantamento.
+A formação desse banco de dados pela UEOp deve priorizar as áreas de interesse
+ambiental e as localidades com recorrência de incêndios em vegetação, tais como:
+lotes vagos, áreas de cultivo agrícola e áreas de proteção ambiental.
+Sugere-se o mapeamento das seguintes informações:
+a) limites da área de interesse e suas subdivisões;
+b) estradas de acesso, cursos d’água, pontos de captação de água para
+aeronaves, tipo de vegetação, plotagem das coordenadas dos grandes
+incêndios já ocorridos;
+7 DIRETRIZES PARA A GESTÃO DO RISCO DE INCÊNDIO EM VEGETAÇÃO 51
+c) possíveis locais para instalação do PC, repetidores móveis, abrigos/alojamento
+temporários para equipes de combate;
+d) helipontos, pistas de pouso;
+e) outras informações que a UEOp julgar importante.
+7.1.23 Plano de ação para localidades com recorrência de incêndio em
+vegetação de grande vulto
+A UEOp deve produzir um plano de ação com as seguintes informações sobre as
+localidades com recorrência de operações de incêndio em vegetação:
+a) locais padronizados para instalação do PC, área de acampamento,
+alojamentos, abrigos e reconhecimento dos acessos;
+b) existência ou não de repetidoras de rádio que podem ser utilizadas pela UEOp
+(amador ou de outros órgãos – IEF, PMMG etc.);
+c) hospitais de referência e suas especialidades, visando atendimento definitivo
+ou estabilização para transferência de possíveis acidentes nos combates, como
+queimaduras, cortes, fraturas, acidentes com animais peçonhentos etc.;
+d) oferta de recursos para alimentação e hidratação, devendo-se avaliar o
+emprego de diárias, uso do cartão alimentação ou recursos alternativos junto a
+prefeituras, defesas civis, gerentes de parques, IEF ou particulares;
+e) pontos sensíveis que podem ser atingidos pelo incêndio gerando risco à vida,
+como residências, fazendas com animais e outros tipos de edificações com
+prejuízo humano, animal ou econômico;
+f) oferta de recursos logísticos, como maquinários e veículos, entre outras
+informações peculiares que são úteis às operações com necessidade de
+grande esforço operacional.
+7.1.24 Preparação das defesas civis
+A UEOp deve aproximar-se dos COMPDECs com planejamento anual de reuniões e
+de treinamentos dos agentes das Defesas Civis municipais. Deve-se capacitar os
+COMPDECs na utilização da ferramenta “S2ID” para captação de recursos em
+ITO 11 – PREVENÇÃO E COMBATE AOS INCÊNDIOS EM VEGETAÇÃO 52
+desastres ambientais por meio de declarações de situação de anormalidade conforme
+norma vigente.
+A Codificação Brasileira de Desastres (COBRADE) para incêndios florestais é dividida
+em: 1.4.1.3.1 (áreas de proteção ambiental) e 1.4.1.3.2 (áreas não protegidas). Essa
+informação será necessária ao município para realizar a correta declaração de
+situação de anormalidade.
+7.2 Ações de gestão relacionadas ao efetivo
+As UEOp devem planejar, prever e registrar como será a ordem do emprego dos
+recursos humanos disponíveis para as ações de resposta aos incêndios em
+vegetação. Ressalta-se que essas ações devem englobar, em época própria, as
+ações de prevenção, mitigação e preparação relacionadas aos incêndios em
+vegetação.
+7.2.1 Efetivo ordinário
+É o primeiro contingente a ser empregado, corresponde ao efetivo operacional
+ordinário das UEOp, os quais devem estar capacitados em doutrina, técnicas e táticas
+atualizadas, conforme planejamento prévio da UEOp e suas ações de preparação.
+Trata-se do efetivo ordinário de plantão no serviço operacional.
+7.2.2 Apoio e reforço operacional
+Durante o período de estiagem, as UEOp de todo o estado devem planejar o emprego
+do efetivo operacional com militares que integram o quadro administrativo da própria
+unidade ou de unidades administrativas, como exemplo, o EMBM, Diretorias e
+Comandos Operacionais. Para tanto, conforme o caso, deve ser confeccionada escala
+de apoio ou reforço operacional, de acordo com orientações do Estado-Maior ou
+Comandos Operacionais. O apoio e os reforços operacionais devem ser estabelecidos
+segundo preconiza a Instrução Técnica 01, em 2º, 3º, 4º e 5º esforços (CBMMG,
+2024). Recomenda-se, anteriormente ao período de resposta, a requalificação ou o
+treinamento de táticas e técnicas de prevenção e combate a incêndios em vegetação.
+7 DIRETRIZES PARA A GESTÃO DO RISCO DE INCÊNDIO EM VEGETAÇÃO 53
+7.2.3 Brigadas florestais
+As UEOp devem manter relação atualizada de brigadas florestais na sua área de
+atuação, com o objetivo de emprego em conjunto, oferecendo uma melhor prestação
+de serviço à comunidade, com a minimização dos prejuízos ambientais e econômicos.
+7.2.4 Sala de coordenação e controle
+A sala de coordenação e controle pode ser estabelecida para melhor gerenciamento
+dos recursos humanos e logísticos, fornecendo maior eficiência na distribuição e
+emprego desses recursos nas diversas ocorrências de incêndios em vegetação no
+estado, além de condensar e atualizar as informações sobre o andamento dessas
+ocorrências.
+7.2.5 Apoio especializado
+Extrapolando a capacidade de resposta aos incêndios em vegetação da
+unidade/fração, o COB da área deve solicitar apoio imediato do NIF mais próximo e,
+em sequência, do PCIF/BEMAD, por meio do Comando Especializado de Bombeiros
+- CEB.
+ITO 11 – PREVENÇÃO E COMBATE AOS INCÊNDIOS EM VEGETAÇÃO 54
+8 DIRETRIZ PARA GESTÃO DO INCÊNDIO EM VEGETAÇÃO
+As operações de combate a incêndio em vegetação no âmbito do estado de Minas
+Gerais têm uma grande variedade de cenários e dificuldades, portanto, não se deve
+enrijecer as ações de resposta, devendo elas serem proporcionais a cada evento, sua
+evolução, bem como aos recursos disponíveis.
+Para os eventos de pequena proporção como incêndios em lote vago, orienta-se o
+emprego de no mínimo três combatentes na GCIF de resposta, podendo-se atuar em
+dupla nas fases de patrulhamento, visualização/detecção, confirmação,
+vigilância/monitoramento e medição de área queimada.
+Para eventos com emprego de mais de uma GuBM ou com SCO instalado,
+recomenda-se a subdivisão por equipes com o número mínimo de três combatentes,
+sendo que, com a necessidade de formação de GCIF, orienta-se no máximo sete
+combatentes. Sugere-se mesclar militares, brigadistas e outros órgãos, evitando-se,
+assim, o emprego de brigadistas sem o acompanhamento de militares do CBMMG.
+Tal mescla, deve ser realizada preservando a capacidade de gerenciamento e
+operacional dos militares integrantes.
+Havendo disponibilidade, para cada GCIF, deve ser empregado um graduado ou
+oficial especializado em incêndio florestal e/ou um membro de equipe com
+conhecimento/experiência na localidade.
+Ressalta-se que não é vedado o emprego do número inferior a três combatentes
+quando houver a necessidade da alocação de observador, deslocamentos de apoio
+logístico ou de comunicação e outras demandas da operação.
+Salienta-se que essa é uma situação com maior risco, devido às ameaças comumente
+existentes nos terrenos e nas operações de incêndio em vegetação, porém desde que
+essa ação seja coordenada e avisada ao comando da operação ou militar mais antigo,
+pode-se fazer essa manobra, após cientificar-se de todos os riscos, buscando mitigálos. Para esse tipo de ação, o combatente ou a dupla deve ter condições de
+comunicação constante com o responsável que autorizou a medida ou com o PC,
+8 DIRETRIZ PARA GESTÃO DO INCÊNDIO EM VEGETAÇÃO 55
+informando todas as posições até a retomada da posição em segurança junto da GCIF
+de origem ou da chegada na zona fria ou no PC.
+8.1 Do recebimento da informação do incêndio via 193 ou por detecção
+Para acionamentos oriundos do 193, orientar os militares e civis que trabalham no
+teleatendimento a valer-se do check list contido no Apêndice A. A utilização do referido
+apêndice não impede que sejam levantadas outras informações de interesse para a
+preparação da resposta.
+Se a detecção ocorrer durante o patrulhamento, deve ser repassada ao COBOM/SOU,
+informando a localização da GCIF. O militar mais antigo responsável pela detecção
+deve coordenar as ações junto da sua chefia imediata antes de iniciar o combate
+propriamente dito. Quando impossível realizar esse contato, deve-se avaliar o cenário
+e dar prioridade às ações de preservação da vida e de bens para, em seguida, iniciar
+o combate. Nesse caso, deve-se informar a situação à chefia ou ao COBOM/SOU o
+mais breve possível.
+8.2 Da preparação e do deslocamento
+O combate ao incêndio em vegetação deve ser encarado como uma ocorrência de
+urgência e emergência e seu deslocamento deve ser realizado o quanto antes
+diminuindo, assim, o tempo resposta, de forma a minimizar a propagação do fogo e
+facilitar o seu controle.
+O deslocamento das GuBM deve atender ao preconizado no item 4.1 (a postos) da
+ITO 01/2024, que estabelece que o deslocamento “deve se iniciar no tempo máximo
+de 60 (sessenta) segundos após o acionamento, seja por alarme sonoro, sistema de
+som ou rádio, painel luminoso ou diretamente pelo militar rádio operador”.
+A preparação do equipamento deve ser anterior ao chamado. Após o atendimento, ao
+retornar à base, deve-se revisar os equipamentos, deixando-os em condição para o
+ITO 11 – PREVENÇÃO E COMBATE AOS INCÊNDIOS EM VEGETAÇÃO 56
+próximo chamado. A ausência dessa medida não deve ser o fator de justificativa para
+a perda do “a postos”.
+No caso de empenhos programados em operações de longa duração, deve-se valer
+dos kits previamente separados pela UEOp para esse tipo de demanda. Em caso de
+deslocamento de equipe de revezamento, o mais antigo que desloca deve fazer
+contato prévio junto do comandante da operação ou oficial de logística, para verificar
+a necessidade de equipamentos extras, insumos e outros apoios logísticos,
+aproveitando o deslocamento da tropa para dar esse suporte à operação.
+A atuação da GCIF durante o combate ou nos deslocamentos em meio a vegetação
+deve ser procedida com o respectivo EPI, conforme a necessidade de emprego. A
+responsabilidade do uso do EPI é individual, sendo o militar mais antigo da GCIF o
+responsável por fiscalizar a correta utilização desses equipamentos.
+Para operações com emprego de mais de uma GCIF ou com SCO instalado, orientase a alocação dos EPC em local de fácil acesso, para otimizar a utilização em caso
+de acidentes com combatentes.
+Para operações prolongadas (superiores a 24 horas e com revezamento de equipes),
+deve ser avaliada a possibilidade de empregar o combate noturno devido às suas
+vantagens. Caso a escolha seja por realizar o combate diurno, a tropa deve estar
+pronta para atuar no combate ao incêndio (na linha do fogo) antes do nascer do sol.
+Para tanto, o comandante da operação ou militar mais antigo deve fazer tal
+programação, prevendo os horários de alvorada, alimentação, recolhimento da tropa,
+tempo de deslocamento de ida e volta e briefing antes do início da operação. Sugerese também o emprego de equipes em horários diurnos e noturnos (combate contínuo
+24h), por meio de revezamento.
+8.3 Da avaliação do cenário
+O primeiro passo é a realização de um rápido estudo de situação. Para essa ação
+sugere-se o emprego de mapas (offline ou online) para identificação de pontos de
+interesse no terreno, tais como: existência de aceiros, cursos d’água, concentração
+8 DIRETRIZ PARA GESTÃO DO INCÊNDIO EM VEGETAÇÃO 57
+ou mudança do tipo de vegetação, muros, estradas, linhas ou estruturas de
+transmissão de energia e outras informações. É importante valer-se do estudo e
+levantamentos prévios gerados pela sua respectiva unidade BM. Se inexistentes,
+pode-se utilizar o tempo de deslocamento para baixar os mapas ou usar os aplicativos
+existentes, sem prejuízo ao tempo resposta.
+Salienta-se que as informações inferidas durante a leitura do mapa devem ser
+confirmadas in loco, para uma tomada de decisão mais precisa. Além dessa sugestão,
+os militares devem observar os critérios que afetam o desenvolvimento do incêndio,
+tais como: tipo de vegetação, intensidade e direção do vento, altura das chamas,
+direção da cabeça do incêndio, existência de projeção de partículas incandescentes,
+grau de umidade da vegetação, riscos adjacentes e outros fatores inerentes ao
+combate a incêndio em vegetação.
+Após o estudo inicial, tem-se a base para a formulação do plano inicial de controle do
+incêndio.
+Para os eventos de grande proporção, caso a GuBM seja a primeira a chegar no
+cenário, sem a presença de outros atores (IEF, IBAMA, brigadistas florestais e outros),
+deve-se proceder um rápido estudo de situação como orientado anteriormente e
+repassar a informação imediatamente ao COBOM/SOU ou a chefia imediata, para
+providenciar o apoio necessário e outras medidas de gestão.
+Caso a GuBM já encontre uma estrutura de combate, o militar mais antigo deve
+procurar o responsável pelo andamento da operação para que o CBMMG assuma o
+comando da operação ou componha o Comando Unificado. Após isso, deve-se
+anunciar a situação ao COBOM/SOU ou a chefia imediata, além de rever todas as
+ações já tomadas, para em seguida prosseguir com as ações do plano de controle do
+incêndio e preparar para passar o comando da operação para o militar mais antigo.
+ITO 11 – PREVENÇÃO E COMBATE AOS INCÊNDIOS EM VEGETAÇÃO 58
+8.4 Do SCO
+A implementação do SCO deve ser procedida pelo militar mais antigo assim que
+houver o emprego de mais de uma GuBM em um atendimento de incêndio em
+vegetação ou quando houver o envolvimento de outro órgão ou empenho de
+brigadistas florestais.
+Os primeiros objetivos devem visar a segurança da operação e do efetivo envolvido,
+salvaguardar vidas, bens e as áreas de interesse ambiental. Com isso, a definição do
+local físico/fixo para o posto de comando não é uma prioridade, devido à dinâmica
+desse tipo de operação. Porém, essa medida deverá ser tomada tão logo se tenha
+oportunidade.
+8.4.1 Da instalação do SCO
+A seguir tem-se um resumo, quando da instalação do SCO:
+a) informar o COBOM/SOU/SOF da sua chegada ao local do incêndio;
+b) assumir o comando da operação ou propor um Comando Unificado,
+estabelecer o PC e a área de espera/estacionamento (E), e informar ao
+COBOM o local das áreas padronizadas;
+c) realizar o estudo inicial de situação do incêndio, buscando levantar as
+seguintes informações:
+− verificar a existência de vítimas;
+− avaliar os riscos existentes;
+− levantar os bens ameaçados (pessoas, propriedades, instalações,
+animais e o meio ambiente);
+− levantar o histórico dos fatos;
+− levantar a proporção do incêndio;
+− avaliar o tempo e as previsões meteorológicas;
+− verificar a velocidade e a direção de propagação das frentes de incêndio;
+− verificar se há focos secundários e a suas respectivas distâncias;
+− levantar as características da área do incêndio;
+− levantar os recursos disponíveis.
+8 DIRETRIZ PARA GESTÃO DO INCÊNDIO EM VEGETAÇÃO 59
+d) estabelecer o perímetro de segurança, com as seguintes ações
+complementares:
+− nomear o oficial de segurança;
+− estabelecer zonas de acessos segura;
+− definir rotas de fuga;
+− realizar o levantamento logístico necessário, tais como meios de
+comunicação, equipamentos de combate, EPI, EPC, alimentação, local
+de acampamento/alojamento, viaturas, book, material de escritório e
+outros.
+e) estabelecer um plano de ação inicial com base nos objetivos, estratégias,
+atribuições e táticas para o combate ao incêndio florestal, respondendo às
+perguntas:
+− O QUÊ? Definir o plano de ação e objetivos, com as atribuições dos
+combatentes e de cada pessoa envolvida etc.;
+− QUEM IRÁ REALIZAR O COMBATE? Divisão das equipes por setores
+e quais setores;
+− QUANDO COMEÇAR O COMBATE? Horário e meios disponíveis para
+o deslocamento, tipo de acesso etc.;
+− COMO ATACAR O INCÊNDIO? Ataque direto, indireto, equipamentos
+de combate, EPI necessários etc.;
+− ONDE ATACAR O INCÊNDIO? Frente, retaguarda ou flancos do
+incêndio etc.
+f) distribuir as funções do organograma inicial, de acordo com a demanda
+apresentada e os recursos disponíveis, avaliando a capacidade de resposta
+existente no momento, estabelecendo as necessidades de recursos adicionais,
+inclusive de apoio especializado;
+g) implementar, se necessário, as demais instalações padronizadas do SCO,
+como área de concentração de vítimas (ACV), base (B), acampamento (A),
+centro de informações ao público (I), zona de pouso e decolagem e demais
+instalações, de acordo com a necessidade, recursos disponíveis, proporção e
+evolução do incêndio;
+h) preparar as informações para transferência do comando, com os seguintes
+dados:
+ITO 11 – PREVENÇÃO E COMBATE AOS INCÊNDIOS EM VEGETAÇÃO 60
+− organograma do SCO atualizado;
+− plano de ação atualizado;
+− croqui ou mapa da área queimada e não atingida;
+− controle de recursos humanos empregados e a disposição;
+− controle de recursos logísticos empregados e a disposição;
+− controle dos contatos importantes, tanto internos, quanto externos;
+− controle e preenchimento dos formulários previstos no SCO.
+ATENÇÃO! Tais passos devem ser seguidos pelos comandantes e chefes nas
+diversas ocorrências desse tipo, visto que são mecanismos que primam pela
+segurança, efetividade e organização.
+8.4.2 Diretriz para estruturação física das instalações padronizadas
+Dependendo das proporções do incêndio, da quantidade de pessoas envolvidas e dias
+de operação, recomenda-se que se tenha disponível para a operação nas
+proximidades da área sinistrada, na base ou próximo ao PC os seguintes itens:
+a) ambulância com pessoal especializado para atendimento de primeiros socorros
+e remoção de feridos;
+b) água potável disponível para as equipes;
+c) estação de VHF (fixa e móvel), se possível com telefones;
+d) viaturas de apoio para transporte de água, alimentação, equipamentos, tropa
+etc.;
+e) hand talks (HT) com baterias reservas, em número suficiente para substituir os
+utilizados na operação;
+f) barracas de campanha para enfermaria, apoio logístico e PC;
+g) barracas de campanha para alojamento do pessoal empenhado, quando não
+houver outros alojamentos disponíveis;
+h) materiais reservas tais como: motosserra, motobomba, mangueiras, esguichos,
+bombas costais, ferramentas de sapa etc.;
+i) EPI reserva para substituir os danificados durante o combate ao incêndio;
+j) banheiro e/ou latrinas para a tropa e para recolhimento de dejetos alimentares
+e lixo;
+8 DIRETRIZ PARA GESTÃO DO INCÊNDIO EM VEGETAÇÃO 61
+k) RPA para sobrevoo de reconhecimento, orientação do combate e levantamento
+de informações em tempo real para o PC;
+l) helicóptero para transporte da tropa e apoio, dotado de rádios de comunicação
+na mesma faixa do pessoal empenhado nas operações em terra e no apoio;
+m) contato ou maquinário agrícola à disposição da operação;
+n) kit de reparo e manutenção de ferramentas;
+o) estação meteorológica portátil;
+p) rede de internet móvel ou via satélite;
+q) geradores de energia e ou baterias estacionárias.
+ATENÇÃO! A falta dos itens anteriores não inviabiliza a operação de combate, a
+relação anterior serve apenas de diretriz para facilitar a tomada de decisão durante as
+operações.
+8.5 Do desenvolvimento das ações de resposta
+Os procedimentos operacionais a seguir visam nortear as ações de resposta de
+eventos com emprego de mais de uma GuBM ou com instalação de SCO. Porém,
+pode-se utilizar analogamente nos incêndios de menor proporção, no que couber. As
+orientações são aplicáveis a todas UEOps do CBMMG.
+Para as operações com estimativa de vários dias de combate, orienta-se que o
+emprego do efetivo seja de no mínimo três dias corridos, sem contar o tempo do
+deslocamento e de desmobilização. A tropa empenhada deverá portar,
+individualmente, enxoval mínimo para a pernoite, montagem de abrigo provisório,
+insumo de higiene pessoal, fardamento reserva e outros apetrechos orientados pela
+UEOp, conforme especificidade de sua localidade ou da operação.
+Antes da distribuição das GCIF nas frentes de trabalho, deve-se fazer uma breve
+reunião com os militares mais antigos de cada equipe para passar informações sobre
+a operação, determinações específicas de cada frente de trabalho, padronizar os
+canais de comunicação e rever os tópicos de segurança previstos nesta ITO. As
+ITO 11 – PREVENÇÃO E COMBATE AOS INCÊNDIOS EM VEGETAÇÃO 62
+ordens emanadas e as informações repassadas nessa reunião devem ser difundidas
+por cada chefe de equipe aos seus subordinados.
+O COBOM/SOU/SOF é o responsável pelo controle dos deslocamentos das GuBM e
+pelas informações por elas repassadas. O despachante deve assessorar o comando
+da UEOp ou chefia imediata, repassando todas as informações pertinentes e que
+fujam das ações de resposta ordinária, como por exemplo, necessidade de reforço,
+instalação de SCO, necessidade de emprego de aeronaves, acidente com militares
+ou viaturas e outras situações contidas em normas e no memorando de ocorrências
+de destaque vigente.
+Pode ser montada uma sala de coordenação e controle para melhor assessorar o
+comando da UEOp ou do COB, a fim de gerenciar os recursos, BM ou civis
+empregados em mais de uma operação em sua região ou no âmbito de todo o estado.
+O funcionamento da sala de coordenação e controle deve seguir norma ou ordem de
+serviço própria.
+Havendo disponibilidade de recursos de combate aéreo, deve-se priorizar sua
+utilização em ações de preservação da vida e bens, o transporte de tropa, o combate
+direto em locais de difícil acesso, o suporte a equipes em situação de risco e o resgate
+de feridos.
+Em operações em combate a incêndio em vegetação com apoio de aeronave, antes
+do emprego propriamente dito, deve ser feito um briefing entre a tripulação da
+aeronave e as equipes de terra.
+8.5.1 Das técnicas de combate
+Ao comandante das operações caberá a escolha das técnicas de combate mais
+adequadas à situação, entre as três técnicas de combate mencionadas na seção 4.8,
+conforme descrito a seguir.
+8 DIRETRIZ PARA GESTÃO DO INCÊNDIO EM VEGETAÇÃO 63
+8.5.1.1 Ataque direto
+O combate é feito diretamente às chamas, com a utilização de abafadores,
+sopradores, e/ou aplicação de água ou terra/areia. A linha de controle se constrói de
+acordo com o avanço do incêndio.
+O combate direto ao incêndio deve ser iniciado, sempre que possível, pela cabeça do
+incêndio, uma vez que é a parte que se propaga mais rapidamente e com maior
+energia. Sendo assim, o controle da cabeça, em tese, facilita o controle do incêndio.
+Caso não seja possível o início do combate pela cabeça, deve iniciar-se então pelos
+flancos na direção da frente do incêndio. Os flancos normalmente são de propagação
+mais lenta, o que facilita a aproximação e combate. Para esse tipo de combate, podem
+ser aplicados veículos de combate a incêndio, bombas/mochilas costais, abafadores,
+materiais de sapa e sopradores.
+8.5.1.2 Ataque indireto
+Nesse tipo de ataque, é feita uma linha de controle a certa distância do perímetro do
+incêndio, dentro da área preservada que se encontra sob ameaça da linha de fogo. O
+método indireto consiste em confinar o incêndio, com vistas a provocar a autoextinção,
+a partir de barreiras naturais, artificiais, aceiros emergenciais ou outros métodos
+mitigatórios e, em alguns casos, o fogo de supressão (contrafogo ou fogo tático). Caso
+seja possível, pode-se aumentar a eficácia do aceiro com aplicação de incrementos
+de aceiros (vide 4.7.2), nas áreas não queimadas e adjacências do aceiro.
+8.5.1.3 Ataque paralelo
+É um método que agrega o ataque direto e o indireto, usado quando o calor produzido
+pelo fogo permite certa aproximação, mas não é suficiente para o ataque direto. O
+método consiste em construir uma linha de controle (aceiro, rebaixamento, linha fria e
+outros métodos mitigatórios) paralela à linha do fogo ou cabeça do incêndio. Quando
+ITO 11 – PREVENÇÃO E COMBATE AOS INCÊNDIOS EM VEGETAÇÃO 64
+o incêndio alcançar a linha de controle construída, a intensidade das chamas deve
+reduzir, permitindo a aproximação e o ataque direto.
+8.5.2 Do fogo de supressão
+Utilizado durante o combate, consiste na queima do material combustível antes da
+chegada do incêndio, doutrinariamente, consiste em duas técnicas: o fogo tático e o
+contrafogo.
+O fogo tático consiste no uso do fogo, de modo controlado, com o objetivo de reduzir
+a disponibilidade de combustível antes da chegada do incêndio em uma área de
+interesse de proteção, com o objetivo de impedir ou mitigar os danos causados pelo
+incêndio.
+O contrafogo consiste no uso do fogo com vistas a provocar a interação da frente do
+incêndio com a frente da linha de queima produzida, com objetivo de alterar a direção
+de propagação do incêndio ou provocar sua extinção.
+Todos os esforços devem ser concentrados no combate aos incêndios em vegetação.
+Porém, em último caso, a técnica do fogo de supressão pode ser utilizada para
+resguardar vidas, bens e/ou preservar áreas de maior ou mais relevante interesse
+ambiental, quando o dano potencial do incêndio é desproporcional à capacidade de
+resposta BM e a técnica for executada conforme determina esta ITO.
+ATENÇÃO! A decisão e responsabilidade do uso de fogo de supressão (fogo tático
+ou contrafogo) é do militar mais antigo presente ou, quando instalado o SCO, do
+comandante das operações, assessorado por seu staff, o qual cientificará todas as
+equipes envolvidas na operação sobre a tomada da decisão e os objetivos propostos
+com a técnica.
+O responsável pela aplicação da técnica deve distribuir as tarefas e atribuições a cada
+combatente ou brigadista, sendo proibida a permanência de pessoas entre a linha de
+controle e o incêndio. Cada componente ou guarnição tem sua ação individual
+estabelecida, a qual deve ser seguida à risca, para não comprometer o resultado.
+8 DIRETRIZ PARA GESTÃO DO INCÊNDIO EM VEGETAÇÃO 65
+Somente após estabelecida a estratégia, objetivos, rota de fuga, área de segurança,
+ações individuais, posicionamento dos recursos e comunicação efetiva, é seguro
+iniciar a aplicação do fogo de supressão na área delimitada. Qualquer tipo de
+dificuldade ou situação contrária ao planejado deve ser anunciada ao responsável
+pela aplicação da técnica.
+Em resumo, caso seja tomada a decisão de usar o fogo de supressão, devem ser
+avaliadas e levadas em consideração as seguintes condições:
+a) permissão do PC ou militar mais antigo presente;
+b) ciência para todos os envolvidos no combate;
+c) divisão prévia das tarefas e funções;
+d) linha de controle pronta com seus incrementos e aceiros efetivos (naturais,
+artificiais ou emergenciais);
+e) ausência de pessoas entre a linha de controle e o incêndio;
+f) rota de fuga previamente estabelecida e conhecida por todos;
+g) efetivo, equipamentos, maquinário e viaturas suficientes para o controle do
+contrafogo;
+h) intensidade do vento no momento da aplicação da técnica;
+i) vigilância constante das fagulhas projetadas nas áreas adjacentes ao
+contrafogo;
+j) condições topográficas neutras ou com pequena aclividade, na mesma direção
+do contrafogo;
+k) nunca aplicar o contrafogo quando este for atingir ou passar a menos de 30
+metros de linhas de distribuição, subtransmissão ou transmissão elétrica de alta
+tensão, observar norma específica (POP CILT).
+8.5.3 Da aplicação da técnica do fogo de supressão
+A técnica do contrafogo ou do fogo tático exige conhecimento, experiência e
+sincronismo. Devem ser adotadas as seguintes providências:
+a) estabelecer uma área de segurança e as rotas de fuga;
+ITO 11 – PREVENÇÃO E COMBATE AOS INCÊNDIOS EM VEGETAÇÃO 66
+a) definir uma linha de controle à frente do incêndio. A distância da linha de
+controle bem como a extensão do contrafogo podem variar centenas de metros
+ou mesmo quilômetros;
+b) permanecer na linha de controle após a construção ou utilização de aceiros
+naturais e/ou artificiais. Os combatentes devem estar atentos e preparados
+para evitar que o incêndio ultrapasse a linha de controle;
+c) empregar o contrafogo sempre que as condições topográficas permitirem o uso
+da técnica. Combatentes e viaturas devem acompanhar a progressão do
+incêndio para, caso necessário, agirem de modo rápido, eliminando os focos
+secundários que surgirem;
+d) valer-se da seguinte Regra dos 30, conforme Quadro 9, especificado abaixo.
+Quadro 9 - Regra dos 30
+Essa regra representa as condições DESFAVORÁVEIS para aplicação da técnica do fogo de
+supressão.
+1) Temperatura MAIOR que 30ºC;
+2) Velocidade média do vento MAIOR que 30Km/h;
+3) Umidade relativa do ar MENOR que 30%.
+Fonte: adaptado de Torres (2020).
+ATENÇÃO! Sendo possível, a técnica do contrafogo ou fogo tático deve ser
+empregada ao final da tarde, início da noite, durante a noite/madrugada ou no início
+da manhã, períodos em que as condições climáticas são mais favoráveis.
+8.5.4 Do combate noturno
+Para pacificação de entendimento, considera-se combate noturno as ações de
+deslocamento a pé e combate propriamente dito no horário compreendido entre o pôr
+e o nascer do sol.
+O combate noturno, desde que observados os aspectos relativos à segurança das
+guarnições, se mostra mais eficaz do que o combate diurno. As chamas nesse período
+avançam mais lentamente e a extinção do fogo se dá com um menor esforço físico
+dos combatentes em campo devido às seguintes vantagens:
+8 DIRETRIZ PARA GESTÃO DO INCÊNDIO EM VEGETAÇÃO 67
+a) menor temperatura: a queda na temperatura do ambiente dificulta a ação do
+fogo no alcance do ponto de ignição do combustível;
+b) umidade relativa do ar mais alta: com a diminuição da temperatura do dia,
+há consequentemente o aumento da umidade relativa do ar, que é a
+porcentagem de vapor de água presente no ar atmosférico. Esse fenômeno
+incide sobre as chamas do incêndio fazendo com que este perca força e
+diminua seu avanço;
+c) precipitação noturna: com o aumento da umidade relativa do ar durante a
+noite, ocorre a condensação desse vapor de água. A água passa do estado
+gasoso para o estado líquido quando em contato com a superfície da vegetação
+no ambiente, hidratando-a, o que exige do fogo maior energia para desidratar
+a vegetação;
+d) visualização de pontos quentes e de reignição: durante a noite, braseiros
+ou brasas incandescentes são facilmente perceptíveis, o que diminui a
+probabilidade de se deixar pontos de reignição do incêndio sem serem
+eliminados na fase de rescaldo;
+e) maior produtividade: todos os fatores anteriormente citados traduzem-se em
+menor esforço físico, menor desgaste dos combatentes em campo e,
+consequentemente, maior eficácia no controle do incêndio e posterior extinção
+e rescaldo.
+Para maior segurança no emprego do combate noturno, é importante que a UEOp
+execute atividades e/ou simulados para reconhecimento do terreno fora do período de
+estiagem, em regiões com histórico de recorrência de incêndios no período de seca,
+buscando o levantamento de pontos sensíveis e de interesse, bem como das
+características do relevo na região.
+Para a aplicação do combate noturno o militar mais antigo presente na ocorrência e/ou
+comandante das operações deve tomar providências, quando possível, para mitigar
+os riscos inerentes a esse tipo de operação:
+a) determinar a utilização de lanternas (de cabeça e mão);
+ITO 11 – PREVENÇÃO E COMBATE AOS INCÊNDIOS EM VEGETAÇÃO 68
+b) maior cautela no deslocamento, observando sempre o terreno, com o objetivo
+de se evitar irregularidades, troncos, buracos, pedras soltas etc.;
+c) posicionar a viatura, dotada com bolsa de APH e Sked, o mais próximo possível
+do local de combate, facilitando possíveis ações de resgate;
+d) transportar junto das GCIF o kit de primeiros socorros para atendimento
+imediato ao combatente acidentado.
+ATENÇÃO! É imprescindível que os combatentes saibam confeccionar uma maca
+improvisada, conhecida como padiola, para transporte do paciente até a viatura.
+8.6 Da desmobilização e do retorno
+Tendo em vista o SCO ser flexível e modular, a desmobilização de uma operação
+pode ser fracionada conforme a demanda. Dessa forma, a desmobilização dos
+recursos humanos e logísticos pode ocorrer por determinação do comandante da
+operação, de modo a liberar recursos ociosos e reduzir a operação proporcionalmente
+à diminuição da demanda de trabalho.
+As ações para o encerramento por completo da operação, de acordo com
+determinação do comando da operação, devem ser tomadas somente após se
+perpassar pelas fases de extinção; rescaldo; vigilância/monitoramento; e medição de
+área queimada. Após o encerramento dessas fases, deve-se proceder a
+documentação, segundo normas em vigor.
+8.7 Da documentação
+Fase final da ocorrência em que se documenta, em REDS, para os devidos fins, o
+histórico da ocorrência (vide Apêndice C), desde o acionamento, o emprego
+operacional, a atuação dos BMs durante a operação até o seu encerramento no
+quartel de origem, discriminando as ações adotadas, inclusive, as alterações que
+porventura tenham ocorrido.
+A documentação é muito importante para ações futuras junto ao Ministério Público e
+demais órgãos de segurança, na responsabilização de envolvidos, devendo ser
+8 DIRETRIZ PARA GESTÃO DO INCÊNDIO EM VEGETAÇÃO 69
+realizado de forma técnica e com riqueza de informações. Deve ser observada a
+natureza específica para cada tipo de ocorrência de incêndio em vegetação, conforme
+previsto na DIAO.
+8.8 Das ações de recuperação
+Consistem em ações de caráter definitivo destinadas a restabelecer o cenário
+destruído pelos incêndios em vegetação. O CBMMG pode se inserir nessa fase, como
+por exemplo, no apoio a plantio de mudas do ecossistema local, em parceria com
+empresas, UC e áreas ambientais, centros educacionais, órgãos e entidades
+governamentais e não governamentais.
+Essa ação, além de contribuir diretamente para a defesa da natureza, busca trazer
+um sentimento de pertencimento aos envolvidos, visando uma maior conscientização
+do papel de cada cidadão na preservação do meio ambiente.
+8.9 Das operações continuadas
+Em situações de operações continuadas ou em atuações BM integradas a parques e
+UC, há outras fases que devem ser seguidas. Ressalta-se que cada operação possui
+suas peculiaridades, de forma que as fases apresentadas a seguir indicam um norte
+para a operação, mas não estão necessariamente presentes em todos os casos.
+8.9.1 Patrulhamento
+O patrulhamento pode ser feito por sistemas fixos de monitoramento; por via terrestre,
+por meio de ponto base, com a presença do BM no local; por via aérea etc., com o
+intuito de coibir a ação criminosa de incendiários.
+Tal ação visa, também, minimizar o tempo resposta ao combate inicial após a
+detecção do foco, uma vez que os próprios BM podem efetuar o primeiro combate,
+dispensando, na maioria dos casos, o emprego de recursos adicionais.
+ITO 11 – PREVENÇÃO E COMBATE AOS INCÊNDIOS EM VEGETAÇÃO 70
+8.9.2 Visualização ou detecção
+Pode ser realizado pela equipe em patrulhamento ou por terceiros, estes últimos
+devem acionar o CBMMG, via 193, com o propósito de informar precocemente o
+princípio de incêndio.
+8.9.3 Confirmação
+Nessa fase, reúnem-se os dados do local sinistrado, avaliando os fatores de risco,
+necessidade de apoio operacional, além dos elementos florestais e antrópicos
+ameaçados, organizando os recursos disponíveis e decidindo a melhor forma de
+aplicação das técnicas e táticas de combate. Deve-se evitar tanto o
+subdimensionamento quanto o superdimensionamento de recursos.
+8.9.4 Ataque inicial
+Etapa com o objetivo de impedir e/ ou diminuir a propagação das chamas. Nessa ação
+deve-se dar prioridade a salvaguardar vidas, bens e áreas de relevante interesse
+ambiental.
+8.9.5 Controle
+O estabelecimento dessa fase traduz-se em maior segurança para as equipes, já que
+o risco diminui sobremaneira, não sendo, todavia, aceitável que a atenção dos
+envolvidos na operação diminua.
+8.9.6 Extinção
+Etapa em que todos os focos da extremidade da cicatriz do incêndio são debelados,
+em todas as partes do incêndio.
+8 DIRETRIZ PARA GESTÃO DO INCÊNDIO EM VEGETAÇÃO 71
+8.9.7 Rescaldo
+Essa fase carece de paciência e atenção, pois reignições nos incêndios em vegetação
+são comuns e prováveis, devido à temperatura, vento e fatores ambientais presentes
+no local do combate. Durante essa fase é importante a construção de aceiros de
+segurança, afastando o material queimado ou sob altas temperaturas da vegetação
+não queimada, sendo confeccionado geralmente com equipamentos de sapa, e, se
+disponível, sopradores. Os braseiros ou troncos incandescentes devem ser
+enterrados ou colocados dentro da área queimada, afastados o suficiente para que
+fagulhas não sejam arremessadas pelo vento para a área não queimada.
+8.9.8 Monitoramento
+Consiste na retenção de equipes reduzidas no setor que foi atingido pelo incêndio. O
+objetivo é detectar reignições, muito comuns em ocorrências dessa natureza, para
+extingui-las o quanto antes. É recomendável que os envolvidos na operação
+permaneçam no local até que a temperatura do ambiente diminua, reduzindo o risco
+em questão.
+Caso não seja possível a permanência da equipe no local, devido ao risco de reignição
+ao amanhecer, o retorno de guarnições deve ocorrer nas primeiras horas da manhã
+do dia seguinte para avaliação e vistoria do sinistro. Quando ocorre o combate
+noturno, é imprescindível que permaneça pessoal em campo realizando o
+monitoramento da área na manhã e tarde subsequente.
+8.9.9 Medição de área queimada
+Pode ser realizada por meio de imagens de satélite, com apoio de RPA, aeronave ou
+a pé, este último utilizando aparelho GPS ou aplicativo de celular com o mesmo
+objetivo. Percorre-se todo o perímetro, borda da mancha de carbonização do incêndio,
+fazendo essa medição. Pode ser executada durante a fase de rescaldo. Essa fase é
+importante para fins de levantamento estatístico e preenchimento de relatório.
+ITO 11 – PREVENÇÃO E COMBATE AOS INCÊNDIOS EM VEGETAÇÃO 72
+Imprescindível também para se estabelecer estratégias futuras de prevenção e
+combate.
+8.9.10 Desmobilização
+Deve ser realizada a limpeza e a manutenção dos equipamentos e das viaturas. A
+fase da desmobilização é uma boa oportunidade de reunir a tropa para discutir os
+pontos positivos e negativos da operação.
+8.9.11 Documentação
+Fase final da ocorrência em que se produz o REDS para os devidos fins. O modelo
+de histórico e o guia para coleta de informações, ambos para elaboração do REDS,
+encontram-se dispostos no Apêndice C e Apêndice D, respectivamente, desta ITO.
+9 AÇÕES BOMBEIRO MILITAR EM SITUAÇÃO DE FLAGRANTE DELITO EM INCÊNDIOS
+CRIMINOSOS 73
+9 AÇÕES BOMBEIRO MILITAR EM SITUAÇÃO DE FLAGRANTE DELITO EM
+INCÊNDIOS CRIMINOSOS
+Nas situações em que a GCIF se depara com um incendiário em flagrante delito, tendo
+em vista o art. 301 do Código de Processo Penal, os militares do CBMMG podem
+efetuar a prisão em flagrante, agindo como qualquer civil, ou seja, agem
+facultativamente. Nesse sentido, o BM mais antigo deve acionar imediatamente a PM,
+repassando características do infrator e do fato, e proceder da seguinte forma:
+a) em situações de normalidade, como nos patrulhamentos, o BM mais antigo
+pode dar a voz de prisão ao incendiário apenas em situação de supremacia de
+força, qualificá-lo e aguardar a PM para conduzi-lo à autoridade competente;
+b) em situações durante o combate, em que se avalia que o dano causado pela
+paralisação do combate ao incêndio até a entrega do infrator à polícia é
+desproporcional, o BM pode dar a voz de prisão ao incendiário se, em situações
+de supremacia de força, qualificá-lo e ordená-lo que aguarde junto à viatura
+BM, devidamente acompanhado. Após debelar o incêndio, o infrator deve ser
+repassado à PM, para conduzi-lo à autoridade competente;
+c) apenas em situações de flagrante delito de crime militar, o BM mais antigo deve
+prender e conduzir o infrator à autoridade competente, conforme se depreende
+do art. 243 do Código de Processo Penal Militar.
+ITO 11 – PREVENÇÃO E COMBATE AOS INCÊNDIOS EM VEGETAÇÃO 74
+10 PRESCRIÇÕES DIVERSAS
+As UEOp devem produzir e/ou estimular a elaboração de planos de contingência,
+planos de ação e outros documentos que estabeleçam as ações de gestão do risco
+de desastre e gestão de desastres, aplicadas ao incêndio em vegetação. Em caso de
+nova formulação ou da existência dessa documentação, esta deve ser condensada e
+disponibilizada na Intranet pelo CBMMG, para fins de facilitar o acesso e ampla
+divulgação, considerando a possibilidade do emprego de militares em todo território
+do estado de Minas Gerais.
+O IEF, IBAMA, ICMBio, outros órgãos federais, estaduais ou municipais encarregados
+da preservação do meio ambiente, empresas e instituições podem ser acionados
+como apoio de recursos humanos e logísticos, quando da atuação em UC. Para tanto,
+a UEOp responsável pela área de atuação deve possuir os contatos dos referidos
+órgãos e o tipo de apoio a ser fornecido, por meio de reuniões periódicas de
+alinhamento estratégico e operacional sobretudo no período pré-estiagem.
+As unidades ou frações de BM que possuírem UC dentro de suas áreas de atuação,
+devem manter contato com os gerentes dessas áreas, municiando-se de informações
+relevantes, como cartas topográficas atualizadas, pontos de acesso, coordenadas de
+aeródromos, helipontos etc. Os respectivos comandantes devem oferecer apoio
+técnico e designar militares para contato com os gerentes das UC, para que juntos
+elaborem um plano de contingência, de prevenção e combate a incêndio em
+vegetação para cada área de proteção. Isso facilita as ações BM no caso de incêndios.
+O comandante das operações deve manter os escalões superiores constantemente
+informados da situação da operação.
+Os comandantes de unidade/fração devem coordenar e controlar as atividades
+relacionadas ao meio ambiente em sua área de atuação, estabelecendo plano de
+metas, contendo cronograma de atividades a serem desenvolvidas durante o ano, no
+espaço geográfico sob sua responsabilidade.
+10 PRESCRIÇÕES DIVERSAS 75
+As unidades e frações do CBMMG devem envidar esforços para cumprir o cronograma
+previsto no Apêndice B - calendário anual de GRD e GD - risco de incêndios em
+vegetação.
+O CEB deve estabelecer procedimentos específicos de prevenção e combate aos
+incêndios em vegetação para serem efetuados pelas unidades BM e planejar as
+atividades a serem desenvolvidas para o cumprimento no disposto no Decreto nº
+48.767, de 26 de janeiro de 2024, que dispõe sobre Força Tarefa Previncêndio (FTP),
+ou na norma relacionada que estiver vigente.
+Sempre que possível, as UEOp devem envidar esforços para adquirir viaturas e
+materiais específicos para a atividade de prevenção e combate a incêndio em
+vegetação, como as viaturas ABTF e ASF, queimadores (pinga-fogo), sopradores,
+abafadores em quantidade suficiente para os militares da prontidão e militares da
+administração quando em reforço do efetivo operacional etc.
+Todos os COBs, o CEB e as UEOp devem tomar conhecimento sobre a norma vigente
+que consolida os NIF no âmbito do CBMMG. Dessa forma é fundamental, promover
+em conjunto com os demais órgãos do estado, ações de prevenção, mitigação,
+preparação, resposta, recuperação e responsabilização relativa aos incêndios em
+vegetação nas UC e demais áreas de interesse ambiental e suas zonas de
+amortecimento no âmbito do estado de Minas Gerais. Por fim, deve-sepermitir a
+mobilização e o deslocamento de equipes de bombeiros militares entre diferentes
+Comandos Operacionais, sob a égide de doutrina padronizada e sistematizada, a fim
+de potencializar as respostas em eventos de maior capacidade danosa, para que a
+unidade responsável pela atuação na área atingida possa responder com o menor
+impacto possível em seu efetivo ordinário.
+ITO 11 – PREVENÇÃO E COMBATE AOS INCÊNDIOS EM VEGETAÇÃO 76
+REFERÊNCIAS
+BRASIL. Ministério da Justiça. SENASP/MJ. Curso Sistema de Comando de
+Incidentes. Módulo I. 2009. Brasília. DF. Disponível em:
+file:///C:/Users/m1317932/Desktop/SistemaComandoIncidentes_Mod1.pdf. Acesso
+em: 07 out. 2022.
+BRASIL. Lei nº 14.750 de 12 de dezembro de 2023. Altera as Leis n. º 12.608 de
+10 de abril de 2012 e 12.340, de 1º de dezembro de 2010, para aprimorar os
+instrumentos de prevenção de acidentes ou desastres e de recuperação de áreas
+por eles atingidas, as ações de monitoramento de riscos de acidentes ou desastres
+e a produção de alertas antecipados. Disponível em:
+https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2023/lei/l14750.htm . Acesso
+em: 6 mar. 2024.
+BRASIL. Defesa Civil. Gerenciamento de Desastres. Sistema de Comando em
+Operações. I. Título. Florianópolis: Ministério da Integração Nacional,
+Secretaria Nacional de Defesa Civil, Universidade Federal de Santa Catarina, Centro
+Universitário de Estudos e Pesquisas sobre Desastres, 2009.
+74 p. Disponível em: https://www.ceped.ufsc.br/wp-content/uploads/2014/09/Manualde-Gerenciamento-de-Desastres.pdf. Acesso em: 7 mar. 2023.
+BRASÍLIA. CORPO DE BOMBEIROS MILITAR DO DISTRITO FEDERAL. Manual
+de perícia em incêndios e explosões: conhecimentos específicos / Diretoria de
+Investigação de Incêndio – Brasília: Corpo de Bombeiros Militar do Distrito Federal,
+2019.
+CEMIG - Critérios de Interferências com Faixas de Linhas de Distribuição e
+Transmissão. Disponível em: https://www.cemig.com.br/wpcontent/uploads/2020/07/pels_5621_000001p-3.pdf. Acesso em: 2 fev. 2021.
+GOIÁS. CORPO DE BOMBEIROS MILITAR DE GOIÁS. Manual Operacional de
+Bombeiros: Prevenção e Combate a Incêndios Florestais – Goiânia: - 2017. 260 p.:
+il.
+MINAS GERAIS. [Constituição (1989)]. Constituição do Estado de Minas Gerais. –
+27. ed. – Belo Horizonte: Assembleia Legislativa do Estado de Minas Gerais, 2021.
+476 p.
+MINAS GERAIS. Decreto nº 47.919 de 17 de abril de 2020. Regulamenta o uso de
+fogo para fins de prevenção e de combate a incêndios florestais no interior e no
+entorno de Unidades de Conservação instituídas pelo Poder Público estadual.
+Disponível em:
+https://www.almg.gov.br/consulte/legislacao/completa/completa.html?tipo=DEC&num
+=47919&comp=&ano=2020. Acesso em: 11 nov. 2020.
+MINAS GERAIS. Decreto nº 48.767 de 26 de janeiro de 2024. Dispõe sobre a
+Força Tarefa Previncêndio. Disponível em: https://www.almg.gov.br/legislacaomineira/texto/DEC/48767/2024/. Acesso em: 06 mar 2024.
+REFERÊNCIAS 77
+MINAS GERAIS. CORPO DE BOMBEIROS MILITAR DE MINAS GERAIS.
+Instrução Técnica Operacional 01: Padronização do Serviço Operacional. 3ª. Ed.
+Atualização de 2024.
+MINAS GERAIS. CORPO DE BOMBEIROS MILITAR DE MINAS GERAIS.
+Instrução Técnica Operacional 27: Emprego de Aeronaves Remotamente
+Pilotadas (RPA-Drones) em Apoio a Operações do CBMMG. Belo Horizonte:
+CBMMG, 2019. 39 p.
+MINAS GERAIS. Lei complementar nº 54, de 13 de dezembro de 1999. Dispõe
+sobre a organização básica do Corpo de Bombeiros Militar de Minas Gerais -
+CBMMG - e dá outras providências. Disponível em:
+https://www.almg.gov.br/consulte/legislacao/completa/completa.html?num=54&ano=
+1999&tipo=LCP. Acesso em: 12 fev. 2020.
+MINAS GERAIS. Lei nº 22.839, de 5 de janeiro de 2018. Dispõe sobre a prática de
+atividades da área de competência do Corpo de Bombeiros Militar de Minas Gerais
+por voluntários, profissionais e instituições civis e dá outras providências. Disponível
+em:
+https://www.almg.gov.br/consulte/legislacao/completa/completa.html?tipo=LEI&num=
+22839&comp=&ano=2018. Acesso em: 02 dez. 2020.
+MINAS GERAIS. CORPO DE BOMBEIROS MILITAR DE MINAS GERAIS. Manual
+de Bombeiro Militar: Busca e Resgate em Estruturas Colapsadas. Volume I. Belo
+Horizonte. CBMMG, 2019.
+MINAS GERAIS. CORPO DE BOMBEIROS MILITAR DE MINAS GERAIS. Manual
+de Bombeiros Militar: Combate a incêndio urbano. (MABOM- CIURB). 1.ed. Belo
+Horizonte: CBMMG, 2020.
+MINAS GERAIS. CORPO DE BOMBEIROS MILITAR DE MINAS GERAIS. Manual
+de Gerenciamento de Frota. Belo Horizonte: CBMMG, 2016.
+MINAS GERAIS. CORPO DE BOMBEIROS MILITAR DE MINAS GERAIS.
+Memorando 3.153 – Período Sazonal. Belo Horizonte: CBMMG, 2018.
+NATIONAL FIRE CHIEFS COUNCIL (NFCC). The LACES safety protocol.
+Disponível em: https://www.ukfrs.com/guidance/search/laces-safety-protocol. Acesso
+em: 09 set. 2022.
+TORRES, Fillipe Tamiozzo Pereira et al. Manual de Prevenção e Combate de
+Incêndios Florestais. 2020. Disponível em: https://www.cemig.com.br/wpcontent/uploads/2021/03/manual-prevencao-combate-incendios-florestais.pdf.
+Acesso em: 24 jun. 2021.
+ITO 11 – PREVENÇÃO E COMBATE AOS INCÊNDIOS EM VEGETAÇÃO 78
+APÊNDICE A - CHECK LIST PARA O TELEATENDENTE
+Além das informações de praxe, como endereço, pontos de referência, nome e
+contato do solicitante e natureza da ocorrência, é importante que o teleatendente
+obtenha as seguintes informações e as repasse ao Chefe da GuBM ou CBU:
+INFORMAÇÕES GERAIS
+a) Há risco à vida? Há risco a bens materiais?
+b) A área é de relevante interesse ambiental?
+c) O solicitante está vendo as chamas ou somente a fumaça?
+d) Há quanto tempo o incêndio começou?
+e) Qual a localização exata do incêndio? Tem coordenadas geográficas ou
+referência de pontos de acesso para chegar até o local?
+f) Qual o tipo de vegetação? Qual a altura da vegetação?
+g) Há pessoas já combatendo o incêndio? Se sim, quantas?
+h) Há possibilidade de enviar a localização e imagens do local e/ou do incêndio?
+INCÊNDIOS EM LOTE VAGO (PERÍMETRO URBANO)
+a) O lote é murado? Qual o tamanho do terreno?
+b) Qual a inclinação do terreno? Tem edificações acima da linha do fogo?
+c) Há alguma edificação na adjacência?
+d) Possui área de proteção ambiental nas adjacências?
+INCÊNDIOS EM VEGETAÇÃO NA ZONA RURAL, EM CULTURAS AGRÍCOLAS
+a) Qual o nome da fazenda, sítio, empresa ou usina responsável pela área?
+b) Quem é o responsável? Anotar contato telefônico.
+c) Há estradas transitáveis que dão acesso até o local? Verificar presença de
+pontes ou mata burros que inviabilizam a utilização de viaturas de grande porte.
+d) Há imóveis próximos ao incêndio (sede da fazenda, sítio, casa do caseiro,
+curral)?
+e) Há criação de animais no local (gado, galinha etc.)?
+f) Há aceiros ao redor do incêndio? Há aceiros nas adjacências de cercas? Há
+aceiros ao redor das benfeitorias da propriedade rural?
+APÊNCICE A – CHECK LIST PARA O TELEATENDENTE 79
+g) Há tratores, caminhão pipa, carretinha com água ou outros equipamentos úteis
+ao combate do incêndio?
+h) Há pontos de captação de água próximos (rios, riachos, poço artesiano)?
+i) Há linhas de transmissão de energia elétrica que cortam a área da
+propriedade?
+j) Há rodovias próximas?
+INCÊNDIOS EM UNIDADES DE CONSERVAÇÃO OU PROXIMIDADES
+a) Efetuar as perguntas indicadas para incêndios em zona rural e culturas
+agrícolas;
+b) Empenhar o PCIF/BEMAD para triagem e monitoramento remoto;
+c) Repassar a ocorrência à GuBM e ao chefe de serviço ou CBU de área;
+d) Entrar em contato com o responsável pela área (proprietário, gestor público ou
+gerente da área), para repassar as informações levantadas e as medidas
+tomadas pelo CBMMG até aquele momento.
+Caso o responsável já tenha conhecimento do incêndio, refazer as perguntas contidas
+neste check list, além de efetuar as seguintes perguntas:
+a) Qual a atual situação do incêndio e sua possível evolução?
+b) Há SCO instalado? Quais órgãos estão envolvidos no SCO?
+c) Quais os recursos logísticos existentes?
+d) Qual o número de pessoas empregadas? Além de outras informações referente
+ao combate em si.
+Repassar tais informações ao CBU ou Chefe de Serviço e alimentar o CAD.
+ITO 11 – PREVENÇÃO E COMBATE AOS INCÊNDIOS EM VEGETAÇÃO 80
+APÊNDICE B - CALENDÁRIO ANUAL DE GRD E GD - RISCO DE INCÊNDIOS EM
+VEGETAÇÃO
+Quadro 10 - Calendário anual de GRD e GD relacionado ao risco de incêndio em vegetação
+Jan Fev Mar Abr Maio Jun Jul Ago Set Out Nov Dez
+AÇÕES
+PREVENTIVAS
+Abordagem
+aos visitantes X X X
+Planejamento
+de ações
+preventivas
+com
+prefeituras e
+COMPDECs
+X X X X
+Visita
+preventiva X X X
+Palestras
+escolas X X X
+Blitz
+educativa X X X
+Patrulhamento
+e vigilância X X X X X X X X X X X X
+AÇÕES DE
+PREPARAÇÃO
+Treinamento
+brigadas e
+COMPDECs
+X X X
+Reforço
+operacional X X X X
+Treinamento
+MCIF X
+CPCIF X X
+Mapeamento
+de área X X X
+AÇÕES DE
+MITIGAÇÃO
+Construção de
+aceiros X X X X
+Fogo técnico
+(FT) X X
+AÇÕES DE
+RESPOSTA
+Combate a
+incêndio X X X X X X X X X X X X
+Sala de
+coordenação
+e controle
+X X X X X X
+AÇÕES DE
+RECUPERAÇÃO Recuperação X X X X
+AÇÕES DE
+INVESTIGAÇÃO Perícia X X X X X X X X X X X X
+Fonte: elaborado pelos autores.
+ATENÇÃO! Os períodos destacados para cada ação podem variar conforme as
+diferenças de clima e bioma das regiões do estado. Cabe a cada unidade adaptar as
+possíveis alterações nas previsões definidas no quadro acima à realidade local.
+APÊNDICE C – MODELO DE HISTÓRICO DE REDS (O.04.000) DE COMBATE A INCÊNDIOS
+EM VEGETAÇÃO 81
+APÊNDICE C - MODELO DE HISTÓRICO DE REDS (O.04.000) DE COMBATE A
+INCÊNDIOS EM VEGETAÇÃO
+Tendo em vista o amparo legal da GuBM na atuação de combate a incêndios em
+vegetação, bem como o emprego do REDS para o assessoramento e instrução das
+consequências legais advindas de um incêndio, o REDS BM deve contemplar as
+diversas faces que garantam a efetividade da sanção. Neste sentido, este apêndice é
+um modelo de referência para históricos de REDS, cabendo dispor no relatório
+somente as informações que couberem no caso concreto.
+QR Code modelo em .DOC (clique aqui para acessar)
+Fonte: elaborado pelos autores.
+ITO 11 – PREVENÇÃO E COMBATE AOS INCÊNDIOS EM VEGETAÇÃO 82
+APÊNDICE D - GUIA PARA COLETA DE INFORMAÇÕES - REDS (O.04.000)
+Quadro 11 - Guia para coleta de informações relacionadas ao REDS
+REDS
+Coordenadas do incêndio Início:
+Fim:
+Nome da propriedade
+Data e hora provável do início do
+incêndio
+Testemunhas
+Nome:
+RG:
+CPF:
+Telefone:
+Endereço:
+Tipo de vegetação afetada
+Área cultivada total
+(queimada + não queimada)
+Especificar por talhões ou hectares
+Área queimada
+Danos causados pelo incêndio
+Danos ambientais:
+Danos a bens moventes (citar placa ou chassi):
+Danos a bens semoventes:
+Danos a bens imóveis:
+O incêndio afetou:
+· APP’s
+· UC’s
+· Mananciais
+Qual (especificar área afetada):
+Houve geração de RI ou ROI? Se sim, qual (confirmar no tel: 08002832323):
+APÊNDICE D - GUIA PARA COLETA DE INFORMAÇÕES - REDS (O.04.000) 83
+O incêndio alcançou estradas ou
+rodovias?
+Se sim, qual (referência KM):
+Recursos envolvidos na operação:
+Pessoal:
+Veículos:
+Maquinário/Equipamentos:
+Quantidade de água aproximada gasta no combate:
+Houve apoio de outro órgão
+estadual ou federal no combate?
+Se sim, qual:
+Técnicas de combate empregadas
+no incêndio
+Especificar:
+Houve incendiário detido em
+flagrante delito ou suspeito
+Especificar objetos encontrados com o suspeito que
+possam ter dado causa ao incêndio:
+Objetos pirofóricos ou
+dispositivos de ignição
+encontrados
+Especificar:
+Torres de transmissão ao longo
+da área atingida pelo incêndio
+Especificar se dentro ou fora da área queimada
+Fonte: elaborado pelos autores

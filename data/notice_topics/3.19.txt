@@ -1,0 +1,3049 @@
+1. Corpo de Bombeiros Militar de Minas Gerais.
+2. ITO 33. 3. Instrução Técnica Operacional 4.
+Proteção e Defesa Civil. I. Título.
+
+LISTA DE SIGLAS E ABREVIATURAS
+ABM Academia de Bombeiros Militar
+ANA Agência Nacional de Águas
+APP Aplicativo para Smartphone
+ART Anotação de Responsabilidade Técnica
+AVCB Auto de Vistoria do Corpo de Bombeiros
+CBMMG Corpo de Bombeiros Militar de Minas Gerais
+CEDEC Coordenadoria Estadual de Proteção e Defesa Civil
+CEMADEN Centro Nacional de Monitoramentos e Alertas de Desastres Naturais
+CEMIG Companhia Energética de Minas Gerais
+CENAD Centro Nacional de Gerenciamento de Riscos e Desastres
+CEPED Centro de Estudos e Pesquisas em Engenharia e Defesa Civil
+CGMAT Centro de Geotecnologias e Monitoramento Ambiental Territorial
+CNAE Classificação Nacional de Atividades Econômicas
+COB Comando Operacional de Bombeiros
+COBOM Centro de Operações de Bombeiros
+COBRADE Classificação e Codificação Brasileira de Desastres
+COMPDEC Coordenadoria Municipal de Proteção e Defesa Civil
+CPRM Companhia de Pesquisa de Recursos Minerais
+CPTEC Centro de Previsão do Tempo e Estudos Climáticos
+CSM Centro de Suprimento e Manutenção
+DIAO Diretriz Integrada de Ações e Operações
+DMATE Declaração Municipal de Atuação Emergencial
+DNIT Departamento Nacional de Infraestrutura de Transportes
+EMBM3 Terceira Seção do Estado-Maior
+FEAM Fundação Estadual do Meio Ambiente
+FIDE Formulário de Informações do Desastre
+GLP Gás Liquefeito de Petróleo
+GMG Gabinete Militar do Governador
+GRD Gestão do Risco de Desastre
+Gu BM Guarnição Bombeiro Militar
+IGAM Instituto Mineiro de Gestão das Águas
+IICPP Índice de Incentivo à Cultura de Prevenção e Proteção à Vida, ao
+Patrimônio e ao Meio Ambiente
+INMET Instituto Nacional de Meteorologia
+IPT Instituto de Pesquisas Tecnológicas
+IRRD Índice de Redução do Risco de Desastre
+ITO Instrução Técnica Operacional
+NUPDEC Núcleo de Proteção e Defesa Civil
+ONG Organização Não Governamental
+ONU Organização das Nações Unidas
+OSCIP Organização da Sociedade Civil de Interesse Público
+PAM Plano de Auxílio Mútuo
+PDC Proteção e Defesa Civil
+PMMG Polícia Militar de Minas Gerais
+PNPDEC Política Nacional de Proteção e Defesa Civil
+POP Procedimento Operacional Padrão
+REDS Registro de Eventos de Defesa Social
+RINEM Rede Integrada de Emergência
+S2ID Sistema Integrado de Informações sobre Desastres
+SACE Sistema de Alerta de Eventos Críticos
+SCO Sistema de Comando em Operações
+SEDEC Secretaria Nacional de Proteção e Defesa Civil
+SIMGE Sistema de Meteorologia e Recursos Hídricos de Minas Gerais
+SINPDEC Sistema Nacional de Proteção e Defesa Civil
+SISEMA Sistema Estadual de Meio Ambiente e Recursos Hídricos
+UEOp Unidade de Execução Operacional
+UNDRR United Nations Office for Disaster Risk Reduction (Escritório da ONU
+para Redução do Risco de Desastre)
+LISTA DE FIGURAS
+Figura 1 - Representação dos conceitos de ameaça, risco e vulnerabilidade na
+comunidade..............................................................................................28
+Figura 2 - Elevação do nível de um rio provocada pelas águas da chuva, do nível
+normal a inundação..................................................................................32
+Figura 3 - Fluxo para emissão dos avisos meteorológicos........................................48
+Figura 4 - Classificação da intensidade das chuvas..................................................49
+LISTA DE QUADROS
+Quadro 1 - Conceitos das Ações de Proteção e Defesa Civil ..................................18
+Quadro 2 - Conceito dos Componentes do Risco de Desastres ..............................22
+Quadro 3 - Monitoramento em Nível Federal ...........................................................51
+Quadro 4 - Monitoramento em Nível Estadual (Minas Gerais).................................53
+Quadro 5 - Graus da Categorização do Risco Geológico ........................................80
+Quadro 6 - Tipologia de processos hidrológicos ......................................................82
+Quadro 7 - Vulnerabilidade e tipologia construtiva...................................................83
+Quadro 8 - Intensidade da periculosidade em relação ao impacto direto.................83
+Quadro 9 - Grau de risco preliminar segundo arranjo entre cenários hidrológicos e
+vulnerabilidades das habitações. ...........................................................84
+Quadro 10 - Grau de risco final segundo arranjo a inter-relação dos cenários
+hidrológicos, vulnerabilidade das habitações e periculosidade ..............84
+Quadro 11 - Passo a passo para acesso ao S2ID e para o preenchimento dos
+formulários obrigatórios..........................................................................89
+SUMÁRIO
+1 INTRODUÇÃO .............................................................................................12
+1.1 A Política Nacional de Proteção e Defesa Civil (PNPDEC) .....................13
+1.2 O Sistema Nacional de Proteção e Defesa Civil (SINPDEC) ...................15
+2 FINALIDADE E OBJETIVOS.......................................................................17
+3 CONCEITOS E DEFINIÇÕES BÁSICAS.....................................................18
+3.1 Proteção e Defesa Civil ..............................................................................18
+3.1.1 Ações de proteção e Defesa Civil comparativamente entre a SEDEC e a
+UNDRR .....................................................................................................................18
+3.2 Ações de Prevenção...................................................................................19
+3.3 Ações de Mitigação ....................................................................................19
+3.4 Ações de Preparação .................................................................................19
+3.5 Ações de Resposta.....................................................................................20
+3.6 Ações de Recuperação ..............................................................................20
+3.7 Desastre ......................................................................................................20
+3.8 Situação de Emergência ............................................................................20
+3.9 Estado de Calamidade Pública..................................................................21
+3.10 Ameaça........................................................................................................21
+3.11 Vulnerabilidade...........................................................................................21
+3.12 Evento Adverso ..........................................................................................21
+3.13 Risco de desastre.......................................................................................21
+3.13.1 Componentes do Risco..............................................................................21
+3.14 Identificação do Risco................................................................................22
+3.15 Análise de Risco.........................................................................................22
+3.16 Gestão do Risco de Desastres ..................................................................23
+3.17 Gestão de Desastres ..................................................................................23
+3.18 Plano de Contingência ...............................................................................23
+3.19 Ações de Socorro.......................................................................................24
+3.20 Ações de Assistência às Vítimas ..............................................................24
+3.21 Ações de Restabelecimento de Serviços Essenciais..............................24
+4 ATIVIDADES DE COORDENAÇÃO E CONTROLE....................................25
+4.1 EMBM...........................................................................................................25
+4.2 Comando Operacional de Bombeiros.......................................................25
+4.3 Unidade de Execução Operacional...........................................................26
+5 PREVENÇÃO...............................................................................................28
+5.1 Risco Geológico .........................................................................................29
+5.1.1 Identificação do Risco Geológico .............................................................29
+5.2 Risco Hidrológico.......................................................................................31
+5.2.1 Identificação do Risco Hidrológico...........................................................32
+5.3 Risco Climatológico ...................................................................................33
+5.4 Risco Tecnológico......................................................................................34
+5.5 Mapeamento das Áreas de Risco..............................................................34
+5.6 Campanhas Educativas .............................................................................36
+5.7 Vistorias Relacionadas à PDC...................................................................37
+6 MITIGAÇÃO .................................................................................................38
+7 PREPARAÇÃO ............................................................................................40
+7.1 Plano de Contingência ...............................................................................40
+7.2 Plano de Auxílio Mútuo – PAM ..................................................................40
+7.2.1 Objetivos do PAM.......................................................................................41
+7.2.2 Estrutura do PAM .......................................................................................42
+7.2.3 Criação do PAM ..........................................................................................43
+7.3 Auxílio Mútuo entre Municípios.................................................................44
+7.3.1 Rede Integrada de Emergência (RINEM) ..................................................45
+7.4 Treinamentos ..............................................................................................45
+7.5 Simulados ...................................................................................................46
+7.6 Previsão Meteorológica .............................................................................46
+7.6.1 Sistema de Emissão de Alertas de Chuva em Minas Gerais ..................47
+7.6.2 Fontes de Informações Meteorológicas ...................................................50
+7.7 Sistemas de Monitoramento, Alerta e Alarme..........................................50
+7.7.1 Monitoramento............................................................................................50
+7.7.2 Alerta ...........................................................................................................55
+7.7.3 Alarme .........................................................................................................56
+8 RESPOSTA..................................................................................................58
+8.1 Socorro........................................................................................................58
+8.2 Assistência à população atingida .............................................................58
+8.3 Restabelecimento dos serviços essenciais .............................................59
+8.4 Ações do CBMMG em Resposta ...............................................................60
+8.5 Apoio ao Município para o Cadastro da COMPDEC no S2ID..................61
+8.6 Apoio ao Município para a Decretação de Situação de Emergência ou
+Estado de Calamidade Pública ..............................................................................61
+9 RECUPERAÇÃO..........................................................................................63
+REFERÊNCIAS.........................................................................................................64
+ANEXO I - CODIFICAÇÃO BRASILEIRA DE DESASTRES (COBRADE) ..............68
+ANEXO II - CATEGORIZAÇÃO DO RISCO GEOLÓGICO ......................................75
+ANEXO III - CATEGORIZAÇÃO DO RISCO HIDROLÓGICO DE INUNDAÇÃO.....82
+ANEXO IV - CATEGORIZAÇÃO DO RISCO HIDROLÓGICO DE ENXURRADA ...87
+ANEXO V - CATEGORIZAÇÃO DO RISCO HIDROLÓGICO DE ALAGAMENTO..88
+ANEXO VI - ORIENTAÇÕES PARA DECRETAÇÃO DE SITUAÇÃO DE
+ANORMALIDADE.....................................................................................................89
+ANEXO VII - PASSO A PASSO DOS PROCEDIMENTOS PARA A DECLARAÇÃO
+DE SITUAÇÃO DE EMERGÊNCIA OU ESTADO DE CALAMIDADE PÚBLICA ....93
+ITO 33 – PROTEÇÃO E DEFESA CIVIL 12
+1 INTRODUÇÃO
+O aumento da urbanização global a partir dos anos 1960 e a falta de planejamento
+para o ordenamento do território – sobretudo naquelas regiões propensas ao risco
+materializado por diversas ameaças – aliado aos constantes desastres, antes
+denominados como “naturais”, exigiu a mudança do foco conceitual de defesa civil.
+Então, o termo “defesa civil”, originalmente delimitado pelas medidas defensivas da
+população no período da Segunda Guerra Mundial e nos anos posteriores, foi
+substituído pela expressão “proteção civil”, pois era preciso proteger a população
+dos crescentes desastres que traziam prejuízos financeiros incalculáveis e danos
+humanos escalonados de forma progressiva, evidenciando o risco que envolvia
+grande parte da população mundial.
+Esforços internacionais de conscientização e sensibilização foram feitos por diversas
+frentes, sendo a mais notável no final do século XX, a partir da declaração pelas
+Nações Unidas da década de 1990 como a “Década Internacional para Redução de
+Desastres Naturais” – talvez a primeira iniciativa global de gestão de risco de
+desastres.
+Anos após, a nomenclatura “proteção civil” sofreu nova alteração. Com o ataque
+terrorista do World Trade Center em 2001, nova preocupação com a defesa da
+população ganhou dimensões intercontinentais. A partir desse momento, a
+expressão “Proteção e Defesa Civil” (PDC) começou a ser utilizada tanto para a
+gestão de desastres – e seus riscos – quanto para as preocupações relacionadas a
+ataques e conflitos sociais.
+No Brasil, a Constituição Federal de 1988, define em seu art. 1441 que as atividades
+de defesa civil são de competência dos Corpos de Bombeiros Militares. O processo
+constituinte definiu os agentes originários para a atividade:
+
+1 Art. 144, inc. IV, §5º: Às polícias militares cabem a polícia ostensiva e a preservação da ordem
+pública; aos corpos de bombeiros militares, além das atribuições definidas em lei, incumbe a
+execução de atividades de defesa civil.
+INTRODUÇÃO 13
+Nas calamidades públicas, inundações, terremotos, em que a defesa civil é
+acionada, os corpos de bombeiros militares são os primeiros a ter a
+incumbência de executar tais atividades, nitidamente de defesa civil, ao lado
+dos cidadãos. Pelo Texto Constitucional, tal incumbência é,
+primordialmente, do corpo de bombeiros, devendo, todos os outros
+organismos de defesa acionáveis, secundar a ação de tais servidores
+militares, mais habilitados a conduzir essas atividades. Ao dizer, pois, o
+constituinte, que “incumbe a execução”, a meu ver, deu a condução de tais
+atividades aos corpos de bombeiros militares (BASTOS E MARTINS, 1997,
+p. 260 e 261).
+Para que as ações de gestão do risco de desastres e a gestão de desastres sejam
+empregadas de forma unificada no CBMMG, é importante que haja a normalização
+da linguagem utilizada e, principalmente, que haja o entendimento das ações que
+devem ser empregadas por cada bombeiro militar em cada fase do ciclo de gestão.
+O presente documento busca definir e orientar os Bombeiros Militares acerca das
+principais atividades de Proteção e Defesa Civil que devem ser realizadas no âmbito
+de competência do CBMMG de acordo com a Política Nacional de Proteção e
+Defesa Civil, dentro do Sistema Nacional de Proteção e Defesa Civil.
+1.1 A Política Nacional de Proteção e Defesa Civil (PNPDEC)
+A Lei Nacional nº 12.608, de 10 de abril de 2012, instituiu a Política Nacional de
+Proteção e Defesa Civil, e definiu, logo no art. 2º, o dever da União, Estados, Do
+Distrito Federal e dos Municípios adotarem as medidas necessárias à redução do
+risco de desastre.
+Com base nesse dever inicial estabelecido, a PNPDEC definiu, nos artigos 4º e 5º,
+seis diretrizes e quinze objetivos da política, a saber:
+Art. 4º São diretrizes da PNPDEC:
+I - atuação articulada entre a União, os Estados, o Distrito Federal e os
+Municípios para redução de desastres e apoio às comunidades atingidas;
+II - abordagem sistêmica das ações de prevenção, mitigação, preparação,
+resposta e recuperação;
+III - a prioridade às ações preventivas relacionadas à minimização de
+desastres;
+IV - adoção da bacia hidrográfica como unidade de análise das ações de
+prevenção de desastres relacionados a corpos d’água;
+V - planejamento com base em pesquisas e estudos sobre áreas de risco e
+incidência de desastres no território nacional;
+VI - participação da sociedade civil.
+ITO 33 – PROTEÇÃO E DEFESA CIVIL 14
+Art. 5º São objetivos da PNPDEC:
+I - reduzir os riscos de desastres;
+II - prestar socorro e assistência às populações atingidas por desastres;
+III - recuperar as áreas afetadas por desastres;
+IV - incorporar a redução do risco de desastre e as ações de proteção e
+defesa civil entre os elementos da gestão territorial e do planejamento das
+políticas setoriais;
+V - promover a continuidade das ações de proteção e defesa civil;
+VI - estimular o desenvolvimento de cidades resilientes e os processos
+sustentáveis de urbanização;
+VII - promover a identificação e avaliação das ameaças, suscetibilidades e
+vulnerabilidades a desastres, de modo a evitar ou reduzir sua ocorrência;
+VIII - monitorar os eventos meteorológicos, hidrológicos, geológicos,
+biológicos, nucleares, químicos e outros potencialmente causadores de
+desastres;
+IX - produzir alertas antecipados sobre a possibilidade de ocorrência de
+desastres naturais;
+X - estimular o ordenamento da ocupação do solo urbano e rural, tendo em
+vista sua conservação e a proteção da vegetação nativa, dos recursos
+hídricos e da vida humana;
+XI - combater a ocupação de áreas ambientalmente vulneráveis e de risco e
+promover a realocação da população residente nessas áreas;
+XII - estimular iniciativas que resultem na destinação de moradia em local
+seguro;
+XIII - desenvolver consciência nacional acerca dos riscos de desastre;
+XIV - orientar as comunidades a adotar comportamentos adequados de
+prevenção e de resposta em situação de desastre e promover a
+autoproteção; e
+XV - integrar informações em sistema capaz de subsidiar os órgãos do
+SINPDEC na previsão e no controle dos efeitos negativos de eventos
+adversos sobre a população, os bens e serviços e o meio ambiente
+(BRASIL, 2012).
+Outra matéria que merece destaque na PNPDEC é a atribuição de competências
+aos entes federados, com a definição de competências para a União, Estados e
+Municípios.
+No que diz respeito aos Estados, a PNPDEC atribui as seguintes competências:
+Art. 7º Compete aos Estados:
+I - executar a PNPDEC em seu âmbito territorial;
+II - coordenar as ações do SINPDEC em articulação com a União e os
+Municípios;
+III - instituir o Plano Estadual de Proteção e Defesa Civil;
+IV - identificar e mapear as áreas de risco e realizar estudos de identificação
+de ameaças, suscetibilidades e vulnerabilidades, em articulação com a
+União e os Municípios;
+V - realizar o monitoramento meteorológico, hidrológico e geológico das
+áreas de risco, em articulação com a União e os Municípios;
+VI - apoiar a União, quando solicitado, no reconhecimento de situação de
+emergência e estado de calamidade pública;
+VII - declarar, quando for o caso, estado de calamidade pública ou situação
+de emergência; e
+VIII - apoiar, sempre que necessário, os Municípios no levantamento das
+áreas de risco, na elaboração dos Planos de Contingência de Proteção e
+INTRODUÇÃO 15
+Defesa Civil e na divulgação de protocolos de prevenção e alerta e de ações
+emergenciais.
+Parágrafo único. O Plano Estadual de Proteção e Defesa Civil conterá, no
+mínimo:
+I - a identificação das bacias hidrográficas com risco de ocorrência de
+desastres; e
+II - as diretrizes de ação governamental de proteção e defesa civil no âmbito
+estadual, em especial no que se refere à implantação da rede de
+monitoramento meteorológico, hidrológico e geológico das bacias com risco
+de desastre.
+[...]
+Art. 9º Compete à União, aos Estados e aos Municípios:
+I - desenvolver cultura nacional de prevenção de desastres, destinada ao
+desenvolvimento da consciência nacional acerca dos riscos de desastre no
+País;
+II - estimular comportamentos de prevenção capazes de evitar ou minimizar
+a ocorrência de desastres;
+III - estimular a reorganização do setor produtivo e a reestruturação
+econômica das áreas atingidas por desastres;
+IV - estabelecer medidas preventivas de segurança contra desastres em
+escolas e hospitais situados em áreas de risco;
+V - oferecer capacitação de recursos humanos para as ações de proteção e
+defesa civil; e
+VI - fornecer dados e informações para o sistema nacional de informações e
+monitoramento de desastres (BRASIL, 2012).
+Dessa forma, o conteúdo apresentado na presente ITO e em demais normativas do
+CBMMG na área de proteção e defesa civil tem como parâmetro o cumprimento das
+diretrizes e objetivos da PNPDEC, dentro da competência atribuída aos Estados.
+1.2 O Sistema Nacional de Proteção e Defesa Civil (SINPDEC)
+Para que as atividades de Proteção e Defesa Civil pudessem ser realizadas em
+território nacional – considerando as dimensões continentais do Brasil – e ainda, a
+necessidade de interlocução e apoios logístico, técnico e financeiro, é natural que
+houvesse uma articulação entre o governo, os entes federativos e suas instâncias
+locais para um alinhamento das atividades e conhecimento das realidades locais.
+Essa articulação é desenhada por meio do SINPDEC, em que figuram os entes
+públicos (União, Estados e Municípios) além de agências de governo, iniciativa
+privada e o próprio cidadão. Esses são os principais atores do Sistema Nacional de
+Proteção e Defesa Civil.
+Por natureza, o SINPDEC possui o início das suas atividades no município, pois são
+nas cidades que acontecem os desastres. Então, o município é quem responde
+ITO 33 – PROTEÇÃO E DEFESA CIVIL 16
+primeiramente às ações de gestão do risco, de resposta e de recuperação aos
+desastres. Quaisquer atividades ou soluções necessárias à realização das
+atividades de PDC que transcendam à capacidade do município sobem à esfera
+federativa imediatamente superior – o Estado.
+O Estado, por sua vez, deve ser capaz de coordenar as atividades de PDC e apoiar
+os municípios quando necessário. O Estado, e nesse propósito, o CBMMG, devem
+apoiar os municípios com conhecimento técnico de gestão do risco de desastres,
+além de força de resposta a desastres.
+A articulação de várias frentes pode acontecer sem a participação da esfera federal.
+Esta é sim, inevitável, quando existe a necessidade de utilização de verba federal
+por meio de transferência obrigatória ou voluntária.
+Temos então, os principais atores públicos de PDC no cenário nacional:
+a) SEDEC: Secretaria Nacional de Proteção e Defesa Civil;
+b) CEDEC: Coordenadoria Estadual de Proteção e Defesa Civil;
+c) CBM: Corpos de Bombeiros Militares – atuam na coordenação e execução
+das fases de Gestão de Risco e de Gestão de Desastres;
+d) COMPDEC: Coordenadorias Municipais de Proteção e Defesa Civil;
+e) NUPDEC: Núcleos de Proteção e Defesa Civil (instância intramunicipal).
+2 FINALIDADE E OBJETIVOS 17
+2 FINALIDADE E OBJETIVOS
+Esta Instrução Técnica Operacional (ITO) tem por finalidade definir o papel do Corpo
+de Bombeiros Militar de Minas Gerais (CBMMG) e orientar sua atuação nas ações
+de Proteção e Defesa Civil no âmbito do Estado de Minas, promover nas Unidades
+do CBMMG a atuação na gestão dos riscos de desastres e na gestão dos desastres,
+por meio das cinco fases contidas na Política Nacional de Proteção e Defesa Civil –
+PNPDEC, aprovada pela Lei nº 12.608, de 10 de abril de 2012, que, embora
+distintas, estão intimamente relacionadas: prevenção, mitigação, preparação,
+resposta e recuperação.
+Nesse sentido, os objetivos específicos são:
+a) apresentar a terminologia e os conceitos utilizados nas atividades de Proteção
+e Defesa Civil;
+b) definir competências e padronizar as ações de Proteção e Defesa Civil
+(prevenção, mitigação, preparação, resposta e recuperação) em todas as
+Unidades do CBMMG;
+c) definir metodologias padronizadas para o desenvolvimento das ações de
+Gestão do Risco de Desastres e Gestão de Desastres, de modo a orientar e
+potencializar os trabalhos das Unidades do CBMMG.
+ITO 33 – PROTEÇÃO E DEFESA CIVIL 18
+3 CONCEITOS E DEFINIÇÕES BÁSICAS
+A seguir, serão apresentadas as definições básicas relacionadas às ações de
+Proteção e Defesa Civil, no âmbito do Estado de Minas Gerais.
+3.1 Proteção e Defesa Civil
+É o conjunto de ações de: prevenção; mitigação; preparação; resposta e
+recuperação, destinadas a evitar ou minimizar os efeitos decorrentes de desastres,
+com o intuito de preservar o moral da população, restabelecer a normalidade social e
+torná-la resiliente (BRASIL, 2020).
+3.1.1 Ações de proteção e Defesa Civil comparativamente entre a SEDEC e a
+UNDRR
+No Quadro 1 os conceitos de Proteção e Defesa Civil da SEDEC e do United
+Nations Office for Disaster Risk Reduction (Escritório da ONU para Redução do
+Risco de Desastre) – UNDRR foram apresentados para permitir uma comparação.
+Quadro 1 - Conceitos das Ações de Proteção e Defesa Civil
+Ação Fonte Conceito
+Prevenção
+UNDRR Atividades e medidas para evitar riscos de desastres novos e existentes.
+SEDEC
+Medidas e atividades prioritárias destinadas a evitar a instalação de riscos
+de desastres.
+Mitigação
+UNDRR Redução ou minimização dos impactos adversos de um evento perigoso.
+SEDEC
+Medidas e atividades imediatamente adotadas para reduzir ou evitar as
+consequências do risco de desastre.
+Preparação
+UNDRR
+Conhecimento e capacidades desenvolvidas por governos, organizações
+de resposta e recuperação, comunidades e indivíduos, para efetivamente
+antecipar, responder e se recuperar dos impactos de desastres prováveis,
+iminentes ou atuais.
+SEDEC
+Medidas desenvolvidas para otimizar as ações de resposta e minimizar os
+danos e as perdas decorrentes do desastre.
+3 CONCEITOS E DEFINIÇÕES BÁSICAS 19
+Resposta
+UNDRR
+Ações realizadas imediatamente antes, durante ou imediatamente após
+um desastre, a fim de salvar vidas, reduzir os impactos na saúde, garantir
+a segurança pública e atender às necessidades básicas de subsistência
+das pessoas afetadas.
+SEDEC
+Medidas emergenciais, realizadas durante ou após o desastre, que visam
+ao socorro e à assistência da população atingida e ao retorno dos
+serviços essenciais.
+Recuperação
+UNDRR
+A restauração ou melhoria dos meios de subsistência e saúde, bem como
+ativos, sistemas e atividades econômicas, físicas, sociais, culturais e
+ambientais de uma comunidade ou sociedade afetada por desastres,
+alinhando-se com os princípios de desenvolvimento sustentável e
+“reconstruir melhor”, para evitar ou reduzir o risco de desastres futuros.
+SEDEC
+Medidas desenvolvidas após o desastre para retornar à situação de
+normalidade, que abrangem a reconstrução de infraestrutura danificada
+ou destruída, e a reabilitação do meio ambiente e da economia, visando
+ao bem-estar social.
+Fonte: BARBOSA, 2020 apud BRASIL (2016) e ONU (2016).
+3.2 Ações de Prevenção
+São medidas prioritárias destinadas a evitar a conversão de risco em desastre ou a
+instalação de vulnerabilidades (BRASIL, 2020).
+3.3 Ações de Mitigação
+São ações indicadas a reduzir, limitar ou evitar o risco de desastre (BRASIL, 2020).
+3.4 Ações de Preparação
+São providências designadas a otimizar as ações de resposta e minimizar os danos
+e as perdas decorrentes do desastre (BRASIL, 2020).
+ITO 33 – PROTEÇÃO E DEFESA CIVIL 20
+3.5 Ações de Resposta
+São as ações de caráter emergencial, executadas durante ou após a ocorrência do
+desastre, orientadas a socorrer e assistir à população atingida e restabelecer os
+serviços essenciais (BRASIL, 2020).
+3.6 Ações de Recuperação
+São medidas desenvolvidas após a ocorrência do desastre destinadas a
+restabelecer a normalidade social que abrangem a reconstrução de infraestrutura
+danificada ou destruída e a recuperação do meio ambiente e da economia (BRASIL,
+2020).
+3.7 Desastre
+Refere-se à grave perturbação do funcionamento de uma comunidade ou de uma
+região causando perdas humanas, materiais, econômicas ou ambientais
+generalizadas, que excedem a capacidade local ou regional para responder ao
+desastre com recursos próprios (UNDRR, 2009).
+No Brasil, o conceito de desastre é definido pelo resultado de evento adverso
+decorrente de ação natural ou antrópica sobre cenário vulnerável que cause danos
+humanos, materiais ou ambientais e prejuízos econômicos e sociais (BRASIL, 2020).
+3.8 Situação de Emergência
+Situação anormal provocada por desastre, ocasionando danos e prejuízos que
+impliquem o comprometimento parcial da capacidade de resposta do Poder Público
+do ente federativo atingido, ou que demande a adoção de medidas administrativas
+excepcionais para resposta e recuperação (BRASIL, 2020).
+3 CONCEITOS E DEFINIÇÕES BÁSICAS 21
+3.9 Estado de Calamidade Pública
+Situação anormal provocada por desastre, que causa danos e prejuízos acarretando
+o comprometimento substancial da capacidade de resposta do Poder Público do
+ente federativo atingido, ou que demande a adoção de medidas administrativas
+excepcionais para resposta e recuperação (BRASIL, 2020).
+3.10 Ameaça
+Pode ser classificada como um evento físico ou fenômeno de origem natural, assim
+como de origem tecnológica ou resultante das atividades humanas, que pode causar
+doenças ou agravos, óbitos, danos materiais, interrupção de atividade social e
+econômica ou degradação ambiental (BRASIL, 2017).
+3.11 Vulnerabilidade
+É a exposição socioeconômica ou ambiental de cenário sujeito à ameaça natural,
+tecnológica ou de origem antrópica (BRASIL, 2017).
+3.12 Evento Adverso
+Evento adverso é uma ocorrência desfavorável, prejudicial ou imprópria, que
+acarreta danos e prejuízos, constituindo-se no fenômeno causador de um desastre
+(BRASIL, 2007).
+3.13 Risco de desastre
+É o potencial de ocorrência de ameaça de desastre em um cenário socioeconômico
+e ambiental vulnerável (BRASIL, 2017).
+3.13.1 Componentes do Risco
+Os conceitos sobre os componentes do risco de desastre serão expostos e
+explicados no Quadro 2 a seguir:
+ITO 33 – PROTEÇÃO E DEFESA CIVIL 22
+Quadro 2 - Conceito dos Componentes do Risco de Desastres
+Componente Fonte Conceito
+Ameaça
+UNDRR
+Um processo, fenômeno ou atividade humana que pode causar perda
+de vidas, lesões ou outros impactos à saúde, danos à propriedade,
+perturbação social e econômica ou degradação ambiental.
+SEDEC
+Evento em potencial, natural, tecnológico ou de origem antrópica, com
+elevada possibilidade de causar danos humanos, materiais e ambientais
+e perdas socioeconômicas públicas e privadas.
+Vulnerabilidade
+UNDRR
+As condições determinadas por fatores ou processos físicos, sociais,
+econômicos e ambientais que aumentam a suscetibilidade de um
+indivíduo, uma comunidade, ativos ou sistemas aos impactos das
+ameaças.
+SEDEC
+Exposição socioeconômica ou ambiental de um cenário sujeito à
+ameaça do impacto de um evento adverso natural, tecnológico ou de
+origem antrópica.
+Exposição
+UNDRR
+A situação das pessoas, infraestrutura, habitação, capacidade de
+produção e outros ativos humanos tangíveis que estão localizados em
+áreas sujeitas à perigos.
+SEDEC ---
+Capacidade
+UNDRR
+A combinação de todos os pontos fortes, atributos e recursos
+disponíveis dentro de uma organização, comunidade ou sociedade para
+gerenciar e reduzir os riscos de desastres e fortalecer a resiliência.
+SEDEC ---
+Fonte: BARBOSA, 2020 apud BRASIL (2016) e ONU (2016).
+3.14 Identificação do Risco
+A ação de identificação de risco se refere aos trabalhos de reconhecimento de
+ameaças ou perigos e de identificação das respectivas áreas de risco de um
+determinado local (MINISTÉRIO DAS CIDADES, 2006).
+3.15 Análise de Risco
+É uma metodologia de estudo que permite a identificação e a avaliação das
+ameaças de eventos ou acontecimentos adversos de maior prevalência em
+3 CONCEITOS E DEFINIÇÕES BÁSICAS 23
+determinado contexto. Ao mesmo tempo, permite a identificação dos corpos
+receptores e das comunidades vulneráveis a essas ameaças, dentro de um
+determinado sistema receptor, cenário de desastres ou região geográfica (CASTRO,
+2007).
+3.16 Gestão do Risco de Desastres
+É o planejamento, a coordenação e a execução de ações e medidas preventivas
+destinadas a reduzir os riscos de desastres e evitar a instalação de novos riscos
+(BRASIL, 2017).
+Processo sistemático de utilizar diretrizes administrativas, organizacionais, destrezas
+e capacidades operacionais para executar políticas e fortalecer capacidades de
+enfrentamento, para reduzir o impacto adverso das ameaças e possibilidade de
+ocorrência de desastres (UNDRR, 2009).
+3.17 Gestão de Desastres
+É a organização e gestão de recursos e responsabilidades para lidar com todos os
+aspectos da emergência (UNDRR, 2009).
+Quando o desastre não pôde ser evitado, uma boa gestão de risco de desastres
+garante a eficiência e a eficácia da gestão de desastres, diminuindo perdas e
+prejuízos.
+3.18 Plano de Contingência
+Conjunto de medidas preestabelecidas destinadas a responder a situação de
+emergência ou a estado de calamidade pública de forma planejada e
+intersetorialmente articulada, elaborado com base em hipóteses de desastre, com o
+objetivo de minimizar os seus efeitos (BRASIL, 2020).
+ITO 33 – PROTEÇÃO E DEFESA CIVIL 24
+3.19 Ações de Socorro
+São ações imediatas de resposta aos desastres com o objetivo de socorrer a
+população atingida, incluindo: a busca e o salvamento, os primeiros-socorros, o
+atendimento pré-hospitalar e o atendimento médico e cirúrgico de urgência, dentre
+outras estabelecidas pelo Ministério da Integração Nacional (SEDEC, 2017).
+3.20 Ações de Assistência às Vítimas
+São ações imediatas destinadas a garantir condições de incolumidade e cidadania
+aos atingidos, incluindo: o fornecimento de água potável, a provisão e meios de
+preparação de alimentos, o suprimento de material de abrigamento, de vestuário, de
+limpeza e de higiene pessoal, a instalação de lavanderias, banheiros, o apoio
+logístico às equipes empenhadas no desenvolvimento dessas ações, a atenção
+integral à saúde, ao manejo de mortos, dentre outras estabelecidas pelo Ministério
+da Integração Nacional (BRASIL, 2020).
+3.21 Ações de Restabelecimento de Serviços Essenciais
+São ações de caráter emergencial destinadas ao restabelecimento das condições de
+segurança e habitabilidade da área atingida pelo desastre, incluindo a desmontagem
+de edificações e de obras de arte com estruturas comprometidas, o suprimento e
+distribuição de energia elétrica, água potável, esgotamento sanitário, limpeza
+urbana, drenagem das águas pluviais, transporte coletivo, trafegabilidade,
+comunicações, abastecimento de água potável e desobstrução e remoção de
+escombros, dentre outras estabelecidas pelo Ministério da Integração Nacional
+(BRASIL, 2020).
+4 ATIVIDADES DE COORDENAÇÃO E CONTROLE 25
+4 ATIVIDADES DE COORDENAÇÃO E CONTROLE
+Dentre as Unidades de atividades de coordenação e controle estão:
+4.1 EMBM
+Possui a responsabilidade de:
+a) coordenar em todo estado as ações de Proteção e Defesa Civil desenvolvidas
+pelo CBMMG;
+b) supervisionar os trabalhos de Proteção e Defesa Civil desenvolvidos pelo
+CBMMG no âmbito do estado;
+c) elaborar planejamentos que visem aumentar a resiliência no estado.
+4.2 Comando Operacional de Bombeiros
+Possui a incumbência de:
+a) desenvolver as ações de Proteção e Defesa Civil, em conformidade com as
+diretrizes do Estado-Maior;
+b) supervisionar os trabalhos de PDC desenvolvidos pelas UEOPs;
+c) manter o controle de informações sobre as COMPDECs de sua área de
+articulação, conservando em arquivo, no mínimo, as seguintes informações:
+Lei, Decreto, Portaria de nomeação da COMPDEC e do Conselho, nome do
+coordenador, telefone, e-mail;
+d) elaborar planejamentos que visem aumentar a resiliência dos municípios
+incluindo diretrizes para a atuação junto às Defesas Civis Municipais,
+observando as etapas que antecedem os períodos críticos, com o
+detalhamento de ações do ciclo de PDC;
+e) supervisionar as atividades desenvolvidas pelas Unidades de Execução
+Operacional com as Instituições de Ensino/Pesquisa, por meio dos projetos e
+informações a serem enviados ao Comando Operacional;
+ITO 33 – PROTEÇÃO E DEFESA CIVIL 26
+f) realizar estudo dos dados e informações estatísticas fornecidas pelo EMBM
+sobre ocorrências atendidas pela instituição, a fim de subsidiar os
+planejamentos e o desenvolvimento das ações de PDC;
+g) acompanhar em sua área de articulação as ações de Resposta e
+Recuperação desenvolvidas pelas Unidades de Execução Operacional nos
+municípios atingidos pelos eventos adversos de grande impacto de origem
+natural (ex. chuvas intensas) ou tecnológico;
+h) apoiar as UEOp no trabalho de fomento à criação, formalização e
+operacionalização das COMPDEC.
+4.3 Unidade de Execução Operacional
+Possui a obrigação de:
+a) manter o controle de informações sobre às COMPDECs de sua área de
+articulação, mantendo em arquivo, no mínimo, Lei, Decreto, Portaria de
+nomeação da COMPDEC e do Conselho Municipal de PDC, nome do
+coordenador, telefone, e-mail;
+b) desenvolver as ações de Proteção e Defesa Civil, em conformidade com as
+diretrizes do Comando Operacional de Bombeiros;
+c) registrar todas as ações de Proteção e Defesa Civil em toda sua área de
+articulação, com atenção direcionada para o atendimento das diversas
+naturezas que compõem o Índice de Redução do Risco de Desastre (IRRD),
+conforme Diretriz Integrada de Ações e Operações (DIAO);
+d) estabelecer estratégias para monitorar e elevar o Índice de Redução do Risco
+de Desastre (IRRD) em toda sua área de articulação;
+e) desdobrar os planejamentos na sua área de articulação que visem aumentar
+a resiliência dos municípios incluindo diretrizes para a atuação junto às
+Defesas Civis Municipais, observando as etapas que antecedem os períodos
+críticos, com o detalhamento de ações do Ciclo de PDC;
+f) fomentar e coordenar junto as COMPDEC a elaboração de planos, visando o
+aumento da resiliência dos municípios, com foco na redução dos riscos de
+desastres;
+4 ATIVIDADES DE COORDENAÇÃO E CONTROLE 27
+g) promover reuniões periódicas com as COMPDEC dos municípios, visando a
+troca de conhecimentos e integração entre os órgãos;
+h) promover parcerias com Universidades/Institutos de Pesquisa, bem como
+estimular parcerias com entidades públicas/privadas com atuação significativa
+na área de PDC, para troca de conhecimentos, visando a execução de
+projetos de mapeamento e monitoramento da susceptibilidade a riscos físicoambientais, apoio em vistorias técnicas, desenvolvimento de capacitações
+para o público externo e interno, dentre outros projetos nas áreas de
+pesquisa, ensino e extensão, devendo informar ao Comando Operacional as
+atividades executadas;
+i) providenciar o mais breve possível, após o recebimento de notícias relativas a
+eventos adversos de grande impacto de origem natural (ex. chuvas intensas)
+ou tecnológico, o despacho de guarnições BM para o local afetado a fim de
+realizar possíveis ações de busca, salvamento e socorro, com registro em
+REDS, comunicando ao Comando Operacional as ações em sua área;
+j) promover em sua área de articulação a coordenação técnica das ações de
+Resposta e Recuperação, visando o restabelecimento da normalidade social
+da comunidade afetada o mais breve possível, adotando as medidas
+necessárias em apoio ao órgão municipal de Proteção e Defesa Civil;
+k) incentivar a formalização e a operacionalização das COMPDECs, observando
+peculiaridades dos cenários municipais onde esta Coordenadoria já se
+encontra estruturada ou sequer existe.
+ITO 33 – PROTEÇÃO E DEFESA CIVIL 28
+5 PREVENÇÃO
+A prevenção é uma das atividades do ciclo da PNPDC, no qual, por meio de ações
+integradas entre a comunidade local, as Unidades devem anteceder e identificar
+situações que possam causar danos aos cidadãos, seus bens materiais, à sociedade
+e ao ambiente.
+A prevenção deverá abranger um conjunto de ações desenvolvidas de modo a evitar
+os desastres e impedir a instalação de riscos. Tais ações estão interligadas entre si,
+sendo:
+a) identificação, mapeamento e monitoramento do risco;
+b) medidas estruturais (obras de engenharia – ex. implantação de sistemas de
+drenagem, retirada de populações, construção de pontes etc.);
+c) medidas não estruturais (ligadas às políticas públicas - planejamento do uso
+de solo, planos preventivos etc.).
+Para a adoção das ações de prevenção é necessário conhecer quais são os
+principais riscos e como eles se estabelecem nos diversos níveis da sociedade. A
+graduação do risco é o produto entre a ameaça identificada e a vulnerabilidade
+instalada no local. Esta relação é expressa pela equação Risco = Ameaça x
+Vulnerabilidade, e pela Figura 1 abaixo:
+Figura 1 - Representação dos conceitos de ameaça, risco e vulnerabilidade na comunidade
+Fonte: CEPED UFSC (2011).
+5 PREVENÇÃO 29
+Embora a ameaça constitua o principal parâmetro para indicação do risco, é preciso
+considerar também a vulnerabilidade da comunidade a uma ameaça, visto que duas
+residências podem possuir vulnerabilidades diferentes no tocante à mesma ameaça,
+devido ao tipo de construção ou localização frente a ameaça.
+A Classificação e Codificação Brasileira de Desastres (COBRADE) divide os tipos
+de desastres em duas categorias principais: desastres naturais e desastres
+tecnológicos. As ações de prevenção se direcionam aos casos em que não seja
+possível a eliminação dos riscos dos desastres elencados.
+Além da classificação em categorias, a COBRADE cataloga os diversos desastres
+em grupos e subgrupos, tipos e subtipos, além de fornecer uma numeração e
+descrição detalhada de cada um dos tipos de desastres existentes.
+Na presente Instrução Técnica Operacional serão citados os principais tipos de
+riscos de desastres, conforme a COBRADE, que estão associados aos aspectos
+naturais (geológicos, hidrológicos e climatológicos) e aspectos tecnológicos, nos
+quais serão apresentados os elementos que são observados para a sua correta
+classificação e o seu devido mapeamento.
+5.1 Risco Geológico
+Compreende condições que possam originar desastres decorrentes de fenômenos
+naturais relacionados a terremotos, emanação vulcânica, movimentos de massa e
+as erosões.
+5.1.1 Identificação do Risco Geológico
+No Estado de Minas Gerais são comuns os movimentos de massas, que são
+fenômenos de origem natural, mas que podem ser potencializados e induzidos pela
+ação humana.
+Num contexto urbano, os movimentos de massa estão associados às áreas de
+encosta onde há uso e ocupação do solo desordenado, sendo comum cortes em
+ITO 33 – PROTEÇÃO E DEFESA CIVIL 30
+ângulos acentuados no terreno aos fundos das casas e aterro lançado na parte da
+frente, sem acompanhamento e avaliação técnica, que contribuem, junto com outros
+fatores a serem avaliados, para a instabilidade do terreno.
+Conforme o Anexo I da COBRADE, os movimentos de massa dividem-se em:
+a) rolamentos, tombamentos e quedas;
+b) deslizamentos (pequeno raio de alcance);
+c) corridas de massa (grande raio de alcance);
+d) subsidência e colapsos (afundamento do solo).
+Para a tomada de decisão, pode-se considerar os seguintes aspectos:
+a) padrão construtivo (madeira ou alvenaria): para uma mesma situação a
+construção em alvenaria deve suportar maior solicitação e, portanto, deve ser
+colocada em classe de risco inferior à moradia de madeira;
+b) tipos de taludes: taludes naturais estão, normalmente, em equilíbrio. Taludes
+de corte e de aterro são mais propensos a instabilizações;
+c) distância da moradia em relação ao topo ou à base dos taludes: deve ser
+adotada como referência uma distância mínima com relação à altura do talude
+que pode sofrer a movimentação;
+d) a presença de água deve ser criteriosamente observada. A existência de
+urgências nos taludes e a infiltração de água sobre aterros devem ser
+tomadas como sinais de maior possibilidade de movimentações;
+e) a chave para a classificação é a presença de sinais de movimentação/feições
+de instabilidade. Essa presença pode ser: expressiva e em grande número,
+presente, incipiente ou ausente.
+Para a Categorização do Risco Geológico, verificar as orientações constantes no
+Anexo II.
+5 PREVENÇÃO 31
+5.2 Risco Hidrológico
+São os fenômenos de aspectos hidrológicos, como as inundações, as enxurradas e
+os alagamentos que, na COBRADE, constituem o segundo grupo da codificação.
+Por definição, a inundação é o transbordamento da água de um rio/curso d’água; as
+enxurradas são os movimentos bruscos de água, com grande energia e capaz de
+arrastar pessoas; já os alagamentos são acumulações de água muitas vezes
+associados à deficiência do sistema de drenagem.
+As Unidades Operacionais devem ter ciência que há formas de se mapear áreas de
+risco sujeitas à inundação, sem a necessidade de contratação de empresas
+especializadas e aquisição de dados mais técnicos, quando estes recursos não
+puderem ser contratados pelas autoridades locais envolvidas.
+Além disso, as Unidades devem buscar parcerias e convênios com as
+Universidades do município ou região, para tentar encontrar a solução mais efetiva
+e com menores custos, levando a um mapeamento dos riscos de forma participativa
+com a comunidade local.
+Caso não seja possível a contratação de serviços ou parcerias, as Unidades devem
+adotar a metodologia de levantamento de registros de eventos adversos anteriores
+por meio de consulta aos REDS gerados, entrevistas com moradores do local do
+evento e/ou registros em mídias jornalísticas que comprovem a recorrência do
+evento em determinado local específico.
+É importante frisar que a enchente não é considerada desastre pela COBRADE,
+tendo em vista que este fenômeno hidrológico ocorre até o limite da capacidade de
+drenagem da calha do curso de água, não afetando regiões adjacentes, ao contrário
+da inundação que excede a capacidade de drenagem do curso de água, causando
+submersão de áreas próximas ao curso de água.
+ITO 33 – PROTEÇÃO E DEFESA CIVIL 32
+Figura 2 - Elevação do nível de um rio provocada pelas águas da chuva, do nível normal a inundação
+Fonte: GOERL; KOBIYAMA, 2005.
+5.2.1 Identificação do Risco Hidrológico
+Em áreas sujeitas à inundação, deve-se identificar as ruas que são mais atingidas,
+verificando se alguma residência apresenta vulnerabilidade suficiente que ofereça
+risco aos ocupantes em situações de inundação, devendo coletar a coordenada
+geográfica.
+Importante frisar que as casas de palafita e casas construídas nas margens do rio
+apresentam uma vulnerabilidade maior, pois estão sujeitas a solapamentos e são
+facilmente atingidas em caso de cheia do curso d’água.
+Para fazer a setorização, deve-se demarcar a área ao redor das margens do rio que
+foram afetadas em eventos anteriores já registrados.
+A instalação de réguas de medição nas calhas dos rios e cursos d'água facilitam o
+monitoramento e obtenção de dados, caso não existam outros recursos
+tecnológicos presentes no local.
+5 PREVENÇÃO 33
+Para a Categorização do Risco Hidrológico de Inundação, deve-se verificar as
+orientações constantes no Anexo III. O Risco Hidrológico de Enxurrada consta no
+Anexo IV e o Risco Hidrológico de Alagamento consta no Anexo V.
+5.3 Risco Climatológico
+Alinhando-se com a COBRADE, traz-se a esta ITO o tipo de desastre causado por
+efeitos do clima, mais especificamente pelo subgrupo da seca. Valendo-se da
+definição dada pela Empresa Brasileira de Pesquisa Agropecuária - Embrapa:
+“Seca é um fenômeno natural que não possui uma definição rigorosa e
+universal. Pode ser entendida como deficiência em precipitação (chuva) por
+um extenso período de tempo, resultando em escassez hídrica com
+repercussões negativas significativas nos ecossistemas e nas atividades
+socioeconômicas. O conceito depende das características climáticas e
+hidrológicas da região abrangida e do tipo de impactos produzidos”
+(EMBRAPA, 2021).
+De acordo com a COBRADE, dentro do subgrupo seca têm-se os seguintes tipos de
+desastres: estiagem, seca, incêndios florestais e baixa umidade do ar.
+Observa-se que há um campo vasto onde a Corporação pode atuar junto as
+COMPDEC, para implementação do Ciclo de Proteção e Defesa Civil.
+Importa destacar o risco de incêndio florestal (vegetação), devido às atribuições
+constitucionais do CBMMG, uma vez que a seca, a estiagem e a baixa umidade do
+ar são fatores que aumentam o risco de incidência deste tipo de desastre, sem
+desconsiderar os danos advindos desses eventos isoladamente.
+Assim sendo, considera-se a existência do risco de incêndio em vegetação pela
+seguinte condição: existência de vegetação adensada ou acumulada, compondo
+mata, florestas, pastos, culturas agrícolas e demais tipos de formação natural ou
+antrópica.
+Para isso, fomenta-se a atuação da Corporação nas práticas de prevenção,
+mitigação e preparação, além de estruturar planos de ações e de resposta junto dos
+órgãos relacionados, gestores de parques, reservas ambientais e prefeituras.
+ITO 33 – PROTEÇÃO E DEFESA CIVIL 34
+5.4 Risco Tecnológico
+Compreende todos os riscos relacionados diretamente à atividade humana e,
+constante no Anexo I - COBRADE, no qual está relacionado como “tecnológico”.
+Não obstante aos riscos de origem natural, a sociedade também está exposta aos
+riscos de origem tecnológica, cada dia mais presente em nossas vidas, na forma do
+produto final ou dos processos industriais, causando danos aos indivíduos e,
+principalmente, ao meio ambiente.
+As Unidades devem identificar em suas respectivas áreas de atuação, os riscos de
+desastres de origem tecnológica aos quais as comunidades estão sujeitas,
+trabalhando em conjunto e de forma participativa com a Defesa Civil local e/ou
+Prefeitura Municipal. Como exemplo, cita-se os riscos advindos das barragens de
+contenção de rejeitos de mineração ou água.
+Para a definição do grau de risco deve-se estabelecer a associação à atividade do
+empreendimento (tipo de ameaça) e a densidade de pessoas vulneráveis situadas
+no entorno, sendo que em alguns casos, a indicação do grau de risco dependerá da
+análise e percepção dos agentes envolvidos no mapeamento. Isto é, se um
+determinado trecho de rodovia tem histórico de acidente com produtos perigosos, o
+grau de risco no mapeamento deve ser elevado caso este local possua manancial
+de captação de água.
+5.5 Mapeamento das Áreas de Risco
+A área de risco de desastres se caracteriza por uma localidade delimitada
+geograficamente que pode ser descrita por atributos espaciais, como um endereço
+(logradouro do município), latitude e longitude. Nesse sentido, o mapeamento de
+áreas de risco consiste no processo de representação cartográfica das áreas de
+risco de determinado município. Logo, este mapeamento visa identificar locais com
+probabilidade de um tipo de desastre, devido ao grau de vulnerabilidade do cenário
+e evolução histórica da região.
+5 PREVENÇÃO 35
+O mapeamento de áreas de risco é o resultado de etapas sequenciais. Inicialmente,
+a identificação das áreas de risco ocorre mediante vistorias em campo e coleta de
+dados estatísticos históricos que sinalizem a incidência de determinado risco na
+região.
+A delimitação da área em polígonos georreferenciados é imprescindível para o
+mapeamento. Em seguida, deve ocorrer a categorização do risco, com base na
+doutrina técnica acerca do tipo de risco envolvido. Esta classificação, em geral,
+distingue riscos altos, médios e baixos. A etapa de validação dos dados coletados é
+importante para conferir confiabilidade ao mapeamento. Nesta fase, as informações
+coletadas em campo são confrontadas com modelos teóricos ou computacionais, de
+modo a confirmar a existência e a categoria do risco.
+Por fim, o cadastro das informações devidamente checadas finaliza o mapeamento,
+relatando o risco naquela área e demais informações pertinentes a um eventual
+desastre (número de residências afetadas, pessoas envolvidas, rotas de fuga,
+pontos de encontro, recursos emergenciais disponíveis, dentre outras). Este
+cadastro deve se manter atualizado, disponível e de fácil consulta aos órgãos
+envolvidos num eventual cenário emergencial naquela localidade.
+Tal exigência de disponibilidade tem demandado que a representação cartográfica
+das áreas de risco esteja vinculada a plataformas informatizadas de acesso remoto,
+com rápida visualização. Nesse sentido, as técnicas de geoprocessamento
+apresentam boa aplicabilidade a este processo, sobretudo na gestão de um
+Sistema de Informações Geográficas (SIG ou GIS, do inglês Geographic Information
+System), como plataforma interativa para o mapeamento das áreas de risco.
+Diversas plataformas informatizadas são usadas para este mapeamento interativo,
+permitindo a visualização das áreas de risco em camadas e a associação a
+diferentes mapas temáticos (declividade, altimetria, imagem de satélite, topografia,
+hidrografia etc.). Dentre os softwares que cumprem este papel, o ArcGIs®, QGIS®,
+Google Earth®, My Maps®, Aplicativo Álea® e Prox® são atualmente usados no
+CBMMG.
+ITO 33 – PROTEÇÃO E DEFESA CIVIL 36
+O diferencial da criação e gestão de um GIS robusto e atualizado está na
+capacidade de integração entre as informações de áreas de risco, com diversas
+outras igualmente mapeadas e pertinentes ao gerenciamento de um possível
+desastre.
+Assim, o georreferenciamento de recursos de potencial apoio local, órgãos de
+proteção e defesa civil, integrantes do PAM ou RINEM, unidades de pronto atendimento, abrigos temporários, dentre outros mapeamentos, assessoram logística e
+estrategicamente o cenário.
+O mapeamento das áreas de risco é ferramenta essencial para o desempenho local
+das ações de proteção e defesa civil e por isso deve ser alvo das Unidades de
+Execução Operacional do CBMMG. A localização de áreas vulneráveis ao risco
+permite a prevenção quanto a uma possível instalação do risco, viabiliza a
+mitigação de eventual risco instalado e orienta a preparação na elaboração de
+exercícios simulados e Planos de Contingência.
+Ainda, o mapeamento de riscos, combinado ao mapeamento de recursos, por meio
+de um GIS, assessora nas ações de resposta e recuperação. Enfim, a manutenção
+desta ferramenta influencia diretamente na tomada de decisão para a gestão do
+risco e do desastre no município.
+5.6 Campanhas Educativas
+As Unidades devem promover a existência de um sistema educativo eficaz, que gere
+e difunda uma cultura de prevenção, sendo o melhor instrumento para reduzir os
+desastres. As atividades devem abranger todos os níveis de ensino, com a inclusão
+de conhecimentos e experiências locais, soluções pragmáticas e que possam ser
+colocadas em prática pela própria comunidade.
+As propostas devem ser organizadas e executadas por meio de cursos, oficinas,
+palestras, manuais, livros e cartilhas que possibilitem a capacitação das equipes
+locais e da população.
+5 PREVENÇÃO 37
+Os conteúdos desses instrumentos devem abranger a identificação dos perigos,
+vulnerabilidades, medidas de prevenção e mitigação, legislação e sistemas de
+alertas.
+O objetivo estratégico 05 da 4ª Edição do Plano de Comando do CBMMG, prevê o
+Índice de Incentivo à Cultura de Prevenção e Proteção à Vida, ao Patrimônio e ao
+Meio Ambiente (IICPP).
+As campanhas educativas como o Bombeiro nas Escolas, o Prodinata e Cursos de
+Primeiros Socorros além de serem instrumentos efetivos para a difusão de uma
+cultura prevencionista e de autoproteção, contribuem diretamente para a melhoria de
+índices estratégicos da Corporação, que são vistos como prioridade de execução.
+(CBMMG, 2021).
+5.7 Vistorias Relacionadas à PDC
+As vistorias dos locais de risco pelo CBMMG, ou em parceria com outros órgãos e
+entidades públicas e/ou privadas, são de extrema importância, tendo a finalidade de
+detectar locais potencialmente expostos a qualquer tipo de risco, seja de origem
+natural e/ou tecnológico, acompanhando as orientações previstas na Diretriz
+Integrada de Ações e Operações (DIAO).
+As UEOps devem, ainda, atentar para a necessidade de reforçar as ações
+relacionadas ao Índice de Redução do Risco de Desastre (IRRD), visando
+disseminar a cultura de redução do risco de desastre bem como as ações de
+Proteção e Defesa Civil, não só ao bombeiro militar, mas em toda a sociedade
+atendida. Nesse sentido destacamos alguns exemplos de ações que podem ser
+desenvolvidas junto à sociedade, tais como palestras, cartilhas, campanhas
+educativas, projetos institucionais, visitas, dentre outras.
+ITO 33 – PROTEÇÃO E DEFESA CIVIL 38
+6 MITIGAÇÃO
+São ações desenvolvidas pelas Unidades do CBMMG que visam reduzir os impactos
+dos desastres nas comunidades locais.
+Os desastres são, geralmente, imprevisíveis, no entanto, podemos contribuir para
+que vidas não sejam perdidas e os prejuízos econômicos e sociais sejam reduzidos,
+considerando a existência de risco já presente naquele cenário.
+As Unidades devem manter uma linha de abordagem que siga uma sequência lógica
+frente à prevenção, mitigação e preparação para os desastres, devendo:
+a) identificar os riscos em sua área de atuação;
+b) mapear os riscos;
+c) adotar e promover medidas de mitigação de forma colaborativa e participativa
+com a comunidade local e órgãos envolvidos em qualquer ciclo frente à PDC;
+d) se necessário, enviar REDS relacionados à Proteção e Defesa Civil para a
+Coordenadoria Municipal para providências cabíveis.
+As Unidades devem realizar o gerenciamento dos riscos detectados, na fase de
+mapeamento, promovendo a adoção de medidas mitigadoras junto às Prefeituras
+Municipais, com envolvimento colaborativo e participativo. Dentre as ações, devem
+adotar e sugerir medidas estruturais e não estruturais nas comunidades sob risco de
+desastre, dentro das respectivas áreas de atuação.
+Nas medidas não estruturais, compete a Unidade do CBMMG, subsidiar de
+informações os demais agentes envolvidos com a Proteção e Defesa Civil, sobre a
+necessidade de adoção de políticas públicas que induzem a mitigação, adequação e
+melhorias nos planejamentos urbanos; criação/implantação dos planos de defesa
+civil, bem como ênfase primordial nas ações de campanhas educativas.
+Nesse prisma destaca-se a importância da COMPDEC estar diretamente ligada ao
+Gabinete do Prefeito Municipal e o seu coordenador possuir função de Secretário,
+para facilitar a relação com as outras secretarias da administração pública municipal,
+e com a sociedade. É de grande importância que a atuação da coordenadoria seja
+6 MITIGAÇÃO 39
+permanente e integral, existindo ou não evento adverso. Outro ponto importante
+refere-se aos meios materiais e humanos, uma vez que devem ser suficientes para
+manter uma articulação interna mínima, seja nas atividades envolvendo a prefeitura
+e suas secretarias ou em ações externas, com as outras entidades da sociedade,
+com a capacidade de enfrentar com desenvoltura os desastres no município (NETO
+et al., 2014; UFRGS, 2016). Além do conhecimento de legislações de planejamento
+urbano (exemplo: Plano Diretor, Código de Obra e de Postura, entre outros) que
+apresentam as diretrizes construtivas no município.
+Nas medidas estruturais, com base no monitoramento dos riscos, noticiar a
+Prefeitura Municipal e demais agentes de Defesa Civil sobre os locais que
+necessitam de intervenção com obras de engenharia, visando a mitigar os riscos de
+desastres ora detectados, tais como construção de muros de contenção, sistemas
+de drenagem, aumento de calhas de cursos d'água ou limpeza destes, bem como
+relocação de moradias em situações de risco.
+ITO 33 – PROTEÇÃO E DEFESA CIVIL 40
+7 PREPARAÇÃO
+O Escritório para Redução do Risco de Desastres da ONU (UNDRR) define como
+ação de preparação “o conhecimento e as capacidades desenvolvidas por governos,
+organizações de resposta e recuperação, comunidades e indivíduos para
+efetivamente antecipar, responder e se recuperar dos impactos de desastres
+prováveis, iminentes ou atuais” (ONU, 2015).
+Este tópico aborda as principais medidas que podem ser adotadas pelas diversas
+Coordenadorias Municipais de Proteção e Defesa Civil na ação de Preparação e
+qual é o papel dos representantes do CBMMG nesse processo. Temas como Plano
+de Contingência, Plano de Auxílio Mútuo, treinamentos, simulados, previsão
+meteorológica e Sistemas de Alerta e Alarme serão discutidos nesta seção para que
+conceitos importantes de Proteção e Defesa Civil sejam internalizados e
+padronizados pelos militares do CBMMG.
+7.1 Plano de Contingência
+É um documento que registra o planejamento elaborado a partir da percepção e
+análise de um ou mais cenários do risco de desastres e estabelece os
+procedimentos para ações de monitoramento, alerta, alarme, evacuação, socorro,
+assistência às vítimas e restabelecimento de serviços essenciais, treinamentos e
+simulados.
+Sob responsabilidade do município, a elaboração do plano de contingência é
+realizada no período de normalidade, durante a etapa de preparação. É dever do
+CBMMG fomentar a produção desses planos e atuar como assessor técnico, pois
+terão responsabilidades específicas a serem desenvolvidas pela Instituição.
+7.2 Plano de Auxílio Mútuo – PAM
+O Plano de Auxílio Mútuo (PAM) é uma ferramenta que pode ser utilizada para
+permitir a integração entre a iniciativa privada, os entes públicos e a sociedade
+existentes na área de articulação das diversas UEOp, a fim de que os riscos de
+7 PREPARAÇÃO 41
+desastres sejam conhecidos em períodos de normalidade e que a adequada
+preparação seja executada em época anterior a de maior probabilidade de
+ocorrência do desastre.
+O PAM pode ser entendido como um sistema que integra os Planos de Ação de
+Emergência de diversas instituições privadas de uma determinada localidade e que
+prepara as empresas para agirem de forma coordenada e integrada diante de
+possíveis desastres industriais ou de impactos de grande porte naquela mesma
+região.
+O PAM é confeccionado na etapa de preparação do ciclo de Proteção e Defesa Civil,
+com articulação direta do representante local do CBMMG e se faz necessário o
+envolvimento das principais empresas da área de articulação em que a UEOp está
+inserida, para que a sua eficiência seja assegurada.
+7.2.1 Objetivos do PAM
+O principal intuito do PAM é agilizar as ações de resposta. Quando os atores
+envolvidos na gestão do risco do desastre e na gestão do desastre estão bem
+articulados, a resposta é mais eficaz: perdas e danos são minimizados
+consideravelmente devido à diminuição do tempo resposta.
+A integração entre as instituições envolvidas e a otimização de recursos
+empenhados numa possível operação de resposta ao desastre é outra vantagem
+que o PAM oferece. Nesse sentido, o aprimoramento técnico e a troca de
+informações entre os participantes contribuem fundamentalmente para a melhora da
+capacidade de resposta aos possíveis sinistros.
+Por fim, com a liderança do CBMMG, a integração entre as instituições viabiliza a
+efetiva observância das normas pertinentes aos diversos assuntos que compõem o
+ciclo de gestão do risco de desastre e proporciona uma padronização por parte dos
+entes privados na execução das técnicas previstas no momento da resposta.
+ITO 33 – PROTEÇÃO E DEFESA CIVIL 42
+Apesar da vocação do CBMMG ao atendimento e à coordenação das ações de
+PDC, é importante que, no momento do planejamento e da preparação, a
+coordenação das atividades seja da COMPDEC local. A participação da instituição,
+neste momento, seria mais importante como auxílio e orientação técnica.
+7.2.2 Estrutura do PAM
+O representante do CBMMG na localidade é um dos gestores das ações de
+Proteção e Defesa Civil em âmbito regional e deve fomentar a criação e manutenção
+do Plano de Auxílio Mútuo na região. Nesse contexto, é importante ressaltar que a
+gestão do PAM deve ser feita por um comitê formado por representantes das
+empresas integrantes. O comitê gestor deve possuir, no mínimo, 1 (um) coordenador
+e 2 (dois) secretários para confecção de atas e do Plano de Ação. Nesse contexto,
+vale destacar que a adesão ao PAM é voluntária e que sua finalidade não é
+lucrativa.
+O Plano de Auxílio Mútuo possui estatuto próprio e é interessante que seja
+registrado em cartório de registro civil. O responsável do CBMMG deve estimular
+que os membros representantes das empresas se reúnam mensalmente para
+garantir a integração e a contínua padronização de procedimentos entre as
+entidades de iniciativa privada. Importa salientar que o PAM não substitui os
+recursos que a empresa possui para o enfrentamento das emergências que possam
+surgir em sua área de abrangência.
+É necessário o estímulo por parte do representante do CBMMG à elaboração de um
+cronograma de treinamentos e simulados entre as empresas envolvidas no PAM.
+Cada uma dessas capacitações pode ser mesclada com visitas técnicas às áreas de
+risco identificadas como foco no plano.
+Por fim, através da gestão participativa, fomentar a realização e divulgação de
+estudos técnicos sobre controle e prevenção de emergências, análise de
+incidentes/acidentes, a fim de propor medidas preventivas e corretivas de forma a
+evitar a sua reincidência.
+7 PREPARAÇÃO 43
+7.2.3 Criação do PAM
+O CBMMG é um dos responsáveis pela coordenação e desenvolvimento do Plano
+de Auxílio Mútuo. A participação do representante local na articulação do PAM, seja
+naqueles que serão criados como nos existentes, provocará uma padronização de
+ações e planejamentos, seguindo as orientações do Comando da Instituição e se
+adequando aos potenciais riscos identificados em cada localidade.
+Os principais passos para o desenvolvimento de um PAM são:
+a) desenvolver um estudo prévio simplificado com as informações disponíveis
+sobre:
+- registros históricos de ocorrências;
+- demanda x capacidade de resposta;
+- impactos socioeconômicos e ambientais provenientes do dano
+causado por uma ocorrência.
+b) estabelecer o cenário de risco com maior potencial de ocorrência na
+localidade específica;
+c) identificar as entidades/empresas envolvidas no contexto específico,
+relacionando-as;
+d) constituir o PAM e criar o seu Comitê Gestor;
+e) estabelecer um estatuto específico para o PAM e o registrar em um cartório
+de registro civil com as empresas arroladas;
+f) reunir as plantas das empresas relacionadas (utilizar ferramentas hábeis
+aprovadas pelo EMBM3 para condensar as informações);
+g) desenvolver o Plano de Ação, que deverá conter no mínimo:
+- as ações a serem desenvolvidas na resposta ao desastre/evento
+adverso por cada componente;
+- o cadastro de recursos humanos e materiais de cada
+instituição/empresa disponíveis para apoio às emergências;
+- o plano de acionamento.
+ITO 33 – PROTEÇÃO E DEFESA CIVIL 44
+h) elaborar um cronograma com tarefas, responsabilidades, responsáveis, metas
+a serem alcançadas, mecanismos de controle (mensuração de resultados) e
+prazos;
+i) com o documento pronto, provocar uma reunião com todos os representantes
+das entidades/empresas envolvidas para apresentação do plano e posterior
+aprovação;
+j) aprovar o Plano de Ação;
+k) confeccionar um programa de treinamentos e simulados em conjunto;
+l) promover visitas técnicas às áreas de risco;
+m) articular reuniões mensais entre os representantes das empresas;
+n) impulsionar a realização e divulgação de estudos técnicos, análise de
+incidentes/acidentes, a fim de propor medidas preventivas e corretivas de
+forma a evitar a reincidência;
+o) propor a periodicidade de revisão do Plano de Ação.
+7.3 Auxílio Mútuo entre Municípios
+Sabe-se que a atuação do CBMMG se faz presente nos 853 municípios do Estado
+de Minas Gerais, por meio do Plano de Articulação da Corporação. Nesse sentido,
+as UEOp devem fomentar a interação dos municípios de sua área de atuação.
+Nesse contexto, é interessante que cidades com características semelhantes, que
+estejam próximas umas das outras e que, por vezes, passam pelos mesmos tipos de
+riscos de desastres (inundações, estiagem etc.) estejam bem articuladas entre si,
+para uma melhor resposta aos desastres.
+A figura representativa do CBMMG pode ser determinante na orientação e
+capacitação dos munícipes, para que essas interações ocorram entre os poderes
+executivos locais e que o objetivo de disseminar a cultura da redução dos riscos de
+desastres entre os mineiros seja alcançado com excelência.
+Nesse sentido, é possível que seja incentivado o uso do consórcio intermunicipal,
+que é um instrumento de cooperação técnica e financeira entre municípios, sendo
+7 PREPARAÇÃO 45
+possível aos entes consorciados terem profissionais qualificados, tendo em vista o
+nível de exigência técnica que a atividade de Proteção e Defesa Civil apresenta.
+7.3.1 Rede Integrada de Emergência (RINEM)
+Existe um conceito mais amplo no que tange a temática de Plano de Auxílio Mútuo
+e, neste prisma, a Rede Integrada de Emergência (RINEM) visa trazer uma interação
+mais sólida entre empresas públicas e privadas, entidades e órgãos públicos, para
+atendimento aos desastres, sob a coordenação técnica do Corpo de Bombeiros
+Militar de Minas Gerais.
+A RINEM é uma organização da sociedade civil sem fins lucrativos, regida por
+estatuto próprio, com objetivo de proporcionar a cooperação mútua no atendimento
+às emergências que possam oferecer risco à vida humana, ao patrimônio público ou
+privado e ao meio ambiente.
+Neste entendimento, o CBMMG deve fomentar a implementação dos PAM e das
+RINEM, nas diversas localidades do Estado de Minas Gerais e, para tanto, o real
+envolvimento de todas as unidades operacionais do CBMMG, até o nível de Posto
+Avançado, se faz fundamental para o cumprimento dos objetivos institucionais.
+A RINEM é uma ferramenta de integração entre as entidades públicas e privadas. O
+trabalho anterior aos desastres e o envolvimento do CBMMG junto à rede civil se faz
+importante na Gestão dos Riscos de Desastres. Dessa forma, a RINEM pode
+possibilitar aos entes participantes uma estrutura de comunicação com vistas a uma
+mobilização rápida de recursos humanos e logísticos. Além disso, os participantes
+poderão capacitar seus agentes por meio de simulados, cursos e treinamentos
+diversos.
+7.4 Treinamentos
+O treinamento prepara um indivíduo/organização para agir em um evento adverso.
+Entre outros aspectos, objetiva promover a capacitação dos Bombeiros Militares e
+demais agentes de Proteção e Defesa Civil para que possam preparar comunidades
+ITO 33 – PROTEÇÃO E DEFESA CIVIL 46
+vulneráveis a determinado risco. Os treinamentos são realizados em conjunto com
+as COMPDECs para dar suporte às equipes envolvidas no enfrentamento de
+eventos adversos e, assim, integrar a gestão do risco de desastres. Os treinamentos
+estão inseridos na etapa de preparação para os desastres, dentro do contexto de
+redução do risco de desastres.
+7.5 Simulados
+Os simulados estão inseridos na ação de preparação para desastres e se
+caracterizam como exercícios práticos que implicam a mobilização de recursos e
+indivíduos para avaliar, em tempo real, o processo de evacuação de pessoas de
+áreas com risco de desastres, de acordo com a demanda daquela região, integrando
+o gerenciamento de risco. Entre outros aspectos, permitem avaliar as ações
+realizadas e os recursos empreendidos. Possibilitam ainda a capacitação e
+treinamento dos Bombeiros Militares e demais agentes de Proteção e Defesa Civil,
+abastecem comunidades vulneráveis e COMPDECs com conhecimentos para
+garantir um suporte para as equipes envolvidas no enfrentamento a eventos
+adversos sendo, assim, parte importante da gestão de risco de desastres.
+Observa-se que durante o simulado é possível verificar a aplicabilidade das ações
+descritas no Plano de Contingência, bem como testar a articulação dos órgãos
+envolvidos e sociedade, permitindo readequações necessárias, além de realizar os
+testes do Sistema de Monitoramento, Alerta e Alarme.
+Existem outras formas de se aplicar um simulado, como por exemplo o simulado de
+mesa, que tem por finalidade trabalhar o gerenciamento de ações de grande vulto,
+avaliando a fluidez e o adequado direcionamento das informações recebidas e
+geradas durante o evento.
+7.6 Previsão Meteorológica
+A previsão meteorológica é a capacidade de interpretar os modelos de previsão do
+tempo existentes na atualidade, tendo como finalidade a antecipação de ações que
+7 PREPARAÇÃO 47
+minimizem as consequências de possíveis desastres ocasionados pelas chuvas e/ou
+estiagem. (BELO HORIZONTE, 2015).
+Em Minas Gerais, o clima predominante é o tropical, em que ocorrem elevadas
+temperaturas, tendo a média anual por volta dos 20ºC, uma significativa presença de
+umidade bem como um índice de chuvas caracterizado de médio a elevado,
+principalmente em sua estação chuvosa que ocorre entre outubro e março. Entre os
+meses de abril a setembro, o predomínio é de tempo mais seco, com a possibilidade
+de ocorrência de estiagem prolongada (NIMER, 1989).
+7.6.1 Sistema de Emissão de Alertas de Chuva em Minas Gerais
+O Sistema de Meteorologia e Recursos Hídricos de Minas Gerais (SIMGE) é um
+órgão subordinado ao Instituto Mineiro das Águas (IGAM) que integra o Sistema
+Estadual de Meio Ambiente e Recursos Hídricos (SISEMA). Integram as suas
+atribuições:
+a) vigilância e previsão quantitativa do tempo, do clima e do comportamento
+hídrico;
+b) detalhamento na escala regional;
+c) fornecer produtos personalizados às atividades de preservação ambiental,
+socioeconômicas e de defesa da população;
+d) ênfase nos fenômenos adversos como enchentes, estiagens e temporais
+severos; entre outras. O IGAM é o órgão oficial da Meteorologia em Minas
+Gerais.
+Entre seus produtos destacam-se, para a atividade de Proteção e Defesa Civil, os
+boletins de previsão do tempo e de avisos meteorológicos. O fluxo para emissão dos
+avisos meteorológicos pode ser ilustrado da seguinte forma:
+ITO 33 – PROTEÇÃO E DEFESA CIVIL 48
+Figura 3 - Fluxo para emissão dos avisos meteorológicos
+Fonte: SIMGE-SISEMA (2015).
+Para a classificação da intensidade das chuvas, foi desenvolvida pelo Sistema de
+Meteorologia e Recursos Hídricos de Minas Gerais (SIMGE) uma Escala de
+Intensidade da Chuva. O principal objetivo desta escala é decidir a real necessidade
+do envio de alertas meteorológicos para as localidades que apresentam a
+possibilidade de chuvas consideráveis. Ainda que eventos climáticos extremos de
+rápida formação possam ser difíceis de alertar, a escala de intensidade da chuva
+fornece um quadro geral que permite aos sistemas locais de PDC organizarem-se
+para resistir, absorver, adaptar-se e recuperar-se dos efeitos desses eventos
+adversos.
+7 PREPARAÇÃO 49
+Figura 4 - Classificação da intensidade das chuvas
+Fonte: SIMGE-SISEMA 2015 (adaptada).
+Assim, ficou estabelecido que o envio de alertas de chuva se dará para as
+precipitações acima de 24,9 mm e que em caso de chuvas com índices
+compreendidos entre 14,9 a 24,9 mm serão postados avisos de chuva no site do
+SIMGE. Entretanto, os avisos podem ser enviados antes, pois se uma localidade já
+apresenta um solo saturado devido à ocorrência de dias sucessivos de chuvas,
+poderá ocorrer um deslizamento de terra com pequena quantidade de água no solo,
+face à possibilidade de o terreno não suportar novas precipitações, ou ainda, se
+alguns cursos d’água já apresentarem níveis em limites de extravasamento.
+É importante ressaltar que deve ser considerada a peculiaridade de cada município
+ou região e incentivada a parametrização de avisos específicos de acordo com cada
+realidade. Universidades, Institutos de Agricultura e iniciativa privada que possuam
+meteorologistas em seus quadros podem ser parceiros importantes para o
+desenvolvimento de modelos de previsão meteorológica dentro da localidade em
+que atuam.
+ITO 33 – PROTEÇÃO E DEFESA CIVIL 50
+7.6.2 Fontes de Informações Meteorológicas
+Todos os esforços e tecnologias dispensadas no tratamento das informações,
+disponibilizados ao Sistema Nacional de Proteção e Defesa Civil, no âmbito de
+Minas Gerais, têm o cunho da melhoria e aperfeiçoamento da Gestão do Risco de
+Desastre aumentando a resiliência da sociedade mineira. Alguns canais de
+informações sobre meteorologia podem ser úteis para o monitoramento inserido no
+planejamento contingencial e melhor preparação dos sistemas econômicos locais
+frente aos eventos climáticos extremos que atingem áreas de risco.
+7.7 Sistemas de Monitoramento, Alerta e Alarme
+Os sistemas de monitoramento, alerta e alarme, serão explicados a seguir.
+7.7.1 Monitoramento
+De acordo com a Secretaria Nacional de Proteção e Defesa Civil (SEDEC, 2017) os
+sistemas de monitoramento são ferramentas de Gestão do Risco de Desastres –
+GRD (prevenção, mitigação e preparação) e têm a função de gerenciar informações
+preliminares às ocorrências potenciais de desastres. Desse modo, esses sistemas
+podem identificar a potencialidade de uma ameaça e, a partir de alertas e alarmes à
+população, evitar ou minimizar os efeitos de um desastre.
+Em nível federal são mantidos alguns sistemas de monitoramento de abrangência
+nacional por meio de órgãos como o Centro Nacional de Gerenciamento de Riscos e
+Desastres – CENAD, o Centro Nacional de Monitoramentos e Alertas de Desastres
+Naturais – CEMADEN, o Instituto Nacional de Meteorologia – INMET, o Centro de
+Previsão do Tempo e Estudos Climáticos – CPTEC, e a Agência Nacional de Águas
+– ANA (SEDEC, 2017). Conforme Quadro 3 a seguir:
+7 PREPARAÇÃO 51
+Quadro 3 - Monitoramento em Nível Federal
+Órgão Informações (Monitoramento) Acessibilidade
+CENAD
+O Centro Nacional de Gerenciamento de Riscos e
+Desastres – CENAD foi criado em fevereiro de 2005 e tem
+o intuito de gerenciar, com agilidade, ações estratégicas de
+preparação e resposta a desastres em território nacional e,
+eventualmente, também em âmbito internacional.
+Coordenado pela Secretaria Nacional de Proteção e Defesa
+Civil, o centro possui uma estrutura de monitoramento
+constante de informações sobre possíveis desastres em
+áreas de risco, atuando 24 horas por dia, inclusive aos fins
+de semana e feriados.
+A dinâmica de funcionamento do CENAD consiste no
+recebimento de informações de diversos órgãos do governo
+federal responsáveis pela predição de tempo e
+temperatura; avaliação de condições geológicas de áreas
+de risco; monitoramento dos movimentos das placas
+tectônicas; acompanhamento das bacias hidrográficas;
+controle de queimadas e incêndios florestais; e transporte e
+armazenamento de produtos perigosos. As informações
+recebidas por estes órgãos são avaliadas e processadas no
+CENAD e encaminhadas aos órgãos de proteção e defesa
+civil de estados e municípios com risco de ocorrência de
+desastres, sendo que o alerta ocorre de acordo com a
+intensidade do evento adverso:
+- Alerta Moderado: encaminhado aos municípios e estados
+por e-mail.
+- Alerta Alto e Muito Alto: encaminhado aos municípios e
+estados por e-mail e SMS. Nestes casos o CENAD ainda
+faz contato telefônico com os representantes locais.
+Telefone:
+0800 644 0199
+(24 horas)
+CEMADEN
+O Centro Nacional de Monitoramento e Alertas de
+Desastres Naturais – CEMADEN monitora, 24 horas por
+dia, as áreas de risco de municípios classificados como
+vulneráveis (821 municípios prioritários) a eventos adversos
+em todo o território nacional. Tem como objetivo principal
+contribuir para que se evitem mortes acarretadas pelos
+desastres e diminuir a vulnerabilidade social, ambiental e
+econômica deles decorrentes.
+Link:
+http://www.cemaden.go
+v.br/municipiosmonitorados/
+ITO 33 – PROTEÇÃO E DEFESA CIVIL 52
+CEMADEN
+O centro conta com uma rede de observação composta por
+radares, pluviômetros automáticos e semiautomáticos e
+estações hidrológicas, entre outros equipamentos. A Sala
+de Situação, onde ocorrem as atividades de monitoramento
+e emissão de alertas, conta com gabinete de crise,
+interligado ao CENAD. Entre outras competências, o
+CEMADEN envia os alertas de desastres referentes aos
+municípios prioritários ao CENAD, auxiliando o Sistema
+Nacional de Proteção e Defesa Civil.
+Link:
+http://www.cemaden.go
+v.br/municipiosmonitorados/
+INMET
+O Instituto Nacional de Meteorologia – INMET é um
+órgão do Ministério da Agricultura, Pecuária e
+Abastecimento que tem como objetivo fornecer informações
+meteorológicas à sociedade brasileira e por meio de
+monitoramento, análise e previsão de tempo e de clima,
+que se fundamentam em pesquisa aplicada, trabalho em
+parceria e compartilhamento do conhecimento, com ênfase
+em resultados práticos e confiáveis.
+Link:
+http://www.inmet.gov.br
+/portal
+CPTEC
+O Centro de Previsão do Tempo e Estudos Climáticos –
+CPTEC, órgão vinculado ao INPE, trabalha com um novo
+supercomputador (CRAY XT6) que vem melhorando a
+resolução espacial dos modelos de previsão de tempo, de
+clima sazonal, ambiental (qualidade do ar) e de projeções
+de cenários de mudanças climáticas.
+O CPTEC trabalha também com Monitoramento de
+Queimadas e Incêndios. O trabalho consiste na detecção
+de focos de calor por satélites e, também, no cálculo e
+previsão do risco de fogo da vegetação.
+Links:
+http://tempo.cptec.inpe.
+br
+https://queimadas.dgi.in
+pe.br/queimadas/situac
+ao-atual
+ANA
+A Agência Nacional de Águas – ANA comporta uma Sala
+de Situação para identificação de possível ocorrência de
+eventos críticos, acompanhando as condições hidrológicas
+dos principais sistemas hídricos nacionais, o que permite a
+adoção antecipada de medidas mitigadoras com o objetivo
+de minimizar os efeitos de secas e inundações.
+Link:
+http://www2.ana.gov.br/
+Paginas/servicos/salad
+esituacao/default.aspx
+7 PREPARAÇÃO 53
+SACE
+(CPRM)
+O Sistema de Alerta de Eventos Críticos – SACE é a
+plataforma desenvolvida pelo Serviço Geológico do Brasil
+(CPRM) para disponibilizar todas as informações geradas
+no contexto dos Sistemas de Alerta Hidrológico (SAHs).
+Nele, são reunidas todas as informações disponíveis para
+cada bacia hidrográfica, como o monitoramento automático
+de chuvas e níveis de rios em diversas estações
+hidrometeorológicas, os links para os mapas de riscos dos
+municípios e todos os boletins de monitoramento e alertas
+publicados.
+O objetivo dos SAHs é monitorar e gerar informações
+hidrológicas de qualidade, para subsidiar a tomada de
+decisões por parte dos órgãos relacionadas à mitigação
+dos impactos de eventos hidrológicos extremos.
+Link:
+http://www.cprm.gov.br/
+sace/index_bacias_mo
+nitoradas.php
+Fonte: Elaborado pelo Grupo Temático Operacional – Proteção e Defesa Civil
+Em nível estadual dispomos da Coordenadoria Estadual de Defesa Civil (CedecMG), além de órgãos responsáveis pelo monitoramento meteorológico, como o
+SIMGE/IGAM, e o monitoramento de barragens, como a CEMIG (barragens
+hidrelétricas) e FEAM (barragens de rejeito). Conforme Quadro 4 a seguir:
+Quadro 4 - Monitoramento em Nível Estadual (Minas Gerais)
+Órgão Informações (Monitoramento) Acessibilidade
+GMG/
+CedecMG
+A Coordenadoria Estadual de Proteção e Defesa Civil –
+CEDEC/MG, em parceria com os órgãos técnicos de cada
+área, disponibiliza diariamente em sua página na internet as
+seguintes informações:
+- Boletim de Defesa Civil;
+- Balanço Período Chuvoso;
+- Listagem de Municípios Decretados (Situação de
+Emergência e Estado de Calamidade Pública).
+- Nível de Segurança das Barragens.
+Horário de Funcionamento: 08h às 18h (dias úteis), e regime
+de plantão 24 horas em situações críticas.
+Link:
+http://www.gabinetemilit
+ar.mg.gov.br/boletimdiario
+Telefones:
+(31) 3915-0274
+(31) 99818-2400
+(Plantão de
+Emergências da
+GMG/Cedec-MG).
+SIMGE
+(IGAM)
+O Instituto Mineiro de Gestão das Águas – IGAM opera o
+Sistema de Meteorologia e Recursos Hídricos de Minas
+Gerais – SIMGE inaugurado no dia 02 de setembro de 1997,
+Link:
+http://www.simge.mg.g
+ov.br/
+ITO 33 – PROTEÇÃO E DEFESA CIVIL 54
+como resultado de um Convênio do Governo do Estado com
+o Ministério de Ciência e Tecnologia (MCT), objetivando a
+modernização da meteorologia e da hidrologia no Estado de
+Minas Gerais, contando com o apoio científico e tecnológico
+do Centro de Previsão e Estudos Climáticos do Instituto
+Nacional de Pesquisas Espaciais (CPTEC/INPE).
+O SIMGE faz, diariamente, e durante todo o ano, a vigilância
+e a previsão do tempo e do comportamento hídrico, com
+detalhamento na escala regional, fornecendo produtos
+personalizados às atividades de preservação ambiental,
+socioeconômicas e de defesa da população, com ênfase nos
+fenômenos adversos como enchentes, estiagens e temporais
+severos.
+E-mail:
+simge@meioambiente.
+mg.gov.br
+Telefones:
+(31) 3915-1254/1255
+CEMIG
+A Companhia Energética de Minas Gerais – CEMIG opera
+uma rede hidrometeorológica com 583 pontos de
+monitoramento, sendo 232 de chuvas, 224 de vazões nos
+cursos d’água, 74 de acompanhamento dos níveis dos
+reservatórios e dos rios, e 53 estações climatológicas, que
+monitoram chuvas, temperatura, umidade do ar, velocidade e
+direção do vento, radiação solar e pressão atmosférica. Estas
+estações estão distribuídas em locais estratégicos nos
+estados de Minas Gerais, Goiás, Rio de Janeiro, Espírito
+Santo e Santa Catarina, e seus dados são recebidos em
+tempo real na sede da empresa em Belo Horizonte.
+Link:
+https://www.cemig.com.
+br/
+Telefone:
+116
+CGMAT
+(FEAM)
+O Centro de Geotecnologias e Monitoramento Ambiental
+Territorial – CGMAT é um ambiente físico, tecnológico e
+organizacional especializado, implementado pela Fundação
+Estadual do Meio Ambiente – FEAM para fornecer uma
+visão territorial ambiental integrada do sistema
+socioambiental, por meio de levantamentos, estudos e
+sistematização de dados para caracterização,
+monitoramento, mapeamento, zoneamento e avaliações
+ambientais.
+Link:
+https://feamcgmat.map
+s.arcgis.com/apps/opsd
+ashboard/index.html#/9
+59489855d654d0e9fd5
+b0511056878e
+CGMAT
+(FEAM)
+Com o objetivo de fornecer fácil acesso às informações
+oficiais, claras e confiáveis foi desenvolvimento um painel de
+bordo para monitoramento da situação envolvendo as
+barragens de rejeitos com o acionamento do nível de
+emergência e das correspondentes obras de contenção no
+vale jusante.
+E-mail:
+geaad@meioambiente.
+mg.gov.br
+Telefones:
+(31) 3915-1243/1450
+7 PREPARAÇÃO 55
+Trata-se de um dashboard que utiliza tecnologia geoespacial
+focado na centralização de dados e informações analíticas
+para que autoridades e cidadãos compreendam e monitorem
+a situação geral e local.
+Fonte: Elaborado pelo Grupo Temático Operacional – Proteção e Defesa Civil
+Além desses sistemas mantidos pelo governo federal e estadual dos quais as
+gestões municipais podem obter informações de monitoramento, é possível trabalhar
+com sistemas locais, como o uso de inclinômetros instalados em encostas para
+acompanhamentos geotécnicos, réguas limnimétricas instaladas em rios, dentre
+outros.
+7.7.2 Alerta
+Os alertas, conforme a Secretaria Nacional de Proteção e Defesa Civil (SEDEC,
+2017), são emitidos a partir das informações obtidas pelos sistemas de
+monitoramento. Os alertas correspondem a informações sobre a potencialidade de
+um evento, que podem ser realizados em formato de boletins ou de avisos de
+atenção e comunicados por rádio, TV, mensagem de celular ou internet.
+Uma das ferramentas utilizadas é a comunicação por mensagem de texto via
+aparelho celular (SMS) para emitir alertas à população sobre as possibilidades de
+ocorrência de um evento adverso. Para se cadastrar, basta o cidadão enviar uma
+mensagem de texto (SMS) com o CEP da rua de interesse para o número 40199 e
+uma mensagem de confirmação será enviada na sequência. Os municípios também
+podem se cadastrar para emitir alertas através da ferramenta.
+Este sistema foi desenvolvido pela Secretaria Nacional de Proteção e Defesa Civil
+juntamente com as operadoras de telefonia móvel e está sendo viabilizado pelo
+Governo Federal.
+ITO 33 – PROTEÇÃO E DEFESA CIVIL 56
+7.7.3 Alarme
+O alarme, de acordo com a Secretaria Nacional de Proteção e Defesa Civil (SEDEC,
+2018), corresponde à informação de ocorrência iminente, que deve corresponder a
+uma ação imediata por parte da população, geralmente para não sair de casa (em
+caso de vendavais, por exemplo) ou para evacuação (no caso de
+deslizamentos). Tem a finalidade de comunicar a população vulnerável, em uma
+situação de emergência, sobre a necessidade de se preparar e se deslocar para um
+local seguro (ponto de encontro, abrigos ou locais de abrigamentos). Por isso, é de
+fundamental importância que esteja integrado ao sistema de alerta definido no
+município.
+a) para a definição de Sistemas de Alarme efetivos é necessário levar em conta
+alguns requisitos básicos (SEDEC, 2018):
+ ser de amplo conhecimento da comunidade e abranger toda a
+população vulnerável em determinada área de perigo e de risco;
+ possuir procedimento de acionamento bem definido, com regras claras
+e treinado entre a equipe responsável;
+ garantir o seu pleno funcionamento, com revisões periódicas e meios
+alternativos para intercorrências previamente estabelecidos;
+ levar em conta a característica da população a ser alertada, prevendo,
+por exemplo, sinais luminosos para eventuais deficientes auditivos.
+b) os moradores das áreas de risco poderão receber os alarmes do município de
+diversas formas, por exemplo, via:
+ envio de mensagem SMS.
+ redes sociais: Facebook, WhatsApp etc.;
+ aplicativos diversos;
+ sinal sonoro (sirenes);
+ sinal luminoso;
+ apitos, megafones e sinais dos sinos de igrejas;
+7 PREPARAÇÃO 57
+ canais de Rádio e/ou TV;
+ viaturas e veículos para este fim (carros de som etc.);
+ núcleos de Proteção e Defesa Civil (NUPDECs) formados por
+lideranças comunitárias e moradores das áreas de risco;
+ dentre outras inúmeras formas de comunicação entre os órgãos que
+compõem o Sistema de Proteção e Defesa Civil e o morador,
+dependendo da infraestrutura do local.
+É ideal que os órgãos que atuam na Proteção e Defesa Civil busquem construir
+canais de comunicação em tempo real com a população, inserindo-a em todas as
+suas ações, divulgando medidas de prevenção, dados de monitoramento e não
+apenas no acionamento isolado de alarmes. Essa medida contribui para a percepção
+de risco e torna a comunidade protagonista nas ações de PDC.
+ITO 33 – PROTEÇÃO E DEFESA CIVIL 58
+8 RESPOSTA
+Conforme descrito no item 3 desta ITO (Conceitos e Definições Básicas), as ações
+de resposta em um desastre compreendem as seguintes atividades:
+a) socorro;
+b) assistência à população atingida;
+c) restabelecimento dos serviços essenciais.
+A existência do Plano de Contingência municipal facilitará as ações de resposta ao
+desastre, haja vista conter um planejamento prévio das ações a serem adotadas,
+informações sobre recursos logísticos e humanos disponíveis a serem mobilizados
+etc.
+8.1 Socorro
+Ações imediatas de resposta aos desastres com o objetivo de socorrer a população
+atingida, incluindo a busca e salvamento, os primeiros-socorros, o atendimento préhospitalar e o atendimento médico e cirúrgico de urgência, entre outras
+estabelecidas pelo Ministério da Integração Nacional (SEDEC, 2017).
+8.2 Assistência à população atingida
+As atividades de assistência à população atingida pelo desastre visam garantir o
+mínimo de condições dignas de vida a estas pessoas, no que diz respeito à
+alimentação, higiene pessoal, limpeza e abrigo.
+No que diz respeito à garantia do mínimo de condições dignas de alimentação,
+higiene pessoal e limpeza, se destaca a distribuição de materiais de ajuda
+humanitária aos afetados: distribuição de cestas básicas e itens de higiene pessoal e
+limpeza, que tanto pode ser de estoque prévio da COMPDEC, quanto de
+arrecadação da população quando da ocorrência do desastre.
+8 RESPOSTA 59
+Em relação às condições de abrigo, as pessoas afetadas que tiveram que sair de
+suas residências devem ser direcionadas para outras residências que não foram
+afetadas e não estão inseridas na área de risco (próprias, de vizinhos, amigos ou
+familiares). Não sendo possível ou não havendo residência em condições de recebêlas, deve-se instalar um abrigo provisório para garantir a condição mínima de
+abrigamento dos afetados, até o retorno às suas residências iniciais ou até um
+destino definitivo (aluguel social, por exemplo).
+8.3 Restabelecimento dos serviços essenciais
+As atividades de restabelecimento dos serviços essenciais visam garantir o retorno
+do funcionamento dos serviços essenciais da comunidade afetada, no que diz
+respeito às condições de acesso (mobilidade), fornecimento do serviço de
+água/esgoto, energia elétrica e telefonia.
+O restabelecimento consiste em medidas de segurança e habitabilidade e de retorno
+dos serviços essenciais à população na área atingida pelo desastre, tais como:
+construção de acessos alternativos, viabilização de trafegabilidade em vias
+fundamentais, remoção de escombros, desobstrução de vias, desmontagem de
+edificações e obras de arte com estruturas comprometidas.
+O município desempenha papel importante no restabelecimento dos acessos
+obstruídos das áreas afetadas, por meio do emprego de maquinário específico e
+servidores para a limpeza de vias.
+Em relação ao restabelecimento dos serviços de água/esgoto, coleta de lixo, energia
+elétrica e telefonia, as concessionárias e empresas privadas fornecedoras de tais
+serviços devem envidar esforços para garantir o retorno à prestação de seus
+serviços à comunidade.
+Medidas emergências, até a resolução definitiva do problema, podem ser adotadas,
+por exemplo:
+ITO 33 – PROTEÇÃO E DEFESA CIVIL 60
+a) distribuição de água por caminhão pipa;
+b) emprego de geradores elétricos em hospitais, asilos, postos de saúde etc.;
+c) abertura de acessos e montagem de pontes provisórias.
+8.4 Ações do CBMMG em Resposta
+Durante as ações de resposta a um desastre, além das atividades típicas de socorro
+ora mencionadas (busca e salvamento), com base em sua competência
+constitucional e legal para coordenar as ações de proteção e defesa civil, os
+militares do CBMMG devem adotar as seguintes providências:
+a) localizar as autoridades municipais (Prefeito ou Coordenador Municipal de
+Proteção e Defesa Civil) e levantar as informações primárias sobre o evento;
+b) instalar Posto de Comando utilizando os princípios e características do SCO
+no município, juntamente com os demais órgãos municipais e solicitar, caso
+possua, os planos de contingência e plano de auxílio mútuo municipal;
+c) participar junto com a administração municipal e as demais agências
+(órgãos) envolvidas da coordenação das ações de resposta ao desastre,
+com destaque para as seguintes atividades:
+ realizar vistorias nas áreas de risco, providenciando a evacuação dos
+moradores em caso de necessidade;
+ realizar o levantamento dos afetados pelo desastre, identificando as
+necessidades de materiais de assistência humanitária;
+ realizar a gestão e distribuição dos materiais de assistência
+humanitária para as pessoas afetadas;
+ instalar abrigo provisório em caso de necessidade;
+ garantir o restabelecimento dos serviços essenciais, mobilizando os
+órgãos governamentais e as concessionárias e empresas privadas
+prestadoras dos serviços para adoção de providências
+d) apoiar os Municípios quanto ao Cadastro da COMPDEC no Sistema Integrado
+de Informações Sobre Desastres (S2ID) e no processo de decretação de
+8 RESPOSTA 61
+Situação de Emergência ou Estado de Calamidade Pública. Esclarece-se, que
+tais ações serão fundamentais para a obtenção de recursos para resposta e
+recuperação, após evento de desastre, com apoio do Governo Federal.
+8.5 Apoio ao Município para o Cadastro da COMPDEC no S2ID
+O Sistema Integrado de Informações Sobre Desastres (S2ID) é uma ferramenta do
+Governo Federal que tem a finalidade de registrar os desastres naturais e
+tecnológicos ocorridos em território brasileiro, utilizada quando o desastre extrapola
+a capacidade de resposta do município e este necessite solicitar apoio
+governamental.
+O S2ID é o único meio possível para o município solicitar o reconhecimento estadual
+e reconhecimento federal do decreto municipal de Situação de Emergência ou
+Estado de Calamidade Pública. É por meio dele que o município requisita recursos
+de resposta e reconstrução com o preenchimento de formulários específicos.
+As instruções para a realização deste cadastro estão disponíveis no endereço
+eletrônico https://s2id.mi.gov.br/paginas/login/novo_cadastro.xhtml
+8.6 Apoio ao Município para a Decretação de Situação de Emergência ou
+Estado de Calamidade Pública
+O decreto de situação de emergência ou estado de calamidade pública deverá estar
+subsidiado por documentos que comprovem a magnitude do desastre, caso o
+município decida solicitar o reconhecimento estadual e o reconhecimento federal do
+decreto. Para isso, será necessário a utilização do S2ID; da Portaria Federal nº 260,
+de 02 de fevereiro de 2022, e da Codificação Brasileira de Desastre – COBRADE.
+É necessária atenção quanto ao prazo de envio da documentação (via S2ID) para
+solicitar o reconhecimento estadual/federal, que é de 10 (dez) dias da data do
+desastre (quando o desastre for súbito), ou da data do decreto de situação de
+anormalidade (quando o desastre for gradual).
+ITO 33 – PROTEÇÃO E DEFESA CIVIL 62
+Após o reconhecimento federal, o município está apto a receber recursos financeiros
+da Secretaria Nacional de Proteção e Defesa Civil (SEDEC).
+O reconhecimento federal é um requisito para que a União forneça apoio
+complementar ao ente federativo atingido e se torna válido após a publicação em
+diário oficial da Portaria de Reconhecimento Federal. Contudo, o reconhecimento
+por si só não garante o recebimento de recursos, visto que o pedido deve ser
+motivado e formalizado por meio do S2ID em campo específico quando existir a
+necessidade de sua solicitação.
+A SEDEC disponibiliza, em seu site, capacitações em formato EAD sobre a
+utilização do S2ID e o processo de solicitação de reconhecimento do decreto
+municipal de situação de anormalidade, além da solicitação de recursos federais
+para as ações de resposta aos desastres.
+9 RECUPERAÇÃO 63
+9 RECUPERAÇÃO
+As ações de recuperação têm por finalidade iniciar a restauração da área afetada, ou
+seja, retornar à situação de normalidade. Ao relembrar o conceito previsto no
+Decreto Federal nº 10.593/2020, a recuperação consiste em medidas desenvolvidas
+após a ocorrência do desastre destinadas a restabelecer a normalidade social que
+abrangem a reconstrução de infraestrutura danificada ou destruída e a recuperação
+do meio ambiente e da economia.
+O município é o grande protagonista no desenvolvimento das ações de recuperação.
+Neste sentido, o CBMMG tem a oportunidade de auxiliar na prestação de consultoria
+técnica ao município na solicitação de recursos orçamentários do Governo Federal
+para as intervenções de recuperação, após o reconhecimento federal da situação de
+anormalidade quando da ocorrência do desastre.
+Outro ponto a se destacar é que o CBMMG pode orientar o município a adotar
+medidas de recuperação tendo como foco a prática de “reconstruir melhor”, de modo
+a impedir a instalação de novos riscos, de novas construções em áreas de risco e,
+assim, aumentando a resiliência local.
+Quartel em Belo Horizonte, 26 de julho de 2022
+(a) Erlon Dias do Nascimento Botelho, Coronel BM
+Chefe do Estado-Maior
+ITO 33 – PROTEÇÃO E DEFESA CIVIL 64
+REFERÊNCIAS
+BARBOSA, Rafael de Figueiredo. Redução do risco de desastres: estudo das
+atividades do Corpo de Bombeiros Militar de Minas Gerais fomentadas
+mediante investimento público no ano de 2019 - municipal e parlamentar
+localizado [manuscrito] / Rafael de Figueiredo Barbosa. – 2020. [14], 94 f. : il.
+Monografia de conclusão de Curso (Especialização em Gestão, Proteção e Defesa
+Civil) – Fundação João Pinheiro, Escola de Governo Professor Paulo Neves de
+Carvalho, 2020.
+BASTOS, Celso Ribeiro; MARTINS, Ives Gandra. Comentários à Constituição do
+Brasil: promulgada em 5 de outubro de 1988. São Paulo: Editora Saraiva, v. 5,
+1997.
+BELO HORIZONTE. Sistema de meteorologia e recursos hídricos de Minas
+Gerais. Conceitos Básicos de Meteorologia. Apresentação, Belo Horizonte, 2015.
+BRASIL. Constituição da República Federativa do Brasil: texto constitucional
+promulgado em 5 de outubro de 1988, com as alterações adotadas pelas Emendas
+Constitucionais nos 1/1992 a 68/2011, pelo Decreto Legislativo nº 186/2008 e pelas
+Emendas Constitucionais de Revisão nos 1 a 6/1994. – 35. ed. – Brasília: Câmara
+dos Deputados, Edições Câmara, 2012.
+BRASIL. Decreto nº 10593, de 24 de dezembro de 2020. Brasília: Palácio do
+Alvorada, 2020. Disponível em: https://www.in.gov.br/en/web/dou/-/decreto-n-10.593-
+de-24-de-dezembro-de-2020-296427343. Acesso em 02 mar. 2022.
+BRASIL. Lei nº 12.608, de 10 de abril de 2012. Brasília: Congresso Nacional, 2012.
+Disponível em: http://www.planalto.gov.br/ccivil_03/_Ato2011-
+2014/2012/Lei/L12608.htm. Acesso em: 20Set2020.
+BRASIL. Livro Base: Noções Básicas em Proteção e Defesa Civil e em Gestão de
+Riscos, 1ª Edição Brasília - DF 2017, Ministério da Integração Nacional. (SEDEC,
+2017);
+BRASIL. Ministério da Integração Nacional. Secretaria Nacional De Defesa Civil.
+Glossário de Defesa Civil Estudos De Riscos e Medicina de Desastres. Brasília.
+5ª ed. CASTRO, Antônio Luiz Coimbra, 2007.
+BRASIL. Ministério das Cidades. Capacitação em Mapeamento de Risco. Gráfica
+Copiar. 122 p. Disponível em:http://www.defesacivil.mg.gov.br/images/documentos /
+Defesa % 20Civil / manuais/mapeamento/mapeamento-grafica.pdf. Acesso em:
+18Fev2020
+BRASIL. Ministério das Cidades. Prevenção de Riscos de Deslizamentos em
+Encostas. Brasilia: Gráfica Brasil, 2006, 113p.
+BRASIL. Ministério das Cidades. Prevenção de Riscos de Deslizamentos em
+Encostas. Brasilia: Cities Alliance, 2006, 111 p.
+REFERÊNCIAS 65
+BRASIL. Módulo de formação: noções básicas em proteção e defesa civil e em
+gestão de riscos - livro base. Brasília: Ministério da Integração Nacional, 2017.
+Disponível em:
+https://defesacivil.es.gov.br/Media/defesacivil/Material%20Did%C3%A1tico/M%C3%
+B3dulos%20SEDEC/M%C3%B3dulo%20IV%20-
+%20RECONSTRU%C3%87%C3%83O%20-%20Livro%20Base.pdf . Acesso em:
+17Set2020.
+BRASIL. Portaria Federal nº 260, de 02 de fevereiro de 2022. Brasília: Ministério
+da Integração Nacional, 2022. Disponível em: https://www.in.gov.br/en/web/dou/-
+/portaria-n-260-de-2-de-fevereiro-de-2022-378040321. Acesso em 02 mar. 2022.
+CORPO DE BOMBEIROS MILITAR DE MINAS GERAIS (Minas Gerais). Plano de
+Comando 2015/2026. Belo Horizonte, v. 4ª ed., 2021.
+CEPED-RS, Centro Universitário de Estudos e Pesquisas sobre Desastres - Rio
+Grande do Sul. Capacitação em Gestão de Riscos - 2ª Edição. Universidade
+Federal do Rio Grande do Sul, 2016.
+CEDEC – Santa Catarina (CEDEC-SC, 2021). Disponível em:
+https://www.defesacivil.sc.gov.br .Acesso em 05 de março de 2021.
+EMBRAPA, Empresa Brasileira de Pesquisa Agropecuária. Disponível em:
+https://www.embrapa.br/tema-convivencia-com-a-seca/perguntas-e-respostas.
+Acesso em 30 de setembro de 2021.
+FEAM-MG, Fundação Estadual do Meio Ambiente. Plano de Auxílio Mútuo. Minas
+Gerais: Portal meio ambiente, 2020. Disponível em: http://www.feam.br/prevencao-eemergencia-ambiental/plano-de-auxilio-mutuo-pam . Acesso em: 16Mar2021.
+GOERL, R.F.; KOBIYAMA, M. Considerações sobre as inundações no Brasil. In:
+SIMPÓSIO BRASILEIRO DE RECURSOS HÍDRICOS, 16, 2005, João Pessoa,
+2005. Porto Alegre: ABRH. 10p. Disponível em:
+https://www.labhidro.ufsc.br/Artigos/ABRH2005_inundacoes.pdf Acesso em: 04 mar.
+2022.
+MARGARIDA, Caroline; NASCIMENTO, Cristiane Aparecida do. Manual de defesa
+civil. Florianópolis:CEPED UFSC, 2009
+MATTOS, Ubirajara; MÁSCULO, Francisco (orgs.). Higiene e Segurança no
+Trabalho. 1. ed. Rio de Janeiro: Elsevier Editora Ltda, 2011.
+MINAS GERAIS. Constituição do Estado de Minas Gerais. 27. ed. Belo Horizonte:
+Assembleia Legislativa do Estado de Minas Gerais, 2021. Disponível em:
+https://www.almg.gov.br/export/sites/default/consulte/legislacao/Downloads/pdfs/Con
+stituicaoEstadual.pdf. Acesso em: 16Mar2021.
+MOURA, Eduardo. Integração das Práticas da Logística Humanitária, Gestão de
+Desastres e Plano de Auxílio Mútuo. Ponta Grossa: Universidade Tecnológica
+ederal do Paraná, 2018.
+ITO 33 – PROTEÇÃO E DEFESA CIVIL 66
+NETO, A.B.; MARGARIDA, C.; SOUZA, F.; PANCERI, R.; ALTHOFF, G.C; COSTA,
+F.P. A importância da criação e estruturação da defesa civil. Secretaria de
+Estado de Defesa Civil: Santa Catarina, 2014.
+NIMER, E. Climatologia do Brasil I - 2. ed. - Rio de Janeiro: IBGE, Departamento
+de Recursos Naturais e Estudos Ambientais, 1989. 422 p.
+ORGANIZAÇÃO DAS NAÇÕES UNIDAS - ONU - Estratégia Internacional de
+Redução de Riscos de Desastres das Nações Unidas. 2006.
+ORGANIZAÇÃO DAS NAÇÕES UNIDAS - ONU. Marco de Sendai para a Redução
+do Risco de Desastres 2015 - 2030. Sendai: ONU, 2015. Disponível em:
+http://www.defesacivil.pr.gov.br/sites/defesacivil/arquivos_restritos/files/documento/2018-12/MarcodeSendaiPortugues.pdf.
+Acesso em: 17Set2020.
+ORGANIZAÇÃO DAS NAÇÕES UNIDAS - ONU. Transformando Nosso Mundo: A
+Agenda 2030 para o Desenvolvimento Sustentável. Genebra: ONU, 2015c.
+Disponível em: https://nacoesunidas.org/wp-content/uploads/2015/10/agenda2030-
+pt-br.pdf. Acesso em: 17Set2020.
+ORGANIZAÇÃO DAS NAÇÕES UNIDAS - ONU. Report of the open ended
+intergovernmental expert working group on indicators and terminology relating
+to disaster risk reduction. Nova Iorque: ONU, 2016. Disponível
+em:https://www.preventionweb.net/files/50683_oiewgreportenglish.pdf. Acesso em:
+17Set2020.
+ORGANIZAÇÃO DAS NAÇÕES UNIDAS - ONU. Como Construir Cidades Mais
+Resilientes: Um Manual Para Líderes do Governo Local. Genebra: ONU, 2017.
+Disponível
+em:https://www.unisdr.org/campaign/resilientcities/assets/toolkit/documents/Handboo
+k%20for%20local%20government%20leaders%20%5B2017%20Edition%5D_PT_Ja
+n2019.pdf. Acesso em: 17Set2020.
+PROJETO DE FORTALECIMENTO DA ESTRATÉGIA NACIONAL DE GESTÃO
+INTEGRADA DE DESASTRES NATURAIS (PROJETO GIDES). Acordo de
+Cooperação Internacional Brasil – Japão. Manual de Planos de Contingência para
+Desastres de Movimento de Massa. Versão 1.0 Última atualização: 30/11/2018
+Brasília/DF 2018. (SEDEC, 2018)
+SOUZA, Cláudio de et al. Modelo de avaliação de risco para áreas com
+possibilidade de escorregamento iminente: uma proposta. 2015. 50 f. TCC
+(Graduação) - Curso de Curso de Habilitação de Oficiais, Academia de Bombeiros
+Militar do Estado de Minas Gerais, Belo Horizonte, 2015.
+UNIVERSIDADE FEDERAL DO RIO GRANDE DO SUL (UFRGS). Centro
+Universitário de Estudos e Pesquisas sobre Desastres. Capacitação em gestão de
+riscos. 2. ed. Porto Alegre: Secretaria Nacional de Proteção e Defesa Civil –
+SEDEC/Universidade Federal do Rio Grande do Sul – UFRGS, 2016, 270 p.
+REFERÊNCIAS 67
+UNIVERSIDADE FEDERAL DE SANTA CATARINA. Centro Universitário de Estudos
+e Pesquisas sobre Desastres. Capacitação Básica em Defesa Civil / texto Janaina
+Rocha Furtado; Marcos de Oliveira; Maria Cristina Dantas; Pedro Paulo Souza;
+Regina Panceri. - Florianópolis: CAD UFSC, 2012. 122 p. : 30 cm.
+UNIVERSIDADE FEDERAL DE SANTA CATARINA. Centro Universitário de Estudos
+e Pesquisas sobre Desastres. Gestão de riscos de desastres / texto Janaina
+Rocha Furtado. - Florianópolis: CEPED UFSC, 2012. 14 p. : il. color. ; 21 cm. –
+(Redução de Riscos de Desastres na Prática).
+ITO 33 – PROTEÇÃO E DEFESA CIVIL 68
+ANEXO I - CODIFICAÇÃO BRASILEIRA DE DESASTRES (COBRADE)
+1. NATURAIS
+GRUPO SUBGRUPO TIPO SUBTIPO DEFINIÇÃO COBRADE SIMBOLOGIA 1. Geológico
+1. Terremoto 1. Tremor de
+terra
+0 Vibrações do terreno que provocam
+oscilações verticais e horizontais na superfície
+da Terra (ondas sísmicas). Pode ser natural
+(tectônica) ou induzido (explosões, injeção
+profunda de líquidos e gás, extração de
+fluidos, alívio de carga de minas, enchimento
+de lagos artificiais).
+1.1.1.1.0
+2. Tsunami 0 Série de ondas geradas por deslocamento
+de um grande volume de água causado
+geralmente por terremotos, erupções
+vulcânicas ou movimentos de massa.
+1.1.1.2.0
+2. Emanação
+vulcânica
+0 0 Produtos/materiais vulcânicos lançados na
+atmosfera a partir de erupções vulcânicas.
+1.1.2.0.0
+3. Movimento
+de massa
+1. Quedas,
+tombamentos e
+rolamentos
+1. Blocos As quedas de blocos são movimentos rápidos
+e acontecem quando materiais rochosos
+diversos e de volumes variáveis se destacam
+de encostas muito íngremes, num movimento
+tipo queda livre.
+Os tombamentos de blocos são movimentos
+de massa em que ocorre rotação de um bloco
+de solo ou rocha em torno de um ponto ou
+abaixo do centro de gravidade da massa
+desprendida.
+Rolamentos de blocos são movimentos de
+blocos rochosos ao longo de encostas, que
+ocorrem geralmente pela perda de apoio
+(descalçamento).
+1.1.3.1.1
+2. Lascas As quedas de lascas são movimentos
+rápidos e acontecem quando fatias delgadas
+formadas pelos fragmentos de rochas se
+destacam de encostas muito íngremes, num
+movimento tipo queda livre.
+1.1.3.1.2
+3. Matacães Os rolamentos de matacães são caracterizados
+por movimentos rápidos e acontecem
+quando materiais rochosos diversos e de
+volumes variáveis se destacam de encostas e
+movimentam-se num plano inclinado.
+1.1.3.1.3
+4. Lajes As quedas de lajes são movimentos rápidos
+e acontecem quando fragmentos de rochas
+extensas de superfície mais ou menos plana
+e de pouca espessura se destacam de
+encostas muito íngremes, num movimento
+tipo queda livre.
+1.1.3.1.4
+2.
+Deslizamentos
+1. Deslizamentos de
+solo e/ou rocha
+São movimentos rápidos de solo ou rocha,
+apresentando superfície de ruptura bem definida,
+de duração relativamente curta, de massas de
+terreno geralmente bem definidas quanto ao seu
+volume, cujo centro de gravidade se desloca para
+baixo e para fora do talude. Frequentemente,
+os primeiros sinais desses movimentos são a
+presença de fissuras.
+1.1.3.2.1
+ANEXO I - CODIFICAÇÃO BRASILEIRA DE DESASTRES (COBRADE) 69
+1. NATURAIS
+GRUPO SUBGRUPO TIPO SUBTIPO DEFINIÇÃO COBRADE SIMBOLOGIA 1. Geológico
+3. Corridas de
+massa
+1. Solo/Lama Ocorrem quando, por índices pluviométricos
+excepcionais, o solo/lama, misturado com a
+água, tem comportamento de líquido viscoso, de
+extenso raio de ação e alto poder destrutivo.
+1.1.3.3.1
+2. Rocha/
+Detrito
+Ocorrem quando, por índices pluviométricos
+excepcionais, rocha/detrito, misturado com a
+água, tem comportamento de líquido viscoso, de
+extenso raio de ação e alto poder destrutivo.
+1.1.3.3.2
+4. Subsidências
+e colapsos
+0 Afundamento rápido ou gradual do terreno
+devido ao colapso de cavidades, redução da
+porosidade do solo ou deformação de material
+argiloso.
+1.1.3.4.0
+4. Erosão 1. Erosão
+costeira/Marinha
+0 Processo de desgaste (mecânico ou
+químico) que ocorre ao longo da linha da
+costa (rochosa ou praia) e se deve à ação
+das ondas, correntes marinhas e marés.
+1.1.4.1.0
+2. Erosão de
+margem fluvial
+0 Desgaste das encostas dos rios que provoca
+desmoronamento de barrancos.
+1.1.4.2.0
+3. Erosão
+continental
+1. Laminar Remoção de uma camada delgada e uniforme
+do solo superficial provocada por fluxo hídrico
+não concentrado.
+1.1.4.3.1
+2. Ravinas Evolução, em tamanho e profundidade, da
+desagregação e remoção das partículas do
+solo de sulcos provocada por escoamento
+hídrico superficial concentrado.
+1.1.4.3.2
+3. Boçorocas Evolução do processo de ravinamento, em
+tamanho e profundidade, em que a desagregação
+e remoção das partículas do solo são provocadas
+por escoamento hídrico superficial e subsuperficial
+(escoamento freático) concentrado.
+1.1.4.3.3
+2. Hidrológico
+1. Inundações 0 0 Submersão de áreas fora dos limites
+normais de um curso de água em zonas que
+normalmente não se encontram submersas.
+O transbordamento ocorre de modo gradual,
+geralmente ocasionado por chuvas prolongadas
+em áreas de planície.
+1.2.1.0.0
+2. Enxurradas 0 0 Escoamento superficial de alta velocidade
+e energia, provocado por chuvas intensas e
+concentradas, normalmente em pequenas
+bacias de relevo acidentado. Caracterizada pela
+elevação súbita das vazões de determinada
+drenagem e transbordamento brusco da calha
+fluvial. Apresenta grande poder destrutivo.
+1.2.2.0.0
+3.Alagamentos 0 0 Extrapolação da capacidade de escoamento de
+sistemas de drenagem urbana e consequente
+acúmulo de água em ruas, calçadas ou outras
+infraestruturas urbanas, em decorrência de
+precipitações intensas.
+1.2.3.0.0
+ITO 33 – PROTEÇÃO E DEFESA CIVIL 70
+1. NATURAIS
+GRUPO SUBGRUPO TIPO SUBTIPO DEFINIÇÃO COBRADE SIMBOLOGIA 3. Meteorológico
+1. Sistemas
+de grande
+escala/Escala
+regional
+1. Ciclones 1. Ventos
+costeiros
+(mobilidade
+de dunas)
+Intensificação dos ventos nas regiões
+litorâneas, movimentando dunas de areia
+sobre construções na orla.
+1.3.1.1.1
+2. Marés de
+tempestade
+(ressaca)
+São ondas violentas que geram uma maior
+agitação do mar próximo à praia. Ocorrem
+quando rajadas fortes de vento fazem subir
+o nível do oceano em mar aberto e essa
+intensificação das correntes marítimas
+carrega uma enorme quantidade de água
+em direção ao litoral. Em consequência, as
+praias inundam, as ondas se tornam maiores
+e a orla pode ser devastada alagando ruas e
+destruindo edificações.
+1.3.1.1.2
+2. Frentes
+frias/Zonas de
+convergência
+0 Frente fria é uma massa de ar frio que avança
+sobre uma região, provocando queda brusca
+da temperatura local, com período de duração
+inferior à friagem.
+Zona de convergência é uma região que está
+ligada à tempestade causada por uma zona de
+baixa pressão atmosférica, provocando forte
+deslocamento de massas de ar, vendavais,
+chuvas intensas e até queda de granizo.
+1.3.1.2.0
+2.
+Tempestades
+1. Tempestade
+local/Convectiva
+1. Tornados Coluna de ar que gira de forma violenta e
+muito perigosa, estando em contato com
+a terra e a base de uma nuvem de grande
+desenvolvimento vertical. Essa coluna de ar
+pode percorrer vários quilômetros e deixa um
+rastro de destruição pelo caminho percorrido.
+1.3.2.1.1
+2.
+Tempestade
+de raios
+Tempestade com intensa atividade elétrica
+no interior das nuvens, com grande
+desenvolvimento vertical.
+1.3.2.1.2
+3. Granizo Precipitação de pedaços irregulares de gelo. 1.3.2.1.3
+4. Chuvas
+intensas
+São chuvas que ocorrem com acumulados
+significativos, causando múltiplos desastres
+(ex.: inundações, movimentos de massa,
+enxurradas, etc.).
+1.3.2.1.4
+5. Vendaval Forte deslocamento de uma massa de ar em uma
+região.
+1.3.2.1.5
+3.
+Temperaturas
+extremas
+1. Onda de calor 0 É um período prolongado de tempo
+excessivamente quente e desconfortável, onde
+as temperaturas ficam acima de um valor normal
+esperado para aquela região em determinado
+período do ano. Geralmente é adotado um
+período mínimo de três dias com temperaturas
+5°C acima dos valores máximos médios.
+1.3.3.1.0
+ANEXO I - CODIFICAÇÃO BRASILEIRA DE DESASTRES (COBRADE) 71
+1. NATURAIS
+GRUPO SUBGRUPO TIPO SUBTIPO DEFINIÇÃO COBRADE SIMBOLOGIA 3. Meteorológico
+2. Onda de frio 1. Friagem Período de tempo que dura, no mínimo, 1.3.3.2.1
+de três a quatro dias, e os valores de
+temperatura mínima do ar ficam abaixo dos
+valores esperados para determinada região
+em um período do ano.
+2. Geadas Formação de uma camada de cristais de gelo 1.3.3.2.2
+na superfície ou na folhagem exposta.
+4. Climatológico
+1. Seca 1. Estiagem 0 Período prolongado de baixa ou nenhuma 1.4.1.1.0
+pluviosidade, em que a perda de umidade do
+solo é superior à sua reposição.
+2. Seca 0 A seca é uma estiagem prolongada, 1.4.1.2.0
+durante o período de tempo suficiente para
+que a falta de precipitação provoque grave
+desequilíbrio hidrológico.
+3. Incêndio
+florestal
+1. Incêndios
+em parques,
+áreas de
+proteção
+Propagação de fogo sem controle, em
+qualquer tipo de vegetação situada em áreas
+legalmente protegidas.
+1.4.1.3.1
+ambiental
+e áreas de
+preservação
+permanente
+nacionais,
+estaduais ou
+municipais
+2. Incêndios Propagação de fogo sem controle, em qualquer
+tipo de vegetação que não se encontre em
+áreas sob proteção legal, acarretando queda
+da qualidade do ar.
+1.4.1.3.2
+em áreas não
+protegidas,
+com reflexos
+na qualidade
+do ar
+4. Baixa umidade
+do ar
+0 Queda da taxa de vapor de água suspensa
+na atmosfera para níveis abaixo de 20%.
+1.4.1.4.0
+5. Biológico
+1. Epidemias 1. Doenças
+infecciosas virais
+0 Aumento brusco, significativo e transitório
+da ocorrência de doenças infecciosas
+1.5.1.1.0
+geradas por vírus.
+2. Doenças
+infecciosas
+bacterianas
+0 Aumento brusco, significativo e transitório da
+ocorrência de doenças infecciosas geradas
+por bactérias.
+1.5.1.2.0
+3. Doenças
+infecciosas
+parasíticas
+0 Aumento brusco, significativo e transitório da
+ocorrência de doenças infecciosas geradas
+por parasitas.
+1.5.1.3.0
+4. Doenças
+infecciosas
+fúngicas
+0 Aumento brusco, significativo e transitório da
+ocorrência de doenças infecciosas geradas
+por fungos.
+1.5.1.4.0
+ITO 33 – PROTEÇÃO E DEFESA CIVIL 72
+1. NATURAIS
+GRUPO SUBGRUPO TIPO SUBTIPO DEFINIÇÃO COBRADE SIMBOLOGIA 5. Biológico
+2. Infestações/
+Pragas
+1. Infestações de
+animais
+0 Infestações por animais que alterem o
+equilíbrio ecológico de uma região, bacia
+hidrográfica ou bioma afetado por suas
+ações predatórias.
+1.5.2.1.0
+2. Infestações de
+algas
+1.
+Marés
+vermel
+has
+Aglomeração de microalgas em água doce ou
+em água salgada suficiente para causar
+alterações físicas, químicas ou biológicas em
+sua composição, caracterizada por uma
+mudança de cor, tornando-se amarela,
+laranja, vermelha ou marrom.
+1.5.2.2.1
+2.
+Cianobactérias
+em
+reservatórios
+Aglomeração de cianobactérias em
+reservatórios receptores de descargas de
+dejetos domésticos, industriais e/ou
+agrícolas, provocando alterações das
+propriedades físicas, químicas ou biológicas da
+água.
+1.5.2.2.2
+3. Outras
+infestações
+0 Infestações que alterem o equilíbrio
+ecológico de uma região, bacia
+hidrográfica ou bioma afetado por suas
+ações predatórias.
+1.5.2.3.0
+2. TECNOLÓGICOS
+1. Desastres relacionados a substâncias radioativas
+1. Desastres
+siderais com
+riscosradioativos
+1. Queda
+de satélite
+(radionuclídeos)
+0 Queda de satélites que possuem, na sua
+composição, motores ou corpos
+radioativos, podendo ocasionar a liberação
+deste material.
+2.1.1.1.0
+2. Desastres com
+substâncias e
+equipamentos
+radioativos de uso
+em pesquisas,
+indústrias e usinas
+nucleares
+1. Fontes
+radioativas em
+processos de
+produção
+0 Escapamento acidental de radiação que
+excede os níveis de segurança
+estabelecidos na norma NN 3.01/006:2011 da
+CNEN.
+2.1.2.1.0
+3. Desastres
+relacionados com
+riscos de intensa
+poluição ambiental
+provocada por
+resíduos
+radioativos
+1. Outras fontes
+de liberação de
+radionuclídeos
+para o meio
+ambiente
+0 Escapamento acidental ou não acidentalde
+radiação originária de fontes radioativas
+diversas e que excede os níveis de
+segurança estabelecidos na norma NN
+3.01/006:2011 e NN 3.01/011:2011 da
+CNEN.
+2.1.3.1.0
+2. Desastres relacionados a produtos
+perigosos
+1. Desastres em
+plantas e distritos
+industriais,
+parquese
+armazenamentos
+com
+extravasamento
+deprodutos
+perigosos
+1. Liberação
+de produtos
+químicos para
+a atmosfera
+causada por
+explosão ou
+incêndio
+0 Liberação de produtos químicos diversos
+para o ambiente, provocada por explosão/
+incêndio em plantas industriais ou outros
+sítios.
+2.2.1.1.0
+ANEXO I - CODIFICAÇÃO BRASILEIRA DE DESASTRES (COBRADE) 73
+2. TECNOLÓGICOS
+GRUPO SUBGRUPO TIPO SUBTIPO DEFINIÇÃO COBRADE SIMBOLOGIA 2. Desastres relacionados a produtos perigosos
+2. Desastres
+relacionados à
+contaminação
+da água
+1. Liberação
+de produtos
+químicos nos
+sistemas de
+água potável
+0 Derramamento de produtos químicos
+diversos em um sistema de abastecimento
+de água potável, que pode causar alterações
+nas qualidades físicas, químicas, biológicas.
+2.2.2.1.0
+2. Derramamento
+de produtos
+químicos em
+ambiente lacustre,
+fluvial, marinho e
+aquífero
+0 Derramamento de produtos químicos
+diversos em lagos, rios, mar e reservatórios
+subterrâneos de água, que pode causar
+alterações nas qualidades físicas, químicas e
+biológicas.
+2.2.2.2.0
+3.
+Desastres
+relacionado
+sa conflitos
+bélicos
+1. Liberação de
+produtos químicos
+e contaminação
+como
+consequência de
+ações militares
+0 Agente de natureza nuclear ou radiológica,
+química ou biológica, considerado
+como perigoso, e que pode ser utilizado
+intencionalmente por terroristas ou
+grupamentos militares em atentados ou em
+caso de guerra.
+2.2.3.1.0
+4.
+Desastres
+relacionado
+sa
+transporte
+de produtos
+perigosos
+1. Transporte
+rodoviário
+0 Extravasamento de produtos perigosos
+transportados no modal rodoviário.
+2.2.4.1.0
+2. Transporte
+ferroviário
+0 Extravasamento de produtos perigosos
+transportados no modal ferroviário.
+2.2.4.2.0
+3. Transporte
+aéreo
+0 Extravasamento de produtos perigosos
+transportados no modal aéreo.
+2.2.4.3.0
+4. Transporte
+dutoviário
+0 Extravasamento de produtos perigosos
+transportados no modal dutoviário.
+2.2.4.4.0
+5. Transporte
+marítimo
+0 Extravasamento de produtos perigosos
+transportados no modal marítimo.
+2.2.4.5.0
+6. Transporte
+aquaviário
+0 Extravasamento de produtos perigosos
+transportados no modal aquaviário.
+2.2.4.6.0
+3. Desastres relacionados a incêndios urbanos
+1.
+Incêndios
+urbanos
+1. Incêndios em
+plantas e distritos
+industriais,
+parques e
+depósitos
+0 Propagação descontrolada do fogo em
+plantas e distritos industriais, parques e
+depósitos.
+2.3.1.1.0
+2. Incêndios em
+aglomerados
+residenciais
+0 Propagação descontrolada do fogo em
+conjuntos habitacionais de grande densidade.
+2.3.1.2.0
+ITO 33 – PROTEÇÃO E DEFESA CIVIL 74
+GRUPO SUBGRUPO TIPO SUBTIPO DEFINIÇÃO COBRADE SIMBOLOGIA 4. Desastres relacionados a obras civis
+1. Colapso de
+edificações
+0 0 Queda de estrutura civil. 2.4.1.0.0
+2.
+Rompimento/
+colapso de
+barragens
+0 0 Rompimento ou colapso de barragens. 2.4.2.0.0
+5. Desastres relacionados a transporte de passageiros e cargas não perigosas
+1. Transporte
+rodoviário
+0 0 Acidente no modal rodoviário envolvendo
+o transporte de passageiros ou cargas não
+perigosas.
+2.5.1.0.0
+2. Transporte
+ferroviário
+0 0 Acidente com a participação direta de veículo
+ferroviário de transporte de passageiros ou
+cargas não perigosas.
+2.5.2.0.0
+3. Transporte
+aéreo
+0 0 Acidente no modal aéreo envolvendo o
+transporte de passageiros ou cargas não
+perigosas.
+2.5.3.0.0
+4. Transporte
+marítimo
+0 0 Acidente com embarcações marítimas
+destinadas ao transporte de passageiros e
+cargas não perigosas.
+2.5.4.0.0
+5. Transporte
+aquaviário
+0 0 Acidente com embarcações destinadas ao
+transporte de passageiros e cargas não
+perigosas.
+2.5.5.0.0
+Quartel em Belo Horizonte, 26 de julho de 2022
+(a) Erlon Dias do Nascimento Botelho, Coronel BM
+Chefe do Estado Maior
+ANEXO II - CATEGORIZAÇÃO DO RISCO GEOLÓGICO 75
+ANEXO II - CATEGORIZAÇÃO DO RISCO GEOLÓGICO
+Uma vez que os movimentos de massa ocorrem de forma súbita, não é possível
+prever a data e os horários que ocorrerão os eventos, contudo, é possível delimitar
+as áreas com maior probabilidade de ocorrência desse fenômeno nos locais de
+ocupação humana. Para tal, algumas informações são importantes:
+a) o levantamento de informações das áreas de encosta já ocupadas e o
+histórico de deslizamentos destes locais junto à comunidade permite
+entender o cenário instalado;
+b) visitas ao local, coleta de informações, vistoria das áreas de interesse de
+monitoramento operacional atentando para uma correta leitura e
+interpretação dos sinais que o ambiente oferece são fundamentais para
+permitir uma adequada setorização do risco. Dentre os principais fatores a se
+observar nas áreas de encosta, destacam-se:
+- muros deformados, árvores e postes inclinados: indício de movimento
+lento do solo em que estruturas podem ser deformadas. Importante,
+pois podem resultar num futuro deslizamento de terra;
+Figura 5 - Árvores “inclinadas”
+Fonte: Coordenadoria Estadual de Defesa Civil/CEDEC MG.
+ITO 33 – PROTEÇÃO E DEFESA CIVIL 76
+- degraus de abatimento e trincas no solo: trincas no solo indicam que
+ele está se movimentando. Se a residência foi construída na metade
+do morro, deve-se procurar sinais nos fundos da casa e, também, na
+parte frontal, Figura 6;
+Figura 6 - Degraus de abatimento e trincas no solo
+Fonte: SGB - CPRM.
+OBS.: a presença de fragmentos de rocha que podem se desprender constituem os
+“rolamentos de matacões”, Figura 7. Caracterizam-se por blocos de rochas com
+potencial para atingir locais habitados. É aconselhável o desmonte, contudo, em
+caso de impossibilidade, deve haver um monitoramento constante para avaliar o
+surgimento de erosão na base da rocha, principalmente após episódios de chuvas
+intensas. Figura 7 - Rolamento de Matacão
+ANEXO II - CATEGORIZAÇÃO DO RISCO GEOLÓGICO 77
+Fonte: Ministério das Cidades e Mineriopar, 1993
+- cortes muito verticais em encostas: normalmente taludes muito
+inclinados aumentam a possibilidade de deslizamentos. Taludes de
+corte são mais propensos à instabilidade do que as encostas naturais;
+Figura 8 - Cortes muito verticais em encostas
+Fonte: Coordenadoria Estadual de Defesa Civil/CEDEC MG
+- lançamento de água servida, sistema de drenagem insuficiente ou
+vazamentos na tubulação: são águas de uso em que o morador
+descarta diretamente na encosta onde a casa está construída. O perigo
+ITO 33 – PROTEÇÃO E DEFESA CIVIL 78
+é a umidificação incessante do solo que pode resultar em
+deslizamentos em períodos de chuva;
+- presença de bananeiras e/ou área desmatada: as bananeiras não
+possuem raízes profundas e são pesadas, o que faz aumentar a
+sobrecarga do terreno em que estão plantadas. As áreas desmatadas,
+por sua vez, possuem uma maior vulnerabilidade para a penetração de
+água provinda de precipitações pluviométricas, que provocam
+superfícies de erosão mais acentuadas nos terrenos e encostas;
+- trincas e abatimentos em residências: são trincas normalmente em 45
+graus que indicam a movimentação do solo, Figura 9. Em alguns
+casos, pode aparecer recalque no piso da casa. Dependendo da
+gravidade da situação, é necessária a interdição imediata da
+residência.
+Figura 9 - Trincas e abatimentos em residências
+Fonte: CBMMG.
+- proximidade da residência com a encosta/talude/aterro lançado: é
+necessário que se examine caso a caso, com um profissional que
+possua responsabilidade técnica na área de engenharia civil, a fim de
+ANEXO II - CATEGORIZAÇÃO DO RISCO GEOLÓGICO 79
+aferir o risco que a residência possui, pela proximidade com a
+encosta/talude/aterro analisado;
+- verificação do padrão construtivo da residência: casas de alvenaria tem
+maior resistência do que casas de madeira e, portanto, tendem a ser
+menos vulneráveis;
+- histórico de deslizamentos: para consulta, moradores que residem na
+área há mais tempo, notícias de veículos de comunicação locais ou
+registros oficiais dos órgãos públicos servem como fonte de pesquisa.
+- demais processos erosivos e indícios que levem à suspeita de
+instabilidade no terreno: 1) Trincas no solo, em especial na parte
+superior do talude; 2) Blocos ou lascas de rochas soltas; 3) Água
+minando na base do talude; 4) Rachaduras nas paredes e pisos das
+moradias; 5) Árvores, postes e paredes inclinadas; 6) Muros
+encurvados (Cemaden, 2016).
+c) de posse de material para anotação, notebook e GPS, as residências
+consideradas de risco alto e muito alto deverão ser georreferenciadas, os
+riscos associados deverão ser identificados, o número de pessoas vulneráveis
+àqueles riscos deverá ser estimado e, por fim, o endereço das residências de
+maior risco deverá ser anotado;
+d) nessa etapa, por meio da associação da vulnerabilidade e ameaças
+encontradas, indica-se o grau de risco, com a metodologia aplicada pelo
+então Ministério das Cidades. Deste modo, a partir das informações coletadas
+em campo, classifica-se o risco em quatro categorias e, para cada uma,
+medidas pertinentes são observadas, conforme descrição abaixo.
+R1 – Baixo ou sem risco: nenhuma ação momentânea;
+R2 – Médio: manter o local em observação;
+R3 – Alto: manter o local em observação especialmente após episódios de chuva;
+R4 – Muito Alto: providência imediata.
+ITO 33 – PROTEÇÃO E DEFESA CIVIL 80
+Quadro 5 - Graus da Categorização do Risco Geológico
+3 Grau de
+Probabilidade
+Descrição
+4 Baixo ou sem
+risco
+R1
+1 – os condicionantes geológicos-geotécnicos predisponentes (inclinação,
+tipo de terreno, etc.) e o nível de intervenção no setor são de baixa ou
+nenhuma potencialidade para o desenvolvimento dos processos de
+escorregamentos ou solapamentos;
+2 – não se observa(m) sinais/feição/evidência(s) de instabilidade. Não há
+indícios de desenvolvimento de processos de instabilização de encostas e
+de margens de drenagens;
+3 – mantidas as condições existentes não se espera a ocorrência de
+eventos destrutivos no período compreendido por uma estação chuvosa
+normal.
+Médio
+R2
+1 – os condicionantes geológicos-geotécnicos predisponentes (inclinação,
+tipo de terreno etc.) e o nível de intervenção no setor são média ou
+nenhuma potencialidade para o desenvolvimento dos processos de
+escorregamentos ou solapamentos;
+2 – observa-se a presença de algum(s) sinal/feição/evidência(s) de
+instabilidade (encostas e margens de drenagens), porém incipiente(s).
+Processo de instabilização em estágio inicial de desenvolvimento;
+3 – mantida as condições existentes, é reduzida a possibilidade de
+ocorrência de eventos destrutivos durante episódios de chuvas intensas e
+prolongadas, no período compreendido por uma estação chuvosa.
+Alto
+R3
+1 - os condicionantes geológicos-geotécnicos predisponentes (inclinação,
+tipo de terreno etc.) e o nível de intervenção no setor são alta ou nenhuma
+potencialidade para o desenvolvimento dos processos de
+escorregamentos ou solapamentos;
+2- observa-se a presença de significativo(s) sinal/feição/evidência(s) de
+instabilidade (encostas e margens de drenagens), porém incipiente(s).
+Processo de instabilização em pleno desenvolvimento, ainda sendo
+possível monitorar a evolução do processo;
+3 – mantida as condições existentes, é perfeitamente possível a
+ocorrência de eventos destrutivos durante episódios de chuvas intensas e
+prolongadas, no período compreendido por uma estação chuvosa.
+Muito Alto
+R4
+1 - os condicionantes geológicos-geotécnicos predisponentes (inclinação,
+tipo de terreno, etc.) e o nível de intervenção no setor são muito alta ou
+nenhuma potencialidade para o desenvolvimento dos processos de
+escorregamentos ou solapamentos;
+ANEXO II - CATEGORIZAÇÃO DO RISCO GEOLÓGICO 81
+2- os sinais/feições/evidências de instabilidade (trincas no solo, degraus
+de abatimento em taludes, trincas em moradias ou em muros de
+contenção, árvores ou postes, inclinados, cicatrizes, de escorregamento,
+feições erosivas, proximidade das moradias em relação às margens de
+córregos, etc.) são expressivas e estão presentes em grande número ou
+magnitude. Processo de instabilização em avançado estágio de
+desenvolvimento, ainda sendo possível monitorar a evolução do processo;
+3 – mantida as condições existentes, é provável a ocorrência de eventos
+destrutivos durante episódios de chuvas intensas e prolongadas, no
+período compreendido por uma estação chuvosa.
+Fonte: Capacitação em Mapeamento e Gerenciamento de Risco - Ministério das Cidades, 2006
+(adaptado).
+Quartel em Belo Horizonte, 26 de julho de 2022
+(a) Erlon Dias do Nascimento Botelho, Coronel BM
+Chefe do Estado Maior
+ITO 33 – PROTEÇÃO E DEFESA CIVIL 82
+ANEXO III - CATEGORIZAÇÃO DO RISCO HIDROLÓGICO DE INUNDAÇÃO
+Para ocupações urbanas sujeitas a inundações, os parâmetros, os critérios de
+análise e de classificação de riscos a este tipo de processo devem ser seguidos.
+Para a análise dos cenários de risco e potencial destrutivo dos processos
+hidrológicos ocorrentes devemos:
+a) o primeiro critério de análise se refere à identificação do cenário hidrológico
+presente em cada área a ser investigada. Nesse sentido, e de forma
+orientativa, pode-se considerar as tipologias de processos hidrológicos
+referentes aos respectivos cenários de risco anteriormente descritos,
+conforme descrito no Quadro 6:
+Quadro 6 - Tipologia de processos hidrológicos
+Processo Tipo de inundação Código
+Processo hidrológico 1 Inundação lenta de planícies fluviais C1
+Processo hidrológico 2 Inundação com alta energia cinética C2
+Processo hidrológico 3
+Inundação com alta energia de escoamento e
+capacidade de transporte de material sólido
+C3
+Fonte: Capacitação em Mapeamento e Gerenciamento de Risco.
+(Ministério das Cidades, 2006 (adaptado)).
+1ª OBS.: após identificar e delimitar a área de risco, deve-se gerar produtos
+cartográficos cadastrais ou imagens com escalas maiores em que seja possível
+visualizar cada moradia individualmente, tais como fotos aéreas produzidas por
+drones ou aeronaves.
+2ª OBS.: para cada um dos processos hidrológicos ocorrentes será utilizado um
+critério de análise e de periculosidade, tendo em vista que variam em função da sua
+magnitude, energia de escoamento, raio de alcance lateral, extensão e impacto
+destrutivo, causando danos sociais e econômicos.
+b) segundo critério é a análise da vulnerabilidade da ocupação urbana presente
+em cada área de risco. A avaliação da vulnerabilidade compreende a análise
+ANEXO III - CATEGORIZAÇÃO DO RISCO HIDROLÓGICO DE INUNDAÇÃO 83
+do padrão construtivo, considerando basicamente duas tipologias
+construtivas, conforme demonstra o Quadro 7;
+Quadro 7 - Vulnerabilidade e tipologia construtiva
+Vulnerabilidade Tipologia construtiva Simbologia
+Alta
+Baixo padrão construtivo em que predominam moradias
+construídas com madeira, madeirite e restos de material
+com baixa capacidade de resistir ao impacto de
+processos hidrológicos.
+V1
+Baixa
+Médio a bom padrão construtivo em que predominam
+moradias construídas em alvenaria com boa capacidade
+de resistir ao impacto de processos hidrológicos.
+V2
+Fonte: Capacitação em Mapeamento e Gerenciamento de Risco.
+(Ministério das Cidades, 2006 (adaptado)).
+c) o terceiro critério a ser adotado na classificação é o da análise da distância
+das moradias ao eixo da drenagem, no qual devemos considerar o tipo de
+processo que ocorre na área e seu respectivo raio de alcance, conforme
+explicita o Quadro 8;
+Quadro 8 - Intensidade da periculosidade em relação ao impacto direto
+Intensidade da
+periculosidade
+Intensidade do impacto Simbologia
+Alta
+Alta possibilidade de impacto direto considerando o raio de
+alcance do processo.
+P1
+Baixa
+Baixa possibilidade de impacto direto considerando o raio
+de alcance do processo.
+P2
+Fonte: Capacitação em Mapeamento e Gerenciamento de Risco.
+(Ministério das Cidades, 2006 (adaptado)).
+d) o quarto critério é decorrente da análise e avaliação dos 03 (três) critérios
+anteriores que estabelecerão os níveis de risco que ficam definidos em 04
+(quatro) categorias:
+ITO 33 – PROTEÇÃO E DEFESA CIVIL 84
+- Risco Muito Alto (MA);
+- Risco Alto (A);
+- Risco Médio (M);
+- Risco Baixo (B).
+A seguir, a análise de risco de inundações, segundo os 3 (três) critérios adotados
+nos Quadros 9 e 10, são descritos:
+Quadro 9 - Grau de risco preliminar segundo arranjo entre cenários hidrológicos e vulnerabilidades
+das habitações.
+Risco Processo hidrológico
+Vulnerabilidade C1 C2 C3
+V1 M A MA
+V2 B M A
+Fonte: Capacitação em Mapeamento e Gerenciamento de Risco.
+(Ministério das Cidades, 2006, (adaptado)
+Quadro 10 - Grau de risco final segundo arranjo a inter-relação dos cenários hidrológicos,
+vulnerabilidade das habitações e periculosidade
+Risco
+Vulnerabilidade X Alta periculosidade (P1) Baixa periculosidade (P2)
+Cenário hidrológico
+C1 x V1 M B
+C1 X V2 B B
+C2 x V1 A M
+C2 x V2 M B
+C3 x V1 MA A
+C3 x V2 A M
+Fonte: Capacitação em Mapeamento e Gerenciamento de Risco.
+(Ministério das Cidades, 2006, (adaptado)).
+ANEXO III - CATEGORIZAÇÃO DO RISCO HIDROLÓGICO DE INUNDAÇÃO 85
+A partir do quadro 10, quatro classificações de risco podem ser estabelecidas, com
+os seguintes cenários:
+I - Cenário de risco muito alto (MA) – Risco R4:
+a) inundações com alta energia cinética e alta capacidade de transporte de
+material sólido e elevado poder destrutivo (C3) atingindo moradias de baixo
+padrão construtivo (V1), situadas em área com alta possibilidade de impacto
+direto do processo (P1).
+II - Cenários de risco alto (A) – Risco R3:
+a) inundações com alta energia cinética e alta capacidade de transporte de
+material sólido e elevado poder destrutivo (C3) atingindo moradias de baixo
+padrão construtivo (V1), situadas em área com baixa possibilidade de
+impacto direto do processo (P2);
+b) inundações com alta energia cinética e alta capacidade de transporte de
+material sólido e elevado poder destrutivo (C3) atingindo moradias de bom
+padrão construtivo (V2), situadas em área com alta possibilidade de impacto
+direto do processo (P1);
+c) inundações com alta energia cinética e alto poder destrutivo (C2) atingindo
+moradias de baixo padrão construtivo (V1), situadas em área com alta
+possibilidade de impacto direto do processo (P1).
+III - Cenários de risco médio (M) – Risco R2
+a) inundações com alta energia cinética e alta capacidade de transporte de
+material sólido e elevado poder destrutivo (C3) atingindo moradias de bom
+padrão construtivo (V2), situadas em área com baixa possibilidade de
+impacto direto do processo (P2);
+b) inundações com alta energia cinética e alto poder destrutivo (C2) atingindo
+moradias de baixo padrão construtivo (V1), situadas em área com alta
+possibilidade de impacto direto do processo (P2);
+ITO 33 – PROTEÇÃO E DEFESA CIVIL 86
+c) inundações com alta energia cinética e alto poder destrutivo (C2) atingindo
+moradias de bom padrão construtivo (V2), situadas em área com alta
+possibilidade de impacto direto do processo (P1);
+d) inundações com baixa energia cinética e baixo poder destrutivo (C1);
+e) atingindo moradias de baixo padrão construtivo (V1), situadas em área com
+alta possibilidade de impacto direto do processo (P1).
+IV - Cenários de risco baixo – Risco R1:
+a) inundações com baixa energia cinética e baixo poder destrutivo (C1)
+atingindo moradias de bom padrão construtivo (V2), situadas em área com
+alta possibilidade de impacto direto do processo (P1);
+b) inundações com baixa energia cinética e baixo poder destrutivo (C1)
+atingindo moradias de baixo padrão construtivo (V2), situadas em área com
+baixa possibilidade de impacto direto do processo (P2);
+c) inundações com baixa energia cinética e baixo poder destrutivo (C1)
+atingindo moradias de baixo padrão construtivo (V1), situadas em área com
+baixa possibilidade de impacto direto do processo (P2);
+d) inundações com alta energia cinética e alto poder destrutivo (C2) atingindo
+moradias de bom padrão construtivo (V2), situadas em área com baixa
+possibilidade de impacto direto do processo (P2).
+Quartel em Belo Horizonte, 26 de julho de 2022
+(a) Erlon Dias do Nascimento Botelho, Coronel BM
+Chefe do Estado Maior
+ANEXO IV - CATEGORIZAÇÃO DO RISCO HIDROLÓGICO DE ENXURRADA 87
+ANEXO IV - CATEGORIZAÇÃO DO RISCO HIDROLÓGICO DE ENXURRADA
+Nas áreas sujeitas à enxurrada, é necessária a identificação das ruas e vias de
+acessos em que há movimento brusco de água ou histórico de carros e pessoas
+arrastadas e, juntamente com a Defesa Civil do município, mapear o risco, devendo
+considerar o Risco Muito Alto (R4) e o Risco Alto (R3) para estas situações.
+Conforme estudos, não há uma referência clara sobre o grau de risco de
+enxurradas em determinado local e devem ser considerados registros históricos de
+pessoas e carros arrastados, densidade populacional na área e magnitude da
+enxurrada para o mapeamento.
+Uma vez estabelecido o grau de risco, as Unidades do CBMMG devem propor
+medidas de prevenção, juntamente com a Defesa Civil e/ou Prefeitura Municipal,
+para orientar a comunidade a evitar as áreas mapeadas e, ainda: incentivar a
+instalação de placas de aviso; realizar o monitoramento da elevação dos níveis das
+águas por meio de voluntários da comunidade previamente capacitados e treinados,
+conceder autonomia para que voluntários da própria comunidade façam o
+isolamento da área atingida, providenciar a instalação de câmeras e liberação das
+imagens para permitir que autoridades e população observem o local e a instalação
+de alarmes e sirenes para alertar a população da localidade, com possível envio de
+mensagem de celular.
+Quartel em Belo Horizonte, 26 de julho de 2022
+(a) Erlon Dias do Nascimento Botelho, Coronel BM
+Chefe do Estado-Maior
+ITO 33 – PROTEÇÃO E DEFESA CIVIL 88
+ANEXO V - CATEGORIZAÇÃO DO RISCO HIDROLÓGICO DE ALAGAMENTO
+Nas áreas sujeitas a alagamentos, deve-se identificar ruas e vias de acesso com
+histórico de acumulação de água e/ou alagamentos, para verificar as
+vulnerabilidades locais e os impactos decorrentes destes eventos.
+Durante o mapeamento de riscos, a GuBM deve verificar, nos locais sujeitos a
+alagamentos, a existência de prédios com garagens subterrâneas, escolas, postos
+de saúde e residências com potencial risco de dano. Os registros destes imóveis
+devem ser mantidos no modelo de mapeamento proposto junto ao município.
+Para o mapeamento dos riscos, deve-se buscar os históricos de eventos anteriores
+no local vistoriado por meio de entrevistas com moradores e pesquisa junto à
+Prefeitura Municipal para que os locais e pontos críticos sejam identificados. Nestes
+estudos, locais que sofrem com alagamentos, devem ser classificados em Risco
+Muito Alto (R4) e Risco Alto (R3).
+As Unidades do CBMMG, uma vez estabelecido o grau de risco, devem propor
+medidas de prevenção, juntamente com a Defesa Civil e/ou Prefeitura Municipal,
+para orientar a comunidade a evitar as áreas mapeadas e, também, estimular a
+instalação de placas de aviso, o monitoramento da elevação dos níveis das águas
+por meio de voluntários da comunidade previamente capacitados e treinados, a
+concessão de autonomia para que voluntários da própria comunidade façam o
+isolamento da área atingida, a instalação de câmeras e liberação das imagens para
+permitir que autoridades e população observem o local e a instalação de alarmes e
+sirenes para alertar a população da localidade, com possível envio de mensagem de
+celular.
+Quartel em Belo Horizonte, 26 de julho de 2022
+(a) Erlon Dias do Nascimento Botelho, Coronel BM
+Chefe do Estado-Maior
+ANEXO VI - ORIENTAÇÕES PARA DECRETAÇÃO DE SITUAÇÃO DE ANORMALIDADE 89
+ANEXO VI - ORIENTAÇÕES PARA DECRETAÇÃO DE SITUAÇÃO DE
+ANORMALIDADE
+Quadro 11 - Passo a passo para acesso ao S2ID e para o preenchimento dos formulários
+obrigatórios
+ACESSO AO S2ID
+CADASTRO
+O Coordenador deverá entrar no site
+https://s2id.mi.gov.br, e clicar em “não possuo
+cadastro” (no local destinado ao preenchimento dos
+dados para o login no sistema) e baixar o modelo
+de ofício para solicitar senha. Depois de assinado
+pelo prefeito o arquivo deverá ser digitalizado e
+anexado no mesmo link, onde então preencherá
+seus dados e criará sua própria senha, que será
+habilitada pela Secretaria Nacional de Proteção e
+Defesa Civil – SEDEC.
+Se o coordenador já tem
+cadastro e esqueceu a senha,
+deverá clicar no item “esqueci a
+senha”.
+PROBLEMAS COM
+SENHA
+A habilitação da senha compete à Secretaria
+Nacional de Proteção e Defesa Civil, o Estado não
+tem essa autonomia.
+Fone: 0800-644-0199 (Plantão
+24h - CENAD)
+SE JÁ POSSUI
+SENHA
+Na primeira página terá uma atualização de
+cadastro, depois clique em avançar, selecione o
+ícone “Registro e Reconhecimento”, e na próxima
+tela clique em “novo Registro”.
+A Portaria GM/MI n. 526, de 6 de
+setembro de 2012, tornou
+obrigatório o uso do S2ID para a
+tramitação dos processos de
+solicitação de reconhecimento
+federal. Logo, Estado e União
+não aceitam documentos
+impressos enviados por correio.
+FORMULÁRIOS
+FIDE
+CAMPO
+1: Identificação
+Identificação do município e população será automática,
+conforme cadastro do usuário, o PIB e Arrecadação Anual
+deve ser a apuração do ano anterior, o orçamento será o
+que foi aprovado na Lei Orçamentária Municipal, e RCL
+anual e mensal.
+2: COBRADE
+Tipificação – COBRADE: deve ser a mesma do decreto,
+não podendo usar mais de uma, se o evento adverso
+impactar o ente federado ocasionando mais de um tipo de
+desastre simultaneamente o Estado/Município deverá
+utilizar o código do desastre que causou maiores danos
+e/ou prejuízos.
+3: Data de
+Ocorrência
+Não deve ser posterior a data do decreto e demais
+documentos. Quando o desastre for gradual (ex.: seca), a
+data do desastre deverá ser a mesma data do decreto.
+4: Área Afetada
+Verificar se a área afetada está coerente com o restante
+dos documentos contidos no processo. Na descrição,
+separar o que faz parte da área rural e o que faz parte da
+área urbana.
+5: Causas e
+Efeitos do
+Desastre
+Descrever o evento que causou o desastre e suas
+características, não colocar danos ou prejuízos neste
+campo.
+ITO 33 – PROTEÇÃO E DEFESA CIVIL 90
+6: Danos
+Humanos
+Contabilizar todas as pessoas que de alguma forma foram
+afetadas, ou seja, prejudicadas pelo desastre, não apenas
+as que perderam suas posses ou sofreram ferimentos.
+Incluir aquelas pessoas que de alguma forma tiveram que
+mudar sua rotina ou se adequar em função do desastre.
+7: Danos
+Materiais
+Informar a quantidade e valores dos danos para sua
+recuperação ou reconstrução. No campo da descrição
+colocar informações de cada item. Incluir relatório detalhado
+das informações declaradas neste campo. Necessário
+relatório técnico assinado por um engenheiro.
+8: Danos
+Ambientais
+Preencher de acordo com porcentagem da população com
+atenção para não ficar incoerente com o número de
+pessoas afetadas informadas no campo de Danos
+Humanos, e se o Dano está em acordo com o tipo de
+desastre informado. Na descrição, em caso de exaurimento
+hídrico, informar quantas pessoas estão dependendo
+exclusivamente do abastecimento por carro pipa.
+9: Prejuízos
+Econômicos
+públicos
+Os valores deste campo se referem aos valores para
+restabelecimento dos serviços, de forma provisória, e não
+para recuperação do bem. Os valores devem ser
+comprovados com Laudos ou Relatórios assinados pelo
+prefeito. As fotos do relatório fotográfico devem estabelecer
+relação com os gastos. Na descrição do campo, inserir
+detalhes e quantidade de maquinário “X” dias “X” mão de
+obra utilizada etc.
+10: Prejuízos
+Econômicos
+Privados
+Os valores deste campo devem ser apurados pelos órgãos
+competentes, como por exemplo o relatório da Emater, que
+informa os prejuízos na pecuária e agricultura. Indústria e
+Comércio por relatórios de associações, como exemplo a
+CDL (Câmara de Dirigentes Lojistas).
+DMATE
+Preencher demonstrando as medidas e ações em curso, capacidade de atuação
+e recursos humanos, materiais, institucionais e financeiros empregados pelo
+ente federado afetado para o restabelecimento da normalidade;
+As principais dúvidas no preenchimento são:
+Campo 1: Os prejuízos econômicos públicos desse desastre foram separados
+dos privados? Essa pergunta é uma “pegadinha”, pois é necessário que sejam
+separados no FIDE, então obrigatoriamente a resposta deverá ser “sim”;
+Campo 4: Há sempre dúvidas entre o campo 4.1 e 4.2, o primeiro se trata de
+recursos humanos, e o segundo recursos materiais empregados, não misturar
+ou confundir;
+Observar se as informações contidas no DMATE, não estão discrepantes ou
+contraditórias das informações contidas no FIDE.
+RELATÓRIO
+FOTOGRÁFICO
+Na Aba 3 do S2ID, clicar em inserir imagem, depois descrever a situação
+retratada nas imagens anexadas e sua relação com o desastre, bem como o
+nome da localidade onde foi fotografada. As fotos devem ser datadas, com boa
+resolução, georreferenciadas e que, obrigatoriamente, demonstrem a relação
+direta com os prejuízos econômicos e, quando possível, com os danos
+declarados no FIDE. Para inserir mais fotos, basta clicar no mini botão de soma
+(+), à esquerda da tela, seguindo o mesmo padrão. Exemplos de fotos:
+Estiagem: fotos com de abastecimento de água potável, plantações perdidas,
+pastos secos, rios e córregos secos. Chuva: casas e/ou instituições, estradas,
+pontes e bueiros danificados ou destruídos, pessoas em abrigos, atendimentos
+emergenciais, locais alagados, etc.
+ANEXO VI - ORIENTAÇÕES PARA DECRETAÇÃO DE SITUAÇÃO DE ANORMALIDADE 91
+PARECER DO
+COORDENADOR DE
+DEFESA CIVIL
+O Parecer deverá anteceder ao decreto municipal, não podendo a data ser
+posterior à data do decreto, pois seu papel é apresentar uma análise
+fundamentada da situação pós-evento e sugerir ou não a decretação, conforme
+modelo sugerido no S2ID na aba de “modelos de documentos”. O Coordenador
+Municipal de Proteção e Defesa Civil (COMPDEC) é quem deverá assinar este
+documento. Incluir os danos e os prejuízos informados no Fide, conforme o
+desastre declarado.
+DECRETO
+MUNICIPAL DE S.E OU
+C.P
+Na aba 5 “modelos de documentos”, do S2ID, está disponível o modelo de
+decreto municipal, porém ele deverá ser adequado a cada tipo de desastre.
+A data do decreto para desastres súbitos (ex: chuvas) é de até 10 dias
+contados a partir da data de ocorrência do desastre. E a data do decreto para
+desastres graduais (ex: seca) deverá ser a mesma data da ocorrência
+informada no FIDE.
+Para envio do processo no S2ID solicitando reconhecimento Estadual e/ou
+reconhecimento Federal, há um prazo para desastres súbitos de 10 dias da
+data do desastre (data da ocorrência), para desastres graduais de 10 dias da
+data do decreto.
+O decreto não deve conter mais de uma COBRADE, deverá prevalecer o
+evento que causou maior impacto. Exemplo, no mesmo dia houve enxurrada e
+chuva de granizo, deve-se optar por um, e mencionar o outro no
+“considerando” do decreto. A Lei Federal 12.608 de 10 de abril de 2012 e a Lei
+Orgânica Municipal deverão ser mencionadas no primeiro parágrafo.
+O decreto será de Situação de Emergência ou Estado de Calamidade Pública,
+observando os níveis de desastre correspondente, sendo que:
+● Os desastres de nível I e II ensejam a decretação de situação de
+emergência, enquanto os desastres de nível III a de estado de
+calamidade pública;
+● Desastres de Nível I ou de pequena intensidade: aqueles em que há
+danos humanos, materiais e ambientais além de prejuízos econômicos
+e sociais, mas que a situação de normalidade pode ser restabelecida
+com os recursos mobilizados a nível local, por meio do emprego de
+medidas administrativas excepcionais previstas na ordem jurídica;
+● Desastres de Nível II ou de média intensidade: aqueles em que há
+danos humanos, materiais e ambientais além de prejuízos econômicos
+e sociais EXPRESSIVOS e que a situação de normalidade precisa ser
+restabelecida com os recursos mobilizados em nível local e
+COMPLEMENTADOS com o aporte de recursos dos demais entes
+federativos; e
+DECRETO
+MUNICIPAL DE S.E
+OU C.P
+● Desastres de Nível III ou de grande intensidade: aqueles em que há
+VULTOSOS danos humanos, materiais e ambientais além de prejuízos
+econômicos e sociais, com SÉRIO e RELEVANTE comprometimento do
+funcionamento das instituições públicas locais ou regionais, IMPONDOSE a mobilização e a ação coordenada das três esferas de atuação do
+Sistema Nacional de Proteção e Defesa Civil, e, eventualmente de ajuda
+internacional, para o restabelecimento da situação de normalidade.
+Nota: No caso de desastres classificados no nível I, o ente federado atingido
+não deverá encaminhar requerimento para o reconhecimento estadual ou
+federal, sendo mantida a necessidade de se proceder ao registro do desastre no
+sistema informatizado disponibilizado pelo Ministério do Desenvolvimento
+Regional.
+ITO 33 – PROTEÇÃO E DEFESA CIVIL 92
+OFÍCIO DE
+SOLICITAÇÃO DE
+RECONHECIMENTO
+Na aba 5 “modelos de documentos” do S2ID, há um modelo de ofício. O ofício
+deve explicitar:
+● As razões pelas quais o prefeito municipal deseja o reconhecimento;
+● Necessidade comprovada de auxílio federal complementar, data e tipo
+de desastre;
+● Especificação dos benefícios federais a serem pleiteados para
+atendimento às vítimas de desastres, conforme disposto em legislação;
+● Deve contemplar a fundamentação legal.
+DOCUMENTOS
+COMPROBATÓRIOS
+Outros documentos e registros que comprovem as informações declaradas e
+auxiliem na análise do processo. Como exemplo, o relatório da Emater, que
+informa os prejuízos na pecuária e agricultura. No caso de Indústria e comércio,
+solicitar relatórios das associações, como exemplo a CDL. Relatório do
+Secretário de Obras, Relatório da Secretaria de Assistência Social, Relatório da
+Secretaria de Saúde e Jornais locais que relatam o ocorrido. Nos casos de
+desastres graduais, os relatórios comprobatórios devem ser referentes aos
+últimos seis meses (anteriores à data do decreto e conter esse período). Nos
+casos de desastres súbitos, os relatórios devem ser referentes exclusivamente
+ao desastre declarado.
+Fonte: Elaborado pelo Grupo Temático Operacional – Proteção e Defesa Civil
+Quartel em Belo Horizonte, 26 de julho de 2022
+(a) Erlon Dias do Nascimento Botelho, Coronel BM
+Chefe do Estado Maior
+ANEXO VII - PASSO A PASSO DOS PROCEDIMENTOS PARA A DECLARAÇÃO DE SITUAÇÃO DE
+EMERGÊNCIA OU ESTADO DE CALAMIDADE PÚBLICA 93
+ANEXO VII - PASSO A PASSO DOS PROCEDIMENTOS PARA A
+DECLARAÇÃO DE SITUAÇÃO DE EMERGÊNCIA OU ESTADO DE
+CALAMIDADE PÚBLICA
+O ente federativo atingido por algum evento previsto na Codificação Brasileira de
+Desastres – COBRADE, e suas consequências ensejaram a declaração de Situação
+de Emergência (desastre de nível II) ou Estado de Calamidade Pública (desastre de
+nível III), havendo a necessidade de solicitar o reconhecimento Federal e Estadual,
+deverá se cadastrar no Sistema Integrado de Informações sobre Desastres – S2ID.
+O S2ID atualmente é o sistema utilizado para registro do desastre e análise do
+reconhecimento federal de SE ou ECP e foi concebido com o objetivo de dar
+transparência, celeridade na análise dos processos, além de garantir o acesso a
+informações sobre desastres em diversos níveis.
+Procedimentos:
+1ª Situação – não existe cadastro do município no S2ID
+Se o Município ainda não possui usuário cadastrado no S2ID deverá proceder com
+os seguintes passos:
+a) acessar o endereço eletrônico s2id.mi.gov.br e no campo superior direito
+(local destinado ao preenchimento dos dados para login no sistema), clicar no
+link "Não possuo cadastro". Ao finalizar essa etapa uma nova aba irá
+aparecer e o download do modelo de ofício para a solicitação da senha
+poderá ocorrer. Com o documento em mãos é só preencher com as
+informações necessárias;
+b) enviar ofício original e digitalizado com a solicitação de cadastro para a
+Secretaria Nacional de Proteção e Defesa Civil, no próprio S2ID (preenchido e
+assinado);
+c) o ofício deverá ser anexado no endereço eletrônico s2id.mi.gov.br (para
+acessar o Sistema, utilize o endereço eletrônico apresentado no seu
+navegador) na opção "Município/Estado" e clicando no link "Não possuo
+cadastro";
+ITO 33 – PROTEÇÃO E DEFESA CIVIL 94
+d) após a inserção do ofício, preencher os dados e enviar sua solicitação de
+cadastro clicando no botão "Solicitar Cadastro". Após a solicitação do
+cadastro, aguarde a confirmação do acesso ao S2ID em mensagem enviada
+para o e-mail informado no ofício;
+e) a liberação do cadastro de seu Município normalmente é concluída em até 02
+(dois) dias úteis. Caso isso não ocorra, ou se for necessário a liberação com
+urgência, por motivo de intempestividade do prazo ou outro relevante, entre
+em contato com a SEDEC pelo telefone (61) 2034-4627;
+f) após o recebimento da confirmação do cadastro no S2ID, proceda conforme
+orientações seguintes.
+2ª Situação – município possui cadastro no S2ID
+a) acesse o sistema no endereço s2id.mi.gov.br, clique em "Município/Estado",
+insira o e-mail informado no ofício (login criado para o acesso), insira a senha
+cadastrada, preencha todos os formulários e anexe todos os documentos
+obrigatórios/complementares para fins de reconhecimento federal;
+1ª Observação: todos os formulários do sistema podem ser salvos aos poucos, sem
+a necessidade de estarem completamente preenchidos. Esse processo é
+aconselhável para evitar a perda de informações devido a problemas de conexão
+com a internet. Caso o usuário futuramente retorne ao sistema para complementar o
+registro já criado e não concluído, deverá clicar na opção "Pesquisar" e localizar o
+registro que deseja editar/alterar, ou fazer a busca pelo número de protocolo gerado
+com o início do registro.
+2ª Observação: Todos os valores de prejuízos públicos e privados registrados no
+FIDE devem ser comprovados por meio de laudos/relatórios emitidos pelos
+respectivos órgãos responsáveis e anexados na aba "Anexos" do S2ID.
+Após o preenchimento do item anterior, solicite a Homologação Estadual (o
+sistema ainda mantém o termo Homologação Estadual no sistema, que pode ser
+alterado a qualquer tempo tendo em vista que agora tanto Estado quanto União
+RECONHECEM a situação de anormalidade) pela aba "Anexos".
+ANEXO VII - PASSO A PASSO DOS PROCEDIMENTOS PARA A DECLARAÇÃO DE SITUAÇÃO DE
+EMERGÊNCIA OU ESTADO DE CALAMIDADE PÚBLICA 95
+b) após o retorno do processo para o município, poderão ser solicitadas
+eventuais correções no processo, bem com a adição de documentos
+obrigatórios/complementares, a pedido do Órgão de Proteção e Defesa Civil
+Estadual;
+c) o pedido de Reconhecimento Estadual é uma orientação da Secretaria
+Nacional de Proteção e Defesa Civil com o intuito de fortalecer o Sistema
+Nacional de Proteção e Defesa Civil, bem como atender o dispositivo legal
+previsto no inciso VI, do art. 7º, da lei 12.608, de 10 de abril de 2012;
+d) com o processo conferido e reconhecido pela Coordenadoria Estadual de
+Defesa Civil, envie-o para Reconhecimento Federal clicando no botão "Enviar
+para Reconhecimento" na aba "Anexos". Caso o Estado, após a análise, não
+identificar nenhuma situação em que haja a necessidade de ajuste, a própria
+Coordenadoria Estadual enviará o processo para a análise de
+reconhecimento;
+e) após a análise da Secretaria Nacional de Proteção e Defesa Civil, o processo
+poderá ser retornado para o município, com a solicitação de eventuais
+correções, bem com a adição de documentos obrigatórios/complementares, a
+pedido da Secretaria Nacional de Proteção e Defesa Civil – SEDEC;
+f) depois de reconhecida a Situação de Emergência e/ ou Estado de
+Calamidade Pública, os Municípios/Estados poderão solicitar recursos ao
+Ministério do Desenvolvimento Regional.
+IMPORTANTE: A tramitação do processo de solicitação de reconhecimento por si só
+no S2ID, não garante a liberação de recursos ao ente federado atingido pelo
+desastre. Àqueles que necessitarem deste tipo de complemento devem iniciar um
+processo de solicitação de recursos que tem sua origem a partir do protocolo de
+solicitação de reconhecimento federal nos ícones de RESPOSTA ou
+RECONSTRUÇÃO, de acordo com a necessidade da região afetada. Esse é o
+principal motivo que faz com que grande parte dos municípios afetados não recebam
+recursos federais, já que a motivação no S2ID não existe.
+Para ter acesso a recursos federais disponibilizados para ações de resposta aos
+desastres e de recuperação dos cenários afetados, é preciso apresentação do Plano
+de Resposta e do Plano de Trabalho (Ambos no S2ID).
+ITO 33 – PROTEÇÃO E DEFESA CIVIL 96
+Plano Detalhado de Resposta (Ações de Resposta): A formalização da solicitação de
+apoio federal de apoio para Ações de Resposta ocorre por meio do preenchimento e
+envio do Plano Detalhado de Resposta à SEDEC, onde são apresentadas: as
+necessidades de apoio federal, as justificativas e indicação das ações realizadas no
+âmbito do Estado e Município.
+Plano de Trabalho (Ações de Recuperação e/ou Reconstrução): Para essa
+modalidade de transferência devem ser observados padrões na elaboração dos
+projetos de engenharia e orçamentação, alcançando a fiscalização da execução das
+obras e chegando, finalmente, às prestações de contas dos recursos federais
+recebidos e aplicados no município na realização do objeto pactuado.
+Nota: O Plano de Trabalho deverá ser elaborado no prazo de 90 dias contados da
+ocorrência do desastre.
+Quartel em Belo Horizonte, 26 de julho de 2022
+(a) Erlon Dias do Nascimento Botelho, Coronel BM
+Chefe do Estado Maior

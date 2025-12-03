@@ -1,0 +1,962 @@
+1. Corpo de Bombeiros Militar de Minas Gerais. 2.
+ Instrução Técnica Operacional 31. 3. ITO 31.
+ 4. Ocorrências. 5.Eletricidade. 6.Emergências. 7.
+ Choque elétrico. I. Título.
+
+LISTA DE SIGLAS
+Anatel Agência Nacional de Telecomunicações
+CEMIG Companhia Energética de Minas Gerais
+COBOM Centro de Operações de Bombeiros
+d.d.p Diferença de potencial
+EPI Equipamento de proteção individual
+Hz Hertz
+KV Kilovolt
+NR Norma Regulamentadora
+PE Ponto da Distância Energizada
+Psi Libra-força por polegada quadrada
+Rc Raio de delimitação entre zona controlada e livre metros
+Rr Raio de delimitação entre zona de risco e controlada em metros
+SEP Sistema elétrico de potência
+SI Superfície isolante construída com material resistente e dotada de
+todos os dispositivos de segurança
+ZC Zona controlada
+ZL Zona livre
+ZR Zona de risco
+LISTA DE FIGURAS
+Figura 1 - Percurso da corrente elétrica...................................................... 15
+Figura 2 - Tempo x Corrente........................................................................ 17
+Figura 3 - Tensão de passo......................................................................... 21
+Figura 4 - Tensão de passo......................................................................... 22
+Figura 5 - Arco elétrico................................................................................. 23
+Figura 6 - Delimitação das zonas de riscos, controladas e livres radial...... 26
+Figura 7 - Delimitação das zonas de riscos, controladas e livres com
+interposição de barreira............................................................................... 26
+Figura 8 - Fio energizado embaixo ou sobre carro...................................... 29
+Figura 9 - Distâncias mínimas de combate a incêndio envolvendo
+eletricidade................................................................................................... 30
+Figura 10 - Fio energizado sobre o veículo, risco de explosão.................... 32
+Figura 11 - Modo de caminhar após sair do veículo.................................... 32
+Figura 12 - Movimentação da linha de energia............................................ 33
+Figura 13 - Sistema Elétrico de Potência..................................................... 34
+Figura 14 – Tipos, voltagens e distâncias de linhas de transmissão........... 35
+Figura 15 – Exemplo de linhas de transmissão........................................... 36
+Figura 16 - Rede de Distribuição................................................................. 36
+Figura 17 - Rede de Distribuição Aérea Convencional................................ 37
+Figura 18 - Rede de Distribuição Aérea Compacta com Espaçador
+Losangular................................................................................................... 38
+Figura 19 - Espaçador Vertical.................................................................... 38
+Figura 20 - Rede de Distribuição Aérea Isolada.......................................... 39
+Figura 21 - Dois tipos de Rede Primária em um Mesmo Poste................... 39
+Figura 22 - Rede de Distribuição Subterrânea............................................ 40
+Figura 23 – Rede de Distribuição Secundária Convencional....................... 40
+Figura 24 – Rede de Distribuição Secundária Protegida............................. 41
+Figura 25 - Rede de Distribuição Secundária Isolada.................................. 41
+Figura 26 - Rede de Telecomunicação........................................................ 42
+Figura 27 – Isoladores e Cadeia de Isoladores........................................... 43
+Figura 28 – Isoladores e Cadeia de Isoladores........................................... 44
+Figura 29 - Bastão Isolante e sacola para o acondicionamento.................. 46
+Figura 30 - Detectores de Tensão por Indução........................................... 47
+Figura 31 - Luvas Isolantes para diferentes tensões e Luva de vaqueta.... 48
+LISTA DE TABELAS
+Tabela 1 - Zona controlada x zona de risco................................................. 27
+Tabela 2 - Limites seguros de abordagem................................................... 28
+Tabela 3 - Distâncias mínimas de combate a incêndio envolvendo
+eletricidade................................................................................................... 30
+Tabela 4 - Tensão x Cor da Etiqueta............................................................ 48
+LISTA DE QUADROS
+Quadro 1 - Efeitos no corpo humano para choques elétricos de diferentes
+intensidades................................................................................................. 16
+Quadro 2 - Classificação NR 10 - Segurança em Instalações e Serviços
+em Eletricidade............................................................................................. 42
+SUMÁRIO
+1 OBJETIVO.................................................................................................. 10
+2 APLICAÇÃO............................................................................................... 11
+3 CONCEITO................................................................................................. 12
+3.1 Eletricidade............................................................................................. 12
+3.2 Corrente Elétrica.................................................................................... 12
+3.3 Tensão Elétrica....................................................................................... 12
+3.4 Resistência Elétrica............................................................................... 12
+3.5 Efeito Joule............................................................................................. 13
+3.6 Curto-Circuito......................................................................................... 13
+3.7 Corrente Alternada................................................................................. 13
+4 RISCO EM ELETRICIDADE....................................................................... 14
+4.1 Choque Elétrico...................................................................................... 14
+4.1.2 Efeitos do Choque.............................................................................. 15
+4.1.3 Percurso da Corrente Elétrica pelo corpo Humano......................... 15
+4.1.4 Efeitos da Corrente Elétrica no Corpo Humano............................... 16
+4.1.5 Tempo de exposição.......................................................................... 17
+4.1.6 Frequência da Corrente Elétrica........................................................ 18
+4.1.7 Resistência Elétrica do Corpo Humano............................................ 18
+4.1.8 Condições da Pele do Indivíduo........................................................ 19
+4.2 Queimaduras.......................................................................................... 19
+4.2.1 Queimadura por Contato.................................................................... 20
+4.2.2 Queimadura por Arco Voltaico ou Elétrico....................................... 20
+4.2.3 Queimadura por Radiação (em arcos produzidos por curtoscircuitos)....................................................................................................... 20
+4.3 Campos Eletromagnéticos................................................................... 20
+4.3.1 Tensão de Passo................................................................................ 21
+4.3.2 Arco Elétrico....................................................................................... 22
+5 SEGURANÇA EM ELETRICIDADE........................................................... 24
+5.1 Distância de Segurança......................................................................... 25
+5.1.2 Limites Seguros de Abordagem........................................................ 28
+5.2 Aproximação a um Veículo com Fio Energizado................................ 28
+5.2.1 Combate a Incêndio em um Veículo em Chamas com Fio
+Energizado.................................................................................................... 29
+5.2.2 Fio Energizado sobre um Veículo e o Motorista Consegue Dirigir
+e Retirar o Veículo do Local de Risco........................................................ 29
+5.2.3 Fio Energizado sobre um Veículo e o Motorista não Consegue
+Deslocar o Veículo do Local de Risco....................................................... 30
+5.2.4 Fio Energizado sobre o Carro e Há Vítimas Inconscientes............ 31
+5.2.5 Fio Energizado sobre um Veículo com Vítimas Conscientes e
+Risco de Explosão....................................................................................... 31
+5.2.6 Fio Energizado sobre um Veículo com Vítimas Inconscientes ou
+Feridas e Riscos de Explosão.................................................................... 33
+6 SISTEMA ELÉTRICO DE POTÊNCIA (SEP)............................................. 34
+6.1 Redes e Linhas de Distribuição de Energia Elétrica.......................... 35
+6.1.1 Linhas de Transmissão.............................................................................. 35
+6.1.2 Redes de distribuição........................................................................ 36
+6.1.2.1 Rede de Distribuição Primária........................................................... 36
+6.1.2.2 Rede de Distribuição Aérea Convencional........................................ 37
+6.1.2.3 Rede de Distribuição Aérea Compacta.............................................. 37
+6.1.2.4 Rede de Distribuição Aérea Isolada.................................................. 38
+6.1.2.5 Rede de Distribuição Subterrânea..................................................... 39
+6.1.2.6 Redes de Distribuição Secundária (Baixa Tensão)........................... 40
+6.2 Rede de Telecomunicações.................................................................. 42
+6.3 Identificação da Tensão da Rede de Transmissão de Energia
+Elétrica Através da Cadeia de Isoladores.................................................. 43
+6.4 Cerca Elétrica......................................................................................... 44
+7 MATERIAIS ELÉTRICOS........................................................................... 45
+7. 1 Bastão Isolante (Vara de Manobra)..................................................... 45
+7.2 Detector de Tensão por Indução.......................................................... 46
+7.3 Luvas Isolantes...................................................................................... 47
+7.4 Acondicionamento de Materiais........................................................... 48
+8 PROCEDIMENTOS A SEREM ADOTADOS EM OCORRÊNCIAS COM
+ELETRICIDADE............................................................................................. 49
+REFERÊNCIAS............................................................................................. 51
+ITO 31 - PROCEDIMENTOS EM OCORRÊNCIAS QUE ENVOLVAM ELETRICIDADE 10
+1 OBJETIVO
+Estabelecer os procedimentos operacionais necessários para garantir a segurança
+dos Bombeiros Militares de Minas Gerais que atuarão em locais que estejam
+energizados ou potencialmente energizados.
+2 APLICAÇÃO 11
+2 APLICAÇÃO
+a) orientação para adoção de medidas de proteção que visam o controle dos
+riscos elétricos, voltados a garantir a segurança e a saúde dos Bombeiros
+Militares que estão sujeitos a essas atividades;
+b) segurança no atendimento de ocorrência que envolva risco em eletricidade;
+c) procedimentos operacionais a serem adotados em ocorrências com energia
+elétrica;
+d) identificação dos tipos de redes de distribuição de energia elétrica;
+e) identificação da tensão das redes de transmissão de energia elétrica;
+f) identificação das redes de telecomunicações;
+g) materiais básicos utilizados em eletricidade.
+ITO 31 - PROCEDIMENTOS EM OCORRÊNCIAS QUE ENVOLVAM ELETRICIDADE 12
+3 CONCEITOS
+Para entendimento dos procedimentos, os militares devem observar os conceitos
+abaixo elencados para entendimento das ocorrências envolvendo eletricidade.
+3.1 Eletricidade
+Eletricidade é o ramo da Física que abrange uma variedade de fenômenos
+decorrentes da presença e do fluxo de carga elétrica, tais como relâmpagos,
+eletricidade estática e correntes elétricas em fios elétricos. Também conhecida
+apenas como energia elétrica, termo mais comum à população, engloba conceitos
+mais específicos como campo eletromagnético e indução eletromagnética (GASPAR,
+2005).
+3.2 Corrente Elétrica
+Fluxo ordenado dos elétrons dentro de um condutor quando se aplica uma diferença
+de potencial entre as suas extremidades. A corrente é representada pela letra (I) e a
+unidade com que se mede é o ampare (A) (GUSSOW, 1997).
+3.3 Tensão Elétrica
+É a energia necessária (força eletromotriz) para criar uma diferença de potencial
+elétrico (d.d.p) entre dois pontos distintos e provocar o movimento ordenado dos
+elétrons livres que estão presentes no meio condutor. A tensão elétrica é representada
+pela letra V e a unidade de medida é o Volt (V) (ALEXANDER, 2008).
+3.4 Resistência Elétrica
+É definida como a capacidade que um corpo tem de se opor à passagem da corrente
+elétrica. Ela está ligada ao choque entre elétrons livres e átomos no interior dos
+condutores. A unidade de medida da resistência é o Ohm (Ω) (GUSSOW,1997).
+3 CONCEITOS 13
+3.5 Efeito Joule
+Ao atravessar um condutor, a corrente elétrica tem sua energia se convertendo em
+energia térmica, devido ao choque dos elétrons livres com os átomos do condutor.
+Essa conversão de energia recebe o nome de Efeito Joule e é responsável pelo
+aquecimento do condutor ao ser atravessado pela corrente elétrica (CALÇADA, 1945).
+3.6 Curto-Circuito
+O curto-circuito é uma conexão elétrica, que possui enquanto característica principal
+uma resistência extremamente baixa à passagem da corrente elétrica entre dois
+pontos de potenciais elétricos distintos (GUSSOW, 1997). Tem-se a ligação por arco
+elétrico, por exemplo, sendo a condição mais severa do curto-circuito.
+3.7 Corrente Alternada
+A corrente alternada ou (CA) é aquela na qual a intensidade e a direção da corrente
+elétrica variam ciclicamente com o passar do tempo. A corrente alternada ora está
+em um sentido, ora está em outro sentido (SEGUNDO; RODRIGUES, 2015).
+ITO 31 - PROCEDIMENTOS EM OCORRÊNCIAS QUE ENVOLVAM ELETRICIDADE 14
+4 RISCOS DA ELETRICIDADE
+A eletricidade é causa de diversos tipos de acidentes no mundo, por ação insegura ou
+imprecisa de quem a manipula. Pois, nem sempre os profissionais são habilitados
+para executarem trabalhos com equipamentos elétricos energizados.
+Nas ações com eletricidade existe a dificuldade na identificação de cargas elétricas
+em um condutor ou outro meio físico, pois isso ultrapassa as capacidades sensoriais
+do ser humano, sendo necessário o uso de equipamentos específicos para fazê-lo.
+A corrente elétrica e a eletricidade, ao entrarem em contato com o corpo humano,
+podem provocar queimaduras, coagulação do sangue, lesão nos nervos, contração
+muscular, fibrilação cardíaca e, secundariamente, pode provocar incêndios.
+4.1 Choque Elétrico
+Choque elétrico é a perturbação de natureza e efeitos diversos, que se manifesta no
+organismo humano ou animal quando esse é percorrido por uma corrente elétrica.
+Dependendo da intensidade e do tempo de exposição à corrente elétrica, poderão ser
+maiores os efeitos nocivos à saúde do homem (CONTRIM, 2009, p. 7).
+A corrente elétrica busca o caminho para a terra (potencial nulo), dentre os trajetos
+aquele que possui menor resistência. Quando uma pessoa toca em um fio energizado
+e ao mesmo tempo no chão, ela se torna parte integrante do circuito elétrico, podendo
+sofrer sérios danos com a passagem de elétrons pelo seu corpo, podendo até mesmo
+levar à morte (SILVA, 2015).
+4 RISCOS DA ELETRICIDADE 15
+4.1.2 Efeitos do Choque
+Os efeitos do choque elétrico no corpo humano podem variar, e depende de diversos
+fatores. Dentre eles, podemos citar: percurso da corrente elétrica pelo corpo humano,
+intensidade da corrente elétrica, tempo de exposição, frequência da corrente elétrica,
+tensão elétrica, condições da pele do indivíduo e resistência elétrica do corpo humano.
+4.1.3 Percurso da Corrente Elétrica pelo Corpo Humano
+O percurso da corrente elétrica no corpo humano influencia bastante nos danos
+causados em decorrência de um acidente. A Figura 1 representa os possíveis
+caminhos que a corrente pode percorrer em caso de acidente por choque elétrico.
+Figura 1 - Percurso da corrente elétrica no corpo humano
+Fonte: adaptado de Carvalho Filho, 2011
+Na imagem acima, da esquerda para a direita, é demonstrado nas primeiras
+ilustrações, a corrente elétrica passando pelo tórax, e por consequência, pelos órgãos
+vitais (coração, pulmões e sistema nervoso) do ser humano, sendo considerada de
+grande risco para o indivíduo. Já na última ilustração (à direita), a corrente entra e sai
+pela perna, sendo, portanto, menos agressiva ao ser humano, visto que não passa
+pelos órgãos vitais.
+ITO 31 - PROCEDIMENTOS EM OCORRÊNCIAS QUE ENVOLVAM ELETRICIDADE 16
+4.1.4 Efeitos da Corrente Elétrica no Corpo Humano
+O fator determinante para as perturbações produzidas pelo choque elétrico é a
+intensidade da corrente elétrica que atravessa o corpo de uma pessoa, e não a tensão
+a que a pessoa foi submetida. Isso quer dizer, que quanto maior a intensidade da
+corrente que passa pelo corpo, maiores serão os danos provocados por ela. O Quadro
+1 abaixo, mostra os efeitos da corrente no corpo humano para diferentes intensidades
+de corrente alternada.
+ Quadro 1 - Efeitos no corpo humano para choques elétricos de diferentes intensidades
+Intensidade
+da corrente
+alternada
+Perturbações
+possíveis
+Estado possível
+após o choque
+Salvamento Resultado final
+provável
+0,5 a 1 mA
+Nenhuma. Leve Sensação
+de formigamento. Normal Desnecessário Normal
+1,1 a 9 mA
+Sensação cada vez mais
+desagradável à medida
+que a intensidade
+aumenta. Probabilidade de
+contrações musculares
+Normal Desnecessário Normal
+10 a 20 mA
+Sensação dolorosa. Pode
+haver contrações
+musculares e possível
+asfixia com perturbações
+na circulação sanguínea.
+Morte aparente Respiração
+artificial
+Restabelecimento
+21 a 100 mA
+Sensação insuportável
+com contrações violentas.
+Asfixia. Perturbações
+circulatórias graves com
+possibilidade de fibrilação
+ventricular.
+Morte aparente Respiração
+artificial
+Restabelecimento
+ou morte
+dependendo do
+tempo
+Acima de 100
+mA
+Asfixia imediata. Fibrilação
+ventricular e alterações
+musculares,
+acompanhadas de
+queimaduras.
+Morte aparente Proceder com
+técnicas de APH,
+conforme
+ITO nº 23
+Morte
+Próximo de
+1000 mA
+Asfixia imediata. Paralisia
+dos centros nervosos com
+destruição de tecidos e
+queimaduras graves.
+Morte aparente ou
+imediata
+Proceder com
+técnicas de APH,
+conforme
+ITO nº 23
+Morte
+Fonte: adaptado de SANTOS, 2012
+4 RISCOS DA ELETRICIDADE 17
+Em relação ao termo “morte aparente” citado no quadro anterior, trata-se de um estado
+que simula a morte por precária persistência da circulação e pode durar por horas,
+porém é possível a recuperação através de atendimento médico imediato e adequado
+(BESSA, 2020).
+4.1.5 Tempo de Exposição
+Quanto maior for o tempo de exposição à corrente elétrica, mais severos serão os
+danos ao organismo, porém, alguns valores de corrente não apresentam nocividade
+fisiológica observável (VINTE, 2014).
+A gravidade do choque elétrico depende de sua magnitude e do tempo de exposição
+(UFVJM, 2016). Apesar das diversas pesquisas realizadas com o intuito de se obter
+os efeitos da corrente elétrica sobre o corpo humano, ainda não se obteve resultados
+incontestáveis referentes ao tema, devido às diferentes condições do próprio corpo
+humano e dos choques elétricos (LIMA, 2002).
+Segundo Lima (2002) a curva Tempo x Corrente da Figura 2 é uma das maneiras de
+se demonstrar os efeitos no corpo humano produzidos por uma corrente elétrica em
+um determinado tempo.
+Figura 2 - Tempo x Corrente
+Fonte: Lima, 2002
+ITO 31 - PROCEDIMENTOS EM OCORRÊNCIAS QUE ENVOLVAM ELETRICIDADE 18
+A Zona 2 não representa nenhum efeito patofisiológico perigoso. Já a Zona 3,
+representa algum perigo, pois o efeito presente nesta fase é parada dos pulmões,
+levando a séria asfixia, e pode ocorrer o risco de fibrilação. Zona 4 é uma zona
+perigosa com risco de fibrilação acima de 50% das pessoas. Por fim, a Zona S é
+considerada uma curva de segurança onde a probabilidade de ocorrência de fibrilação
+ventricular é de 0,5% (LIMA, 2002).
+4.1.6 Frequência da Corrente Elétrica
+As correntes elétricas de alta frequência são menos perigosas ao organismo do que
+as de baixa frequência. As frequências de 50 e 60 Hz, de uso comum amplamente
+utilizada no nosso dia a dia, estão dentre as mais perigosas (MAIA JÚNIOR; SILVA,
+2014).
+Quanto maior a frequência, maior será o limiar da sensação da corrente elétrica.
+Portanto, o organismo sente menos os efeitos quando as correntes elétricas estão em
+uma frequência maior (MAIA JÚNIOR; SILVA, 2014). As frequências acima de 10KHZ
+são menos sentidas pelo organismo, cujos efeitos se limitam ao aquecimento, sendo
+utilizadas amplamente na medicina como fonte de febre artificial, ou seja, uma
+temperatura elevada ajuda a regular o metabolismo e os hormônios, além de destruir
+bactérias e vírus invasores (MAIA JÚNIOR; SILVA, 2014).
+4.1.7 Resistência Elétrica do Corpo Humano
+A resistência elétrica que o corpo humano possui implica diretamente na intensidade
+que a corrente circulará sobre ele. A pele seca oferece maior resistência, porém é uma
+situação que raramente ocorre durante a execução de qualquer atividade, pois é difícil
+controlar as condições de umidade do ambiente de trabalho e/ou sudorese do
+indivíduo. A resistência que o corpo humano possui quando se encontra com a pele
+seca e sem cortes é na faixa de 100.000 a 600.000 ohms (CPNSP, 2005).
+4 RISCOS DA ELETRICIDADE 19
+A resistência do corpo humano está ligada intimamente aos efeitos e consequência
+que o choque elétrico pode causar ao organismo. Portando, o valor não é constante,
+pode variar dentre os seres humanos, e está condicionado a diversos elementos como
+estado da pele, área de contato, pressão de contato, tempo de exposição à corrente,
+natureza da corrente, presença ou não de álcool no sangue, tensão elétrica de choque
+aplicada, presença ou não de umidade na pele. (GOUVEIA, 2015).
+4.1.8 Condições da Pele do Indivíduo
+A resistência à passagem da corrente elétrica é influenciada pelo estado em que a
+pele se encontra. A pele úmida tem menos resistência à passagem da corrente elétrica
+em comparação à pele seca conforme discutido no item anterior. Contudo, outros
+fatores também são determinantes na forma como a corrente elétrica interage com a
+pele.
+Quando a pele apresenta cortes, machucados ou feridas haverá uma redução de sua
+resistência elétrica. A resistência oferecida pelos órgãos internos, ou seja, a parte
+interna do corpo humano como: fígado, coração, sistema nervoso, músculos e demais
+tecidos é muito baixa se comparada com a pele. A resistência da parte interna do
+corpo humano é em média da ordem de 300 Ohm, chegando ao máximo de 500 Ohm.
+4.2 Queimaduras
+Quando a corrente elétrica atravessa o corpo humano, ela pode produzir queimadura
+devido ao Efeito Joule. Os órgãos internos apresentam uma resistência baixa,
+apresentando uma boa condução de eletricidade. Por outro lado, nos pontos de
+entrada e saída da corrente a situação é mais crítica, pois a pele apresenta maior
+resistência. Devido a essa alta resistência, a corrente provoca alterações estruturais
+na pele (CPNSP, 2005).
+As queimaduras produzidas pela eletricidade podem ser de diversas formas, dentre
+elas ocorre a seguinte classificação: queimadura por contato, queimadura por arco
+ITO 31 - PROCEDIMENTOS EM OCORRÊNCIAS QUE ENVOLVAM ELETRICIDADE 20
+voltaico ou elétrico e queimadura por radiação em arcos produzidos por curtoscircuitos. (CPNSP, 2005; ROZA FILHO, 2012).
+4.2.1 Queimadura por Contato
+Ocorre quando há o contato em uma superfície energizada. Tal queimadura pode ser
+superficial ou profunda, atingindo até mesmo a parte óssea, ou deixando apenas uma
+mancha branca na pele (ROZA FILHO, 2012).
+4.2.2 Queimadura por Arco Voltaico ou Elétrico
+O arco elétrico é caracterizado pelo fluxo de corrente elétrica que atravessa um meio
+isolante (ruptura de um dielétrico), quer seja de um gás ou ar (ROZA FILHO, 2012).
+Essa ruptura produz uma fagulha instantânea, produzindo calor que pode exceder a
+barreira de tolerância da pele gerando queimadura de segundo ou terceiro grau.
+(CPNSP, 2005).
+4.2.3 Queimadura por Radiação em Arcos Produzidos por Curtos-Circuitos
+Os arcos elétricos emitem energia sob a forma de luz, calor e mecânica, sendo
+bastante quentes. A energia luminosa causa sérios danos aos olhos e se agrava
+quando há presença de componentes ultravioleta na radiação eletromagnética. O
+calor transmitido pela radiação ocasiona severas queimaduras (LINS, 2015).
+4.3 Campos Eletromagnéticos
+Quando ocorre a passagem de corrente elétrica por um condutor, é produzido um
+campo eletromagnético que, por sua vez, induz uma corrente elétrica em condutores
+que se encontram próximos. Dessa forma, pode acontecer o surgimento de corrente
+elétrica em um circuito inicialmente desenergizado se esse estiver próximo a algum
+circuito energizado (CPNSP, 2005).
+4 RISCOS DA ELETRICIDADE 21
+4.3.1 Tensão de Passo
+É a tensão que há entre os pés de uma pessoa, ou as patas de um animal em contato
+com o chão no instante de uma descarga atmosférica, um equipamento elétrico caído
+ao solo, ou algum tipo de escoamento de tensão na terra, por exemplo, um
+aterramento malfeito (Figura 3). A tensão de passo ocorre em altas tensões, pois
+apenas a alta tensão é capaz de romper o dielétrico (isolação) do solo.
+Figura 3 - Tensão de passo
+Fonte: adaptado de CURSOSONLINESP, 2018
+Um cabo de alta tensão da rede elétrica caído ao chão, por exemplo, produzirá
+potenciais distintos que vão diminuindo sua intensidade desde o equipamento até uma
+distância remota, de acordo com o nível de tensão. Estes potenciais surgem de forma
+predominantemente circular, como mostrado nas linhas tracejadas da Figura 3. Caso
+uma pessoa esteja com os dois pés na mesma linha equipotencial, a tensão de passo
+será nula, não havendo, portanto, choque elétrico. Os valores assumidos pela tensão
+de passo podem ser diversos, desde zero até máxima diferença de potencial que
+existe entre duas superfícies equipotenciais separadas pela distância entre seus pés.
+Quando ocorre o choque elétrico, os músculos das pernas e das coxas se contraem,
+ocasionando a queda da pessoa e, consequentemente, que ela toque o solo com as
+mãos. Nesse caso, ocorrerá o agravamento do choque, visto que a corrente passará
+pelo coração. No caso de animais, a tensão de passo se torna tensão entre patas,
+sendo, portanto, uma tensão mais elevada devido à distância maior entre as patas.
+ITO 31 - PROCEDIMENTOS EM OCORRÊNCIAS QUE ENVOLVAM ELETRICIDADE 22
+A corrente elétrica, em regra, passará diretamente pelo coração do animal
+(CURSOSONLINESP, 2018).
+Os bombeiros em ocorrência devem atentar-se para a tensão de passo (Figura 4),
+porque quanto maior a distância entre os seus pés (passo) maior será a diferença de
+potencial, fazendo que a corrente entre em um dos pés circule pelo abdômen e retorne
+para o outro pé, chegando por fim, à terra. Logo, quanto maior a distância entre os
+pés, maiores serão a chances de ocorrer um choque elétrico (SILVA, 2015).
+Figura 4 - Tensão de passo
+Fonte: adaptado de Silva, 2015
+4.3.2 Arco Elétrico
+Arco elétrico é conceituado como sendo um fenômeno físico que ocorre
+essencialmente em equipamentos e instalações elétricas, sempre que há a passagem
+de corrente elétrica por um meio que não apresenta características condutoras. Isso
+acontece devido à perda de suas características isolantes, normalmente compreende
+partes metálicas que não estão em contato direto, mas apresentam uma considerável
+diferença de potencial. O fenômeno arco elétrico tem curta duração e apresenta a
+transformação da energia elétrica em energia térmica (calor), energia acústica, onda
+de pressão e energia luminosa.
+4 RISCOS DA ELETRICIDADE 23
+Os arcos elétricos são fenômenos que liberam uma grande quantidade de energia na
+forma de calor, produzindo altíssimas temperaturas. Sua temperatura pode alcançar
+20.000°C.
+Precauções adicionais são exigidas quando há presença de incêndio na vegetação
+ao redor do equipamento elétrico, pois nesse caso, haverá fumaça e chamas
+significativas. A densidade de fumaça, a intensidade do fogo e a tensão envolvida são
+fatores importantes no estabelecimento da distância entre o combate e as linhas de
+tensão (Figura 5). Essas condições aumentam as chances de ocorrer um arco elétrico.
+Figura 5 - Arco elétrico
+Fonte: adaptado de Silva, 2015
+ITO 31 - PROCEDIMENTOS EM OCORRÊNCIAS QUE ENVOLVAM ELETRICIDADE 24
+5 SEGURANÇA EM ELETRICIDADE
+Para este trabalho foi utilizado o manual de segurança em eletricidade para socorristas
+de emergência (Electrical Safety Handbook for Emergency Responders), 2013. Esse
+material é utilizado para treinamento de Bombeiros em Ontário no Canadá e contém
+práticas para lidar com os riscos elétricos em situações de resgate e incêndio.
+Se não forem adotadas medidas de segurança em locais energizados, o risco de
+choques elétricos será muito grande. O perigo pode existir para eletricistas, pessoas
+comuns ou aqueles que porventura tenham que entrar nesses locais para prestarem
+algum tipo de socorro, como é o caso dos militares do Corpo de Bombeiros (MAIA
+JÚNIOR; SILVA, 2014).
+Nas ocorrências que envolvam eletricidade, é necessário que os combatentes
+possuam o conhecimento conceitual em eletricidade e normas de segurança, quer
+seja para o resgate de uma vítima de choque elétrico ou até mesmo para aquelas
+ocorrências que envolvam riscos elétricos de difícil percepção (SILVA, 2015).
+Durante a ocorrência, o Bombeiro Militar deve garantir a sua segurança, a segurança
+de sua guarnição e das pessoas que estejam envolvidas nesse acidente. Para isso, é
+necessário analisar dos riscos elétricos in loco e os riscos adicionais presentes nesse
+ambiente. (SILVA, 2015).
+Quando se fala em desligamento de algum ponto na rede elétrica, não quer dizer que
+naquele ponto a rede esteja desenergizada. Desligar um circuito é remover o
+dispositivo de proteção dele. Já para o processo de desenergização, exige-se que
+sejam realizados procedimentos conforme item 10. 5. 1 da NR-10 de acordo com as
+seguintes etapas: seccionar, impedir reenergização, constatar ausência de tensão,
+aterramento temporário, proteção de elementos energizados e sinalização de
+impedimento de reenergização. Estas ações serão feitas pela concessionária de
+energia elétrica que atende a região do local da ocorrência, geralmente, a CEMIG para
+o nosso caso em Minas Gerais, ou empresas terceirizadas da concessionária.
+5 SEGURANÇA EM ELETRICIDADE 25
+Em certas ocorrências, o ato de desligamento da energia é uma das primeiras atitudes
+a serem tomadas, porém, não basta para garantir a segurança das pessoas que atuam
+na ocorrência. O ato de desenergização é extremamente necessário, pois consiste
+em “retirar” a carga elétrica residual do equipamento de forma que seja escoada para
+a terra, por meio do aterramento. Logo, é necessário ficar atento às manobras feitas
+pela concessionária, e impedir o religamento automático do circuito ou até mesmo por
+pessoas que estejam no local.
+5.1 Distância de Segurança
+Existem distinções entre as zonas de trabalho em serviços com eletricidade. As três
+zonas principais são: zona livre (ZL), zona controlada (ZC) e zona de risco (ZR). Na
+zona livre, não há restrições ao tipo de pessoa que é permitido circular ou permanecer,
+pois esse local não apresenta risco (LACERDA, 2017).
+A zona controlada já apresenta risco ao trabalhador, havendo a necessidade de
+restrições quanto ao tipo de pessoa que pode circular nesse ambiente, sendo
+permitida circulação de pessoa autorizada, devidamente ciente do risco na atividade
+(LACERDA, 2017).
+A zona de risco oferece o maior risco ao trabalhador, onde o uso de EPI é obrigatório
+para que o funcionário autorizado execute as suas atividades com segurança dentro
+da área de risco (LACERDA, 2017).
+Na NR-10, algumas distâncias de segurança são dadas em função da tensão nominal
+da instalação elétrica. A Figura 6 e 7 mostra a distância de delimitação das zonas de
+risco controladas e livre sem/com interposição de superfície.
+ITO 31 - PROCEDIMENTOS EM OCORRÊNCIAS QUE ENVOLVAM ELETRICIDADE 26
+Figura 6 - Delimitação das zonas de riscos, controladas e livres radial
+Fonte: CNI, 2007
+Figura 7 - Delimitação das zonas de riscos, controladas e livres com interposição de barreira.
+Fonte: CNI, 2007.
+A tensão nominal do circuito no ponto faz surgir ao redor dele áreas consideradas de
+zona risco e zona controlada, estabelecendo condições restritivas de acesso somente
+às pessoas autorizadas e mediante a aplicação de procedimentos específicos. Por
+fim, também há as áreas livres que circundam a zona controlada (BORBA, 2016). A
+Tabela 1 abaixo mostra quais são as áreas de riscos e as áreas controladas de acordo
+com a tensão nominal da instalação elétrica.
+5 SEGURANÇA EM ELETRICIDADE 27
+Tabela 1 - Zona controlada x zona de risco
+Faixa de tensão
+Nominal da instalação
+elétrica em KV
+Rr - Raio de delimitação
+entre zona de risco e
+controlada em metros
+Rc - Raio de delimitação entre
+zona controlada e livre metros
+< 1 0.2 0.7
+≥ 1 e <3 0.22 1.22
+≥ 3 e <6 0.25 1.25
+≥ 6 e <10 0.35 1.35
+≥ 10 e <15 0.38 1.38
+≥ 15 e <20 0.40 1.40
+≥ 20 e <30 0.56 1.56
+≥ 30 e <36 0.58 1.58
+≥ 36 e <45 0.63 1.63
+≥ 45 e <60 0.83 1.83
+≥ 60 e <70 0.9 1.90
+≥ 79 e <110 1.00 2.00
+≥ 110 e <132 1.10 3.10
+≥ 132 e <150 1.20 3.20
+≥ 150 e <220 1.60 3.60
+≥ 220 e <275 1.80 3.80
+≥ 275 e <380 2.50 4.5
+≥ 380 e <480 3.20 5.2
+≥ 480 e <700 5.2 7.2
+Fonte: Borba, 2016
+ITO 31 - PROCEDIMENTOS EM OCORRÊNCIAS QUE ENVOLVAM ELETRICIDADE 28
+5.1.2 Limites Seguros de Abordagem
+De acordo com Silva (2015), são definidas algumas distâncias de segurança para
+atuação do bombeiro em ocorrências que envolvam circuitos energizados. Essas
+distâncias foram retiradas do Electrical Safety Handbook for Emergency Responders.
+Tabela 2 - Limites seguros de abordagem
+Faixa de tensão nominal da instalação elétrica em volts
+(V)
+Distância mínima em metros
+(m)
+750 a 150.000 3
+150.001 a 250.000 4,5
+250.001 e superior 6
+Fonte: Silva, 2015
+5.2 Aproximação a um Veículo com Fio Energizado.
+De acordo com o manual Electrical Safety Handbook for Emergency Responders
+existem alguns procedimentos a serem adotados quando há um fio energizado sobre
+um carro ou embaixo dele, Figura 8. Primeiro passo: No deslocamento, ligue para a
+concessionária de energia elétrica local; segundo passo: avalie a situação pelo menos
+a 10 (dez) metros de distância; terceiro passo: estabeleça a zona de segurança e isole
+a área; quarto passo: mantenha os pés juntos, caminhe deslizando vagarosamente e
+aproximando-se do veículo; quinto passo: aproximar-se no máximo a 6 (seis) metros
+de distância e jamais toque o veículo, pois uma tensão estará presente quando o fio
+estiver energizado, pois isso, poderá ocasionar a eletrocussão.
+5 SEGURANÇA EM ELETRICIDADE 29
+Figura 8 - Fio energizado embaixo ou sobre carro
+Fonte: adaptado de Electrical Safety Handbook for Emergency Responders
+5.2.1 Fio Energizado sobre um Veículo e o Motorista Consegue Dirigir e Retirar
+o Veículo do Local de Risco
+Segundo Electrical Safety Handbook for Emergency Responders, quando um
+motorista consegue mover o veículo e este está sobre um fio energizado, deve-se
+primeiro certificar-se que você e os demais militares não correm risco de serem feridos
+no caso do fio ser liberado ou se mover abruptamente, no momento do deslocamento
+do veículo. Em seguida, oriente o motorista para mover o veículo lentamente para
+longe do fio e livrar-se de quaisquer poças de água que possam ser energizadas pelo
+fio. Porém, se os fios energizados forem puxados pelo veículo, instrua o motorista a
+parar e permanecer dentro do carro até a chegada dos responsáveis pelo
+desligamento da rede elétrica.
+5.2.2 Fio Energizado sobre um Veículo e o Motorista não Consegue Deslocar o
+Veículo do Local de Risco
+Quando o motorista não consegue mover o veículo, ou quando este não se move,
+baseado no manual Electrical Safety Handbook for Emergency Responders, primeiro
+ITO 31 - PROCEDIMENTOS EM OCORRÊNCIAS QUE ENVOLVAM ELETRICIDADE 30
+deve-se instruir o motorista a permanecer no veículo até a chegada da concessionária
+de energia elétrica. Em seguida, monitorar continuamente a zona de segurança,
+proteger essa área e manter as pessoas afastadas.
+5.2.3 Combate a Incêndio em um Veículo em Chamas com Fio Energizado
+De acordo com o Electrical Safety Handbook for Emergency Responders, pode-se
+usar água para combater o incêndio em um veículo em chamas com fio energizado
+sobre ele, para tanto, deve-se obedecer às distâncias mínimas de segurança e devese utilizar jatos neblinados com pressão de 100 psi. A Figura 9 mostra essas distâncias
+de acordo com a tensão elétrica.
+Figura 9 - Distâncias mínimas de combate a incêndio envolvendo eletricidade
+Fonte: adaptado Silva, 2015.
+Tabela 3 - Distâncias mínimas de combate a incêndio envolvendo eletricidade
+Volts Distâncias mínimas a 700 kPa (100 psi) na ponta da mangueira
+com jato neblinado
+0-750 1,5 m
+751 a 15.000 4 m
+15.001 a 500.000 7 m
+Fonte: adaptado Silva, 2015
+5 SEGURANÇA EM ELETRICIDADE 31
+5.2.4 Fio Energizado sobre o Carro e Há Vítimas Inconscientes
+Quando há presença de vítimas inconscientes e existem fios sob e sobre o veículo ou
+pendurados muito perto do veículo, o manual Electrical Safety Handbook for
+Emergency Responders diz que primeiro deve ser determinado a zona de segurança
+e ela deve ser monitorada continuamente, protegendo a área e mantendo as pessoas
+afastadas. Em seguida, monitora-se de perto qualquer mudança de situação,
+exemplo: início de fogo. Para vítimas que recuperarem a consciência, instrua a
+permanecer dentro do veículo até que seja desenergizada a linha. Não tome nenhuma
+medida que possa colocar em risco a sua vida e a dos demais envolvidos.
+5.2.5 Fio Energizado sobre um Veículo com Vítimas Conscientes e Risco de
+Explosão
+Quando os ocupantes não estão feridos e há um fio energizado sobre um veículo,
+impossibilitando-o de ser movido, apresentando fogo em sua estrutura que não pode
+ser extinto prontamente e ainda exista risco de explosão. Baseado no manual
+Electrical Safety Handbook for Emergency Responders, alguns passos devem ser
+adotados:
+a) primeiro passo: explicar aos ocupantes que o contato com o veículo e solo ao
+mesmo tempo deve ser evitado pois poderá causar choque, possivelmente
+fatal;
+b) segundo passo: orientar como pular do veículo e se afastar. Deverá ser
+instruído da seguinte forma: “mantenha os pés juntos e pule para fora do
+veículo. Não toque no carro quando seus pés entrarem em contato com o solo.
+Tente cair com os pés juntos. Tome passos curtos, caminhe deslizando os pés
+vagarosamente mantendo os dois pés mais próximos o possível, sem separálos. Mova-se desta maneira para longe do carro por aproximadamente 06 (seis)
+metros.” Se possível mostre como fazer, a uma distância segura;
+ITO 31 - PROCEDIMENTOS EM OCORRÊNCIAS QUE ENVOLVAM ELETRICIDADE 32
+c) terceiro passo: orientar a pular do veículo quando estiverem prontos. A Figura
+10 e 11 resumem bem esses passos.
+OBS.: lembre-se sempre que entrar em contato com o carro e o solo ao mesmo tempo
+pode ser fatal!
+Figura 10 - Fio energizado sobre o veículo, risco de explosão
+Fonte: adaptado de Electrical Safety Handbook for Emergency Responders
+Figura 11 – Modo de caminhar após sair do veículo
+Fonte: adapatado de Electrical Safety Handbook for Emergency Responders
+● Exemplo A - Saltando e mantendo os pés juntos. (Tradução do elaborador).
+● Exemplo B - Os calcanhares não passam os dedos dos pés.
+5 SEGURANÇA EM ELETRICIDADE 33
+5.2.6 Fio Energizado sobre um Veículo com Vítimas Inconscientes ou Feridas e
+Riscos de Explosão
+Esse é o pior cenário, quando os ocupantes estão feridos ou inconscientes dentro do
+automóvel em chamas e apresentando risco de explosão, não sendo possível a
+movimentação do veículo. O Manual Electrical Safety Handbook for Emergency
+Responders norteia os procedimentos a serem adotados para retirada do fio sobre o
+automóvel. Primeiro passo: verificar a tensão presente e se o solo não está úmido;
+segundo passo: realizar a abordagem a 06 (seis) metros de distância do veículo;
+terceiro passo: usar luvas adequadas ao isolamento da rede elétrica e um bastão
+isolante de 06 (seis) metros para remoção do cabo elétrico, bem como botas com
+isolamento adequado, ou seja, botas que não contenham bicos de ferro ou outros
+acessórios que possam conduzir eletricidade; quarto passo: com firmeza pegue a
+linha de energia e leve para longe do veículo; quinto passo: uma vez com a distância
+de segurança 06 (seis) metros do veículo, abaixe o bastão com a linha de energia;
+sexto passo: retire a vítima do veículo; sétimo passo: entre em contato com a
+concessionária local para reestabelecer o fornecimento de energia na região. Esses
+passos são utilizados conforme a Figura 12.
+Figura 12 - Movimentação da linha de energia. (Tradução do elaborador)
+Fonte: adaptado de Electrical Safety Handbook for Emergency Responders
+ITO 31 - PROCEDIMENTOS EM OCORRÊNCIAS QUE ENVOLVAM ELETRICIDADE 34
+6 SISTEMA ELÉTRICO DE POTÊNCIA (SEP)
+Sistemas elétricos de potência (SEP) são o conjunto de todas as instalações e
+equipamentos até a medição de energia, que englobam a geração, transmissão e
+distribuição, sendo ligados eletricamente entre si. Conforme a Figura 13.
+Figura 13 - Sistema Elétrico de Potência
+Fonte: Adolpho eletricista
+Os SEP podem ser caracterizados como sistemas com o objetivo de fornecer energia
+elétrica com qualidade e no instante em que é solicitada tanto a grandes como a
+pequenos consumidores. São subdivididos em 3 (três) grandes blocos:
+a) geração: responsável pela produção da energia elétrica. Formado por Centrais
+Elétricas que convertem alguma forma de energia (cinética, calor, entre outros.)
+em energia elétrica;
+b) transmissão: responsável pelo transporte da energia elétrica dos centros de
+Geração aos de Consumo. Formado por Linhas de Transmissão,
+Transformadores, entre outros;
+c) distribuição: realiza a distribuição da energia elétrica recebida do sistema de
+transmissão aos consumidores finais. (VASCONCELOS, 2017).
+6 SISTEMA ELÉTRICO DE POTÊNCIA (SEP) 35
+6.1 Redes e Linhas de Distribuição de Energia Elétrica
+Conjunto de estruturas, condutores e equipamentos elétricos, aéreos ou subterrâneos,
+utilizados para a distribuição da energia elétrica, operando em baixa, média e/ou alta
+tensão de distribuição.
+Geralmente, as linhas são circuitos radiais e as redes são circuitos malhados ou
+interligados.
+6.1.1 Linhas de Transmissão
+As linhas de transmissão são basicamente constituídas por fios condutores metálicos
+suspensos em torres também metálicas, por meio de isoladores cerâmicos ou de
+outros materiais altamente isolantes. Como os sistemas de potência são trifásicos,
+geralmente existem três conjuntos de cabos de cada lado das torres, acompanhados
+por um cabo mais alto no topo, que é o cabo para-raios, ou também chamado de cabo
+guarda. Conforme Figura 14 e 15.
+Figura 14 – Tipos, voltagens e distâncias de linhas de transmissão
+Fonte: Mundo Elétrica
+ITO 31 - PROCEDIMENTOS EM OCORRÊNCIAS QUE ENVOLVAM ELETRICIDADE 36
+Figura 15 – Exemplo de linhas de transmissão
+Fonte: Aneel
+6.1.2 Redes de Distribuição
+A rede de distribuição divide-se em primária e secundária. Como representado na
+Figura 16.
+Figura 16 - Rede de Distribuição
+Fonte: Comissão 13/19
+6.1.2.1 Rede de Distribuição Primária
+São os circuitos que conduzem correntes em grandes tensões de distribuição. Essa
+tensão, em sua maioria é 13,8KV no Estado de Minas Gerais, e fica localizada na
+parte mais alta dos postes em locais urbanos.
+6 SISTEMA ELÉTRICO DE POTÊNCIA (SEP) 37
+6.1.2.2 Rede de Distribuição Aérea Convencional
+É o tipo de rede elétrica mais comum no Brasil na qual os condutores são sem
+isolamento. Ao tocar nesta rede quando energizada, ocorrerá o choque elétrico.
+Também é a rede mais susceptível a defeitos (curtos-circuitos). Na Figura 17 é
+possível observar uma rede de distribuição convencional.
+Figura 17 - Rede de Distribuição Aérea Convencional
+Fonte: Comissão 13/19 adaptado de Electric Material Distributor
+6.1.2.3 Rede de Distribuição Aérea Compacta
+São mais protegidas que as redes convencionais, não somente porque os condutores
+têm uma camada de isolação, mas porque a rede em si ocupa menos espaço,
+resultando em menor número de perturbações. Essa rede não possui isolamento
+suficiente para garantir um contato seguro, apenas evita curto-circuito caso galhos ou
+outros objetos encostem nos cabos. Geralmente possuem espaçadores entres os
+condutores. Na Figura 18, observa-se uma rede aérea compacta com espaçador
+losangular e na Figura 19 um espaçador vertical, muitas das vezes utilizado nesses
+tipos de rede.
+ITO 31 - PROCEDIMENTOS EM OCORRÊNCIAS QUE ENVOLVAM ELETRICIDADE 38
+Figura 18 - Rede de Distribuição Aérea Compacta com Espaçador Losangular
+Fonte: adaptado Ancora Industrial
+Figura 19 - Espaçador Vertical
+Fonte: Electric Material Distributor
+6.1.2.4 Rede de Distribuição Aérea Isolada
+Esse tipo de rede tem um custo elevado e geralmente é utilizado em locais especiais.
+Ela é bastante protegida, pois os condutores são encapados com isolação suficiente
+para serem trançados, conforme demonstrado na Figura 20. Já na Figura 21 é
+possível observar dois tipos de rede primária empregada em um mesmo poste.
+6 SISTEMA ELÉTRICO DE POTÊNCIA (SEP) 39
+Figura 20 - Rede de Distribuição Aérea Isolada
+Fonte: adaptado DBS Engenharia e Consultoria
+Figura 21 - Dois tipos de Rede Primária em um mesmo poste
+Fonte: Comissão 13/19
+6.1.2.5 Rede de Distribuição Subterrânea
+Esta rede é a que proporciona maior nível de confiabilidade ao sistema elétrico. Além
+de possuir uma estética melhor, visto que os condutores estão enterrados. Dentre as
+redes de distribuição é a mais cara, sendo instalada em regiões muito densas ou que
+possuem restrições de instalação de redes aéreas. O atendimento em galerias é feito
+por equipes especializadas, pois nesses locais, na maioria das vezes, há presença de
+gases, por isso, não pode ocorrer curto-circuito, o qual poderá gerar explosão.
+Conforme a Figura 22.
+ITO 31 - PROCEDIMENTOS EM OCORRÊNCIAS QUE ENVOLVAM ELETRICIDADE 40
+Figura 22 - Rede de Distribuição Subterrânea
+Fonte: adaptado da Revista O Setor Elétrico, 2012.
+6.1.2.6 Redes de Distribuição Secundária (Baixa Tensão)
+São os circuitos que já passaram pelo transformador e tiveram suas tensões
+reduzidas, na grande maioria para as seguintes tensões: 127/220V ou 220/380V ou
+254/440V, dependendo apenas do tipo de transformador (rebaixador). A rede
+secundária fica na parte mais baixa dos postes em locais urbanos e acima do conjunto
+de iluminação pública. De acordo com as Figuras 23, 24 e 25.
+Figura 23 - Rede de Distribuição Secundária Convencional
+Fonte: Comissão 13/19
+6 SISTEMA ELÉTRICO DE POTÊNCIA (SEP) 41
+Figura 24 - Rede de Distribuição Secundária Protegida
+Fonte: Comissão 13/19
+Figura 25 - Rede de Distribuição Secundária Isolada
+Fonte: Comissão 13/19
+Em resumo, diz-se que a rede primária é aquela que está antes do transformador,
+enquanto que a secundária é aquela que sai dele já transformada. Observar-se na
+Figura 16 as redes de distribuição primária e secundária, além do transformador
+rebaixador.
+ITO 31 - PROCEDIMENTOS EM OCORRÊNCIAS QUE ENVOLVAM ELETRICIDADE 42
+Quadro 2 - Classificação NR 10 - Segurança em Instalações e Serviços em Eletricidade
+Classificação - NR 10 (Segurança em Instalações e Serviços em Eletricidade)
+Extra baixa tensão Baixa tensão Alta tensão
+Até 50 volts
+corrente alternada
+De 50 a 1.000 volts corrente
+alternada
+Acima de 1.000 volts
+corrente alternada
+Até 120 volts
+corrente contínua
+De 120 a 1.500 volts corrente
+contínua
+Acima de 1.500 volts
+corrente contínua
+Fonte: elaboração própria
+6.2 Rede de Telecomunicações
+A rede de telecomunicações como telefonia, internet, dados, entres outros, ficam
+localizadas na parte inferior da rede de distribuição de energia elétrica, mais
+especificamente abaixo do ponto das luminárias, compartilhando a infraestrutura dos
+postes.
+Segundo a Agência Nacional de Telecomunicações (Anatel), a rede de
+telecomunicação aérea de telefonia, TV a cabo e internet, passa nos postes próximos
+aos cabos de energia elétrica rede; contudo, não possui carga elétrica, (Figura 23).
+Porém, quando ocorre o contato dos cabos de energia elétrica com os cabos de
+telecomunicação, pode haver o perigo de choque elétrico. Caso contrário, inexiste o
+problema, uma vez que o fio de telefone não é energizado. A Anatel recomenda que
+não tocar num fio de telecomunicação quando, por avaria, esteja em contato com o
+solo, visto que, não se sabe se está ocorrendo contato com a rede elétrica.
+Figura 26 – Rede de Telecomunicações
+Fonte: adaptado Technofix
+6 SISTEMA ELÉTRICO DE POTÊNCIA (SEP) 43
+6.3 Identificação da Tensão da Rede de Transmissão de Energia Elétrica através
+da Cadeia de Isoladores
+Os isoladores têm a função de impedir a passagem da corrente elétrica dos
+condutores aos apoios ou suporte e sustentar mecanicamente os cabos, barramentos,
+entre outros.
+Uma cadeia de isoladores é formada por uma série de isoladores campânula de
+porcelana ou de vidro. Para tensões de 120KV usa-se de 06 a 08 isoladores, já para
+linhas de transmissão de 500KV geralmente são usados de 26 a 32. A formação de
+uma cadeia de isoladores depende da tensão envolvida. Quando se quer saber qual
+a tensão da rede, pois não se tem nenhuma informação referente a ela, considera-se
+que cada isolador da cadeia isola em média 10KV. Por exemplo, se tivermos 14
+isoladores na cadeia, será isolado uma tensão de 140 KV.
+Quando a tensão presente é conhecida, é possível estabelecer a zona de risco e a
+zona controlada, além da distância mínima para o ataque a um foco de incêndio com
+segurança. Também é possível evitar que ocorra a tensão de passo, entre outras
+situações. Na Figura 27 é observa-se os isoladores de porcelana e de vidro além da
+cadeia de isoladores.
+Figura 27 - Isoladores e Cadeia de Isoladores
+Fonte: Electric Material Distributor
+ITO 31 - PROCEDIMENTOS EM OCORRÊNCIAS QUE ENVOLVAM ELETRICIDADE 44
+6.4 Cerca Elétrica
+Esse sistema de segurança é composto basicamente por uma central de choque que
+gera pulsos de alta tensão em um pequeno intervalo de tempo. Dependendo da
+central, esse intervalo de tempo é de aproximadamente 01 segundo com choques que
+podem alcançar até 12.000V.
+É importante destacar que os choques da cerca elétrica não oferecem riscos à saúde,
+pois a corrente deste choque elétrico é extremamente baixa, de corrente contínua e
+ocorre por um período curto, impedindo a pessoa de ficar presa nos fios da cerca.
+Deve-se tomar cuidado com instalações clandestinas, pois estas não obedecem às
+normas ou possuem produtos sem a certificação do Inmetro, podendo ocasionar
+vários prejuízos, inclusive a morte.
+Em caso de ocorrências onde há a cerca elétrica o primeiro procedimento é determinar
+o desligamento da cerca. Não sendo possível, deve-se respeitar a distância mínima
+de segurança para evitar o choque elétrico. Na Figura 28 é possível notar os
+isoladores e as cadeias de isoladores.
+Figura 28 - Isoladores e Cadeia de Isoladores
+Fonte: AVATEC
+7 MATERIAIS ELÉTRICOS 45
+7 MATERIAIS ELÉTRICOS
+Em serviços que envolvam eletricidade, alguns materiais são essenciais como: Bastão
+Isolante (Vara de Manobra), Detector de Tensão por Indução, e Luvas Isolantes.
+7. 1 Bastão Isolante (Vara de Manobra)
+O Bastão isolante ou vara de manobra é considerado um equipamento de segurança.
+Essa ferramenta tem o objetivo de garantir a distância de trabalho ou isolamento de
+segurança nas intervenções com as instalações elétricas energizadas ou
+desenergizadas.
+O bastão isolante apresenta em uma das extremidades um adaptador universal o qual
+servirá de encaixe para diversos tipos de equipamentos, dentre eles, destaca-se o
+detector de tensão por indução que se encaixa na extremidade do bastão.
+Para utilização dos bastões é necessário que eles estejam acondicionados de forma
+adequada, ou seja, dentro de sua sacola (capa protetora), não ficar expostos a
+materiais que porventura venham provocar avarias como: cortes, fissuras, arranhões,
+dentre outros. Deve-se evitar que os bastões estejam em contato com umidade, óleo
+ou outros tipos de líquidos. Caso contrário, sua utilização torna-se ineficiente e
+ineficaz para o uso ao qual foi projetado, não garantindo assim, a segurança dos
+militares ao utilizarem esse equipamento. Lembrando que ele deve ser utilizado em
+conjunto com as luvas isolantes. Na Figura 29, observa-se a vara de manobra ou
+bastão isolado e a bolsa para o devido acondicionamento.
+ITO 31 - PROCEDIMENTOS EM OCORRÊNCIAS QUE ENVOLVAM ELETRICIDADE 46
+Figura 29 - Bastão Isolante e sacola para o acondicionamento
+Fonte: D’ASSIS
+Ressalta-se que materiais improvisados, como rodos ou pedaços de madeira, são
+desaconselhados para afastar fios ou condutores de energia elétrica, uma vez que, se
+estiverem com umidade ou com outros líquidos que conduzam eletricidade, poderá
+ocasionar o choque elétrico.
+7.2 Detector de Tensão por Indução
+É um equipamento que verifica a presença de tensão por aproximação. Este
+equipamento constata a presença ou ausência de tensões, quando há dúvida se o
+circuito está energizado ou não, garantindo maior segurança para os militares que
+entrem em circuitos elétricos para realizarem qualquer tipo de salvamento. Tal
+equipamento deve ser conectado na ponta (extremidade com adaptador universal) do
+bastão isolante (vara de manobra), em seguida o militar deve estender o bastão e
+aproximá-lo do circuito. Caso esteja energizado, o detector emitirá um alarme sonoro
+e uma luz. Este alerta impedirá que o militar entre em locais energizados e sofra um
+choque elétrico. Na Figura 30 observamos diferentes modelos de detectores de
+tensão.
+7 MATERIAIS ELÉTRICOS 47
+Figura 30 - Detectores de Tensão por Indução
+Fonte: D’ASSIS
+7.3 Luvas Isolantes
+As luvas isolantes são consideradas equipamentos de proteção individual, e são
+essenciais às atividades que envolvam eletricidade. Ao utilizar este EPI, deve-se
+atentar para o nível de isolamento que ela possui, uma vez que, níveis de tensão
+elevados exigem nível de isolamento alto. As luvas com alto poder de isolamento
+reduzem os movimentos das mãos, sendo inadequado trabalhar com luvas com
+isolamentos altos em tensões baixas.
+Antes de utilizar as luvas isolantes, deve-se fazer uma inspeção visual, para garantir
+que ela não apresente avaria e esteja em condição de uso. Ressalta-se que como a
+pele transpira e não pode haver umidade, é recomendável utilizar talco nas mãos
+antes de colocá-las, para que a pele não fique molhada durante o manuseio,
+possibilitando a condução da eletricidade. Deve-se utilizar uma luva de vaqueta por
+cima da luva de borracha para evitar que objetos venham a perfurá-la e comprometam
+a isolação do EPI. Qualquer avaria na luva, prejudicará a eficiência e eficácia em
+relação ao isolamento projetado para o equipamento. Na Figura 28 alguns exemplos
+de luvas isolantes e luva de vaqueta e na Figura 29 um exemplo de classificação da
+cor da etiqueta das luvas relacionadas à tensão de isolamento do produto.
+ITO 31 - PROCEDIMENTOS EM OCORRÊNCIAS QUE ENVOLVAM ELETRICIDADE 48
+Figura 31 - Luvas isolantes para diferentes tensões e luva de vaqueta
+Fonte: Orion
+Tabela 4 - Tensão x Cor da Etiqueta
+Fonte: Orion
+7.4 Acondicionamento de Materiais
+Quaisquer tipos de materiais elétricos devem ser acondicionados de forma adequada,
+ou seja, deve-se evitar que tais materiais fiquem expostos a objetos que provoquem
+danos por perfurações ou deixá-los expostos à umidade, a óleo, entre outros. Essas
+avarias comprometerão a sua funcionalidade e não garantirão a segurança para as
+quais estes materiais foram projetados.
+Para continuar a garantir a eficiência e a eficácia dos bastões, das luvas e do detector
+de tensão é necessária a realização das manutenções recomendadas pelos
+fabricantes.
+8 PROCEDIMENTOS A SEREM ADOTADOS EM OCORRÊNCIAS COM ELETRICIDADE 49
+8 PROCEDIMENTOS A SEREM ADOTADOS EM OCORRÊNCIAS COM
+ELETRICIDADE
+Quando o militar do CBMMG for acionado para o atendimento de ocorrência que
+envolva eletricidade, alguns passos devem ser seguidos:
+a) no deslocamento, deve-se solicitar ao COBOM o contato com a concessionária
+de energia elétrica (CEMIG);
+b) chegando ao local, se a concessionária estiver presente, deve-se realizar
+algumas perguntas para constatar que o ambiente está seguro e sem energia
+para executar as atividades de bombeiro;
+c) perguntar se a rede de energia elétrica está desligada, desenergizada, aterrada
+e seccionada no trecho onde serão realizadas as atividades de salvamento.
+Obs.: o aterramento segundo a NR-10 deve ser feito antes do ponto e depois
+do ponto de onde serão executadas as atividades;
+d) caso a concessionária confirme que o ambiente está seguro para realizar as
+atividades, o militar, possuindo o detector de tensão e seguindo os passos do
+item 7.2, deve checar se o local não possui tensão. Caso não tenha este
+equipamento, ele terá que confiar na concessionária;
+e) chegando ao local da ocorrência, caso a concessionária de energia elétrica não
+estiver presente, deve-se fazer uma avaliação do cenário a 10 metros de
+distância e isolar a área, estabelecendo assim, a zona de segurança;
+f) verifique se há vítimas;
+g) verifique qual rede de energia elétrica está presente, distribuição (primária ou
+secundária) ou transmissão;
+h) se a rede de energia elétrica for a de transmissão, verifique a sua tensão de
+acordo com o item 6.3;
+i) se for rede de distribuição de energia elétrica, verifique qual o tipo de rede de
+acordo com itens 6.1.2.2; 6.1.2.3; 6.1.2.4; 6.1.2.5; 6.1.2.6 e a sua tensão;
+j) de acordo com a tensão, estabeleça o limite de abordagem com segurança de
+acordo com o item 5.1.2;
+k) estabeleça a zona de risco e zona controlada de acordo com a tabela 1,
+evitando, assim, a tensão de passo;
+ITO 31 - PROCEDIMENTOS EM OCORRÊNCIAS QUE ENVOLVAM ELETRICIDADE 50
+l) se a ocorrência for um incêndio em veículo com fio energizado sobre ele, o
+combate ao incêndio pode ser realizado, desde que siga as condições
+estabelecidas no item 5.2.3;
+m) caso o motorista consiga mover o carro quando um fio energizado estiver sobre
+o veículo, deve-se seguir os passos do item 5.2.1;
+n) caso tenha um fio energizado embaixo ou sobre veículo, deve-se aproximar
+dele de acordo com item 5.2;
+o) caso o motorista não consiga mover o carro quando um fio energizado estiver
+sobre o veículo, deve-se seguir os passos do item 5.2.2;
+p) caso tenha um fio energizado sobre carro e houver vítimas inconscientes, devese seguir os passos do item 5.2.4;
+q) caso tenha um fio energizado sobre o carro e houver presença de vítimas
+conscientes, com risco de explosão do veículo, deve-se então, seguir os
+passos descritos no item 5.2.5;
+r) caso tenha um fio energizado sobre o carro com vítimas inconscientes ou
+feridas e o veículo com risco de explosão, deve-se seguir os passos do item
+5.2.6;
+IMPORTANTE: para utilizar o bastão isolante é necessário que esteja acondicionado
+de acordo com os itens 7.1 e 7.4, assim como para utilizar as luvas isolantes, elas
+devem estar acondicionadas adequadamente, conforme descrito nos itens 7.3 e 7.4.

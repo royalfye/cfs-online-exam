@@ -1,0 +1,2362 @@
+C787i Corpo de Bombeiros Militar de Minas Gerais.
+ Instrução Técnica Operacional 01. Padronização do
+ serviço operacional. 3.ed. Belo Horizonte: CBMMG,
+ 2025.
+
+ 99 p. il.
+
+ 1. Corpo de Bombeiros Militar de Minas Gerais. 2. ITO
+ 01. 3.Instrução Técnica Operacional. 4.Serviço
+Operacional. I. Título.
+
+
+ CDD 616.025
+
+LISTA DE SIGLAS
+BEMAD Batalhão de Emergências Ambientais e Resposta a Desastres
+BOA Batalhão de Operações Aéreas
+CBMMG Corpo de Bombeiros Militar de Minas Gerais
+CBU Coordenador de Bombeiros da Unidade
+CEB Comando Especializado de Bombeiros
+CEMIG Companhia Energética de Minas Gerais
+CG Comandante-Geral
+CHEM Chefe do Estado-Maior
+Cia Ind Companhia Independente
+CIAD Centro Integrado de Atendimento e Despacho
+CO Comandante da Operação
+COB Comando Operacional de Bombeiros
+COBOM Centro de Operações de Bombeiros
+COE Coordenador de Operações Especializadas
+EPI Equipamento de Proteção Individual
+EPR Equipamento de Proteção Respiratória
+Gu BM Guarnição Bombeiro Militar
+Gu M Guarnição Mista
+ITLF Instrução Técnica de Logística e Finanças
+ITO Instrução Técnica Operacional
+PABM Posto Avançado de Bombeiros Militar
+PI Prontidão de Incêndio
+REDS Registro de Evento de Defesa Social
+RMBH Região Metropolitana de Belo Horizonte
+SCO Sistema de Comando em Operações
+SOF Sala de Operações da Fração
+SOU Sala de Operações da Unidade
+SUS Sistema Único de Saúde
+TFM Treinamento Físico Militar
+TTS Treinamento Técnico em Serviço
+UEOp Unidade de Execução Operacional
+LISTA DE ILUSTRAÇÕES
+Figura 1 - Zonas de trabalho e perímetro de segurança .............................................31
+Figura 2 - Esquema de conferência de material na viatura.........................................36
+Figura 3 - Esquema de passagem de serviço para Sedes de Batalhões ...................40
+Figura 4 - Esquema de passagem de serviço para Sedes de Companhias e Pelotões
+.......................................................................................................................................40
+Figura 5 - Sinalização do local de ocorrência ..............................................................49
+Figura 6 - Sinalização do local de ocorrência com ambulância e helicóptero ............50
+Figura 7 - Formatura de tropa operacional para anúncio à autoridade.......................92
+SUMÁRIO
+1 INTRODUÇÃO.............................................................................................11
+2 FINALIDADES.............................................................................................12
+3 PRINCÍPIOS OPERACIONAIS...................................................................13
+4 DEFINIÇÕES ...............................................................................................15
+4.15.1 Chamada em demanda reprimida............................................................19
+4.15.2 Chamada não atendida .............................................................................19
+4.24.1 Guarnição mista (contexto de APH)........................................................22
+5 O SERVIÇO OPERACIONAL.....................................................................32
+5.1.1 Exceções da jornada operacional de trabalho ......................................32
+5.5.1 Alvorada ......................................................................................................35
+5.5.2 Recebimento do serviço ...........................................................................35
+5.5.3 Encerramento do serviço operacional....................................................37
+5.5.4 Chamada matinal .......................................................................................37
+5.5.5 Passagem de serviço ................................................................................38
+5.5.6 Ordem do dia e briefing do CBU..............................................................41
+5.5.7 Divisão e composição das guarnições...................................................41
+5.5.8 Apronto operacional..................................................................................42
+6 ATENDIMENTO OPERACIONAL ..............................................................44
+7 FUNÇÕES GERENCIAIS DO SERVIÇO OPERACIONAL .......................58
+7.1.1 Atribuições do coordenador do COBOM ao assumir o serviço
+operacional .................................................................................................58
+7.1.2 Atribuições do coordenador do COBOM durante o serviço
+operacional .................................................................................................58
+7.1.3 Atribuições do coordenador do COBOM ao passar o serviço
+operacional .................................................................................................60
+7.2.1 Atribuições do CBU ao assumir o serviço operacional .......................60
+7.2.2 Atribuições do CBU durante o serviço operacional .............................61
+7.2.3 Atribuições do CBU ao passar o serviço operacional .........................63
+7.3.1 Atribuições do chefe de serviço ao assumir o serviço operacional ..64
+7.3.2 Atribuições do chefe de serviço durante o serviço operacional ........65
+7.3.3 Atribuições do chefe de serviço ao passar o serviço operacional ....66
+8 FUNÇÕES OPERACIONAIS DE EXECUÇÃO ..........................................68
+8.1.1 Atribuições do auxiliar de CBU/auxiliar de chefe de serviço ao
+assumir o serviço ......................................................................................68
+8.1.2 Atribuições do auxiliar de CBU/auxiliar de chefe de serviço durante o
+serviço operacional ...................................................................................69
+8.1.3 Atribuições do auxiliar de CBU/auxiliar de chefe de serviço ao passar
+o serviço operacional................................................................................70
+8.2.1 Atribuições do chefe dos motoristas ao assumir o serviço
+operacional .................................................................................................71
+8.2.2 Atribuições do chefe dos motoristas durante o serviço
+operacional.............................................................................................. 72
+8.2.3 Atribuições do chefe dos motoristas ao passar o serviço
+operacional..............................................................................................72
+8.3.1 Atribuições do comandante de guarnição ao assumir o serviço
+operacional .................................................................................................73
+8.3.2 Atribuições do comandante de guarnição durante o serviço
+operacional .................................................................................................74
+8.3.3 Atribuições do comandante de guarnição ao passar o serviço
+operacional .................................................................................................75
+8.5.1 Atribuições do motorista ao assumir o serviço operacional ..............76
+8.5.2 Atribuições do motorista durante o serviço operacional ....................78
+8.5.3 Atribuições do motorista ao passar o serviço operacional.................79
+8.7.1 Atribuições do responsável pelo setor de meios ao assumir o serviço
+operacional .................................................................................................80
+8.7.2 Atribuições do responsável pelo setor de meios durante o serviço
+operacional .................................................................................................80
+8.7.3 Atribuições do responsável pelo setor de meios ao passar o serviço
+operacional .................................................................................................81
+8.8.1 Atribuições do combatente/socorrista ao assumir o serviço
+operacional .................................................................................................81
+8.8.2 Atribuições do combatente/socorrista durante o serviço
+operacional..............................................................................................82
+8.8.3 Atribuições do combatente/socorrista ao passar o serviço
+operacional .................................................................................................83
+8.10.1 Atribuições do despachante do COBOM ao assumir o serviço
+operacional .................................................................................................84
+8.10.2 Atribuições do despachante do COBOM durante o serviço
+operacional .................................................................................................85
+8.10.3 Atribuições do despachante do COBOM ao passar o serviço
+operacional .................................................................................................85
+8.11.1 Atribuições do telefonista/rádio operador ao assumir o serviço
+operacional .................................................................................................87
+8.11.2 Atribuições do telefonista/rádio operador durante o serviço
+operacional .................................................................................................87
+8.11.3 Atribuições do telefonista/rádio operador ao passar o serviço
+operacional .................................................................................................89
+9 PARTICULARIDADES DO SERVIÇO OPERACIONAL ...........................90
+10 DOS DEVERES E DAS PROIBIÇÕES PARA O BOMBEIROS MILITAR
+DURANTE O SERVIÇO OPERACIONAL..................................................94
+ REFERÊNCIAS.........................................................................................99
+1 INTRODUÇÃO 11
+1 INTRODUÇÃO
+O Corpo de Bombeiros Militar de Minas Gerais tem como missão servir à sociedade
+mineira com atividades de coordenação e execução de ações de defesa civil,
+prevenção e combate a incêndio, perícias de incêndio, busca e salvamento e
+estabelecimento de normas relativas à segurança das pessoas e de seus bens contra
+incêndio ou qualquer tipo de catástrofe, contribuindo para o desenvolvimento do
+Estado.
+O serviço operacional executado pelo Corpo de Bombeiros Militar é amplo e
+diversificado. Para atender a essa amplitude de missões, é necessário que se
+mantenha um aparato humano e logístico em prontidão, diuturnamente, à disposição
+dos mineiros.
+O aparato humano é constituído por Oficiais e Praças lotados na atividade-fim da
+corporação como também por reforços operacionais constituídos por Oficiais e Praças
+da atividade-meio, além do reforço dos discentes da Academia de Bombeiros Militar
+(ABM).
+O aparato logístico é constituído por todas as instalações, estruturas, viaturas e
+materiais operacionais a serem utilizados nos diversos atendimentos em face de sua
+competência operacional.
+Diante desse cenário, tendo em vista a vasta gama de atribuições conferidas pelo
+cotidiano operacional, é necessária a padronização de conceitos, competências
+específicas, procedimentos e rotinas a serem adotados pelos militares em serviço, nas
+mais variadas situações, forjando padrões legítimos com vistas à busca da efetiva e
+profissional gerência e execução da atividade operacional.
+ITO 01 – PADRONIZAÇÃO DO SERVIÇO OPERACIONAL 12
+2 FINALIDADES
+São finalidades precípuas desta Instrução:
+a) conceituar doutrina de atuação, princípios e definições operacionais básicas
+para a atividade de bombeiro militar;
+b) conceituar, definir competências e dinamizar a passagem e o recebimento do
+serviço operacional;
+c) conceituar, definir competências e dinamizar os procedimentos a serem
+adotados pelos militares em serviço na prontidão de incêndio (PI);
+d) padronizar ações em todas as Unidades de Execução Operacional (UEOp),
+quais sejam Batalhões, Companhias Independentes, Companhias, Pelotões e
+Postos Avançados, restringindo o estabelecimento de doutrinamento regional
+e/ou informal;
+e) desenvolver o grau de profissionalismo, segurança, legitimidade e
+transparência das ações operacionais;
+f) adotar métodos, desenvolvimentos e sistemas que orientem o serviço
+operacional a uma maior efetividade de emprego do aparato humano e
+logístico.
+3 PRINCÍPIOS OPERACIONAIS 13
+3 PRINCÍPIOS OPERACIONAIS
+Para atender ao princípio da eficiência da administração pública, previsto no artigo 37
+da Constituição Federal e nortear as ações da atividade finalística da corporação, os
+atendimentos operacionais deverão orientar-se com base nos seguintes princípios
+operacionais, que são a essência desta instrução e devem basear todas as futuras
+definições e modulações de emprego, gestão e monitoramento da atividade
+operacional do Corpo de Bombeiros.
+3.1 Princípio da segurança
+As ações operacionais devem prezar pela segurança de todos os envolvidos no
+sinistro com o emprego das melhores técnicas, com redução dos riscos para os
+próprios bombeiros, para terceiros e para as vítimas, alcançando a excelência em
+todas as atividades desenvolvidas e o cumprimento da nossa missão de proteção à
+vida, ao meio ambiente e ao patrimônio (Coletânea de Manuais Técnicos de
+Bombeiros, SP, 2006).
+3.2 Princípio do comando e controle
+Todas as ações devem possuir comando definido, assumido pelo bombeiro militar de
+maior posto/graduação e mantido até a sua transmissão formal.
+Os membros de uma guarnição devem obedecer às ordens do respectivo chefe da
+Gu, que se reportará ao comandante das operações, para receber as ordens e
+repassá-las à sua equipe. O comandante das operações deve possuir o controle de
+todos os recursos empregados.
+3.3 Princípio da organização
+O gerenciamento e a execução da atividade operacional deverão ser feitos através de
+metas, com objetivos claros, observáveis, mensuráveis e exequíveis, descritos em um
+plano de ação verbal ou escrito. Todas as atividades operacionais serão organizadas
+de forma modular (que cresce ou diminui conforme a necessidade e a disponibilidade
+ITO 01 – PADRONIZAÇÃO DO SERVIÇO OPERACIONAL 14
+de recursos) e flexível (adequada às peculiaridades da ocorrência), promovendo a
+delegação de autoridade e responsabilidade para garantir a melhor coordenação e
+controle na cena da emergência.
+3.4 Princípio da gestão de risco
+Consiste na avaliação contínua e sistemática dos riscos envolvidos em determinada
+atividade operacional com intuito de estabelecer ações que mantenham os riscos
+dentro de níveis aceitáveis. A gestão de risco é dever do comandante da operação e
+responsabilidade de todos os integrantes da operação.
+3.5 Princípio da gestão de qualidade
+Constitui o estabelecimento de um sistema eficiente de liderança que garanta coesão
+e uniformidade às atividades operacionais do CBMMG, a definição clara das
+responsabilidades, competências, ações de planejamento e acompanhamento das
+ações operacionais com intuito de atingir os resultados esperados. Além de promover
+o envolvimento, o estímulo e desenvolvimento dos bombeiros militares na busca do
+melhor atendimento à sociedade mineira.
+3.6 Princípio da agilidade e uso racional dos meios
+Todas as ações devem ser executadas dentro de um tempo-resposta ágil para a
+minimização de danos e a preservação da vida, do patrimônio e do meio ambiente.
+Os meios utilizados devem estar adequados à dimensão da emergência, de modo a
+evitar tanto a sobrecarga das equipes devido ao subdimensionamento, como o
+desperdício de recursos devido ao superdimensionamento.
+3.7 Princípio da efetividade
+O que se impõe a todo bombeiro militar de realizar suas atribuições com presteza,
+perfeição e rendimento funcional. Tal princípio, já não se contenta no desempenho
+apenas pautado na legalidade, mas exige resultados positivos para o serviço público
+e efetividade satisfatória na preservação da vida, do patrimônio e do meio ambiente.
+4 DEFINIÇÕES 15
+4 DEFINIÇÕES
+Para fins desta Instrução, serão adotadas as definições a seguir.
+4.1 A postos
+É o embarque das guarnições em suas respectivas viaturas, com vistas ao início do
+deslocamento para o atendimento de ocorrência, deslocamento esse que deve se
+iniciar no tempo máximo de 60 (sessenta) segundos após o acionamento, seja por
+alarme sonoro, sistema de som ou rádio, painel luminoso ou diretamente pelo militar
+rádio operador.
+4.2 Ala Operacional
+Efetivo da UEOp que entra de serviço operacional em regime de prontidão 24 horas.
+4.3 Alcance de controle
+Número de profissionais que um bombeiro militar poderá possuir sob sua
+coordenação. Para tanto considera-se o máximo de 7 (sete) profissionais, sendo o
+ótimo de 5 (cinco) profissionais. Para que o alcance de controle seja sempre mantido,
+à medida que os recursos forem agregados à operação, torna-se necessária a
+expansão da estrutura operacional.
+4.4 Almoxarifado
+Seção responsável pelo gerenciamento dos materiais e equipamentos de bombeiro,
+intendência, comunicação, informática, mobiliário e outros em uso na Unidade, bem
+como gastos com água e energia.
+ITO 01 – PADRONIZAÇÃO DO SERVIÇO OPERACIONAL 16
+4.5 Alvorada
+A alvorada ocorre às 06h30min, horário em que todos os militares que estejam em
+regime de prontidão devem cessar o eventual repouso e iniciar os procedimentos de
+higienização e limpeza das viaturas, equipamentos, materiais e instalações da
+Unidade, para a passagem de serviço.
+4.6 Apoio operacional
+Apoio operacional é o empenho de guarnições em auxílio a outras guarnições
+pertencentes à mesma Unidade de Execução Operacional (Batalhão) para efetivo
+atendimento da demanda operacional. Considera-se apoio operacional as guarnições
+do 1º e 2º esforço empenhadas em auxílio ao atendimento da demanda operacional.
+Nessa definição enquadram-se ainda a atuação das Unidades Especializadas
+pertencentes ao CEB, Batalhão de Operações Aéreas (BOA) e Batalhão de
+Emergências Ambientais e Resposta a Desastres (BEMAD), em auxílio operacional
+às equipes BMs em todo território do estado nas ocorrências tipicamente
+especializadas ou não, devendo ser observadas as diretrizes previstas nas normas
+ITO 19 - Emprego de Aeronaves em Apoio às Operações e ITO 29 - Plano de Emprego
+do BEMAD.
+4.7 Apronto operacional
+Condição de preparo em que uma Gu BM está pronta para ser empregada em uma
+ocorrência com todo o seu efetivo, equipamento e viatura, tão logo receba ordem para
+deslocamento.
+4.8 Atendimento pré-hospitalar
+Atendimento que procura chegar à vítima nos primeiros minutos após ter ocorrido o
+agravo a sua saúde, agravo esse que possa levar à deficiência física ou mesmo à
+morte, sendo necessário, portanto, prestar-lhe assistência adequada e transporte a
+uma unidade de saúde devidamente hierarquizada e integrada ao Sistema Único de
+Saúde (SUS), ou a unidade de saúde privada.
+4 DEFINIÇÕES 17
+4.9 Atividade operacional
+Também chamada de atividade fim, é o conjunto de ações executadas pelo bombeiro
+militar com o objetivo imediato de cumprir as atribuições legais da corporação, quais
+sejam: coordenação e execução de ações de defesa civil, prevenção e combate a
+incêndio, busca e salvamento e perícias de incêndio.
+4.10 Avaliação inicial
+É o estabelecimento prévio dos objetivos e prioridades operacionais, ao chegar ao
+teatro de operações para direcionar as ações, organizar o serviço, prover segurança
+e realizar o atendimento, sob responsabilidade do bombeiro militar de maior
+posto/graduação.
+A avaliação inicial deverá abordar os seguintes procedimentos básicos:
+a) identificação da natureza e risco principal;
+b) possível localização e situação das vítimas;
+c) medidas para prover segurança aos bombeiros militares, incluindo delimitação
+de perímetro de segurança;
+d) averiguação da necessidade de instalação do Sistema de Comando em
+Operações (SCO);
+e) estabelecimento das linhas de ação/prioridades que serão adotadas;
+f) avaliação das técnicas necessárias para realizar o atendimento (combate a
+incêndio, salvamento terrestre, salvamento em altura e salvamento aquático,
+ambientes confinados, ambientes submersos, atendimento pré-hospitalar etc.);
+g) definição dos recursos necessários para realizar a operação, inclusive apoio de
+Unidades Especializadas;
+h) reconhecimento dos riscos secundários e os procedimentos necessários para
+garantir a segurança das equipes;
+i) escolha das rotas de evacuação que serão utilizadas.
+ITO 01 – PADRONIZAÇÃO DO SERVIÇO OPERACIONAL 18
+4.11 Briefing (instrução pré-operação)
+Instrução que antecede as operações e atividades diversas com a finalidade de
+estabelecer e dar conhecimento a todos os envolvidos sobre o objetivo da missão, as
+competências de cada um, determinar os procedimentos normais de execução e os
+de emergência, focando inclusive experiências alheias e fatos correlacionados para
+fortalecer a aprendizagem com o erro. É o momento em que os envolvidos tomam
+ciência do quê, quando, como, onde, quem, e o porquê a operação se estabelece.
+4.12 Busca
+Conjunto de ações realizadas por guarnições terrestres, aéreas, embarcadas,
+submersas ou com cães, com a finalidade de localizar vítimas humanas, cadáveres,
+partes cadavéricas, animais ou bens materiais.
+4.13 Cadeia de comando operacional
+Cada bombeiro militar responde, informa e executa ações durante a atividade
+operacional, somente, por meio do imediato superior hierárquico devidamente
+instituído, proporcionando o exato entendimento e cumprimento das ordens, o correto
+trâmite das informações operacionais e a delegação de funções e ações.
+4.14 Centro de Operações de Bombeiros (COBOM)
+O COBOM é a Unidade que gerencia o atendimento às chamadas originadas no
+tridígito 193, realizando o monitoramento do serviço operacional, na sua área de
+atuação, acompanhando as seguintes rotinas:
+a) coleta das informações prestadas pelo cidadão na sua área de atuação;
+b) anúncio de ocorrências de destaque enviado no grupo Telegram;
+c) fluxo operacional de acionamento de suporte às viaturas em atendimento, seja
+por reforço, apoio ou estrutura de outros órgãos;
+4 DEFINIÇÕES 19
+d) consolidação e emissão de relatórios diários, do período de estiagem de abril
+a setembro e do período chuvoso de outubro a março (conforme norma
+expedida pela BM3).
+4.15 Chamada
+É todo registro de solicitação ao sistema de atendimento de emergência policial e/ou
+de bombeiro militar que requeira a intervenção do Estado.
+4.15.1 Chamada em demanda reprimida
+A chamada em demanda reprimida é aquela que não foi atendida no período de 24
+horas após ter sido gerada e continua pendente de atendimento por indisponibilidade
+de recursos.
+4.15.2 Chamada não atendida
+A chamada não atendida é aquela que deixou de ser despachada para viaturas devido
+às situações abaixo:
+a) encaminhada a outro órgão (Prefeitura, CEMIG etc.);
+b) dispensada pelo solicitante;
+c) falta de recursos (viaturas, efetivo etc.);
+d) solicitante orientado a adotar procedimentos que suprem ou dispensam o envio
+de recursos do CBMMG;
+e) trote.
+4.16 Código de deslocamento
+São os códigos utilizados para deslocamentos de viaturas do CBMMG:
+a) código 1 - de acordo com a fluidez do tráfego obedecendo as normas de
+trânsito para veículos normais. Faróis ligados e sinais sonoros (sirene) e
+ITO 01 – PADRONIZAÇÃO DO SERVIÇO OPERACIONAL 20
+luminosos intermitentes (giroflex) desligados, por exemplo, em situações de
+abastecimento, manutenção, retorno de ocorrências entre outros;
+b) código 2 - velocidade compatível com a via utilizando os faróis e luminosos
+intermitentes (giroflex) ligados, como exemplo, em deslocamentos para captura
+de insetos, corte/poda de árvore, vistorias diversas entre outros;
+c) código 3 - velocidade máxima permitida e compatível com as condições de
+segurança da via, fluxo de veículos, condições meteorológicas e condições de
+visibilidade. Faróis, sinais sonoros (sirene) e luminosos intermitentes (giroflex)
+ligados, por exemplo, em deslocamentos para combate a incêndios,
+salvamentos, atendimento pré-hospitalar entre outros.
+4.17 Combate a incêndio
+Ato ou ação para controlar o fogo fora de controle com o objetivo de salvar vidas,
+patrimônios e proteger o meio ambiente, minimizando danos e evitando a calamidade
+pública.
+4.18 Comboio
+Conjunto formado por uma ou mais viaturas especializadas, pertencentes ou não ao
+Corpo de Bombeiros, equipadas e tripuladas com o objetivo de executar atividades
+que, por sua natureza, sejam de competência dos bombeiros.
+A função principal do comboio é a garantia da segurança e eficiência do deslocamento
+das viaturas empenhadas no atendimento à ocorrência, devendo os motoristas
+efetuarem a correta sinalização antecipada nos cruzamentos e desvios de forma a
+permitir que todas as viaturas cheguem ao seu destino com maior brevidade e sem
+nenhuma intercorrência.
+4 DEFINIÇÕES 21
+4.19 Debriefing (reunião pós-operação)
+Reunião após a realização da atividade proposta com vistas a avaliar a integridade e
+a higidez do militar e se o objetivo foi atingido, suas implicações, o desempenho de
+cada um, apontamento dos pontos positivos e negativos, priorizando os
+procedimentos corretos e o aprendizado com os erros, desvios e/ou situação nova
+que se apresentou durante a execução da operação.
+4.20 Equipamento de proteção individual (EPI)
+EPI é todo dispositivo ou produto de uso individual destinado à proteção dos
+bombeiros militares contra riscos que possam comprometer a segurança e a saúde
+no desempenho de suas atividades.
+Compete à Diretoria de Logística e Finanças (DLF) regulamentar, por meio de
+normatização específica, os EPIs apropriados para cada atividade desempenhada
+pelos bombeiros militares, além de estabelecer a categorização aplicável aos postos
+e graduações, quando cabível.
+4.21 Esforços operacionais
+Os esforços operacionais são os níveis de empenho dos recursos operacionais do
+Corpo de Bombeiros em virtude das características da ocorrência, da necessidade de
+tropa específica ou do quantitativo de recursos necessários ao atendimento. São
+organizados nos seguintes níveis:
+a) 1º esforço operacional: recursos da Ala de Serviço da Unidade/Fração;
+b) 2º esforço operacional: recursos da Administração da Unidade/Fração, Plano
+de Chamada da Unidade;
+c) 3º esforço operacional: recursos das demais Unidades Operacionais,
+coordenados pelo COB competente pela área, ou pelo CEB através das
+Unidades Especializadas, docentes e discentes de Cursos de Qualificação;
+d) 4º esforço operacional: recursos das Unidades Administrativas do CBMMG;
+e) 5º esforço operacional: discentes dos cursos de formação.
+ITO 01 – PADRONIZAÇÃO DO SERVIÇO OPERACIONAL 22
+4.22 Estágio
+Atividade prestada ao aprimoramento profissional que pode também ser caracterizada
+por um período de treinamento. Sua função é possibilitar aos aprendizes o
+conhecimento prático das funções profissionais e contato empírico com as disciplinas
+que lhes foram transmitidas em aula/instrução.
+4.23 Formar
+Ato de reunir a tropa de serviço operacional para repasse de informações, instrução,
+leitura de documentos, revisão de procedimentos operacionais, briefing, debriefing,
+conferência de efetivo ou outro procedimento que seja de interesse geral.
+4.24 Guarnição (Gu)
+Guarnição é a menor unidade tática bombeiro militar para atendimento de ocorrências
+e tripulação de viaturas, sendo indivisível para o empenho operacional e possuindo
+comando próprio.
+As guarnições serão identificadas pela viatura que tripularem e pelas atividades que
+executarem.
+Para identificação das guarnições será considerada a subclasse da viatura prevista
+em resolução específica e o prefixo da viatura.
+4.24.1 Guarnição mista (contexto de APH)
+A guarnição mista é a unidade tática composta por bombeiros militares (BM) e outros
+profissionais civis, formada para a execução de atendimento pré-hospitalar (APH), por
+meio de parcerias institucionais.
+A guarnição mista de APH atua em ocorrências de resgate/APH, podendo prestar
+apoio em ocorrências de salvamento e incêndios, sendo indivisível durante as
+operações. Possui comando único ou unificado, exercido por um militar do CBMMG,
+4 DEFINIÇÕES 23
+que coordena todos os integrantes da guarnição, sejam eles militares ou civis, nas
+questões relativas à segurança, gerenciamento do teatro de operações, disciplina e
+operações típicas de bombeiros.
+Para as questões envolvendo atendimentos de pacientes na área da saúde, a
+coordenação dos trabalhos poderá ser exercida por um profissional com competência
+legal, tal como médico ou profissional de enfermagem, que atuará como coordenador
+técnico. Essa configuração possibilita a integração de conhecimentos técnicos e
+operacionais, visando otimizar o atendimento à população.
+4.25 Operações de explosões e incêndio
+Termo utilizado para designar o conjunto de atividades, ações e operações de
+combate a incêndios e explosões. Dentro dessas operações, as equipes são
+denominadas guarnições de Socorro.
+4.26 Operações de salvamento
+Termo genérico utilizado para designar a guarnição, bem como o conjunto de
+atividades, ações e operações com a finalidade de resgatar seres humanos, salvar
+animais e patrimônio, prevenir acidentes e recuperar corpos e bens materiais.
+4.27 Operações submersas
+É o conjunto de todas as atividades desenvolvidas com a finalidade de planejar,
+coordenar e executar o mergulho autônomo, sob a ótica do mergulho de segurança
+pública (MSP). A operação submersa abrange as etapas de avaliação, planejamento,
+preparação, execução, desmobilização e documentação.
+4.28 Organização modular
+A organização modular refere-se à forma de estrutura da operação. Está baseada no
+tipo, magnitude e complexidade da operação, sendo que a sua expansão ocorre de
+baixo para cima, à medida que os recursos são designados no teatro de operações, e
+ITO 01 – PADRONIZAÇÃO DO SERVIÇO OPERACIONAL 24
+estabelecidos de cima para baixo de acordo com as necessidades determinadas pelo
+comandante da ocorrência, fato que permite que as posições de trabalho possam
+somar-se (expansão) ou serem retiradas (contração) com facilidade e
+operacionalidade.
+4.29 Passagem de serviço
+É o ato formal de substituição das equipes após o recebimento de serviço.
+4.30 Perímetro de segurança
+O perímetro de segurança é a delimitação externa da área que isolará o local onde
+qualquer bombeiro militar poderá ficar vulnerável devido às características específicas
+da natureza e risco da ocorrência, envolvendo a zona quente e zona morna através
+da linha de isolamento.
+No estabelecimento de um perímetro de segurança devem ser considerados os
+seguintes aspectos:
+a) natureza da ocorrência;
+b) tamanho da área afetada;
+c) topografia;
+d) localização da ocorrência em relação à via de acesso;
+e) áreas sujeitas a desmoronamento, explosões, queda de escombros, cabos
+elétricos energizados e/ou outras situações de risco;
+f) condições atmosféricas;
+g) possível entrada e saída de veículos e viaturas;
+h) estabelecimento do isolamento perimetral nas vias de trânsito pelo órgão de
+segurança competente e, na ausência desse órgão, o isolamento deverá ser
+efetuado pelo CBMMG;
+i) solicitação ao órgão de segurança competente para retirada de todas as
+pessoas não envolvidas e que se encontram dentro da zona quente e da zona
+morna da ocorrência e, na ausência desse órgão, a retirada deve ser executada
+pelo CBMMG.
+4 DEFINIÇÕES 25
+4.31 Plano de Chamada
+Relação de todos os militares da Unidade disponíveis para o serviço operacional,
+contendo nome, endereço e telefones atualizados para possível acionamento.
+O acionamento do Plano de Chamada é iniciado pelo CBU ou chefe de serviço
+mediante necessidade, com a devida ordem/autorização do comandante da Unidade.
+4.32 Ponto de apoio potencial
+Qualquer pessoa física ou jurídica natural, empresa ou órgão legalmente constituído
+ou local que potencialmente possua recursos que possam vir a ser necessários às
+ações e operações de bombeiros militares, em caráter excepcional ou em situações
+de anormalidade da ordem pública. Nesse caso, inexiste um acordo prévio para
+fornecimento de recursos.
+4.33 Ponto de apoio real
+Qualquer pessoa física ou jurídica natural, empresa ou órgão legalmente constituído
+ou local que possua recursos que possam ser colocados à disposição do Corpo de
+Bombeiros Militar com base em acordos previamente estabelecidos.
+4.34 Porta de saída
+No contexto do CBMMG, entende-se por "porta de saída" qualquer local físico,
+vinculado a uma Unidade Operacional, a partir do qual as Gu BM partem para o
+atendimento de ocorrências de urgência e emergência, vistorias do SSCIP ou outras
+atividades bombeiro militar, para atendimento à população, seja em viaturas terrestres
+ou aeronaves. Esse conceito também abrange as Unidades de Tropa Especializada.
+4.35 Posto de Comando (PC)
+Posto de Comando é o local físico a partir do qual se exercem as funções de comando,
+instalado em todas as operações que utilizem o Sistema de Comando de Operações
+ITO 01 – PADRONIZAÇÃO DO SERVIÇO OPERACIONAL 26
+(SCO), independentemente do tamanho e da complexidade da situação. Suas
+características terão relação direta com o tamanho e a complexidade do evento.
+4.36 Prontidão
+É a situação de disponibilidade contínua e ininterrupta de efetivo, viaturas,
+equipamentos e materiais necessários para atendimento às atividades operacionais
+de competência do CBMMG.
+4.37 Prontidão de incêndio (PI)
+Área ou local onde o efetivo operacional, bem como as viaturas, equipamentos e
+materiais estão dispostos para acionamento e emprego imediato no atendimento a
+ocorrências.
+4.38 Recebimento do serviço
+É o ato de conferência do efetivo, viaturas, equipamentos e materiais, ordens e
+documentações afetas ao serviço, bem como das instalações da Unidade/Fração,
+com vistas a assumir o turno de serviço. As eventuais alterações encontradas deverão
+ser reportadas à administração da UEOp.
+4.39 Recuperação
+Ato de recuperar corpos (cadáveres e partes cadavéricas) ou bens materiais de locais
+de sinistro, locais de difícil acesso, ambiente submerso ou local sob estrutura
+colapsada.
+4.40 Reforço operacional
+Reforço operacional é o emprego adicional de guarnições em auxílio a guarnição
+pertencentes a outras Unidades de Execução Operacional (Batalhões) para efetivo
+atendimento da demanda operacional. Considera-se reforço operacional guarnições
+4 DEFINIÇÕES 27
+compostas pelo 3º, 4º e 5º esforço empenhadas em auxílio ao atendimento da
+demanda operacional.
+4.41 Registro de Eventos de Defesa Social (REDS) e Relatório de Atividade
+(RAT)
+O REDS é o módulo informatizado desenvolvido para permitir o lançamento dos
+registros de fatos policiais (da Polícia Militar e da Polícia Civil), de trânsito urbano e
+rodoviário, de meio-ambiente, de bombeiros e outros afins, independentemente da
+origem, forma de comunicação ou documento inicial, a fim de constituir base de dados
+única, formada pela totalidade dos eventos de defesa social do estado de Minas
+Gerais. Cada natureza de ocorrência é registrada em um diferente tipo de formulário,
+conforme ITO específica.
+O RAT é o formulário destinado à coleta de informações das atividades de Bombeiros
+de cunho operacional, relativas à participação em demonstrações profissionais,
+operações do CBMMG (exceto as operações aéreas) e atividades de coordenação e
+controle operacional e administrativo.
+4.42 Resgate
+Termo utilizado para designar a guarnição e a atividade especializada, oriunda do
+salvamento, em resgatar vidas humanas, garantindo acesso à vítima e sua retirada do
+local de risco, bem como fornecimento de suporte básico de vida e demais ações de
+atendimento pré-hospitalar.
+4.43 Sala de Operações da Unidade (SOU) e Sala de Operações da Fração (SOF)
+Sala de Operações é o espaço devidamente estruturado com os meios necessários,
+com o objetivo de receber e transmitir informação sobre ocorrências, bem como
+agilizar o acionamento de outros órgãos/centros de operações, unindo e distribuindo
+esforços para um bom desempenho em toda área da UEOp.
+Nas salas de operações (SOU/SOF), deverão conter os seguintes documentos:
+ITO 01 – PADRONIZAÇÃO DO SERVIÇO OPERACIONAL 28
+a) Plano de Chamada;
+b) cadastro de logradouros atualizado da sua área de atuação, dotado de
+esquemas para pesquisa rápida por meio eletrônico, documental ou por meio
+de mapas;
+c) controle contendo os recursos de interesse ao atendimento a emergências
+como: hidrantes, unidades hospitalares, locais disponíveis para abastecimento
+em caso de incêndio, principais vias de trânsito, áreas de risco, dentre outros.
+4.44 Salvamento aquático
+Atividade de salvamento cujas operações são realizadas em meio aquático, inclusive
+enchentes e inundações.
+4.45 Salvamento em altura
+Atividade de salvamento especializada em resgatar vidas em ambientes que exijam
+do bombeiro militar conhecimentos técnicos que envolvam utilização de cordas em
+ambientes verticais, bem como garantir acesso à vítima e sua retirada de local de
+risco, colocando-a em local seguro para que receba o suporte necessário à sua vida.
+4.46 Salvamento terrestre
+Atividade de salvamento realizada em terra com o objetivo de resgatar vidas humanas,
+salvar animais, prevenir acidentes e recuperar cadáveres, partes cadavéricas e/ou
+segmentos.
+4.47 Serviço operacional
+Aplicação do aparato humano e logístico do CBMMG utilizando técnicas e táticas
+necessárias a cumprir a missão institucional da corporação, ou seja, toda ação
+destinada ao socorrimento de vidas, proteção do patrimônio e preservação do meio
+ambiente.
+4 DEFINIÇÕES 29
+4.48 Setor de meios
+Constitui-se de um local destinado ao acondicionamento de materiais operacionais,
+que funciona em regime de plantão para apoio constante às alas operacionais. Está
+diretamente subordinado à Seção de Apoio Operacional.
+4.49 Sistema sonoro de alerta
+Ações de segurança para alertar e orientar as guarnições BM através sinais sonoros
+(verbalização, apito, buzina, sirene etc.) com o intuito de facilitar a comunicação entre
+bombeiros/Gu BM, denunciar riscos e definir padrões de cessar e retomar os trabalhos
+operacionais, conforme relacionado abaixo:
+a) cessar operações/silêncio = 1 sinal longo (03 segundos de duração o sinal
+longo);
+b) retomar as operações = 1 sinal longo + 1 sinal curto (03 segundos de duração
+o sinal longo e 01 segundo de duração o sinal curto);
+c) evacuar = 3 sinais curtos (01 segundo de duração cada sinal curto).
+4.50 Teatro de operações
+Termo utilizado para definir o local onde são desenvolvidas as operações de
+bombeiros. O teatro de operações subdivide-se em zonas de trabalho (zona quente,
+zona morna e zona fria).
+4.51 Tempo-resposta
+O atendimento operacional é composto por fases distintas da atuação, sendo o temporesposta o período compreendido entre o acionamento do serviço via 193, e a
+chegada da viatura ao local do sinistro. O tempo-resposta é composto pelos tempos
+de atendimento, despacho, preparação e deslocamento do recurso.
+ITO 01 – PADRONIZAÇÃO DO SERVIÇO OPERACIONAL 30
+a) tempo-resposta total: é o intervalo de tempo a partir do recebimento da
+ligação até o início da atuação da primeira guarnição/ viatura no local
+(Conforme norma expedida pela BM3 c/c NFPA 1710/20, p.9);
+b) tempo de atendimento: é o intervalo de tempo a partir do recebimento da
+ligação telefônica até a criação da chamada no CAD (Conforme norma
+expedida pela BM3);
+c) tempo de despacho: é o intervalo de tempo da criação da chamada no CAD
+e atribuição de uma viatura no sistema (Conforme norma expedida pela BM3);
+d) tempo de preparação (a postos): é o intervalo de tempo entre o
+despacho/acionamento da viatura até o início do seu deslocamento (Conforme
+norma expedida pela BM3);
+e) tempo de deslocamento: é o intervalo de tempo entre o início do
+deslocamento da guarnição até a sua chegada no local do fato (conforme
+norma expedida pela BM3);
+f) tempo de solução da ocorrência: tempo registrado entre a chegada da
+primeira viatura ao local do fato até o início do retorno do último recurso
+empenhado.
+4.52 Zonas de trabalho
+As zonas de trabalho são áreas delimitadas para garantir segurança, controlar os
+níveis de risco, promover a coordenação e controlar os recursos operacionais. As
+zonas são alteradas conforme evolução, tamanho e complexidade da ocorrência.
+Todos os profissionais que atuarem em uma ocorrência devem conhecer as
+delimitações das zonas de trabalho e perímetro de segurança (Figura 1).
+4 DEFINIÇÕES 31
+Figura 1 - Zonas de trabalho e perímetro de segurança
+Fonte: elaborado pelos autores
+As zonas de trabalho são divididas em:
+a) zona quente - é a mais interna, de maior risco, onde serão executados os
+trabalhos de resposta às atividades típicas de bombeiros;
+b) zona morna - é uma localidade intermediária entre a área quente (de maior
+risco) e a área fria (totalmente segura). Na área morna o acesso e a circulação
+ainda são restritos, mas as condições de risco não são tão altas, propiciando
+uma área onde os profissionais envolvidos possam repassar orientações, trocar
+equipamentos e materiais, montar estabelecimento, fazer verificações de
+segurança e passar por procedimentos de descontaminação, ao sair ou mesmo
+antes de entrar propriamente na área quente. Por isso, toda entrada ou saída
+da área quente deverá ser realizada nesse ponto;
+c) zona fria - é o local que abriga as instalações e os recursos que darão suporte
+às atividades da operação como um todo. Ela é considerada uma área segura.
+Apesar da circulação ser livre na zona fria, devem ser providenciados
+procedimentos de segurança para restringir a circulação e o acesso a certas
+instalações de apoio da operação, tais como: o posto de comando, a área de
+espera, as bases de apoio, o estacionamento de viaturas e outras que o
+comando julgar necessárias.
+ITO 01 – PADRONIZAÇÃO DO SERVIÇO OPERACIONAL 32
+5 O SERVIÇO OPERACIONAL
+Remetendo à definição contida no item 4.47 desta ITO, o serviço operacional
+compreende todo aparato humano e logístico utilizando-se de técnicas e táticas
+destinadas ao socorrimento de vidas, proteção do patrimônio e preservação do meio
+ambiente que serão melhor abordados a seguir.
+5.1 Jornada de trabalho
+A jornada operacional de trabalho terá a duração de 24 (vinte e quatro) horas de
+serviço em atividades típicas da missão de bombeiro militar, seguida de 72 (setenta e
+duas) horas de descanso e folga, sendo que os procedimentos da passagem e
+recebimento do serviço iniciarão às 07h45min.
+Os Batalhões Especializados terão jornada de empenho operacional conforme
+legislação específica.
+A jornada de trabalho das equipes dos Centros de Operações de Bombeiros e das
+Salas de Operações das Unidades ocorrerá conforme prevê resolução específica.
+5.1.1 Exceções da jornada operacional de trabalho
+Os militares com responsabilidade operacional de conferência de documentos,
+viaturas, equipamentos, materiais e instalações do aquartelamento poderão exceder
+sua jornada de 24 horas de trabalho em função dos procedimentos que executam para
+a correta passagem e recebimento do serviço, cabendo à Unidade o controle das
+horas excedentes.
+5.2 Empenho da Administração da Unidade
+O emprego operacional dos militares lotados na Administração das UEOp será
+regulado por ato ordinatório específico e documentação interna da UEOp, respeitando
+a carga máxima de horas empenhadas, de acordo com a legislação vigente.
+5 O SERVIÇO OPERACIONAL 33
+5.3 Empenho de militares de outras Unidades
+Os militares de outras Unidades (administração da Unidade, Centros, Diretorias e
+outros), externas à Unidade/Fração, poderão ser empenhados como reforço
+operacional e empregados preferencialmente conforme previsão em documento
+normativo.
+5.4 Escala de Serviço
+Os responsáveis pela elaboração, assinatura e publicação da Escala de Serviço são:
+a Companhia Operacional, na Sede da Unidade, e o comandante nas Frações
+(Companhias e Pelotões destacados).
+As escalas serão confeccionadas mensalmente com a relação nominal dos militares
+e discriminação de funções (CBU/chefe de serviço, auxiliar de CBU/chefe de serviço,
+comandante de guarnição, motorista e combatente/socorrista).
+As Companhias Operacionais deverão dar publicidade às Escalas de Serviço para o
+mês seguinte com o mínimo de 07 (sete) dias de antecedência.
+Os Pelotões deverão enviar com antecedência mínima de 05 (cinco) dias cópia das
+escalas para a Companhia Operacional à qual estão subordinados para conhecimento
+e controle.
+As situações de férias (anuais e prêmio), licença/dispensa saúde, dispensas (núpcias,
+maternidade etc.), prestação de serviço, adequação de carga horária, trocas de
+serviço, dentre outras ausências programadas ou adversas ao serviço deverão estar
+listadas na Escala de Serviço.
+As trocas de serviço entre militares de Alas distintas funcionarão da seguinte forma:
+a) o militar solicitante e o militar permutante deverão estar lotados na mesma
+Unidade/Fração;
+ITO 01 – PADRONIZAÇÃO DO SERVIÇO OPERACIONAL 34
+b) entre o turno de trabalho do solicitante e o dia de serviço da permuta deverá ter
+um intervalo mínimo de 24 (vinte e quatro) horas para descanso dos militares;
+c) é proibida qualquer troca de serviço que gere duplo plantão (quarenta e oito
+horas) ou acréscimo de horas trabalhadas na jornada mensal para qualquer um
+dos militares envolvidos;
+d) os chefes de guarnição e os motoristas somente serão autorizados a
+permutarem de serviço com militares que exerçam as mesmas funções;
+e) na Sede do Batalhão/Cia Ind, as permutas solicitadas por militares de Alas
+distintas serão enviadas ao comandante da Cia Operacional, com as
+assinaturas do solicitante, do permutante e dos chefes diretos;
+f) nas Frações, as permutas solicitadas por militares de Alas distintas serão
+enviadas ao comandante da Fração, com as assinaturas do solicitante, do
+permutante e dos chefes diretos;
+g) as permutas autorizadas deverão constar nas escalas das Unidades e serão
+lidas durante a chamada matinal, pelo CBU, juntamente com ordens do dia;
+h) para maior controle quanto à carga horária, todas as permutas deverão ser
+realizadas entre dias pertencentes ao mesmo mês;
+i) o militar solicitante deverá dar entrada com a solicitação de troca de serviço
+com antecedência mínima de 07 (sete) dias. Na solicitação deverá constar a
+assinatura de ambos os militares (solicitante e permutante), bem como a
+ciência de ambos os CBUs/chefes de serviço.
+5.5 Rotina operacional
+Durante o serviço operacional nas Sedes de Batalhões, Companhias Independentes,
+Companhias e Pelotões, existem procedimentos que devem fazer parte da rotina dos
+militares durante a sua jornada operacional.
+Como forma de facilitar o acompanhamento e controle dos processos que fazem parte
+da rotina operacional de qualquer Unidade de Execução Operacional, eles foram
+organizados em ordem cronológica da alvorada até a liberação das viaturas para o
+atendimento, perfazendo as etapas de chamada e passagem de serviço.
+5 O SERVIÇO OPERACIONAL 35
+5.5.1 Alvorada
+A alvorada ocorrerá às 06h30min diariamente. Após o toque de alvorada todos os
+militares em serviço operacional deverão estar de pé, momento esse condizente para
+realização de procedimentos de higiene pessoal, além de providenciar a arrumação
+do alojamento, das camas, dos apetrechos particulares, não deixando nenhum objeto
+particular fora dos armários. As 07h00 todas as guarnições deverão estar envolvidas
+nos procedimentos preparatórios para a passagem de serviço, incluindo a
+organização e limpeza dos materiais e ambientes do aquartelamento.
+5.5.2 Recebimento do serviço
+A Ala que está saindo de serviço deverá dispor todo o material operacional e
+equipamentos de uso obrigatório das viaturas no chão (sobre lona ou cobertor) para
+conferência até 07h45min, excetuando-se as viaturas empenhadas, cuja conferência
+será realizada imediatamente após seu retorno à Unidade. Os materiais existentes
+nas Unidades de Resgate (UR) poderão ser conferidos dentro da própria viatura.
+As ocorrências que surgirem após as 07h45min serão atendidas pelas equipes que
+entram de serviço, devendo o recebimento do serviço ocorrer posteriormente.
+Após a conferência, a Ala que entra de serviço deverá reorganizar todos os
+equipamentos e materiais dentro da viatura de acordo com o local pré-determinado,
+de maneira que fiquem prontos para o emprego em ocorrências de forma padronizada.
+Durante o recebimento dos materiais, equipamentos e viaturas, os motoristas e chefes
+das guarnições que entram e saem de serviço deverão estar presentes.
+Para a conferência dos materiais, equipamentos e viaturas, os respectivos MapasCarga devem ser conferidos em todos os seus itens. Assim, todos da Gu BM deverão
+ter ciência dos materiais operacionais existentes e suas respectivas localizações
+dentro da viatura. (Figura 2).
+ITO 01 – PADRONIZAÇÃO DO SERVIÇO OPERACIONAL 36
+Figura 2 - Esquema de conferência de material na viatura
+Fonte: elaborado pelos autores
+Todas as alterações nos materiais serão anunciadas de imediato pelo comandante da
+guarnição que sai de serviço ao respectivo auxiliar de CBU/chefe de serviço, para que
+sejam tomadas as providências necessárias.
+Todas as alterações constatadas nas viaturas serão anunciadas, pelo motorista que
+sai de serviço ao respectivo chefe dos motoristas e posteriormente ao auxiliar de
+CBU/chefe de serviço, para adoção das providências necessárias, observando-se, no
+que couber, as orientações contidas no Manual de Gerenciamento de Frota do
+CBMMG.
+Todas as alterações e soluções adotadas pela Ala que sai de serviço serão passadas
+ao auxiliar de CBU/chefe de serviço que entram de serviço.
+Os Mapas-Carga do Setor de Meios e Viaturas serão conferidos e atualizados pelo
+chefe do Almoxarifado com homologação do comandante da Companhia
+Operacional/Fração.
+5 O SERVIÇO OPERACIONAL 37
+5.5.3 Encerramento do serviço operacional
+Cabe ao CBU/chefe de serviço que estará saindo:
+a) realizar a conferência dos REDS produzidos durante o plantão;
+b) receber os REDS em até 10 dias corridos (função privativa do
+CBU/comandante de Pelotão).
+O controle de qualidade dos REDS produzidos será realizado pelo COB/CEB, em até
+90 dias após o recebimento pelo CBU/comandante de Pelotão, e será descrito em
+documentação específica.
+Cabe o auxiliar de CBU/auxiliar do chefe de serviço:
+a) confeccionar o relatório do serviço listando as ocorrências/atividades atendidas
+e a numeração respectiva dos REDS/RAT produzidos;
+b) relacionar as alterações de pessoal, material, equipamentos e viaturas
+verificados durante o serviço.
+Após a passagem de serviço, o relatório será encaminhado à Companhia Operacional
+ou ao comandante da Fração.
+Cabe ao militar responsável pelo Setor de Meios:
+a) conferir todos os materiais emprestados durante seu turno, efetuando a correta
+limpeza e manutenção das ferramentas e equipamentos para entrega do
+plantão.
+Cada guarnição efetuará a limpeza pormenorizada de sua viatura.
+5.5.4 Chamada matinal
+A chamada formal da Ala que entra de serviço será realizada, impreterivelmente às
+08h00min, depois de recebido o serviço.
+ITO 01 – PADRONIZAÇÃO DO SERVIÇO OPERACIONAL 38
+Os militares que se apresentarem para o serviço, injustificadamente, após as
+07h45min (recebimento de serviço), serão considerados atrasados conforme inciso I
+do artigo 15 do CEDM/MG.
+Os casos de acionamento de militares para atendimento à ocorrência antes do horário
+de início do serviço operacional, devem ser comunicados pelo rádio operador aos
+respectivos auxiliares de CBU.
+Ao final da chamada matinal, será procedida a passagem de serviço.
+5.5.5 Passagem de serviço
+Às 08h00min as alas, substituída (Ala que sai) e substituta (Ala que entra) procederão
+o hasteamento do pavilhão nacional defronte ao platô das bandeiras.
+Encerrado o hasteamento, as alas postar-se-ão uma de frente para a outra para
+efetiva passagem de serviço, seguindo as orientações:
+a) a Ala que entra deverá estar formada com a vanguarda voltada para a prontidão
+de incêndio;
+b) a Ala que sai deverá estar formada com a retaguarda voltada para a prontidão
+de incêndio;
+c) o CBU/chefe de serviço substituto (que entra) dará para a sua tropa o comando
+de “SENTIDO!” e, em seguida, fazendo o mesmo, o CBU/chefe de serviço
+substituído (que sai), para a sua tropa;
+d) logo após a execução do comando, os dois CBU/chefes de serviço rompem
+marcha perpendicularmente ao alinhamento das alas e ao chegarem ao centro
+da distância entre uma Ala e outra, voltam-se um para o outro rompendo
+marcha até se aproximarem à distância de dois passos, onde param e prestam
+continência individual, cabendo ao CBU/chefe de serviço substituído o anúncio
+da passagem do serviço ao CBU/chefe de serviço substituto que, por sua vez,
+anunciará o recebimento do serviço;
+e) o anúncio deverá ser dado pelos dois CBUs/chefes de serviço em voz alta, de
+modo que todos os integrantes das duas alas ouçam, em seguida dar-se-ão o
+5 O SERVIÇO OPERACIONAL 39
+aperto de mãos, virando-se para as suas respectivas guarnições, dando o
+comando de “DESCANSAR!”;
+f) em seguida, o CBU/chefe de serviço substituído vira-se para a sua tropa para
+tecer comentários dos fatos positivos e/ou negativos ocorridos durante o
+atendimento das ocorrências, passando as determinações para o próximo
+serviço e, tão logo termine, dará o comando de “FORA DE FORMA!”, para sua
+tropa;
+g) O CBU/chefe de serviço substituto, logo que assumir o serviço passará para
+sua tropa as ordens do dia.
+Nos dias de expediente administrativo, tão logo a rendição seja executada, os CBUs
+apresentar-se-ão ao comandante da Unidade e, na ausência dele, ao subcomandante,
+momento em que anunciarão a passagem e recebimento do serviço.
+Nas Companhias e Pelotões Destacados, a passagem de serviço acontecerá sob
+responsabilidade dos chefes de serviço, sendo necessário o anúncio da passagem e
+recebimento do serviço ao comandante da Fração, para a liberação da Ala que sai,
+nos dias de expediente administrativo.
+Nas Companhias/Pelotões descentralizados, a passagem de serviço acontecerá, sob
+responsabilidade dos chefes de serviço, sendo necessária a autorização do CBU que
+sai de serviço para a liberação da Ala que sai, nos finais de semana e nos dias em
+que não houver expediente administrativo.
+ITO 01 – PADRONIZAÇÃO DO SERVIÇO OPERACIONAL 40
+Figura 3 - Esquema de passagem de serviço para Sedes de Batalhões
+Fonte: elaborado pelos autores
+Figura 4 - Esquema de passagem de serviço para Sedes de Companhias e Pelotões
+Fonte: elaborado pelos autores
+5 O SERVIÇO OPERACIONAL 41
+5.5.6 Ordem do dia e briefing do CBU
+Ao final da passagem de serviço, o CBU/chefe de serviço que entra de serviço
+realizará a leitura da ordem do dia (ordens de serviço, boletins, determinações do Cmt
+da UEOp, outros documentos de interesse da tropa), fazendo as adequações e
+mudanças que forem necessárias. Os documentos relativos à leitura da ordem do dia
+devem ser de conhecimento de toda a tropa que entra de serviço.
+O CBU/chefe de serviço, após a leitura das ordens do dia, deverá executar o briefing
+com a Ala Operacional e abordar assuntos de relevância para o serviço operacional
+(procedimentos específicos constantes nesta ITO, segurança nas operações a serem
+executadas no turno, orientações sobre execução de ordens de serviço) definindo o
+modus operandi do turno de serviço com base na legislação do CBMMG.
+Situações que afetem a segurança do aquartelamento serão avaliadas durante o
+briefing e planos adicionais de segurança deverão ser adotados conforme normas em
+vigor.
+Quando militares entrarem de serviço em horários diferentes da chamada matinal, tais
+como: estagiários, reforço operacional ou militares oriundos de remanejamentos entre
+frações, eles deverão receber do auxiliar de CBU/auxiliar de chefe de serviço todas
+as informações das ordens do dia.
+5.5.7 Divisão e composição das guarnições
+A escala de militares deve ser confeccionada com detalhamento das funções de chefe
+dos motoristas, chefe de guarnição, motorista, responsável pelo Setor de Meios e
+combatente/socorrista.
+As guarnições poderão ser redefinidas ou redimensionadas em virtude das alterações
+de efetivo, baixa de viaturas ou determinação do CBU/chefe de serviço.
+O remanejamento de militares entre Companhias distintas somente ocorrerá por
+ordem direta do comandante da Companhia ou autoridade a ele superior, ficando o
+ITO 01 – PADRONIZAÇÃO DO SERVIÇO OPERACIONAL 42
+CBU autorizado a realizar os remanejamentos necessários apenas para suprir as
+necessidades temporárias durante a jornada de trabalho.
+Os remanejamentos de efetivo para suprir as necessidades do plantão operacional
+serão registrados em relatório de serviço devidamente assinado pelo CBU e entregue
+ao subcomandante da UEOp.
+Quando as alterações forem na quantidade de viaturas disponíveis para o
+atendimento ao serviço operacional, o auxiliar de CBU/auxiliar de chefe de serviço
+deverá comunicá-las à Sede do Batalhão e ao COBOM, para controle e providências.
+As guarnições BM deverão ser compostas de acordo com o previsto em resolução
+específica, que dispõe sobre as viaturas e guarnições previstas para as Unidades do
+Corpo de Bombeiros Militar de Minas Gerais.
+Em caso de guarnições mistas, a composição será prevista em instrumento jurídico
+específico tal como o convênio, desde que não contrarie os preceitos normativos
+internos do CBMMG.
+5.5.8 Apronto operacional
+O apronto operacional visa exercitar e capacitar as guarnições Bombeiro Militar para
+o perfeito desempenho de suas atividades durante a jornada de trabalho,
+especialmente no que se refere ao tempo-resposta.
+Sempre que possível, após receber o serviço, o CBU deverá realizar um apronto
+operacional, envolvendo o COBOM e todas as guarnições BM de serviço, objetivando
+a busca constante da efetividade no atendimento às ocorrências, bem como a
+identificação de possíveis falhas para adoção das correções necessárias.
+São autoridades competentes para determinar o apronto operacional, a qualquer hora
+do dia ou da noite:
+5 O SERVIÇO OPERACIONAL 43
+a) o comandante da Unidade;
+b) o subcomandante da Unidade;
+c) o supervisor operacional;
+d) o comandante da Companhia Operacional;
+e) o comandante de Pelotão e o CBU.
+ITO 01 – PADRONIZAÇÃO DO SERVIÇO OPERACIONAL 44
+6 ATENDIMENTO OPERACIONAL
+Para fins desta instrução técnica operacional, o atendimento operacional será dividido
+nas seguintes fases/etapas:
+a) ligação;
+b) chamada;
+c) empenho de recursos;
+d) “A POSTOS” e preparação de materiais e viaturas;
+e) deslocamento para o atendimento a emergência;
+f) atendimento da ocorrência;
+g) acionamento de recursos em apoio;
+h) encerramento do recurso;
+i) retorno ao quartel;
+j) confecção do REDS;
+k) recebimento do REDS.
+6.1 Ligação
+A ligação recebida é um dos meios pelos quais a intervenção do CBMMG é solicitada.
+Para cada ligação recebida será avaliado se o fato descrito pelo solicitante exige ou
+não a intervenção do CBMMG, conforme normatização específica. Caso se trate de
+evento que exija intervenção do CBMMG, será gerada uma chamada no CAD pelo
+COBOM/CIAD/SOU/SOF.
+6.2 Chamada
+Além de ser gerada quando houver solicitação telefônica, a chamada também pode
+ser gerada por denúncia, solicitação direta à Unidade/Fração BM, iniciativa, ordem de
+serviço (O.S) e outros. Nesses casos, os deslocamentos para atendimento de
+ocorrências deverão ser precedidos de comunicação ao COBOM/CIAD/SOU/SOF,
+para geração da chamada no CAD com a atribuição da natureza principal mais
+adequada.
+6 ATENDIMENTO OPERACIONAL 45
+6.3 Empenho de recurso
+O empenho do recurso para atendimento ao fato ocorre após o registro da chamada
+pelo COBOM/CIAD/SOU/SOF no CAD e possui conceituação e procedimentos
+operacionais descritos na DIAO e/ou instruções, normas e ordens de serviço próprias.
+Os sinais sonoros (toques) e sinais luminosos (luz), utilizados para acionamento das
+guarnições, deverão atender ao contido no Quadro 1 abaixo:
+Quadro 1 - Descrição dos sinais sonoros e luminosos
+OCORRÊNCIA COR N.º TOQUES INTENSIDADE
+1º SOCORRO
+AZUL 01 (UM)
+LONGO
+2º SOCORRO CURTO
+1º SALVAMENTO
+VERDE 02 (DOIS)
+LONGOS
+2º SALVAMENTO CURTOS
+RESGATE VERMELHO 03 (TRÊS) LONGOS
+CBU BRANCA 04 (QUATRO) CURTOS
+FORMAR TODAS AS
+CORES 05 (CINCO) CURTOS
+Fonte: elaborado pelos autores
+As Unidades de Atendimento Especializado, por meio de Procedimentos Operacionais
+Padrão (POPs), elaborarão os próprios sinais sonoros e luminosos e publicará em
+Boletim Interno (BI).
+Os deslocamentos de guarnições de SSCIP não são anunciados por sinais sonoros e
+luminosos.
+ITO 01 – PADRONIZAÇÃO DO SERVIÇO OPERACIONAL 46
+Para os tipos de chamados será obedecido o seguinte critério:
+a) 1º Socorro: atividades classificadas na DIAO como de incêndio ou outras
+operações que apresentem risco à vida ou a residências;
+b) 2º Socorro: atividades classificadas na DIAO como de incêndio ou outras
+operações que não apresentem risco à vida ou a residência;
+c) 1º Salvamento: atividades classificadas pela DIAO como de busca e
+salvamento que apresentem risco à vida ou a propriedades;
+d) 2º Salvamento: atividades classificadas pela DIAO como de busca e
+salvamento que não apresentem risco à vida ou a propriedades.
+6.4 “A POSTOS” e preparação de materiais e viaturas
+Ao ouvir o alarme, todos os militares escalados para a viatura empenhada devem
+interromper as atividades que estiverem executando, dirigir-se à Sala de Operações
+(quando aplicável) e obter o despacho da ocorrência (CBU/chefe de
+serviço/comandante de Gu).
+O “a postos” deverá acontecer o mais rápido possível, não sendo admitido um tempo
+superior a 60 (sessenta) segundos para o deslocamento iniciado a partir do fim dos
+toques de aviso ou da chamada pela fonia interna da Unidade.
+Nos casos em que requererem o preparo de outros materiais para o atendimento, que
+não existam no mapa-carga da viatura, o tempo preparação deve se reduzir ao
+estritamente necessário para condução dos materiais do almoxarifado à viatura
+empenhada.
+O chefe da Gu BM deve registrar o motivo do atraso na chamada do CAD e no histórico
+do REDS.
+6.5 Deslocamentos para atendimento a emergências
+Consideram-se “emergências” os deslocamentos verificados em função direta do
+atendimento de ocorrências.
+6 ATENDIMENTO OPERACIONAL 47
+O deslocamento para ocorrência deverá ocorrer com a utilização dos sinais luminosos
+intermitentes, sonoros e os faróis da viatura acionados em modo baixo, obedecendo
+também às prescrições do Código de Trânsito Brasileiro (CTB) e Manual de
+Gerenciamento de Frota do CBMMG.
+A velocidade máxima das vias e o sentido de circulação devem ser respeitados, sendo
+que as situações de ultrapassagem, conversões e manobras devem ocorrer de forma
+sinalizada, com antecedência e observando os demais veículos, em observância ao
+que preconiza o CTB.
+Quando o comboio estiver em deslocamento, as viaturas leves e motocicletas devem
+facilitar o deslocamento para as viaturas pesadas, executando as funções de batedor,
+quando possível.
+As viaturas precedidas de batedores terão prioridade de passagem, respeitadas as
+demais normas de circulação, conforme CTB.
+Em deslocamentos do Auto Comando de Área (ACA) e demais viaturas operacionais
+(trem de combate), o ACA deverá ser a primeira viatura do comboio e centralizar as
+comunicações via rádio. O CBU deverá confirmar o seu deslocamento e o
+deslocamento do comboio junto ao COBOM/SOU/SOF.
+Durante o deslocamento, o CBU/chefe de serviço/Cmt Gu deve obter as informações
+necessárias e fazer o planejamento prévio do emprego do aparato humano e logístico,
+iniciando o plano de ação conforme informações prestadas pelo despacho e de acordo
+com informações oriundas do COBOM/SOU/SOF, baseando-se nas estratégias,
+táticas e técnicas em uso no CBMMG.
+As viaturas devem transitar nas faixas de preferência (à esquerda da via, quando não
+sinalizadas) e devem evitar troca de faixas para que os demais veículos consigam dar
+passagem e possam manobrar com antecedência ao deslocamento da via.
+Todos os militares e tripulantes das viaturas operacionais deverão, obrigatoriamente,
+estar com o cinto de segurança afivelado durante os deslocamentos.
+ITO 01 – PADRONIZAÇÃO DO SERVIÇO OPERACIONAL 48
+O motorista e o Cmt Gu, com o auxílio do COBOM/SOU/SOF, são os responsáveis
+pela efetividade do deslocamento da viatura até o local da ocorrência, sendo
+preponderante ao motorista conhecer sua área de atuação, possibilitando assim a
+decisão do itinerário mais favorável.
+A decisão do itinerário e o respeito à direção defensiva deverão ser objeto de iniciativa
+do motorista, com homologação e fiscalização do chefe de guarnição.
+O motorista/condutor/operador de viatura não deverá iniciar o deslocamento até que
+todos os militares da Gu BM estejam assentados em seus respectivos assentos e com
+os cintos de segurança afivelados.
+Os cintos de segurança não devem ser liberados ou soltos enquanto a viatura estiver
+em movimento.
+As viaturas destinadas ao socorro, salvamento e atendimento pré-hospitalar, além de
+prioridade de trânsito, gozam de livre circulação, estacionamento e parada, quando
+em serviço de urgência e devidamente identificados por dispositivos regulamentares
+de alarme sonoro e iluminação intermitente, conforme prescreve o CTB.
+O uso de dispositivos de alarme sonoro e de iluminação intermitente deverá ocorrer
+no deslocamento e quando da efetiva prestação de serviço de urgência (ainda que a
+viatura esteja parada), conforme prescreve o Código de Trânsito Brasileiro. A não
+observância incorrerá em infração média conforme o art. 222 do CTB.
+Toda manobra realizada com as viaturas operacionais que necessite de utilização da
+marcha à ré, seja no teatro de operações, seja no estacionamento da viatura na
+garagem da prontidão, será auxiliada por um dos membros da guarnição, de forma a
+garantir a segurança da viatura, apoio ao motorista e sinalização aos demais veículos
+da intenção de manobra.
+Nas autoestradas a velocidade máxima será determinada pelo local em que se estiver
+transitando.
+6 ATENDIMENTO OPERACIONAL 49
+A regra de preferência estabelecida no CTB deve ser respeitada pelas viaturas de
+emergência do Corpo de Bombeiros Militar, que só avançará se o outro veículo que
+vier da direita ceder a passagem.
+A sirene deverá ser desligada nas áreas em que é proibido o uso de buzina.
+6.6 Atendimento da ocorrência
+Para a execução do atendimento às ocorrências, devem-se observar Instruções,
+Manuais, Procedimentos Operacionais Padrão, Normas e Ordens de Serviço próprias.
+O início do atendimento no teatro de operações se estabelece com posicionamento
+da(s) viatura(s) em local seguro com visibilidade aos elementos envolvidos no sinistro
+e execução da avaliação inicial.
+Figura 5 - Sinalização do local de ocorrência
+Fonte: elaborado pelos autores
+ITO 01 – PADRONIZAÇÃO DO SERVIÇO OPERACIONAL 50
+Figura 6 - Sinalização do local de ocorrência com ambulância e helicóptero
+Fonte: elaborado pelos autores
+O desvio de trânsito nas imediações das zonas de trabalho, o controle da velocidade
+dos demais veículos e a efetivação da linha de isolamento são orientadas pelo
+comandante da guarnição e executada pelos combatentes/socorristas e, em especial,
+pelo motorista, além das ações de equipes dos órgãos competentes pelo trânsito.
+A prioridade em qualquer ação ou operação desenvolvida pelo Corpo de Bombeiros
+Militar é o salvamento ou resgate da vida humana que esteja em situação de risco de
+morte ou de agravo à sua incolumidade.
+Em caso de situações simultâneas que envolvam risco à vida humana, será dada
+prioridade às situações em que a vida humana estiver em maior risco.
+Em caso de situações simultâneas que envolvam somente patrimônio, será dada
+prioridade às situações que envolvam danos ou destruição a residências.
+6 ATENDIMENTO OPERACIONAL 51
+Em caso de situações simultâneas que envolvam meio ambiente, será priorizada
+aquelas situações que afetem ou possam afetar a vida humana.
+As atribuições particulares do coordenador de bombeiros da Unidade (CBU),
+comandante de Gu, motorista e combatente/socorrista estão descritas nas seções
+específicas desta ITO.
+Os bombeiros militares farão o atendimento operacional após a execução da
+avaliação inicial oriunda do militar de maior posto/graduação (comandante da
+operação) e após a devida determinação de ação do militar de maior posto/graduação
+às guarnições BM e aos seus componentes.
+Ao chegar ao local da ocorrência, o CBU/chefe de serviço/comandante de Gu, quando
+for a primeira ou única viatura do bombeiro militar no local, deverá providenciar o
+seguro posicionamento da(s) viatura(s), avaliação inicial, estabelecer formalmente o
+comando da operação, dimensionar a cena, solicitar ou dispensar recursos adicionais,
+gerenciar os riscos e iniciar as operações peculiares à ocorrência (combate a incêndio,
+APH, salvamento, resgate veicular etc.).
+Durante o atendimento, todos os integrantes das guarnições devem zelar pelo correto
+gerenciamento do teatro de operações e controle das equipes/materiais/viaturas (do
+CBMMG e de outros órgãos) que chegam para atuar na ocorrência e atentar-se para
+os procedimentos de alcance de controle, organização modular e cadeia de comando.
+É obrigatório o uso dos EPIs, além do fardamento completo e desdobrado, durante
+atendimento às ocorrências, ou em atividades que os exijam, como treinamentos e
+serviços diversos.
+Para a correta utilização do EPI e do equipamento de proteção respiratória (EPR) o
+militar deve considerar a natureza da ocorrência e a necessidade de proteção para
+cada atividade executada.
+Embora seja de responsabilidade individual de cada bombeiro militar, o comandante
+da operação é responsável pela utilização de todos os equipamentos de proteção
+ITO 01 – PADRONIZAÇÃO DO SERVIÇO OPERACIONAL 52
+individual e coletiva, além de ordenador de medidas cautelares de segurança e
+limitador de ações de risco.
+No local da ocorrência o comandante da operação reúne todas as comunicações,
+sendo o único a comunicar-se com a SOU/COBOM (salvo sob impossibilidade ou
+conveniência da operação sob determinação do Cmt da operação), recebendo os
+anúncios das equipes que atuam na ocorrência e repassando as ordens e diretrizes
+de atuação. De acordo com a demanda de crescimento da estrutura humana e
+logística, deverá ser instalado o Sistema de Comando em Operações (SCO).
+Para padronização da estrutura organizacional, instalações, áreas e ações no
+estabelecimento e atuação do SCO será adotado como referência, até que seja
+realizado o doutrinamento próprio do CBMMG, o Manual de Gerenciamento de
+Desastres e o guia de campo do Sistema de Comando em Operações da Secretaria
+Nacional de Defesa Civil/Ministério da Integração.
+A padronização do SCO, além de oferecer uma ferramenta gerencial efetiva, visa o
+cumprimento da Resolução Conjunta 166, de 28 de setembro de 2012, que cria a
+Metodologia Integrada de Gerenciamento de Eventos de Defesa Social no âmbito do
+Sistema Integrado de Defesa Social do Estado de Minas Gerais.
+No caso de acidentes ou riscos identificados aos membros das guarnições durante o
+atendimento operacional, o comandante da operação anunciará de imediato o fato ao
+COBOM/CIAD/SOU, definirá equipe de resgate imediato (em caso de acidente com
+bombeiros militares) e solicitará ao COBOM/CIAD/SOU apoio operacional para a
+ocorrência.
+Cada Gu BM empenhada no teatro de operações deverá estar equipada com no
+mínimo 01 (um) rádio comunicador (HT) para comunicação entre Gu BM, CBU/chefe
+de serviço e COBOM/CIAD/SOU.
+Quando as guarnições BM realizarem a entrada em edificações, galerias, espaços
+confinados, mananciais e matas ou locais de extensa área, além de toda a situação
+em que não ocorrer contato visual entre as equipes, o Cmt das operações deverá
+6 ATENDIMENTO OPERACIONAL 53
+prover efetiva comunicação entre as guarnições BM ao longo das operações com o
+intuito de:
+a) identificação dos militares e suas respectivas guarnições;
+b) controle de localização das guarnições;
+c) controle da quantidade de ar comprimido disponível, caso aplicável;
+d) definição e/ou alteração de rotas de fuga;
+e) necessidade de resgate de algum componente da Gu BM;
+f) comunicação entre guarnições;
+g) alteração das táticas e técnicas empregadas face a novas situações
+operacionais.
+Não será admitida, em hipótese alguma, a permanência e atuação de bombeiros
+militares de forma isolada no teatro de operações.
+Nos atendimentos operacionais relacionados a incêndios em edificações, é obrigatório
+o comparecimento do oficial CBU nas Sedes de Batalhão e dos chefes de serviço nas
+respectivas UEOp.
+Quando solicitado pela imprensa, o comandante das operações poderá fornecer
+informações de caráter técnico profissional sem, no entanto, emitir opiniões pessoais
+ou juízo de valor sobre qualquer fato relativo ao atendimento.
+As entrevistas serão concedidas pelo comandante da operação ou por bombeiro
+militar designado por ele, preferencialmente após a conclusão dos trabalhos, de forma
+a não causar embaraço operacional às guarnições BM.
+Ao término da atuação no teatro de operações as guarnições BM deverão ser reunidas
+para conferência de efetivo e verificação de ferimentos, moléstias ou danos que
+necessitem condução para hospital ou retorno ao quartel antes da liberação da equipe
+para novo atendimento.
+ITO 01 – PADRONIZAÇÃO DO SERVIÇO OPERACIONAL 54
+Toda a guarnição deverá reunir e organizar os materiais na viatura fazendo uma prévia
+conferência para identificar danos ou perdas que impossibilitem a utilização do
+material em outra ocorrência.
+O chefe da guarnição, após conferir os militares, materiais, condições da viatura e
+dados coletados para elaboração do REDS, deverá comunicar ao COBOM/CIAD/SOU
+a finalização da ocorrência e a disponibilidade da viatura para novo empenho e o
+retorno ao quartel.
+Nas ocorrências de danos nos quais o solicitante/vítima tenha interesse na cópia do
+REDS, o chefe da guarnição deverá orientar o procedimento correto para busca do
+registro, na Unidade/Fração/portal eletrônico.
+O CBU/chefe de serviço, quando for necessário, deverá organizar intervenções de
+gerenciamento do estresse pós-traumático (por meio do debriefing), utilizando,
+sempre que uma ou mais guarnições envolverem-se em ocorrências críticas (morte
+de criança, ferimento ou morte de bombeiro, risco extraordinário, múltiplas vítimas,
+desastres), encaminhando ao NAIS, se julgar necessário.
+No caso de não haver pessoal com treinamento, a intervenção deve ser solicitada ao
+escalão superior no menor tempo possível.
+Nas ocorrências envolvendo vítima(s) humana(s) ou em ocorrências de incêndio em
+edificações, uma vez gerada a chamada e despachada a Gu BM, esta deverá
+comparecer ao local do sinistro, mesmo que o solicitante dispense o empenho da
+guarnição por telefone, salvo em casos de necessidade de empenho da viatura em
+outra chamada.
+Nas ocorrências de APH em que houver falha da triagem e, ao chegar ao local, a Gu
+BM constatar que não se trata de emergência ou urgência, ainda assim, considerando
+que todo o aparato operacional já estará no local e que o valor hora-homem e horaviatura já terá sido gasto em virtude do deslocamento, caberá ao chefe de Gu BM a
+responsabilidade de decidir se a vítima será conduzida pela viatura BM, salvo se
+houver outra chamada com maior prioridade.
+6 ATENDIMENTO OPERACIONAL 55
+Quando o solicitante dispensar o atendimento, o chefe de Gu deverá orientá-lo sobre
+o acionamento indevido de viaturas do Corpo de Bombeiros Militar de Minas Gerais.
+Os procedimentos operacionais relacionados às naturezas específicas (Combate a
+Incêndio Urbano e Florestal, APH, Salvamento Aquático, Salvamento em Altura,
+Operações de Mergulho, Produtos Perigosos, Defesa Civil, Busca e Salvamento entre
+outras competências institucionais) serão descritas em Instrução Técnica Operacional
+(ITO) e documentos específicos.
+6.7 Acionamento de recursos em apoio/reforço operacional
+O acionamento de recursos em apoio aos atendimentos deverá seguir os seguintes
+critérios:
+a) a dimensão do cenário da ocorrência é superior ao repassado pelo
+CIAD/COBOM/SOU;
+b) a ocorrência supera a capacidade de resposta da guarnição empenhada;
+c) a gravidade das vítimas exige transporte em condições superiores às
+fornecidas pela guarnição empenhada;
+d) o esforço necessário para a execução da atividade supera a capacidade física
+dos integrantes da guarnição;
+e) nível de exigência técnica específica superando a capacidade da guarnição;
+f) constatado fator de risco elevado à guarnição, equipamentos e viaturas;
+g) necessidade de continuidade do atendimento além do turno de trabalho da
+guarnição empenhada;
+h) necessidade de expansão do Sistema de Comando em Operações (SCO).
+O emprego de aeronave obedecerá ao previsto na Instrução Técnica Operacional
+específica.
+O empenho de viaturas em apoio ocorrerá após a verificação pela primeira guarnição
+no local e sua solicitação, a não ser em caso de comprovada necessidade pelo
+COBOM/CIAD/SOU.
+ITO 01 – PADRONIZAÇÃO DO SERVIÇO OPERACIONAL 56
+Nos casos em que o COBOM/CIAD/SOU identificar a necessidade de apoio durante
+o deslocamento da primeira guarnição, deverá confirmar a necessidade de envio de
+apoio junto a essa guarnição e repassar a situação para que as demais viaturas sejam
+dispensadas ou orientadas quanto às ações.
+Em caso de necessidade de apoio de órgãos externos, este deverá ser feito
+prioritariamente via COBOM/CIAD/SOU, em observação ao plano de apoio real e
+potencial.
+6.8 Encerramento do recurso
+O encerramento do recurso se dá no CAD quando os trabalhos da equipe empenhada
+no evento são encerrados no turno ou plantão, com comunicação da situação ao
+COBOM/CIAD/SOU/SOF. Ao encerrar o recurso, o militar do COBOM/CIAD/SOU/
+SOF deve realizar no CAD a integração entre o número da chamada e o número do
+militar responsável pela confecção do relatório. Geralmente, o encerramento do
+recurso coincide com a conclusão dos trabalhos e encerramento da chamada, exceto
+nas ocorrências continuadas.
+O atendimento será ainda considerado encerrado quando forem obtidos os seguintes
+critérios:
+a) solução da ocorrência com encaminhamento das demandas do solicitante a
+órgão específico (PMMG, PCMG, Prefeitura, COMDEC, outros);
+b) assunção da ocorrência por instituição com missão exclusiva/específica que
+possua condições de solucionar a ocorrência;
+c) dispensa pelo solicitante das providências da Corporação em situação que não
+cause risco ou afete a segurança do solicitante e de outrem.
+6.9 Retorno ao quartel
+Na condução da viatura de retorno ao quartel, o motorista deve ter obediência ao
+Código de Trânsito Brasileiro (CTB), manter os dispositivos de sinalização (sirene e
+luzes de emergência) desligados, manter-se à direita e dar passagem pela esquerda.
+6 ATENDIMENTO OPERACIONAL 57
+As situações de indisponibilidade temporária da viatura para abastecimento,
+manutenção, limpeza, higienização da equipe e materiais, deverá ser comunicada
+imediatamente ao CBU e ao COBOM/CIAD/SOU, sendo de responsabilidade do
+comandante de Gu às ações decorrentes.
+Durante o regresso, a viatura será considerada como ativa e apta para o atendimento
+de novas ocorrências.
+Durante o estacionamento das viaturas, os integrantes da guarnição deverão descer
+da viatura e auxiliar o motorista sinalizando as distâncias e as direções de manobras.
+Ao retornar à base, o CBU/chefe de serviço deverá determinar e supervisionar a
+verificação completa das viaturas, dos equipamentos e dos materiais utilizados no
+teatro de operações, tomando as medidas necessárias para a resolução dos
+problemas encontrados que extrapolam a autoridade dos comandantes de Gu,
+envidando todos os esforços para obter o retorno das guarnições às condições de
+pleno emprego operacional no menor tempo possível.
+O uso de sinais sonoros (sirene) e luminosos intermitentes (giroflex) só poderá ocorrer
+quando da efetiva prestação de serviço de emergência. O retorno à UEOp será com
+iluminação intermitente apagada e a sirene desligada (código 1).
+6.10 Confecção/Recebimento do REDS
+Para confeccionar e receber o REDS deverão ser observadas as orientações gerais
+descritas em ITO específica.
+Em operações específicas durante feriados prolongados, eleições, carnaval etc.,
+todos os REDS gerados nos dias de operação deverão ser CONCLUÍDOS,
+ENCERRADOS e RECEBIDOS conforme previsto na ordem de serviço
+correspondente, desde que homologada pelo Chefe do Estado-Maior.
+ITO 01 – PADRONIZAÇÃO DO SERVIÇO OPERACIONAL 58
+7 FUNÇÕES GERENCIAIS DO SERVIÇO OPERACIONAL
+Para fins desta Instrução Técnica Operacional, consideram-se funções gerenciais:
+a) coordenador do COBOM/CIAD;
+b) função operacional de gerenciamento:
+ coordenador de bombeiros da Unidade (CBU);
+ chefe de serviço.
+7.1 O coordenador do COBOM
+O coordenador do COBOM é o oficial responsável por acompanhar as ocorrências na
+sua área de atuação, servindo de gerente operacional do Corpo de Bombeiros Militar
+durante seu turno operacional.
+7.1.1 Atribuições do coordenador do COBOM ao assumir o serviço operacional
+Ao assumir o serviço operacional, o coordenador do COBOM deverá:
+a) verificar no CAD o status das viaturas do serviço operacional e situação das
+ocorrências (incluindo as últimas que foram atendidas e as em andamento);
+b) ter conhecimento detalhado da carta de situação de efetivo e viaturas
+operacionais da corporação em operação durante seu turno;
+c) ter conhecimento detalhado sobre as ordens de serviço do dia e determinações
+operacionais durante seu turno de serviço;
+d) atender às determinações específicas definidas por documentação interna do
+COBOM e demais disposições legais.
+7.1.2 Atribuições do coordenador do COBOM durante o serviço operacional
+Durante o serviço operacional, o coordenador do COBOM deverá:
+a) utilizar o INFOSCIP para assessoramento das equipes em campo;
+b) utilizar o SIGEA para consulta das pessoas físicas e jurídicas credenciadas pelo
+CBMMG;
+7 ATRIBUIÇÕES GERAIS DO SERVIÇO OPERACIONAL 59
+c) gerenciar e controlar as atividades de bombeiro militar das Unidades do
+CBMMG, em suas respectivas áreas, maximizando o emprego dos meios em
+função da operacionalidade, em seu turno de serviço;
+d) gerenciar o acionamento do apoio às guarnições enviadas em atendimento;
+e) gerenciar as ações e operações de bombeiro militar, que envolvam duas ou
+mais Unidades, obtendo o esforço único para a realização da missão;
+f) gerenciar as operações especiais e/ou extraordinárias resultantes de planos e
+ordens emitidas pelos Comandos Operacionais de Bombeiros;
+g) realizar a triagem das ocorrências, acompanhando a evolução do atendimento
+e o acionamento de outros órgãos em apoio;
+h) decidir quanto ao atendimento de guarnição BM em área de outra UEOp/COB,
+segundo avaliação de cada situação e dentro das normas em vigor;
+i) determinar o empenho do CBU em ocorrências, quando julgar necessário;
+j) servir de facilitador da atuação integrada entre o CBMMG e o SAMU;
+k) informar sobre eventos que estejam ocorrendo, nos casos em que for
+necessária à sua comunicação;
+l) solicitar contato com hospitais e informar sobre remoção de pacientes graves,
+tempo de chegada e condições clínicas delas, na ausência de médico
+regulador;
+m) manter estreito contato com os CBU, obtendo perfeito entrosamento entre as
+atividades da UEOp e do COBOM;
+n) manter contato com os demais órgãos públicos integrantes do Sistema de
+Defesa Social, com o objetivo de solucionar eventos e/ou ocorrências
+relacionadas ao Corpo de Bombeiros Militar que extrapolam a competência do
+CBMMG;
+o) fornecer à Sala de Imprensa dados das ocorrências de destaque, segundo
+ligações, informações e orientações oriundas do EMBM-5 e B/5-COB;
+p) onde há o COBOM/CIAD manter estreito e harmonioso contato com o
+Coordenador da Central de Polícia Civil - CEPOLC e coordenador do Centro
+de Operações da Polícia Militar (COPOM) da PMMG de forma a conjugar
+esforços no atendimento a ocorrências de bombeiro militar que exijam a dupla
+atuação para colaboração mútua na solução e finalização de ocorrências;
+q) inteirar-se e utilizar os procedimentos previstos pela “DIAO”, norteando suas
+providências segundo orientações ali inseridas;
+ITO 01 – PADRONIZAÇÃO DO SERVIÇO OPERACIONAL 60
+r) zelar pela disciplina no uso dos meios de comunicação externos e internos,
+operacionalizando-os ao máximo para a atividade-fim da corporação e tomar
+as medidas administrativo-disciplinares cabíveis caso constate alguma
+irregularidade e/ou alteração;
+s) anunciar às autoridades, conforme normas em vigor, as ocorrências de
+destaque registradas durante o turno de serviço;
+t) atender às determinações específicas definidas por documentação interna do
+COBOM e demais disposições legais.
+7.1.3 Atribuições do coordenador do COBOM ao passar o serviço operacional
+Ao passar o serviço operacional o coordenador do COBOM deverá:
+a) repassar ao coordenador que entrar em serviço informações sobre as
+ocorrências atendidas, ocorrências de destaque, alterações apresentadas,
+ordens recebidas e serviços agendados ou pendentes relativos ao último turno
+de serviço;
+b) observar determinações específicas definidas por documentação interna do
+COBOM e demais disposições legais.
+7.2 Funções operacionais de gerenciamento/CBU
+Nas Sedes dos Batalhões da capital e do interior o coordenador de bombeiros da
+Unidade (CBU) será o oficial responsável pela coordenação do serviço operacional
+diário da Unidade, incluídas as Frações subordinadas, independentemente da
+localidade (descentralizadas/destacadas). Deverá comparecer à SOU com
+antecedência de 20 minutos para recepção do serviço.
+7.2.1 Atribuições do CBU ao assumir o serviço operacional
+Ao assumir o serviço operacional, o CBU deverá:
+7 ATRIBUIÇÕES GERAIS DO SERVIÇO OPERACIONAL 61
+a) obter do CBU que sai de serviço as informações sobre as ocorrências
+atendidas, alterações apresentadas e serviços pendentes relativos ao último
+turno de serviço;
+b) obter do CBU que sai de serviço informações sobre o status do serviço
+operacional (localização e situação das viaturas e guarnições, caso estejam em
+atendimento), e situação das ocorrências (em andamento);
+c) verificar e atualizar a carta de situação de pessoal e viaturas, ordens de serviço
+e os registros das principais ocorrências do serviço anterior;
+d) acompanhar o recebimento do serviço, fiscalizando a verificação de todos os
+equipamentos das guarnições quanto a quantidade, funcionamento,
+conservação e acondicionamento, determinando as medidas necessárias para
+a resolução das alterações encontradas;
+e) receber o anúncio do auxiliar de CBU referente à chamada realizada com base
+em escala prévia enviada pela Companhia Operacional da Unidade;
+f) verificar a apresentação pessoal da tropa (uniforme, barba, cabelo etc.),
+equipamentos, viaturas e limpeza em geral e tomar as providências
+disciplinares cabíveis caso constate alguma irregularidade e/ou alteração;
+g) efetuar a passagem formal de serviço;
+h) verificar as condições físicas/psicológicas da tropa a ser empenhada;
+i) verificar se há alguma ausência, tomar as providências disciplinares cabíveis e
+se for o caso, proceder os remanejamentos necessários de forma a atender as
+prioridades do momento;
+j) efetuar a leitura das ordens do dia e execução do briefing, procurando levar ao
+conhecimento da tropa os principais fatos ocorridos no serviço anterior,
+abordando assuntos que mereçam atenção especial e assuntos de interesse
+operacional para a tropa;
+k) acondicionar seu EPI de combate a incêndio urbano em local adequado e de
+fácil acesso;
+l) observar determinações específicas definidas por documentação interna da
+UEOp e demais disposições legais.
+7.2.2 Atribuições do CBU durante o serviço operacional
+Durante o serviço operacional, o CBU deverá:
+ITO 01 – PADRONIZAÇÃO DO SERVIÇO OPERACIONAL 62
+a) exercer o comando e coordenação direta da execução do serviço operacional
+em sua área de articulação, observando os preceitos de hierarquia e disciplina;
+b) fazer contato com o coordenador de operações/COBOM, quando convocado
+ou por iniciativa, e quando sentir necessidade de esclarecer dúvidas ou obter
+orientações;
+c) fiscalizar os Pelotões/Postos Avançados, desde que não gere o direito à
+parcela alimentação, se possível, ou fazê-lo por amostragem;
+d) acompanhar a rede de rádio, tomando conhecimento de cada uma das
+ocorrências na Sede da UEOp, comparecendo naquelas de destaque ou que
+julgar necessário;
+e) orientar de maneira oportuna, objetiva e coerente a solução de ocorrências,
+apoiando a tropa empenhada;
+f) verificar as ocorrências que precisam ser anunciadas de imediato ao
+comandante de Companhia e/ou supervisor, principalmente quando os
+problemas surgidos extrapolarem a sua competência ou tiverem
+consequências graves;
+g) envidar esforços no sentido de melhorar a qualidade dos serviços prestados,
+procurando agilizar a capacidade de resposta da Corporação necessária à
+proteção e socorro da comunidade, em especial, esforços relativos à
+efetividade do tempo-resposta;
+h) manter a disciplina na Prontidão de Incêndio (PI) e no teatro de operações, não
+permitindo a presença de guarnições e de pessoas alheias ao serviço;
+i) prestar informações à imprensa acerca do assunto específico das ocorrências
+em andamento, conforme prescrições desta ITO e segundo orientações
+emanadas pelo EMBM/5;
+j) cuidar da segurança de todos os envolvidos durante instruções e atividades
+dentro do quartel;
+k) autorizar a indisponibilidade temporária ou definitiva de viaturas operacionais;
+l) acompanhar as ocorrências em andamento na área de atuação de sua
+Unidade, mantendo contato com os chefes de serviço e COBOM/SOU para
+iniciar ações de apoio operacional caso haja necessidade;
+m) planejar a execução do treinamento técnico em serviço durante o turno
+operacional;
+7 ATRIBUIÇÕES GERAIS DO SERVIÇO OPERACIONAL 63
+n) prestar os anúncios operacionais regulamentares com conteúdo, destinação e
+horários especificados conforme documentos normativos de origem;
+o) relatar verbalmente ao escalão superior (Cmt Cia Op e, na ausência deste, ao
+Subcmt), assim que possível, toda ocorrência ou situação considerada
+relevante por sua complexidade, repercussão ou pela necessidade de
+providências que ultrapassem sua autoridade;
+p) relatar inicialmente de forma verbal e, posteriormente, por escrito ao escalão
+superior (Cmt Cia Op e, na ausência deste, ao Subcmt) quaisquer alterações
+ocorridas no teatro de operações que envolvam recursos humanos e logísticos,
+bem como sugestões e/ou observações relacionadas ao atendimento
+operacional;
+q) observar determinações específicas definidas por documentação interna da
+UEOp e demais disposições legais.
+7.2.3 Atribuições do CBU ao passar o serviço operacional
+Ao passar o serviço operacional, o CBU deverá:
+a) reunir, conferir e examinar toda a documentação relativa ao serviço;
+b) transmitir ao CBU que assume o serviço todas as informações referentes às
+ocorrências atendidas, alterações apresentadas e serviços pendentes relativos
+ao seu turno, assegurando que o próximo CBU tenha pleno conhecimento dos
+trabalhos desenvolvidos;
+c) repassar ao CBU que entra em serviço informações sobre o status do serviço
+operacional, incluindo a localização e situação das viaturas e guarnições, caso
+estejam em atendimento, bem como a situação das ocorrências em curso;
+d) liberar os militares em serviço na prontidão ao término do turno, desde que não
+existam problemas que comprometam a atuação da Ala substituta, devendo a
+Ala substituída permanecer até que esteja tudo solucionado;
+e) acompanhar pessoalmente o CBU que entra de serviço na supervisão à
+verificação das viaturas, dos equipamentos e materiais;
+f) anunciar o serviço desenvolvido ao comandante ou subcomandante da
+Unidade, destacando os aspectos positivos e negativos observados, bem como
+fatos verificados nas Unidades Subordinadas;
+ITO 01 – PADRONIZAÇÃO DO SERVIÇO OPERACIONAL 64
+g) recolher seu EPI de combate a incêndio urbano e acondicioná-lo em local
+adequado;
+h) observar determinações específicas definidas por documentação interna da
+UEOp e demais disposições legais.
+7.3 Funções operacionais de gerenciamento/chefe de serviço
+Nas Sedes das Frações da capital e do interior o chefe de serviço será o militar mais
+antigo de serviço na Ala Operacional da Unidade, sendo responsável pela
+coordenação, controle e avaliação do serviço operacional.
+7.3.1 Atribuições do chefe de serviço ao assumir o serviço operacional
+Ao assumir o serviço operacional, o chefe de serviço deverá:
+a) obter do chefe de serviço que sai de serviço todas as informações sobre as
+ocorrências atendidas, alterações apresentadas e serviços pendentes relativos
+ao último turno de serviço;
+b) obter do chefe de serviço que sai de serviço as informações sobre o status do
+serviço operacional, tais como: localização e situação das viaturas e guarnições
+caso estejam em atendimento, e situação das ocorrências em andamento;
+c) verificar e atualizar a carta de situação de pessoal e viaturas, ordens de serviço
+e os registros das principais ocorrências do serviço anterior;
+d) acompanhar e fiscalizar o recebimento do serviço;
+e) prestar os anúncios regulamentares para o início do serviço ao CBU e/ou ao
+COBOM;
+f) receber o anúncio do auxiliar de chefe de serviço, referente à chamada
+realizada com base em escala prévia enviada pelo comando da Fração.
+g) verificar a apresentação pessoal da tropa (uniforme, barba, cabelo etc.),
+equipamentos, viaturas e limpeza em geral;
+h) verificar as condições físicas/psicológicas da tropa a ser empenhada;
+i) verificar se há alguma ausência, tomar as providências disciplinares cabíveis e
+se for o caso, proceder aos remanejamentos necessários, de forma a atender
+as prioridades do momento;
+7 ATRIBUIÇÕES GERAIS DO SERVIÇO OPERACIONAL 65
+j) após o recebimento e passagem do serviço, anunciar via rádio ou via telefone
+a situação do serviço ao CBU;
+k) efetuar a leitura das ordens do dia e execução do briefing, procurando levar ao
+conhecimento da tropa os principais fatos ocorridos no serviço anterior,
+abordando assuntos que mereçam atenção especial;
+l) acondicionar seu EPI de combate a incêndio urbano em local adequado e de
+fácil acesso;
+m) observar determinações específicas definidas por documentação interna da
+UEOp e demais disposições legais.
+7.3.2 Atribuições do chefe de serviço durante o serviço operacional
+Durante o serviço operacional, o chefe de serviço deverá:
+a) exercer o comando e coordenação direta da execução do serviço operacional
+em sua área de articulação, na ausência do CBU, observando os preceitos de
+hierarquia e disciplina;
+b) fazer contato com o CBU, quando convocado ou por iniciativa, e quando sentir
+necessidade de esclarecer dúvidas ou obter orientações;
+c) acompanhar a rede de rádio, tomando conhecimento de cada uma das
+ocorrências de sua Fração, comparecendo naquelas de destaque ou nas que
+julgar necessário;
+d) orientar de maneira oportuna, objetiva e coerente a solução de ocorrências,
+oferecendo apoio direto à tropa empenhada;
+e) verificar as ocorrências que demandam comunicação imediata ao CBU e ao
+comandante da Unidade, principalmente aquelas cujos problemas
+extrapolarem sua competência ou apresentem consequências graves;
+f) envidar esforços no sentido de melhorar a qualidade dos serviços prestados,
+procurando agilizar o tempo-resposta da corporação, necessária à proteção e
+socorro da comunidade;
+g) manter a disciplina na PI e no teatro de operações, não permitindo a presença
+de guarnições não empenhadas e de pessoas alheias ao serviço;
+h) prestar informações à imprensa acerca de assuntos específicos das
+ocorrências em andamento, quando não houver a presença do CBU ou oficiais;
+ITO 01 – PADRONIZAÇÃO DO SERVIÇO OPERACIONAL 66
+i) cuidar da segurança de todos os envolvidos na operação, bem como da
+preservação do local;
+j) solicitar e assessorar o CBU quanto à indisponibilidade temporária ou definitiva
+de viaturas operacionais pertencentes a Unidade;
+k) acompanhar as ocorrências em andamento na área de atuação da Fração,
+mantendo contato com a SOU/SOF para possível acionamento do plano de
+apoio real e potencial;
+l) planejar a execução do treinamento técnico em serviço durante as 24h;
+m) prestar os anúncios operacionais regulamentares com conteúdo, destinação e
+horários especificados conforme documento normativo de origem;
+n) relatar verbalmente ao escalão superior (CBU e Cmt da Fração), assim que
+possível, toda ocorrência ou situação que julgar relevante por sua
+complexidade, repercussão ou necessidade de providências que extrapolam o
+seu nível de autoridade;
+o) relatar, primeiramente de forma verbal e posteriormente por escrito, ao escalão
+superior (CBU no que couber e ao Cmt da Fração), quaisquer alterações
+ocorridas no teatro de operações que envolvam recursos humanos e logísticos,
+bem como sugestões e/ou observações relacionadas ao atendimento
+operacional;
+p) observar determinações específicas definidas por documentação interna da
+UEOp e demais disposições legais.
+7.3.3 Atribuições do chefe de serviço ao passar o serviço operacional
+Ao passar o serviço operacional, o chefe de serviço deverá:
+a) reunir, conferir e examinar toda a documentação relativa ao serviço;
+b) transmitir ao chefe de serviço que entra todas as informações referentes às
+ocorrências atendidas, alterações apresentadas e serviços pendentes relativos
+ao último turno de serviço;
+c) cientificar o chefe de serviço que entra das informações referentes ao status do
+serviço operacional, incluindo a localização e situação das viaturas e
+guarnições, caso estejam em atendimento, e a situação das ocorrências em
+andamento;
+7 ATRIBUIÇÕES GERAIS DO SERVIÇO OPERACIONAL 67
+d) anunciar à SOU da Sede, até 08h00min, o efetivo que entra de serviço, bem
+como viaturas operacionais disponíveis no Pelotão;
+e) solicitar permissão ao CBU para liberação dos militares que estão de serviço
+na prontidão ao final das 24h de serviço, desde que não ocorram problemas
+relacionados ao serviço que prejudiquem a atuação da Ala substituta, devendo
+a Ala substituída permanecer até que esteja tudo solucionado;
+f) o chefe de serviço deverá anunciar o serviço desenvolvido ao comandante da
+Unidade/Fração, destacando os aspectos positivos e negativos observados;
+g) recolher seu EPI de combate a incêndio urbano e acondicioná-lo em local
+adequado;
+h) cumprir determinações específicas definidas por documentação interna da
+UEOp e demais disposições legais.
+ITO 01 – PADRONIZAÇÃO DO SERVIÇO OPERACIONAL 68
+8 FUNÇÕES OPERACIONAIS DE EXECUÇÃO
+As funções operacionais de execução desempenhadas no âmbito do CBMMG são 11
+(onze), conforme relação abaixo:
+a) função do auxiliar de CBU/auxiliar de chefe de serviço;
+b) função do chefe dos motoristas;
+c) função do comandante de guarnição;
+d) função do comandante de guarnição mista;
+e) função do motorista (condutor e operador de viatura);
+f) função do motorista de guarnição mista;
+g) função do responsável pelo Setor de Meios;
+h) função dos componentes da guarnição (combatente/socorrista);
+i) função do socorrista de guarnição mista;
+j) função de despacho e atendimento;
+k) função do telefonista/rádio operador.
+8.1 A função do auxiliar de CBU/auxiliar de chefe de serviço
+É a praça (subtenente ou sargento) dentro do efetivo da Ala Operacional com maior
+graduação (com exceção do chefe do serviço quando praça), previamente escalado
+pela Cia Operacional. Deve comparecer à SOU/SOF com antecedência de 20 minutos
+para a chamada e recepção das ordens referentes ao serviço.
+8.1.1 Atribuições do auxiliar de CBU/auxiliar de chefe de serviço ao assumir o
+serviço
+Ao assumir o serviço operacional, o auxiliar de CBU/auxiliar de chefe de serviço
+deverá:
+a) tomar conhecimento das escalas e demais documentos encaminhados pela Cia
+Operacional /Comando da Fração e dos documentos tramitados pelos militares
+da Ala Operacional à Cia Operacional;
+b) apresentar-se ao oficial CBU/chefe de serviço para recebimento das
+determinações particulares;
+8 FUNÇÕES OPERACIONAIS DE EXECUÇÃO 69
+c) proceder a chamada dos militares de serviço;
+d) proceder a chamada dos militares escalados em reforço operacional (tanto na
+chamada matinal/passagem de serviço como em qualquer momento do serviço
+operacional);
+e) inteirar-se junto aos chefes dos motoristas sobre as viaturas disponíveis para o
+serviço operacional;
+f) sugerir ao CBU/chefe de serviço as funções/guarnições do turno de serviço;
+g) acondicionar seu EPI de combate a incêndio urbano em local adequado e de
+fácil acesso;
+h) determinações específicas definidas por documentação interna da UEOp e
+demais disposições legais.
+8.1.2 Atribuições do auxiliar de CBU/auxiliar de chefe de serviço durante o
+serviço operacional
+Durante o serviço operacional, o auxiliar de CBU/auxiliar de chefe de serviço deverá:
+a) zelar pela postura e compostura do pessoal de serviço em todos os locais e
+oportunidades, transmitindo ao CBU/chefe de serviço os casos de maior
+atenção quanto à hierarquia e disciplina;
+b) estabelecer contato com Seção de Transportes e responsável pelo Setor de
+Meios para verificar a situação de viaturas e equipamentos disponíveis,
+anunciando ao CBU/chefe de serviço as alterações constatadas;
+c) remanejar motoristas para minimizar a indisponibilidade de viaturas
+operacionais;
+d) propor ao CBU o rodízio de militares designados para viagens;
+e) propor ao CBU as adequações necessárias e o rodízio dos militares nas
+guarnições durante o serviço operacional;
+f) zelar pelo fiel cumprimento do remanejamento determinado pelo CBU;
+g) anunciar ao CBU/chefe de serviço todas as alterações ocorridas, na medida
+em que elas surjam, durante o serviço;
+h) fazer a distribuição dos militares, inclusive motoristas, nas respectivas
+guarnições para o próximo serviço e divulgá-la antes da liberação do serviço;
+ITO 01 – PADRONIZAÇÃO DO SERVIÇO OPERACIONAL 70
+i) controlar a liberação dos militares estudantes para frequentarem as aulas,
+conforme escala confeccionada e fornecida pela Companhia Operacional;
+j) controlar as comunicações disciplinares referentes a fatos constatados durante
+o serviço;
+k) substituir o CBU/chefe de serviço, na ausência destes, só se ausentando do
+aquartelamento com autorização prévia do CBU/chefe de serviço;
+l) fiscalizar e zelar pela conservação e limpeza do aquartelamento;
+m) executar o planejamento, realizado pelo CBU/chefe de serviço, para o
+treinamento técnico em serviço;
+n) condensar os anúncios operacionais das frações (auxiliar de CBU) e elaborar
+os anúncios operacionais regulamentares, com conteúdo, destinação e
+horários especificados conforme documentos normativos de origem, e
+apresentá-los, tempestivamente, ao CBU/chefe de serviço;
+o) observar determinações específicas definidas por documentação interna da
+UEOp e demais disposições legais.
+8.1.3 Atribuições do auxiliar de CBU/auxiliar de chefe de serviço ao passar o
+serviço operacional
+Ao passar o serviço operacional, o auxiliar do CBU/auxiliar de chefe de serviço deverá:
+a) providenciar o anúncio da Sede/Unidade/Fração, contendo as informações de
+efetivo, viaturas e atendimentos das Unidades Subordinadas;
+b) providenciar a grade de ocorrências atendidas, com informações de horários
+(comunicação do fato, deslocamento e local), endereço (logradouro e número),
+guarnição que realizou o atendimento, natureza e REDS confeccionado
+(número gerado);
+c) providenciar o relatório de serviço contendo as informações de alterações de
+efetivo, viaturas e materiais, bem como das ocorrências de destaque e grade
+de ocorrências e apresentá-lo ao CBU;
+d) recolher seu EPI de combate a incêndio urbano e acondicioná-lo em local
+adequado;
+e) cumprir determinações específicas definidas por documentação interna da
+UEOp e demais disposições legais.
+8 FUNÇÕES OPERACIONAIS DE EXECUÇÃO 71
+8.2 A função do chefe dos motoristas
+A função de chefe dos motoristas será executada como encargo ao motorista mais
+graduado da Ala de Serviço (excetuando o auxiliar de CBU/chefe de serviço). O chefe
+dos motoristas poderá tripular Gu BM, mas sem dispensá-lo de seu encargo.
+8.2.1 Atribuições do chefe dos motoristas ao assumir o serviço operacional
+Ao assumir o serviço operacional, o chefe dos motoristas deverá:
+a) fiscalizar o recebimento das viaturas operacionais por ocasião da passagem de
+serviço, verificando e controlando as condições delas, devendo registrar em
+documento próprio e no quadro de situação do serviço as alterações que
+ocasionam transtorno ao bom andamento do serviço, encaminhando-o ao
+conhecimento do CBU/chefe de serviço, que por sua vez levará a demanda ao
+conhecimento da Cia Operacional/Comando da Fração;
+b) controlar o emprego das viaturas operacionais por meio da Ordem de
+Movimentação;
+c) receber o anúncio dos motoristas quanto ao abastecimento das viaturas e
+manutenção de primeiro escalão;
+d) escalar os motoristas em suas respectivas viaturas operacionais conforme sua
+categoria e especialização, anunciando ao auxiliar do CBU/chefe de serviço
+qualquer alteração verificada;
+e) ter exato conhecimento sobre a execução das operações no corpo de bomba,
+guincho e outros dispositivos instalados nas viaturas da PI;
+f) acondicionar seu EPI de combate a incêndio urbano em local adequado e de
+fácil acesso;
+g) cumprir determinações específicas definidas por documentação interna da
+UEOp e demais disposições legais.
+ITO 01 – PADRONIZAÇÃO DO SERVIÇO OPERACIONAL 72
+8.2.2 Atribuições do chefe dos motoristas durante o serviço operacional
+Durante o serviço operacional, o chefe dos motoristas deverá:
+a) providenciar o rodízio para composição de guarnições, observando as
+categorias de habilitação, de modo que o motorista seja empregado em cada
+serviço, nas atividades operacionais de resgate, salvamento e socorro;
+b) fiscalizar permanentemente o posicionamento e limpeza das viaturas na PI.
+Caso seja constatada alguma viatura em posição e em condição de limpeza
+inadequadas, determinar a correção da posição/limpeza ao motorista
+responsável;
+c) efetuar também o rodízio em situações de ocorrências que sejam atendidas
+fora do município em decorrência de Diligência de Serviço Público (DSP);
+d) manter trancadas todas as viaturas que estiverem indisponíveis;
+e) dirimir dúvidas e proceder orientações quanto ao uso e manutenção das
+viaturas da PI;
+f) determinações específicas definidas por documentação interna da UEOp e
+demais disposições legais.
+8.2.3 Atribuições do chefe dos motoristas ao passar o serviço operacional
+Ao passar o serviço operacional, o chefe dos motoristas deverá:
+a) acompanhar a passagem de serviço no que tange à execução da manutenção
+de 1º escalão, servindo de elo entre os motoristas e auxiliar de CBU/chefe de
+serviço;
+b) adotar as medidas para sanar possíveis irregularidades junto aos motoristas
+caso haja alguma alteração detectada na passagem de serviço;
+c) recolher seu EPI e acondicioná-lo em local adequado;
+d) cumprir determinações específicas definidas por documentação interna da
+UEOp e demais disposições legais.
+8 FUNÇÕES OPERACIONAIS DE EXECUÇÃO 73
+8.3 A função de comandante de guarnição
+Função privativa de subtenente/sargento de maior antiguidade entre os militares que
+compõem a guarnição, com responsabilidade pela coordenação do trabalho da equipe
+no teatro de operações e responsável pela disciplina da Gu BM durante todo o serviço
+operacional. O termo chefe de guarnição também pode ser utilizado para designar o
+comandante de guarnição.
+8.3.1 Atribuições do comandante de guarnição ao assumir o serviço
+operacional
+Ao assumir o serviço operacional, o comandante de guarnição deverá:
+a) acompanhar e orientar a guarnição na conferência dos materiais e viaturas,
+tanto no recebimento quanto na passagem de serviço, sanando as alterações
+constatadas e/ou confeccionando documentos pertinentes, os quais serão
+encaminhados ao auxiliar do CBU/chefe do serviço;
+b) verificar a composição de sua Gu BM, checando as funções e condições de
+operacionalidade e anunciar o devido recebimento de materiais e
+disponibilidade da Gu BM ao auxiliar de CBU/auxiliar chefe do serviço;
+c) fiscalizar os comandados quanto ao fardamento, barba, corte de cabelo,
+postura etc., tomando providências disciplinares cabíveis quando necessário;
+d) verificar junto ao auxiliar de CBU/chefe de serviço as ordens de serviço para
+cumprimento durante a jornada;
+e) confirmar se os militares sob seu comando possuem conhecimento sobre a
+localização dos materiais e apetrechos dentro da viatura operacional bem como
+o exato conhecimento em relação a utilização dos EPIs, equipamentos,
+ferramentas e acessórios constantes na carga da viatura. Caso os comandados
+tenham alguma dúvida, deverá dirimi-las;
+f) acondicionar seu EPI de combate a incêndio urbano em local adequado e de
+fácil acesso;
+g) cumprir as determinações específicas definidas por documentação interna da
+UEOp e demais disposições legais.
+ITO 01 – PADRONIZAÇÃO DO SERVIÇO OPERACIONAL 74
+8.3.2 Atribuições do comandante de guarnição durante o serviço operacional
+Durante o serviço operacional, o comandante de guarnição deverá:
+a) comunicar imediatamente ao CBU/chefe de serviço as ocorrências envolvendo
+militares ou acidentes com viaturas;
+b) comandar e responsabilizar-se pelas atividades operacionais exercidas por sua
+guarnição;
+c) comandar e zelar pela disciplina mantida por sua guarnição, tanto nas
+atividades realizadas dentro das dependências da Unidade (intramuros) como
+fora dela (extramuros);
+d) garantir que, ao iniciar os trabalhos no teatro de operações, sua Gu BM já esteja
+devidamente equipada com os EPIs adequados para a atividade a ser
+desempenhada;
+e) orientar o motorista quanto à velocidade adequada e itinerário a ser seguido
+durante o deslocamento;
+f) responsabilizar-se pelo material operacional utilizado pela sua Gu BM nas
+ocorrências;
+g) delegar atribuições aos componentes das guarnições conforme documentos
+normativos do CBMMG;
+h) quando o Cmt da Gu acumular a função de motorista, ele poderá delegar a
+coordenação dos trabalhos realizados pela Gu BM ao militar imediatamente
+subordinado, bem como a confecção do REDS a este ou a outro militar. No
+entanto, essa delegação não o exime de sua responsabilidade como Cmt de
+Gu;
+i) ministrar instruções diversas aos integrantes da Gu e demais militares da Ala
+Operacional;
+j) zelar pela motivação, disciplina e preparação técnica de sua guarnição;
+k) manter-se na escuta da rede de comunicação (QAP) durante todo o serviço,
+acompanhando em especial as ocorrências para as quais a sua guarnição
+poderá ser acionada, sempre que houver disponibilidade de rádio comunicação
+portátil;
+8 FUNÇÕES OPERACIONAIS DE EXECUÇÃO 75
+l) relatar verbalmente ao CBU/chefe de serviço, tão logo seja possível, toda
+ocorrência ou situação que julgar relevante por sua complexidade, repercussão
+ou necessidade de providências que extrapolam o seu nível de autoridade;
+m) após o retorno da guarnição às condições de pleno emprego operacional, fazer
+uma avaliação da atuação da guarnição (debriefing), identificando aspectos
+táticos, técnicos e de treinamento;
+n) cumprir determinações específicas definidas por documentação interna da
+UEOp e demais disposições legais.
+8.3.3 Atribuições do comandante de guarnição ao passar o serviço operacional
+Ao passar o serviço operacional, o comandante de guarnição deverá:
+a) comunicar qualquer alteração na passagem do serviço ao auxiliar de
+CBU/auxiliar de chefe de serviço;
+b) confeccionar REDS/RAT em conformidade com as recomendações
+doutrinárias da Corporação;
+c) recolher seu EPI de combate a incêndio urbano e acondicioná-lo em local
+adequado;
+d) cumprir determinações específicas definidas por documentação interna da
+UEOp e demais disposições legais.
+8.4 A função do comandante de guarnição mista
+Em equipes de atendimento pré-hospitalar mistas, o chefe de guarnição é o militar do
+CBMMG designado para liderar e coordenar as atividades operacionais da guarnição
+mista durante o atendimento de ocorrências no contexto de atendimento préhospitalar (APH). Essa função, privativa de subtenentes e sargentos de
+maior antiguidade entre os militares que compõem a guarnição mista, é exercida por
+militares com experiência suficiente para o gerenciamento eficiente da equipe mista,
+que pode incluir bombeiros militares e outros profissionais civis.
+O chefe de guarnição mista é responsável por garantir a correta execução dos
+procedimentos operacionais (com exceção dos procedimentos de competência
+exclusiva de profissionais da saúde), supervisionando todas as ações realizadas pelos
+ITO 01 – PADRONIZAÇÃO DO SERVIÇO OPERACIONAL 76
+integrantes da guarnição, com foco na disciplina, segurança e integridade do grupo no
+teatro de operações.
+Podem ser utilizados os termos chefe de guarnição mista ou comandante de guarnição
+mista, cujas atribuições são as dispostas nos itens 8.3.1; 8.3.2 e 8.3.3. Ressalta-se
+que outras condutas poderão ser detalhadas em instrumentos jurídicos específicos,
+tais como os convênios, desde que não contrariem os preceitos normativos internos
+do CBMMG.
+8.5 A função do motorista (condutor e operador de viatura)
+Exercerá a função de motorista o bombeiro militar integrante da guarnição BM
+devidamente credenciado para a condução de viaturas operacionais ou
+administrativas. Os motoristas das viaturas de combate a incêndio são credenciados
+à operação de corpo de bomba, e podem ser chamados de condutor/operador. O
+credenciamento específico por categoria será o documento norteador de quais
+viaturas o motorista poderá conduzir. O motorista/condutor e operador de viatura
+possui a responsabilidade de manter válida a Carteira Nacional de Habilitação na
+categoria requerida para a viatura, comunicando por escrito ao chefe dos motoristas,
+qualquer alteração a esse respeito.
+8.5.1 Atribuições do motorista ao assumir o serviço operacional
+Ao assumir o serviço operacional, o motorista deverá:
+a) proceder o recebimento da viatura para a qual foi escalado, anunciando as
+alterações ao chefe dos motoristas ou, na falta deste, ao auxiliar CBU/auxiliar
+chefe de serviço;
+b) efetuar a verificação de 1º escalão da viatura e seus equipamentos (torre e
+sistema de iluminação, escada mecânica etc.);
+c) verificar a existência na pasta da viatura dos seguintes itens: Ficha de
+Movimentação de Viaturas, IPVA (cópia), Seguro Obrigatório (cópia),
+Licenciamento (cópia), Registro de Manutenção, Ficha de Acidente com
+Viatura, Termo de Responsabilidade;
+8 FUNÇÕES OPERACIONAIS DE EXECUÇÃO 77
+d) obter do motorista/operador/condutor de viatura que sai de serviço informações
+sobre as ocorrências atendidas, alterações apresentadas e serviços de
+manutenção agendados ou pendentes relativos ao último turno de serviço;
+e) verificar no livro da viatura as alterações pendentes, as ordens de serviço
+relativas a manutenção da viatura e manutenções preventivas;
+f) constatar o funcionamento dos rádios das viaturas, comunicando as alterações
+ao auxiliar CBU/auxiliar chefe de serviço;
+g) sanar as irregularidades de 1º escalão relativas às alterações com as viaturas
+e anunciá-las ao chefe dos motoristas;
+h) verificar o acondicionamento dos materiais e equipamentos na viatura,
+assegurando sua disposição de forma que garantam a segurança, a
+conservação e o seu acesso facilitado durante as operações;
+i) os condutores/operadores de viatura que entram de serviço deverão, ao
+assumir o serviço, executar a transmissão do corpo de bomba e constatar o
+correto funcionamento dos dispositivos hidráulicos e pneumáticos da viatura
+juntamente com o condutor/operador de viatura que sai de serviço e ter exato
+conhecimento da execução das operações no corpo de bomba, guincho e
+outros dispositivos instalados na viatura;
+j) os motoristas/condutores/operadores de viatura deverão ter conhecimento das
+características da viatura (altura, largura, chave geral, ângulo de ataque,
+dispositivos de segurança entre outros);
+k) acondicionar seu EPI de combate a incêndio urbano (condutores/operadores)
+em local adequado e de fácil acesso;
+l) manter em condição de uso durante todo o serviço o EPI de atendimento préhospitalar (motorista Unidade Resgate);
+m) tomar providências para resolução das alterações encontradas no recebimento
+do serviço e anunciá-las ao chefe dos motoristas;
+n) determinações específicas definidas por documentação interna da UEOp e
+demais disposições legais.
+ITO 01 – PADRONIZAÇÃO DO SERVIÇO OPERACIONAL 78
+8.5.2 Atribuições do motorista durante o serviço operacional
+Durante o serviço operacional, o motorista deverá:
+a) ser responsável e zelar pelo posicionamento e limpeza da viatura na PI;
+b) zelar pela segurança nos posicionamentos da viatura em locais de ocorrência,
+conforme previsto em normas específicas;
+c) repassar imediatamente ao Cmt Gu qualquer alteração com a viatura e seus
+equipamentos, para que seja sanado, incluído no livro da viatura e
+encaminhado ao chefe dos motoristas;
+d) manter a viatura limpa, realizando sua manutenção sempre que retornar à base
+no período das 07h às 21h;
+e) auxiliar a guarnição durante as operações, sem se eximir das
+responsabilidades perante a segurança da viatura, de acordo com as
+determinações do Cmt da Gu ou do Cmt da operação;
+f) observar as normas previstas no Código de Trânsito Brasileiro ao conduzir as
+viaturas em qualquer oportunidade e situação;
+g) posicionar a viatura em local adequado e seguro durante os atendimentos,
+sinalizar o local da ocorrência e permanecer próximo a ela devidamente
+equipado durante a ocorrência, afastando-se somente em situações
+determinadas pelo CBU/comandante de Gu e pelo tempo estritamente
+necessário;
+h) operar adequadamente e com segurança os equipamentos agregados à sua
+viatura (bomba, torre de iluminação, guincho etc.), de acordo com as
+necessidades da operação determinadas pelo Cmt Gu, zelando ainda pela
+conservação e bom uso deles;
+i) ao retornar para a base, vistoriar a viatura e seus equipamentos a fim de
+identificar possíveis alterações, tomando as medidas necessárias para a
+resolução dos problemas encontrados, envidando todos os esforços para obter
+o retorno da viatura às condições de pleno emprego operacional no menor
+tempo possível;
+j) determinações específicas definidas por documentação interna da UEOp e
+demais disposições legais.
+8 FUNÇÕES OPERACIONAIS DE EXECUÇÃO 79
+8.5.3 Atribuições do motorista ao passar o serviço operacional
+Ao passar o serviço operacional, o motorista deverá:
+a) passar o serviço com a viatura devidamente limpa e abastecida. A limpeza das
+viaturas e dos equipamentos deverá ser feita por toda a Gu BM;
+b) repassar ao motorista/operador/condutor de viatura que assume o serviço as
+alterações registradas no livro da viatura, prestando os esclarecimentos
+necessários;
+c) acompanhar pessoalmente o operador/condutor de viatura que entra de serviço
+durante a verificação de 1º escalão;
+d) recolher seu EPI de combate a incêndio e acondicioná-lo em local adequado;
+e) cumprir determinações específicas definidas por documentação interna da
+UEOp e demais disposições legais.
+8.6 A função do motorista (condutor) de guarnição mista
+Vale ressaltar que, no contexto de guarnições mistas de APH, o motorista/condutor
+será, preferencialmente, o Soldado BM ou o Cabo BM que não exerce a função de
+subtenente/sargento, podendo estar sob a coordenação técnica de um profissional
+médico ou de enfermagem. O motorista/condutor é responsável pela condução
+segura, além de auxiliar a equipe na avaliação de riscos e contribuir para a integridade
+da equipe no teatro de operações.
+As atribuições são as dispostas nos itens 8.5.1; 8.5.2 e 8.5.3. Ressalta-se que outras
+condutas poderão ser detalhadas em instrumentos jurídicos específicos, tais como
+convênios, desde que não contrariem os preceitos normativos internos do CBMMG.
+8.7 A função do responsável pelo Setor de Meios
+Função relativa a praças, lotados no serviço operacional ou de reforço operacional,
+podendo ser empregados nessa função, dispensados médicos que não possuem
+incompatibilidade com a atividade.
+ITO 01 – PADRONIZAÇÃO DO SERVIÇO OPERACIONAL 80
+8.7.1 Atribuições do responsável pelo Setor de Meios ao assumir o serviço
+operacional
+Ao assumir o serviço operacional, o responsável pelo Setor de Meios deverá:
+a) conferir o Mapa-Carga do Setor de Meios;
+b) receber os materiais disponíveis no Setor de Meios, devidamente limpos e
+manutenidos, do responsável que sai de serviço, sanando conjuntamente as
+possíveis irregularidades identificadas;
+c) anunciar possíveis alterações de matérias operacionais constantes no Setor de
+Meios ao auxiliar de CBU/chefe de serviço, após ter diligenciado para a
+correção de tais alterações;
+d) cumprir determinações específicas definidas por documentação interna da
+UEOp e demais disposições legais.
+8.7.2 Atribuições do responsável pelo Setor de Meios durante o serviço
+operacional
+Durante o serviço operacional, o responsável pelo Setor de Meios deverá:
+a) distribuir materiais operacionais às guarnições quando solicitado;
+b) proceder o abastecimento de combustível das viaturas quando solicitado;
+c) realizar manutenções preventivas nos equipamentos, ferramentas e acessórios
+constantes no Setor de Meios;
+d) anunciar alterações de serviço ao auxiliar de CBU/chefe de serviço;
+e) exercer a função de comandante da guarda do aquartelamento, nos casos em
+que tal atribuição estiver prevista no Plano de Segurança da Unidade
+(Sede/Cia/Pel);
+f) determinações específicas definidas por documentação interna da UEOp e
+demais disposições legais.
+8 FUNÇÕES OPERACIONAIS DE EXECUÇÃO 81
+8.7.3 Atribuições do responsável pelo Setor de Meios ao passar o serviço
+operacional
+Ao passar o serviço operacional, o responsável pelo Setor de Meios deverá:
+a) passar os materiais disponíveis no Setor de Meios devidamente limpos e
+manutenidos, ao responsável que entra de serviço, sanando conjuntamente as
+possíveis irregularidades identificadas;
+b) anunciar possíveis alterações de matérias operacionais constantes no Setor de
+Meios ao auxiliar de CBU/chefe de serviço, após ter diligenciado para a
+correção de tais alterações;
+c) cumprir determinações específicas definidas por documentação interna da
+UEOp e demais disposições legais.
+8.8 A função dos componentes da guarnição (combatente/socorrista)
+Considera-se como combatente a praça bombeiro militar integrante da guarnição BM
+de Salvamento ou de Socorro, podendo acumular a função de motorista, subordinado
+ao comandante da Gu BM.
+Considera-se como socorrista a praça bombeiro militar integrante da guarnição BM de
+Resgate, podendo acumular a função de motorista, subordinado ao comandante da
+Gu BM.
+8.8.1 Atribuições do combatente/socorrista ao assumir o serviço operacional
+Ao assumir o serviço operacional, o combatente/socorrista deverá:
+a) conferir todo o material e equipamento constante no mapa-carga da viatura,
+comunicando ao comandante da Gu as possíveis alterações verificadas;
+b) ter exata ciência da localização dos materiais e apetrechos dentro da viatura
+operacional. Caso tenha alguma dúvida em relação a localização dos
+materiais/apetrechos, deverá se reportar ao comandante de Gu para
+esclarecimento;
+ITO 01 – PADRONIZAÇÃO DO SERVIÇO OPERACIONAL 82
+c) ter exato conhecimento em relação a utilização dos EPIs, equipamentos,
+ferramentas e acessórios constantes na carga da viatura. Caso tenha alguma
+dúvida em relação a utilização do EPI, equipamento, ferramenta ou acessório,
+deverá se reportar ao comandante de Gu para esclarecimento;
+d) acondicionar seu EPI de combate a incêndio urbano (combatente) em local
+adequado e de fácil acesso;
+e) manter em condição de uso durante todo o serviço o EPI de atendimento préhospitalar (socorrista);
+f) efetuar a limpeza e assepsia da viatura;
+g) cumprir determinações específicas definidas por documentação interna da
+UEOp e demais disposições legais.
+8.8.2 Atribuições do combatente/socorrista durante o serviço operacional
+Durante o serviço operacional, o combatente/socorrista deverá:
+a) auxiliar o condutor da viatura na manutenção de primeiro escalão e limpeza da
+viatura;
+b) zelar pela boa conservação do material e equipamento constante na viatura,
+efetuando a limpeza e manutenções preventivas em todos os serviços
+operacionais;
+c) zelar pela boa conservação do material e equipamento durante as operações
+e treinamentos, limpando-os e fazendo a devida manutenção tão logo os tenha
+de recolher à viatura ou ao almoxarifado da SAO;
+d) seguir imperiosamente a cadeia de comando e não receber ordem de pessoas
+estranhas ao serviço;
+e) conferir todos os materiais e apetrechos, no início e ao término de uma
+operação/treinamento, dando ciência ao seu chefe direto das irregularidades
+detectadas;
+f) assessorar o comandante da guarnição em que estiver empenhado, com suas
+ideias e conhecimentos técnicos, contribuindo com seu profissionalismo para o
+sucesso das operações desenvolvidas;
+g) cumprir determinações específicas definidas por documentação interna da
+UEOp e demais disposições legais.
+8 FUNÇÕES OPERACIONAIS DE EXECUÇÃO 83
+8.8.3 Atribuições do combatente/socorrista ao passar o serviço operacional
+Ao passar o serviço operacional, o combatente/socorrista deverá:
+a) conferir todo material e equipamento constante no Mapa-Carga da viatura
+juntamente com o combatente/socorrista que entra de serviço, levando as
+possíveis alterações verificadas ao comandante de Gu;
+b) auxiliar o motorista na limpeza e manutenção de 1º escalão da viatura;
+c) recolher seu EPI (combatente e socorrista) e acondicioná-lo ou descartá-lo
+(socorrista) em local adequado.
+8.9 A função do socorrista de guarnição mista
+Considera-se como socorrista de guarnição mista a praça bombeiro militar
+(preferencialmente cabo e soldado) integrante da guarnição mista de APH, podendo
+acumular a função de motorista, subordinado ao chefe da Gu mista, ou coordenado
+tecnicamente, no que tange à realização das atividades de APH, por um profissional
+médico ou de enfermagem. Além disso, quando for o único militar do CBMMG na
+equipe, será o responsável pelo registro das ações desenvolvidas por meio do REDS.
+As atribuições são as dispostas nos itens 8.8.1; 8.8.2 e 8.8.3. Ressalta-se que outras
+condutas poderão ser detalhadas em instrumentos jurídicos específicos, tais como
+convênios, desde que não contrariem os preceitos normativos internos do CBMMG.
+8.10 A função de despacho e atendimento
+O Despachante do COBOM é o militar graduado que possui a competência de gestão
+dos sistemas computacionais, rede de rádio e telefone, podendo estar lotado no
+COBOM/CIAD ou na SOU/SOF das UEOp.
+O despachante deverá ter conhecimento da área de atuação da Unidade/Fração onde
+estiver escalado, com domínio das informações sobre:
+ITO 01 – PADRONIZAÇÃO DO SERVIÇO OPERACIONAL 84
+a) o Plano de Chamada da Unidade/Fração;
+b) as principais vias de acesso da área urbana e interurbana da Unidade/Fração;
+c) a localização das edificações e pontos de interesse da Unidade/Fração, tais
+como: hospitais, escolas, locais de recepção de público, complexos comerciais
+e shoppings centers, aeroportos, rodoviárias, ferrovias entre outros pontos de
+interesse;
+d) a localização de indústrias, áreas de estocagem e manipulação de produtos
+perigosos e outras áreas de risco referentes a incêndio/explosões;
+e) a localização de áreas de risco de inundação, alagamento, movimentação de
+massa e outras áreas de risco referentes a atendimentos de Defesa Civil;
+f) a carta de hidrantes de sua área de atuação.
+8.10.1 Atribuições do despachante do COBOM ao assumir o serviço operacional
+Ao assumir o serviço operacional, o despachante do COBOM deverá:
+a) obter do despachante que sai de serviço informações sobre as ocorrências
+atendidas, ocorrência de destaque, alterações apresentadas, ordens recebidas
+e serviços agendados ou pendentes relativos ao último turno de serviço.
+Verificar se as ocorrências concluídas no turno anterior foram finalizadas no
+sistema;
+b) obter do despachante que sai de serviço informações sobre o status do serviço
+operacional (localização e situação das viaturas e guarnições), e situação das
+ocorrências (incluindo as últimas que foram atendidas e as que estiverem em
+andamento), tomando ciência de todas as informações referentes ao despacho,
+informações repassadas e recebidas das Gu BM e outros aspectos relevantes;
+c) fazer a verificação dos equipamentos a serem utilizados, incluindo o teste dos
+sistemas computacionais, teste de transmissão via rádio e de telefone;
+d) verificar junto ao coordenador do COBOM/comandante da Cia se existe diretriz
+específica para o serviço;
+e) cumprir determinações específicas definidas por documentação interna e
+demais disposições legais.
+8 FUNÇÕES OPERACIONAIS DE EXECUÇÃO 85
+8.10.2 Atribuições do despachante do COBOM durante o serviço operacional
+Durante o serviço operacional, o despachante do COBOM deverá:
+a) identificar se a solicitação/chamada é emergencial ou não;
+b) verificar a prioridade da ocorrência conforme suas funções e se existem
+viaturas disponíveis e próximas;
+c) orientar via rádio as operações, verificando as prioridades durante o
+atendimento, assim como a oferta de recursos adicionais;
+d) auxiliar o chefe de guarnição na definição do hospital de destino das vítimas
+atendidas pelas guarnições de Resgate, de acordo com as restrições
+informadas ao COBOM pelos hospitais, podendo solicitar apoio do médico
+regulador do SAMU, caso haja termo de cooperação técnica previamente
+estabelecido (CBMMG/SAMU);
+e) intermediar as informações solicitadas de ocorrências e os demandantes;
+f) garantir qualidade da transmissão das informações às guarnições em
+atendimento;
+g) manter uma postura apropriada, mesmo diante de situações em que o
+solicitante apresente estado psicológico ou emocional alterado;
+h) manter uma postura educada e atenta no atendimento ao solicitante;
+i) priorizar os atendimentos, mantendo em espera as demais chamadas a serem
+despachadas, quando não houver número de viaturas suficientes para fazer
+face à demanda, se possível, acionar outros meios e comunicar ao coordenador
+sobre a espera;
+j) conferir a codificação e promover, se for o caso, a recodificação das chamadas;
+k) cumprir determinações específicas definidas por documentação e demais
+disposições legais.
+8.10.3 Atribuições do despachante do COBOM ao passar o serviço operacional
+Ao passar o serviço operacional, o despachante do COBOM deverá:
+a) cumprir determinações específicas definidas por documentação interna e
+demais disposições legais;
+ITO 01 – PADRONIZAÇÃO DO SERVIÇO OPERACIONAL 86
+b) repassar ao despachante que entra de serviço informações sobre as
+ocorrências atendidas, ocorrência de destaque, alterações apresentadas,
+ordens recebidas e serviços agendados ou pendentes relativos ao último turno
+de serviço;
+c) repassar ao despachante que entra de serviço informações sobre o status do
+serviço operacional (localização e situação das viaturas e guarnições), e
+situação das ocorrências (incluindo as últimas que foram atendidas e as em
+andamento), tomando ciência de todas as informações referentes ao despacho,
+informações repassadas e recebidas das guarnições BM e outros aspectos
+relevantes.
+8.11 A função de telefonista/rádio operador
+É o bombeiro militar designado para atuar na Sala de Operações da Unidade
+desempenhando a função de atendente das chamadas via tridígito 193 e, na ausência
+de um despachante escalado, assumindo também o despacho de viaturas. Tem como
+responsabilidade agilizar a comunicação entre as equipes envolvidas no atendimento
+e outros órgãos competentes.
+O telefonista/rádio operador deverá ter conhecimento da área de atuação da
+Unidade/Fração onde estiver escalado, com domínio das informações sobre:
+a) o Plano de Chamada da Unidade/Fração;
+b) as principais vias de acesso da área urbana e interurbana da Unidade/Fração;
+c) a localização das edificações e pontos de interesse da Unidade/Fração, tais
+como hospitais, escolas, locais de recepção de público, complexos comerciais
+e shoppings centers, aeroportos, rodoviárias, ferrovias entre outros pontos de
+interesse;
+d) a localização de indústrias, áreas de estocagem e manipulação de produtos
+perigosos e outras áreas de risco referentes à Incêndio/Explosões;
+e) a localização de áreas de risco de inundação, alagamento, movimentação de
+massa e outras áreas de risco referentes a atendimentos da Defesa Civil.
+8 FUNÇÕES OPERACIONAIS DE EXECUÇÃO 87
+8.11.1 Atribuições do telefonista/rádio operador ao assumir o serviço
+operacional
+Ao assumir o serviço operacional, o telefonista/rádio operador deverá:
+a) conferir o mapa-carga da SOU juntamente com o telefonista/operador de rádio
+que sai de serviço;
+b) fazer a verificação dos equipamentos a serem utilizados, incluindo o teste dos
+sistemas computacionais, teste de transmissão via rádio e de telefone;
+c) cadastrar viaturas no sistema de gerenciamento de ocorrências, quando
+solicitado;
+d) estar apto a identificar e codificar corretamente as ocorrências de bombeiros,
+bem como pesquisar as informações constantes no banco de dados do terminal
+do computador, dentro das rotinas a que tem acesso;
+e) cumprir determinações específicas definidas por documentação interna da
+UEOp e demais disposições legais.
+8.11.2 Atribuições do telefonista/rádio operador durante o serviço operacional
+Durante o serviço operacional, o telefonista/rádio operador deverá:
+a) acionar as guarnições por meio do sistema de som e sistema luminoso da
+UEOp;
+b) operar a rede de rádio da Unidade conforme a ITO específica;
+c) atualizar e monitorar a situação da viatura (deslocamento, no local, retorno e
+chegada à PI) para lançamento em sistema próprio, livro ou planilha de
+controle;
+d) após o acionamento da Gu BM, utilizando as informações básicas, obter as
+informações complementares da ocorrência, de acordo com a sua natureza;
+e) receber todas as solicitações ou informações da Gu BM empenhada,
+transmitindo-as ao CBU/chefe de serviço;
+f) acompanhar as ocorrências, estando apto a prestar informações requisitadas;
+g) não receber telefonemas a cobrar e não permitir o uso de telefones com cunho
+pessoal na Sala de Rádio;
+ITO 01 – PADRONIZAÇÃO DO SERVIÇO OPERACIONAL 88
+h) não fornecer o nome, endereço e telefone, dos militares da Unidade/Fração, a
+não ser com autorização prévia;
+i) não fornecer qualquer informação para fontes externas à Corporação quanto a
+procedimentos ou desempenhos operacionais no turno de serviço;
+j) repassar ao público externo (imprensa, curiosos etc.), somente as informações
+autorizadas pelo CBU/chefe de serviço;
+k) na RMBH, o rádio operador deverá permanecer sempre atento às solicitações
+do COBOM, anotando e solicitando ao COBOM todos os dados necessários ao
+perfeito atendimento da ocorrência, cumprindo suas determinações;
+l) nas frações do interior, onde não haja COBOM/CIAD, o rádio operador deverá:
+m) identificar se a solicitação/chamada é emergencial ou não;
+n) estabelecer a tipificação do evento, gerar a ocorrência, definir a Unidade e a
+viatura que atenderá à ocorrência;
+o) verificar a prioridade da ocorrência conforme suas funções e se existem
+viaturas disponíveis e próximas;
+p) orientar via rádio as operações, verificando as prioridades durante o
+atendimento, assim como a oferta de recursos adicionais;
+q) manter uma postura apropriada, mesmo diante de situações em que o
+solicitante apresente com estado psicológico ou emocional alterado do
+solicitante;
+r) manter uma postura educada e atenta no atendimento ao solicitante;
+s) definir o hospital de destino das vítimas atendidas pelas guarnições de
+Resgate;
+t) exercer, caso necessário, a função de sentinela;
+u) auxiliar na confecção dos anúncios regulamentares;
+v) garantir que nenhuma ligação telefônica fique sem retorno oportuno, seja
+gerando uma ocorrência, fornecendo outro número telefônico de setores
+competentes do Corpo de Bombeiros para assuntos estranhos ao centro, mas
+vinculados à corporação, orientando o solicitante sobre onde buscar
+informações estranhas aos serviços da instituição, ou interrompendo
+imediatamente a ligação destituída de seriedade, como brincadeiras ou trotes;
+w) cumprir determinações específicas definidas por documentação interna da
+UEOp e demais disposições legais.
+8 FUNÇÕES OPERACIONAIS DE EXECUÇÃO 89
+8.11.3 Atribuições do telefonista/rádio operador ao passar o serviço operacional
+Ao passar o serviço operacional, o telefonista/rádio operador deverá:
+a) acompanhar a conferência do mapa-carga da SOU pelo telefonista/operador
+de rádio que entra de serviço;
+b) cumprir determinações específicas definidas por documentação interna da
+UEOp e demais disposições legais.
+ITO 01 – PADRONIZAÇÃO DO SERVIÇO OPERACIONAL 90
+9 PARTICULARIDADES DO SERVIÇO OPERACIONAL
+O serviço operacional é composto de algumas particularidades, dentre elas estão:
+a) Treinamento Técnico em Serviço (TTS):
+ Treinamento Técnico (TT);
+ Treinamento Físico (TF);
+b) guarda do quartel;
+c) limpeza do aquartelamento;
+d) atividade de lazer;
+e) recepção do comandante/autoridades.
+9.1 Treinamento Técnico em Serviço
+O Treinamento Técnico em Serviço (TTS) será realizado conforme previsão em
+normas específicas para treinamento profissional de bombeiro militar.
+A atividade física será desenvolvida mediante planejamento específico voltada para a
+atividade-fim, coordenada pelo auxiliar de CBU/auxiliar do chefe de serviço sob a
+orientação, se possível, de um educador físico.
+A atividade física realizada pelos militares da Ala Operacional não poderá acarretar
+prejuízo para o serviço operacional e não poderá exceder a 2 (duas) horas.
+9.2 Guarda do quartel
+Os procedimentos de segurança do quartel deverão seguir a prescrição no Plano de
+Segurança da Unidade, que será elaborado em consonância com as diretrizes do
+EMBM/2.
+A guarda do quartel é de responsabilidade de todos os militares da prontidão de
+incêndio.
+Os militares da administração da Unidade poderão compor a guarda do quartel.
+9 PARTICULARIDADES DO SERVIÇO OPERACIONAL 91
+As funções de comandante da guarda serão exercidas, preferencialmente, por
+sargento.
+As funções de sentinela serão exercidas, preferencialmente, por soldados.
+A guarda do quartel deverá ser formada para recepcionar o comandante da Unidade.
+Nas situações de alarme ou fragilidade da segurança, a guarda será priorizada até o
+acionamento de reforço policial.
+9.3 Limpeza do aquartelamento
+Deverá ser feita diariamente pelos militares que estão de serviço, anteriormente à
+passagem do serviço, ou por determinação de superior hierárquico, sempre que
+necessário e/ou quando não houver serviço especializado de limpeza terceirizado.
+9.4 Atividade de lazer
+Ficam vedados os jogos em caráter monetário ou material no interior do
+aquartelamento, podendo utilizar-se para o lazer: jogos de damas, xadrez, sinuca, ou
+similares, desde que em local apropriado para tal.
+É vedada a realização dos jogos no interior dos alojamentos, cantina ou local
+destinado às refeições no período compreendido entre 08h00min e 18h00min nos dias
+em que houver expediente administrativo.
+As atividades de lazer poderão ocorrer em locais destinados a outras atividades como
+na Sala de Televisão, desde que haja o consentimento de todos aqueles presentes
+no recinto, e daqueles que vierem a adentrar no local.
+ITO 01 – PADRONIZAÇÃO DO SERVIÇO OPERACIONAL 92
+9.5 Recepção do comandante/autoridades
+Todo comandante de Unidade (Batalhão, Companhia Independente, Companhia ou
+Pelotão) deverá receber ritos de recepção quando da chegada na UEOp, conforme
+previsto no regulamento de continências vigente.
+Figura 7 - Formatura de tropa operacional para anúncio à autoridade
+Fonte: elaborado pelos autores
+Para a recepção do Cmt a tropa deverá estar formada, nos moldes da passagem de
+serviço, exceto quando ele dispensar tal procedimento.
+Além dos ritos de recepção, ao chegar à Unidade, o comandante deverá receber as
+seguintes informações do CBU/chefe de serviço:
+a) militares que estão de serviço operacional;
+b) viaturas disponíveis para atendimento;
+c) quantidade de água disponível nas viaturas para combate a incêndio;
+9 PARTICULARIDADES DO SERVIÇO OPERACIONAL 93
+d) ocorrências atendidas no turno até o momento;
+e) ocorrências em andamento;
+f) ocorrências em destaque;
+g) alterações de efetivo, materiais e viaturas.
+Equipes de supervisão ou inspeção serão recepcionadas conforme o posto do oficial
+que a chefia, e receberão as informações que solicitarem de forma imediata e
+consolidada pelo militar mais antigo presente na Unidade, por ocasião de
+supervisão/inspeção.
+Militares de outras forças, autoridades civis e oficiais do CBMMG serão apresentados
+ao comandante da Unidade ou militar mais antigo presente, que providenciará a
+recepção adequada. Já as praças do CBMMG deverão se reportar ao CBU/chefe de
+serviço.
+Nas Sedes de Batalhões e Companhias Independentes, a insígnia da Unidade será
+hasteada quando o comandante da Unidade estiver presente e arriada quando ele se
+ausentar.
+Nas Frações, a presença do comandante será anunciada no sistema de som da
+Unidade; caso não seja possível, a sentinela da hora deverá comunicar ao
+comandante da guarda que por sua vez anunciará ao chefe do serviço.
+ITO 01 – PADRONIZAÇÃO DO SERVIÇO OPERACIONAL 94
+10 DOS DEVERES E DAS PROIBIÇÕES PARA O BOMBEIROS MILITAR
+DURANTE O SERVIÇO OPERACIONAL
+Dos deveres:
+a) dedicar-se exclusivamente ao seu trabalho, durante o turno de serviço, estando
+impedido de ocupar-se de outras atividades que não sejam operacionais e
+relativas ao serviço diário; ressalvado as atividades de lazer;
+b) manter-se fisicamente e tecnicamente capacitado para operar todos os
+equipamentos e materiais da viatura em que estiver escalado, de acordo com
+as condutas específicas;
+c) permanecer durante o serviço no quartel, com fardamento condizente à
+atividade;
+d) “formar” junto à respectiva VTR e/ou defronte à garagem da PI, por ocasião da
+chegada em local de ocorrência ou ordem de “formar”;
+e) pernoitar no alojamento que lhe é destinado;
+f) seguir para o teatro de operações na VTR em que estiver escalado;
+g) tomar “a postos” na VTR sem atropelo, com rapidez e disciplina;
+h) concorrer, na medida de suas forças, para a boa marcha do serviço, não se
+afastando do local onde estiver empenhado;
+i) relacionar os objetos de valor recolhidos durante a ocorrência no respectivo
+REDS e entregá-los ao chefe de serviço que adotará as providências cabíveis;
+j) apresentar ao auxiliar de CBU/chefe de serviço, quando de regresso ao quartel,
+peças de fardamento que tenham sido inutilizadas ou danificadas durante o
+serviço;
+k) não receber ordem de pessoas estranhas ao serviço no teatro de operações;
+l) utilizar o EPI específico para a natureza da ocorrência, zelando por sua
+limpeza, conservação e funcionalidade;
+m) responder prontamente ao alarme, interrompendo imediatamente qualquer
+atividade que esteja executando, movendo-se em passo acelerado até a
+viatura, equipando-se de acordo com a peculiaridade da sua atividade e
+permanecendo pronto até a ordem de deslocamento;
+n) permanecer nas dependências do quartel, só se ausentando mediante
+autorização do CBU;
+10 DOS DEVERES E DAS PROIBIÇÕES PARA O BOMBEIROS MILITAR DURANTE O SERVIÇO
+OPERACIONAL 95
+o) limpar e manter limpo armários, alojamentos, refeitórios e demais instalações
+do aquartelamento de uso do efetivo de serviço diário, durante todo o turno,
+independente de determinação superior, colaborando para a preservação de
+um ambiente de trabalho asseado, organizado e saudável;
+p) em caso de acidente de serviço (incluindo contato com material/substâncias
+químicas ou biológicas), o militar acidentado deverá comunicar
+IMEDIATAMENTE ao chefe direto seguindo a cadeia de comando.
+Das proibições:
+a) deixar abertas as portas dos armários; deixar material particular, ou material
+que esteja sob sua responsabilidade, fora do lugar devido, exceto quando
+estiver presente no alojamento;
+b) sair de sala de aula ou local de instrução durante as instruções e formaturas
+em geral, sem autorização do instrutor ou chefe direto;
+c) manter-se desatento, em sala de aula ou local de instrução, sob qualquer
+pretexto, quando estiver sendo ministrada aula ou instrução;
+d) fixar adesivos nas viaturas ou equipamentos, exceto quando necessários e com
+a devida autorização;
+e) permanecer isolado em qualquer ambiente no interior do quartel, em
+companhia de pessoa, em circunstâncias que evidenciem namoro ou relações
+extraprofissionais;
+f) conduzir civis ou militares de outras Unidades ao interior de alojamentos, salas
+e outras dependências do quartel, salvo para fins profissionais, com
+autorização do Cmt/chefe ou autoridade superior;
+g) pernoitar no quartel, não estando de serviço, sem o consentimento do chefe do
+serviço ou Cmt;
+h) fumar e/ou ingerir bebida alcoólica no interior de viaturas, quartéis, incluindo
+garagem da PI, ou local de atendimento a ocorrências, sendo que nos quartéis
+somente será admitido fumar em locais específicos nas áreas abertas onde
+haja a demarcação para área de fumantes;
+i) deixar o veículo, quando em gozo de férias/recesso ou passeio, estacionado
+no interior do quartel, salvo com autorização expedida pelo comandante;
+ITO 01 – PADRONIZAÇÃO DO SERVIÇO OPERACIONAL 96
+j) sair da Unidade/Fração com uniforme de educação física (short e camiseta
+vermelha), exceto em formação, para atividade programada;
+k) manusear armamento particular no interior dos quartéis;
+l) deslocar em viatura operacional ou administrativa sem a devida autorização;
+m) utilizar piscina, quadra de esportes, torre de treinamento ou qualquer outra
+dependência da Unidade sem a devida autorização;
+n) fornecer telefone ou endereço de qualquer militar da Unidade sem a devida
+autorização;
+o) permanecer assentado em calçadas ou escadas no interior do quartel ou em
+vias públicas;
+p) entrar em quaisquer áreas destinadas ao sexo oposto, como alojamentos,
+vestiários, banheiros, barracas, dormitórios e afins, salvo mediante
+necessidade do serviço;
+q) estacionar veículos particulares na garagem da PI, sob qualquer pretexto;
+r) guardar no interior do quartel bebida alcoólica de qualquer gênero, sob
+qualquer pretexto;
+s) lavar veículo particular nas áreas dos quartéis e/ou espaços sob administração
+do CBMMG;
+t) estender roupa em sacadas, janelas ou outro local à vista;
+u) atender e manipular telefones celulares em sala de aula, treinamentos ou
+estando na atividade de sentinela (salvo exceção de contatos relacionados com
+o COBOM/SOU durante atendimento operacional). Sem prejuízo ao
+atendimento operacional, poderão ser realizados registros a serem repassados
+à EMBM-5.
+v) permanecer no interior de viaturas estacionadas na garagem da PI.
+Esta Instrução Técnica Operacional entra em vigor na data de sua publicação.
+Revogam-se as disposições em contrário.
+Belo Horizonte, 02 de Janeiro de 2025.
+(a) Daniela Lopes Rocha da Costa, Coronel BM
+Chefe do Estado-Maior

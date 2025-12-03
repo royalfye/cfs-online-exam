@@ -1,0 +1,1666 @@
+1. Instrução Técnica Operacional. 2. Atendimento a Tentativas de
+Suicídio. 3. Abordagem Técnica e Tática. 4. Suicídio. 5. Bombeiro Militar
+de Minas Gerais. 6. ITO 28. I. Pinto, Richelmy Murta. II. Cardoso,
+Alexandre. III. Grandi, Igor Cesar. IV. Rodrigues, Nayara Máximo. V.
+Santos, Suemy Oliveira. VI. Título. 
+
+LISTA DE SIGLAS E ABREVIATURAS
+APH – Atendimento Pré-Hospitalar
+ATS – Atendimento a Tentativas de Suicídio
+ATTS – Abordagem Técnica a Tentativas de Suicídio
+CAPS – Centro de Atenção Psicossocial
+CBMMG – Corpo de Bombeiros Militar de Minas Gerais
+CBU – Coordenador de Bombeiros da Unidade
+CEMIG – Companhia Energética de Minas Gerais S.A.
+COBOM – Centro de Operações de Bombeiros
+CONATTS – Comissão Nacional de Abordagem a Tentativas de Suicídio
+COREN – Conselho Regional de Enfermagem
+CTB – Código de Trânsito Brasileiro
+CVV – Centro de Valorização da Vida
+EPI – Equipamento de Proteção Individual
+Gu – Guarnição
+ITO – Instrução Técnica Operacional
+MS – Ministério da Saúde
+NA – Nota dos Autores
+NAIS – Núcleo de Atenção Integral à Saúde
+OMS – Organização Mundial da Saúde
+PCMG – Polícia Civil de Minas Gerais
+PMMG – Polícia Militar de Minas Gerais
+PRE – Polícia Rodoviária Estadual
+PRF – Polícia Rodoviária Federal
+RAPH – Relatório de Atendimento Pré-Hospitalar
+REDS – Registro de Eventos de Defesa Social
+RPA – (Remotely Piloted Aircraft) Aeronave Remotamente Pilotada
+SAMU – Serviço de Atendimento Móvel de Urgência
+SAV – Suporte Avançado de Vida
+SBV – Suporte Básico de Vida
+SCO – Sistema de Comando em Operações
+UEOp – Unidade de Execução Operacional
+LISTA DE FIGURAS
+Figura 1 Espaços de comunicação em ocorrências de tentativas de suicídio.... 19
+Figura 2 Método SMART..................................................................................... 55
+LISTA DE QUADROS
+Quadro 1 Caracterização de tentantes agressivos........................................... 35
+Quadro 2 Caracterização de tentantes depressivos......................................... 37
+Quadro 3 Caracterização de tentantes psicóticos............................................. 38
+SUMÁRIO
+1 INTRODUÇÃO.................................................................................. 09
+2 FINALIDADE E OBJETIVOS............................................................ 11
+3 CONCEITOS E PROCEDIMENTOS................................................. 12
+3.1 Abordador (técnico)........................................................................ 12
+3.2 Abordagem tática............................................................................ 12
+3.3 Abordagem técnica......................................................................... 12
+3.4 Agressividade.................................................................................. 12
+3.5 Alucinação....................................................................................... 13
+3.6 Comportamento suicida................................................................. 13
+3.6.1 Ideação suicida.................................................................................. 13
+3.6.2 Ato suicida......................................................................................... 13
+3.6.3 Tentativa de suicídio.......................................................................... 14
+3.6.3.1 Tentativa abortada............................................................................. 14
+3.6.3.2 Tentativa interrompida....................................................................... 14
+3.6.4 Suicídio.............................................................................................. 14
+3.7 Delimitador (es)............................................................................... 14
+3.8 Delírio............................................................................................... 15
+3.9 Díade................................................................................................ 15
+3.10 Efeito Werther................................................................................. 15
+3.11 Fatores de risco.............................................................................. 16
+3.12 Fatores de proteção....................................................................... 16
+3.13 Linguagem corporal....................................................................... 16
+3.14 Risco de suicídio............................................................................ 17
+3.14.1 Risco baixo de suicídio...................................................................... 17
+3.14.2 Risco moderado de suicídio.............................................................. 17
+3.14.3 Risco alto de suicídio......................................................................... 17
+3.15 Sobrevivente.................................................................................... 17
+3.16 Tentante............................................................................................ 18
+3.17 Espaços de comunicação............................................................... 18
+3.17.1 Zona Social........................................................................................ 18
+3.17.2 Zona de Aproximação....................................................................... 18
+3.17.3 Zona Interpessoal.............................................................................. 19
+4 SISTEMA DE ATENDIMENTO A TENTATIVAS DE SUICÍDIO....... 20
+4.1 Acionamento.................................................................................... 20
+4.2 Deslocamento.................................................................................. 21
+4.3 Estabelecimento de viaturas.......................................................... 22
+4.4 Análise funcional............................................................................. 22
+4.4.1 Observação Inicial............................................................................. 22
+4.4.2 Passagem e assunção de comando................................................. 23
+4.4.3 Avaliação inicial da ocorrência.......................................................... 23
+4.4.4 Isolamento......................................................................................... 24
+4.4.5 Avaliação de risco............................................................................. 24
+4.4.6 Desenvolvimento............................................................................... 25
+5 ABORDAGEM TÉCNICA.................................................................. 26
+5.1 Aproximação.................................................................................... 28
+5.2 Silêncio inicial.................................................................................. 29
+5.3 Apresentação pessoal.................................................................... 29
+5.4 Perguntas simples.......................................................................... 29
+5.5 Perguntas complexas..................................................................... 30
+5.6 Algumas ferramentas de diálogo................................................... 31
+5.6.1 Técnica do sucesso anterior.............................................................. 32
+5.6.2 Ponte para o futuro............................................................................ 32
+5.6.3 Ponte para o passado....................................................................... 33
+5.6.4 Paráfrase resumida........................................................................... 33
+5.6.5 Apoiar o tentante a encontrar as próprias soluções.......................... 33
+5.6.6 Evitar frases de negação................................................................... 34
+5.7 Perfis comportamentais na tentativa de suicídio........................ 34
+5.7.1 Agressivo........................................................................................... 35
+5.7.2 Depressivo......................................................................................... 36
+5.7.3 Psicótico............................................................................................ 37
+5.8 Dinâmicas na abordagem............................................................... 40
+5.8.1 Troca do Abordador........................................................................... 40
+5.8.2 Migrando da Abordagem Técnica para a Abordagem Tática............ 40
+6 ABORDAGEM TÁTICA.................................................................... 42
+6.1 Risco de precipitação em queda livre........................................... 42
+6.2 Risco de afogamento...................................................................... 43
+6.3 Risco de incêndio/explosão........................................................... 44
+6.4 Risco de eletrocussão.................................................................... 45
+6.5 Risco de enforcamento................................................................... 46
+6.6 Tentativa de suicídio por armas brancas...................................... 46
+6.7 Tentante com intoxicação exógena............................................... 47
+6.8 Tentante com arma de fogo............................................................ 48
+7 ENCERRAMENTO DA OCORRÊNCIA............................................ 49
+8 GERENCIAMENTO DE OCORRÊNCIAS DE ATS.......................... 51
+8.1 Funções primordiais....................................................................... 51
+8.1.1 Do Comandante da operação........................................................... 51
+8.1.2 Do Abordador.................................................................................... 52
+8.1.3 Do abordador auxiliar........................................................................ 52
+8.1.4 Da equipe de abordagem tática........................................................ 52
+8.1.5 Da equipe responsável pela coleta de informações.......................... 53
+8.1.6 Da segurança.................................................................................... 53
+8.2 SCO aplicado ao ATS...................................................................... 53
+8.3 Plano/Planejamento de Ação......................................................... 54
+8.4 Método SMART................................................................................ 54
+9 OUTRAS INSTITUIÇÕES NA CENA................................................ 56
+10 ENTRADA NO AMBIENTE E CONTENÇÃO................................... 59
+10.1 Entrada forçada............................................................................... 59
+10.2 Contenção física e contenção mecânica...................................... 60
+10.3 Contenção farmacológica............................................................... 61
+11 TENTANTE COM LESÕES E SUICÍDIO COMPLETO..................... 62
+REFERÊNCIAS................................................................................. 63
+1 INTRODUÇÃO 09
+1 INTRODUÇÃO
+Emergências psiquiátricas são quaisquer eventos de ordem psíquica em que haja
+risco importante (de morte ou de dano grave para o paciente ou terceiros), e que
+exijam pronta intervenção (QUEVEDO e CARVALHO, 2014). Os comportamentos
+suicidas apresentam-se dentro das emergências psiquiátricas.
+Conforme a Organização Mundial da Saúde, o suicídio é o ato deliberado de matar a
+si mesmo (OMS, 2014). Outros autores complementam como “morte causada por
+comportamento danoso autoinfligido com qualquer intenção de morrer como resultado
+desse comportamento” (WENZEL; BROWN; BECK, 2010, p. 21).
+Já a tentativa de suicídio é assim descrita:
+Comportamento não fatal, autoinfligido, potencialmente danoso, com
+qualquer intenção de morrer como seu resultado. Uma tentativa de suicídio
+pode resultar ou não em um ferimento (WENZEL; BROWN; BECK, 2010, p.
+21).
+Dentre as variáveis demográficas, ocorrem no mundo cerca de 800 mil suicídios
+completos (1 a cada 40 segundos, em média), sendo a 2ª maior causa de morte entre
+jovens de 15 a 29 anos (OMS, 2014). No Brasil, segundo o Ministério da Saúde, 11.000
+pessoas completam suicídio ao ano (1 a cada 45 minutos, em média), sendo
+considerada a 4ª maior causa de mortes externas (que incluem acidentes
+automobilísticos e violência urbana) entre pessoas de 15 a 29 anos (MS, 2018). Dentre
+os homens da mesma faixa etária, o suicido é a 3ª maior causa de morte.
+Entre 2011 e 2016, de acordo com o MS (2018), houve no país um aumento de 27,4%
+na taxa de incidência de suicídio, sendo que homens morreram mais por suicídio
+(79%), comparados às mulheres (21%), numa taxa de mortalidade de 3,6 vezes maior
+que das mulheres. Por outro lado, ainda conforme a mesma fonte, nas amostras de
+indivíduos que tentaram suicídio, os números invertem-se, sendo as mulheres que
+mais tentam o suicídio (69%), comparadas aos homens (31%).
+No Brasil, de acordo com o Boletim Epidemiológico Nr 30/2017 do Ministério da Saúde
+(BRASIL, 2017), a faixa etária predominante para tentativas de suicídio é de 20 a 29
+ITO 30 ATENDIMENTO A TENTATIVAS DE SUICÍDIO 10
+anos, enquanto a faixa etária predominante para suicídio completo é a partir de 70
+anos.
+Dados estatísticos demonstram que um considerável número de pessoas busca o
+autoextermínio em Minas Gerais. Em matéria jornalística do jornal O Tempo1
+, em
+2017, chegou-se à conclusão de que no estado teria uma média de três casos de
+suicídio por dia.
+De acordo com o anuário estatístico do Corpo de Bombeiros Militar de Minas Gerais
+(CBMMG) relativo ao ano de 2020, houve 2.584 ocorrências envolvendo o
+comportamento suicida, sendo que 41,64% foram de vítima de suicídio (tentativa) –
+APH Clínico2
+; 36,38% foram de vítima de suicídio (tentativa) – APH Trauma3
+; 15,13%
+foram de Salvamento de Suicida (altura)4 e 6,85% foram de Autoextermínio (suicídio)5
+.
+Conforme Boletim Epidemiológico do MS (2018), no Brasil, mulheres são mais
+reincidentes em suas tentativas de suicídio (31,3%), quando comparadas aos homens
+(26,4%). Essa reincidência de tentativas justifica a inserção de uma nova forma de
+abordagem às pessoas que objetivam o autoextermínio, que nesta instrução, serão
+denominadas TENTANTES. Assim, este trabalho tem como propósito nortear as
+atividades do Corpo de Bombeiros Militar de Minas Gerais (CBMMG) no que tange às
+ocorrências de tentativas de suicídios, bem como possibilitar um maior conhecimento
+e ferramentas frente a esta temática.
+
+1Disponível em: https://www.otempo.com.br/cidades/minas-gerais-tem-media-de-tres-casos-desuicidio-por-dia-1.2025485. Acesso em 15Jun20.
+2 V01.024
+3 V03.021
+4 V03.015
+5 A03.000
+2 FINALIDADES E OBJETIVOS 11
+2 FINALIDADE E OBJETIVOS
+Esta Instrução Técnica Operacional (ITO) tem por finalidade orientar ações do Corpo
+de Bombeiros Militar de Minas Gerais (CBMMG) em atendimento a tentativas de
+suicídio para que sejam mais efetivas e mais seguras, não apenas para os tentantes,
+mas também para os próprios bombeiros militares.
+O objetivo geral desta ITO é apresentar um sistema de atendimento a tentativas de
+suicídio que contemple não somente uma comunicação dissuasiva do abordador para
+com o tentante, com fito a uma tentativa abortada6
+, mas também mais efetiva e segura
+para os envolvidos neste tipo de ocorrência, bem como possibilitar uma visão e ação
+humanizada, levando em consideração o sujeito e suas particularidades.
+Já os objetivos específicos são:
+a) conceituar o fenômeno suicídio e seus correlatos;
+b) conceituar e descrever a Abordagem Técnica a Tentativas de Suicídio (ATTS);
+c) circunscrever o atendimento a tentativas de suicídio no campo das
+emergências psiquiátricas7
+;
+d) sistematizar as ações de Atendimento a Tentativas de Suicídio (ATS);
+e) disponibilizar algumas ferramentas de diálogo;
+f) descrever a passagem da abordagem técnica para a abordagem tática;
+g) apresentar o emprego tático específico nas abordagens táticas;
+h) apresentar gerenciamento de ocorrências de tentativas de suicídio.
+
+6
+Indivíduos que desistem por si só do suicídio (tentativa abortada) apresentam melhor prognóstico se
+comparados com aqueles que foram contidos (tentativa interrompida), pois tiveram a possibilidade de
+reelaborar seus fatores precipitantes ainda na ocorrência.
+7
+“Emergência psiquiátrica (EP) é qualquer situação de natureza psiquiátrica em que existe um risco
+significativo (de morte ou dano grave) para o paciente ou para terceiros, demandando uma intervenção
+terapêutica imediata” (QUEVEDO; CARVALHO, 2014, p. 17).
+ITO 30 ATENDIMENTO A TENTATIVAS DE SUICÍDIO 12
+3 CONCEITOS E PROCEDIMENTOS
+As ações de atendimento a tentativas de suicídio seguirão os conceitos e
+procedimentos descritos a seguir.
+3.1 Abordador (técnico)
+Nas ocorrências de tentativas de suicídio atendidas pelo CBMMG, o bombeiro militar
+é o responsável pela comunicação (verbal ou não verbal) estabelecida com o tentante,
+com o objetivo de fazê-lo mudar ou abandonar a ideia do suicídio. (NA).
+3.2 Abordagem tática
+Conjunto de procedimentos em uma ocorrência de tentativa de suicídio, por meio do
+qual um ou mais bombeiros militares utilizam do poder coercitivo físico para
+imobilização, contenção, paralisação, sustentação, ou qualquer outro meio que
+impeça o tentante de completar o autoextermínio. Nesta forma de intervenção, a
+tentativa de suicídio é interrompida pela equipe de atendimento (SOUSA et al, 2018).
+3.3 Abordagem técnica
+Conjunto de procedimentos em uma ocorrência de tentativa de suicídio por meio do
+qual o bombeiro militar faz uso de comunicação verbal e/ou não-verbal (postura
+corporal, gestos, Língua Brasileira de Sinais, etc.), sem emprego de força física de
+contenção. Nesta forma de intervenção, a tentativa de suicídio é abortada pelo próprio
+tentante (SOUSA et al, 2018).
+3.4 Agressividade
+Ato intencional que causa dano físico ou mental em outras pessoas em algumas
+circunstâncias8
+. São indícios de agressividade: agitação motora, violência dirigida a
+
+8 Quevedo e Carvalho (2014, p. 101).
+3 CONCEITO E PROCEDIMENTOS 13
+objetos, dentes e punhos cerrados, ameaças, exigências e discussões em tom de voz
+elevado, afeto desafiador e hostil, sentimento de perseguição e etc.
+3.5 Alucinação
+Inserida no campo das alterações psíquicas, a alucinação é a percepção clara e
+definida de um objeto9
+(voz, ruído, imagem) sem a presença de objeto estimulante
+real (DALGALARRONDO, 2019, p. 110).
+3.6 Comportamento suicida
+Todo ato pelo qual um indivíduo causa lesão a si mesmo, independentemente do grau
+de intenção letal e do verdadeiro motivo desse ato. Uma definição tão abrangente
+possibilita conceber o comportamento suicida ao longo de um continuum10
+, a partir de
+pensamentos de autodestruição, por meio de ameaças, gestos, tentativas de suicídio
+e, por fim, suicídio (BOTEGA, 2015, p. 24).
+3.6.1 Ideação suicida
+Quaisquer pensamentos 11 , imagens 12 , crenças 13 , vozes 14 ou outras cognições 15
+relatadas pelo indivíduo sobre terminar intencionalmente com sua própria vida
+(WENZEL; BROWN; BECK, 2010, p. 21).
+3.6.2 Ato suicida
+Comportamento autoinfligido, potencialmente danoso, com a intenção de morrer com
+seu resultado e utilizando um método que acredita ser letal. Um ato suicida pode
+resultar ou não em morte (suicídio) (WENZEL; BROWN; BECK, 2010, p. 21).
+
+9 As alucinações podem ser visuais, auditivas (mais comum), olfativas, gustativas, cenestésicas
+(sensações no corpo) ou cinestésicas (sensação de movimento no corpo).
+10 Continuum representa uma série de acontecimentos sequenciais e ininterruptos, fazendo com
+que haja uma continuidade entre o ponto inicial e o final.
+11 Ex: “Quando eu deixar de viver, não sofrerei mais por isso.”
+12 Ex: “Me vejo ingerindo uma quantidade considerável de determinado medicamento.”
+13 Ex: “Ninguém sentirá minha falta se eu morrer agora.”
+14 Ex: “Escuto vozes me ordenando pular daqui agora!”
+15 Percepção, conhecimento.
+ITO 30 ATENDIMENTO A TENTATIVAS DE SUICÍDIO 14
+3.6.3 Tentativa de suicídio
+Comportamento não letal, autoinfligido, potencialmente danoso, com a intenção de
+morrer como seu resultado, utilizando um método que acredita ser letal. Uma tentativa
+de suicídio pode resultar ou não em um ferimento (WENZEL; BROWN; BECK, 2010,
+p. 21).
+3.6.3.1 Tentativa abortada
+Quando o tentante pretende matar-se e começa a avançar na direção de uma
+tentativa, mas para antes de realmente engajar-se em um comportamento
+autoagressivo (WENZEL; BROWN; BECK, 2010).
+3.6.3.2 Tentativa interrompida
+Quando o tentante começa a engajar-se em um ato potencialmente danoso com a
+intenção de acabar com a própria vida, mas é interrompido por outra pessoa ou
+alguma circunstância. Nesse caso, uma tentativa de suicídio teria ocorrido caso o ato
+potencialmente danoso não tivesse sido interrompido ou prevenido (WENZEL;
+BROWN; BECK, 2010).
+3.6.4 Suicídio
+Morte autoprovocada com evidências (explícitas ou implícitas) de que a pessoa
+pretendia morrer (QUEVEDO e CARVALHO, 2014, p. 166).
+3.7 Delimitador(es)
+Bombeiro(s) militar(es) equipado(s) com material adequado ao cenário de atuação,
+cuja responsabilidade no cenário é realizar a delimitação espacial do tentante nas
+ocorrências em pontes ou viadutos, por exemplo. Quando utilizados, os delimitadores
+3 CONCEITO E PROCEDIMENTOS 15
+têm a função de direcionar a queda do tentante para determinado ponto16 a fim de
+atenuar os efeitos, caso ela venha ocorrer, se comparado aos pontos adjacentes.
+Também poderá ser realizada abordagem tática. (NA).
+3.8 Delírio
+Inserido no campo das alterações psíquicas, o delírio é uma crença ilusória mantida
+com absoluta convicção de verdade mesmo possuindo demonstrações de ser
+impossível e desconexo. Apesar de o paciente em delírio ser lúcido e não sofrer
+nenhuma alteração quantitativa do nível do seu funcionamento mental, este não tem
+consciência da sua situação, por mais bizarra e estranha que ela seja.17
+3.9 Díade
+Embora cada participante do sistema de atendimento a tentativas de suicídio tenha
+importante função na ocorrência, o ponto de atenção máximo das equipes deve estar
+centrado na dupla formada pelo abordador e o tentante, nesta ITO denominada de
+díade. (NA).
+3.10 Efeito Werther
+Fenômeno alusivo ao livro “Sofrimento do Jovem Werther” escrito por Johann
+Wolfgang von Goethe escrito no ano de 1774. No romance, o protagonista comete
+suicídio e a leitura de tal livro supostamente estimulou o suicídio de muitos leitores. O
+pesquisador David Phillips, em 1974, denominou “Efeito Werther” o fenômeno em que
+um suicídio pode estimular ato semelhante em outras pessoas (PINTO, 2020, p. 45).
+
+16 Em viadutos, conforme possibilidade e viabilidade, pode ser utilizado um caminhão ou ônibus sob a
+projeção do tentante como forma de reduzir a altura de queda. Em pontes, os delimitadores poderiam
+ser utilizados para direcionar a queda para a água ao invés de rochas no entorno. Cada caso
+necessitará de avaliação específica.
+17 Disponível em: https://www.abc.med.br/p/sinais.-sintomas-edoencas/1332248/diferencas+entre+delirio+delirium+e+delirium+tremens.htm. Acesso em 12Jan21.
+ITO 30 ATENDIMENTO A TENTATIVAS DE SUICÍDIO 16
+3.11 Fatores de risco
+Conjunto de fatores de diferentes naturezas, externos e/ou internos ao indivíduo, que
+se combinam de modo complexo e variável e podem impulsionar o indivíduo ao ato
+suicida. Botega (2015) desmembra os fatores de risco em:
+a) predisponentes – aqueles que acompanham a biografia do sujeito já há algum
+tempo (transtornos mentais, abuso de drogas, tentativas prévias de suicídio,
+alcoolismo, presença de suicídio na família, abuso sexual da infância,
+impulsividade, etc.);
+b) precipitantes, que funcionam como gatilhos para a tentativa atual (luto ou perda
+traumática, separação conjugal, desemprego, conflito amoroso, derrocada
+financeira, etc.) (PINTO, 2020, p. 45).
+3.12 Fatores de proteção
+Conjunto de fatores de diferentes naturezas, externos e/ou internos ao indivíduo, que
+se combinam de modo complexo e variável e podem reduzir o risco de suicídio.
+Quevedo e Izquierdo (2020) apresentam como exemplos o próprio cuidado de saúde
+pessoal, a conectividade com outros indivíduos, família e instituições sociais; as
+habilidades para a vida (habilidade de enfrentamento, capacidade de adaptação à
+mudança); autoestima e senso de propósito ou significado na vida; crenças culturais,
+religiosas ou pessoais.
+3.13 Linguagem corporal
+É a comunicação não verbal, como expressão facial, movimentos da cabeça, ângulo
+do corpo em relação aos outros, gestos das mãos, gestos e posições dos braços,
+joelhos, pés e tornozelos, contemplação e contato ocular (COHEN, 2010). Todos os
+envolvidos no atendimento da ocorrência devem estar atentos à leitura da linguagem
+corporal própria e a do tentante. Através dessa leitura é possível visualizar e
+compreender se o tentante está envolvido na conversa ou não, bem como se está
+prestes a cometer o ato. Este tipo de linguagem também é captada pelo tentante em
+relação aos demais presentes na cena.
+3 CONCEITO E PROCEDIMENTOS 17
+3.14 Risco de suicídio
+Um conjunto de informações relevantes e articuladas que permite um melhor parecer
+sobre condição atual do tentante e que pode auxiliar na coleta de informações sobre
+o tentante na ocorrência.
+3.14.1 Risco baixo de suicídio
+Caracteriza-se quando o tentante nunca tentou suicídio; ideias de suicídio são
+passageiras e perturbadoras; não planeja como se matar, transtornos mentais, se
+presentes, com sintomas brandos e bem controlados; boa adesão18 ao tratamento
+psicológico/psiquiátrico; tem vida e apoio social (BOTEGA, 2015, p. 154).
+3.14.2 Risco moderado de suicídio
+Caracteriza-se quando há tentativa prévia; depressão ou transtorno afetivo bipolar;
+ideias persistentes de suicídio vistas como solução; não tem um plano de como se
+matar; não é uma pessoa impulsiva; não abusa/depende de álcool e drogas; conta
+com apoio social (BOTEGA, 2015, p. 154).
+3.14.3 Risco alto de suicídio
+Caracteriza-se quando há tentativa de suicídio prévia; depressão grave, influência de
+delírio e alucinação; abuso/dependência de álcool; desespero, tormento psíquico
+intolerável, não vê saídas; plano definido de se matar; tem meios de como fazê-lo; já
+tomou providências para o ato suicida (BOTEGA, 2015, p. 154).
+3.15 Sobrevivente
+Pessoas19 que vivenciaram um evento traumático severo têm risco maior de cometer
+suicídio, seja por possuírem fatores de risco predisponentes ou seja por
+
+18 Mantém psicoterapia com psicólogo e/ou aceita o uso regular de medicamentos psiquiátricos.
+19 Para cada suicídio, de cinco a dez pessoas, entre familiares e amigos, são afetadas de forma social,
+emocional e econômica (WHO, 2000).
+ITO 30 ATENDIMENTO A TENTATIVAS DE SUICÍDIO 18
+desenvolverem Transtorno do Estresse Pós-traumático. Caso esse incidente crítico
+seja especificamente um suicídio testemunhado, o evento poderá deflagrar o suicídio
+naqueles que se sentiram afetados e a estas pessoas específicas, que se
+convencionou chamá-las de “sobreviventes”. Assim, sobreviventes “são pessoas que
+perderam alguém significativo por suicídio ou qualquer pessoa que teve sua vida
+afetada ou mudada por causa dessa morte.” (ANDRIESSEN; KRYSINKA, 2012, apud
+SCAVACINI, 2018, p. 46).
+3.16 Tentante
+Indivíduo que busca realizar o autoextermínio. (NA).
+3.17 Espaços de comunicação
+Em ocorrências de tentativas de suicídio, torna-se importante reconhecer espaços
+específicos, sendo a posição do tentante o fator determinante que sinaliza tais
+espaços. “É preciso observar que as distâncias medidas variam um pouco de acordo
+com as diferenças de personalidade e fatores ambientais” (HALL, 2005, p. 136).
+3.17.1 Zona Social
+Nesta área, nenhuma pessoa representa para o tentante uma ameaça, ou seja, é uma
+área afastada de seu espaço de segurança e qualquer integrante das equipes de
+emergência que estiver nela permanecerá sem incomodá-lo (MUNHOZ, 2018, p. 196).
+3.17.2 Zona de Aproximação
+Espaço intermediário entre a zona social e a zona interpessoal. É influenciada pela
+localização do tentante na cena, quando este manda o abordador parar de se
+aproximar. Na borda desta área, que o abordador construirá a comunicação com o
+tentante. Seu avanço deverá ser lento e sutil. (NA).
+3 CONCEITO E PROCEDIMENTOS 19
+3.17.3 Zona Interpessoal
+Espaço20 entre o abordador e o tentante em que há potencialidade de toque físico,
+dada a menor distância entre eles. Nesta zona, o abordador esticando os braços
+consegue tocar no tentante. “Mas essa zona é de extrema confiança e, para que o
+abordador chegue até ela, é necessária muita conversa, diálogo e, acima de tudo,
+confiança, muita confiança.” (MUNHOZ, 2018, p. 197).
+Figura 1: Espaços de comunicação em ocorrências de tentativas de suicídio.
+Fonte: Rodrigues, Junior e Munhoz (2018, p. 31).
+
+20 Hall (2005) descreve a distância íntima e a distância pessoal, no contexto da comunicação
+proxêmica, como espaço em que a pessoa pode segurar ou agarrar a outra, revelando maior grau de
+intimidade. Estes dois espaços contemplam a zona interpessoal descrita nesta ITO.
+ITO 30 ATENDIMENTO A TENTATIVAS DE SUICÍDIO 20
+4 SISTEMA DE ATENDIMENTO A TENTATIVAS DE SUICÍDIO
+Esta ITO contempla e está alinhada com os princípios da atual doutrina de ATTS
+estabelecidos pelo Maj PM Diógenes Martins Munhoz21,22 (PMESP); pelo Ten-Cel BM
+José Edir Paixão de Sousa23 (CBMCE), e pela Proposta de Protocolo de ATTS
+apresentados pela Comissão Nacional de Abordagem a Tentativas de Suicídio
+(CONATTS)24. Estas fontes foram utilizadas para o desenvolvimento dos conceitos a
+seguir.
+4.1 Acionamento
+O acionamento é a fase da ocorrência em que o Corpo de Bombeiros toma
+conhecimento de uma tentativa de suicídio. Nessa fase, algumas informações devem
+ser coletadas corretamente para que o desenvolvimento da ocorrência seja facilitado.
+Assim:
+a) o Centro de Operações de Bombeiros (COBOM)/Sala de Operações da
+Unidade (SOU)/Sala de Operações da Fração (SOF) coletará os seguintes
+dados: nome, sexo/gênero, idade, histórico médico-psicológico, método
+empregado, local da tentativa, se o tentante está agressivo, se tem alucinações
+e/ou delírios ou está silencioso, se faz uso de algum medicamento (quais?), se
+há indicativos de estar sob efeito de álcool e/ou drogas, se possui algum tipo
+de arma, se está só ou acompanhado, se está em local trancado; se é a
+primeira tentativa etc.;
+b) se o tentante for o solicitante, o COBOM/SOU/SOF buscará permanecer em
+comunicação (importante registrar o número da ligação) até que uma equipe
+
+21 Proposta de Capacitação ao Efetivo do Corpo de Bombeiros para Atendimento a Ocorrências de
+Tentativas de Suicídio. (MUNHOZ, 2016).
+22 Abordagem Técnica a Tentativas de Suicídio. (MUNHOZ, 2018).
+23 Abordagem na tentativa de suicídio: manual teórico-prático para profissionais da segurança pública.
+(SOUSA et al.,2018).
+24 Art. 3º A Comissão Nacional de Abordagem Técnica a Tentativas de Suicídio tem por finalidade o
+estudo, coordenação, pesquisa, divulgação, de técnicas, meios e formas de atendimento às vítimas de
+tentativas de suicídio, com o intuito de colaborar com os poderes públicos e sociedade civil organizada,
+na redução da mortalidade dos citados eventos (COMISSÃO NACIONAL DE ABORDAGEM TÉCNICA
+A TENTATIVAS DE SUICÍDIO, 2019).
+4 SISTEMA DE ATENDIMENTO A TENTATIVAS DE SUICÍDIO 21
+do CBMMG esteja na cena. Para tal, deverá utilizar a abordagem técnica para
+a comunicação;
+c) no acionamento, demonstrar empatia25 e não manifestar juízo de valor. Em
+hipótese alguma poderá tratar o tentante com rispidez;
+d) caso haja formalização ao COBOM/SOU/SOF por terceiros sobre risco
+iminente e evidente de suicídio por redes sociais (Facebook, Instagram,
+WhatsApp etc.), havendo formas de localização do tentante, deverá ser
+enviada uma Gu BM para averiguação no local, desde que a localidade seja da
+mesma área de atuação da Fração. Caso pertença a outra área de atuação, o
+COBOM/SOU/SOF da unidade que recebe a informação coletará as
+informações do solicitante e a repassará ao COBOM/SOU/SOF da Fração
+responsável;
+e) a Segunda Seção do Estado-Maior e o Sistema de Inteligência do Corpo de
+Bombeiros (SICORBOM), por possuírem um canal de comunicação com redes
+sociais, que emitem alerta quando é detectada uma possível tentativa de
+suicídio, deverá, por meio dos seus agentes de inteligência, coletar as
+informações da situação e localidade e repassar ao COBOM/SOU/SOF, para
+acionamento da Gu BM;
+f) em nenhuma hipótese, o COBOM/SOU/SOF poderá dispensar chamado de
+ocorrência de tentativa de suicídio sem que uma Gu BM avalie in loco a
+situação;
+g) o COBOM/SOU/SOF repassará todas as informações coletadas à Gu BM de
+intervenção e ainda realizará todos os contatos com outras instituições de apoio
+à operação.
+4.2 Deslocamento
+O deslocamento de viatura deverá ser em Código 3 e sempre com deslocamento
+seguro para as Gu BM e para terceiros, conforme previsões do Código de Trânsito
+Brasileiro (CTB). Nas proximidades do local da ocorrência, dispositivos sonoros e
+luminosos (exceto os previstos no CTB) deverão ser desligados.
+
+25 Experiência de participar do estado emocional do outro e, assim, compreendê-lo.
+ITO 30 - ATENDIMENTO A TENTATIVAS DE SUICÍDIO 22
+4.3 Estabelecimento de viaturas
+a) estacionar as viaturas em locais seguros, sem risco de danos por explosão,
+incêndio ou avarias por materiais arremessados pelo tentante;
+b) não estacionar viaturas num raio inferior a 100 metros de distância de torres
+energizadas; utilizar as viaturas como ponto de ancoragem, se necessário e
+adequado; caminhões do CBMMG podem ser utilizados como anteparos em
+caso de tentativas de suicídio por precipitação em viadutos, desde que essa
+altura não seja superior a 8 metros em relação ao solo.
+4.4 Análise funcional
+Nos próximos tópicos serão descritos aspectos importantes a serem observados pela
+Gu BM para melhor condução e gerenciamento da ocorrência.
+4.4.1 Observação Inicial:
+a) avaliar a segurança da cena para as Gu BM e terceiros;
+b) confirmar as informações repassadas pelo COBOM/SOU/SOF, bem como
+coletar outras informações que possam orientar a abordagem, como os
+possíveis fatores de risco (predisponentes e precipitantes) do tentante na
+ocorrência, bem como os de proteção26;
+c) verificar in loco os riscos potenciais na operação (uso de arma branca; arma de
+fogo; arremesso de objetos, secreções ou excrementos infectocontagiosos;
+risco de explosão ou incêndio etc.);
+d) verificar as características construtivas e de acesso ao local onde se encontra
+o tentante para melhor acesso;
+e) verificar os locais inseguros que devem ter restrição de acesso;
+
+26 O conhecimento prévio dos fatores de risco facilitará a abordagem uma vez que o abordador já sabe
+que assuntos deve evitar na cena. Além disso, durante a tentativa de suicídio, o tentante apresenta
+dificuldades de encontrar fatores de proteção, dado o viés de pensamento negativista, especialmente
+no início da ocorrência. Receber de familiares ou amigos tais informações também contribui para o
+resultado positivo da ocorrência.
+4 SISTEMA DE ATENDIMENTO A TENTATIVAS DE SUICÍDIO 23
+f) determinar uma rota de fuga para as equipes se houver algum tipo de ameaça
+à segurança;
+g) utilizar o RPA (drone do CBMMG), se necessário e disponível, para verificar a
+situação em que o tentante se encontra, evitando-se assim, surpresas em
+relação à segurança.
+4.4.2 Passagem e assunção de comando
+a) repassar ao novo comandante da operação, caso ocorra, o maior número de
+informações possível, incluindo os fatores predisponentes e precipitantes
+encontrados, os fatores de proteção, as ações já desenvolvidas até então, bem
+como a proposta de abordagem técnica e tática, além da voz de comando e o
+gesto que acionará a abordagem tática;
+b) em caso de emprego de arma de fogo como método de tentativas de suicídio,
+caberá às equipes policiais (militar, civil ou penal, conforme o caso), por meio
+de profissionais especializados, a gerência, bem como a negociação com o
+tentante;
+c) a razão para este procedimento é a busca pela garantia da segurança e
+integridade física do bombeiro militar, dado que neste tipo de ocorrência, o
+CBMMG não dispõe de equipamentos de proteção compatíveis para tal, e a
+qualquer momento o tentante pode mudar a violência autodirigida para
+qualquer um dos membros da Gu BM.
+4.4.3 Avaliação inicial da ocorrência
+a) elaborar o planejamento mental de intervenção (ou registro em papel ou
+aparelhos eletrônicos), baseado na observação inicial;
+b) nomear o abordador técnico e os abordadores táticos para início de
+deslocamento, conforme segurança da cena;
+c) deve-se priorizar como abordador técnico o militar que tenha realizado o Curso
+de Atendimento a Tentativas de Suicídio (CATS) ou com conhecimentos nesta
+área, além de ser atencioso, observador, respeitoso, calmo, eloquente,
+comunicativo, que ouça com atenção e paciência e que não julgue o tentante.
+ITO 30 - ATENDIMENTO A TENTATIVAS DE SUICÍDIO 24
+a) 4.4.4 Isolamento
+a) deve-se isolar o local com colocação de cones, fitas zebradas, cordas, e até
+mesmo viaturas; havendo outras instituições como Polícia Rodoviária Federal
+(PRF), Polícia Rodoviária Estadual (PRE), Agentes de Trânsito ou Guarda Civil
+Municipal (GCM), estas poderão ser orientadas quanto ao isolamento,
+conforme local e necessidade;
+b) considerar interdição total/parcial da via pública, conforme necessidade;
+c) a área de isolamento poderá aumentar ou diminuir no desenvolver da
+ocorrência, conforme avaliação do comandante das operações;
+d) dado ao Efeito Werther, orientar as pessoas nas proximidades da ocorrência a
+não registrarem o evento (celulares, câmeras, máquinas fotográficas etc.).
+Além disso, deve-se preservar a imagem do tentante;
+e) orientar quando necessário que, conforme o artigo 122 do Código Penal, induzir
+ou instigar alguém a suicidar-se ou prestar-lhe auxílio para que o faça é
+tipificado como crime;
+f) helicópteros ou drones (exceto por uso do CBMMG) devem ser evitados sobre
+o local para não interferir na comunicação;
+g) a imprensa não deve permanecer na zona quente por diferentes motivos, como
+preservação da imagem do tentante, evitar que a própria mídia na cena
+funcione como fator precipitante para o suicídio27
+, ou mesmo a exposição
+impulsionar o Efeito Werther.
+4.4.5 Avaliação de risco
+a) os riscos são inerentes aos métodos e ao local escolhido pelo tentante,
+cabendo ao comandante da operação rastrear e eliminar/minimizar tais riscos;
+b) a ocorrência de suicídio deve ser considerada insegura para todos os
+envolvidos, logo, a atenção aos riscos deve ser constante a todo momento;
+
+27 A motivação de um indivíduo para realizar uma tentativa de suicídio pode ser atingir alguma pessoa
+ou instituição específica. Com a mídia no local, o tentante pode entender que esta pessoa ou instituição
+irá assistir ao seu suicídio. Logo, a mídia na cena poderá deflagrar o autoextermínio.
+4 SISTEMA DE ATENDIMENTO A TENTATIVAS DE SUICÍDIO 25
+c) avaliar riscos de contaminação (sangue, saliva, fezes, urina, etc.),
+envenenamento ou intoxicação (locais fechados com atmosfera tóxica, por
+exemplo), enforcamento, agressão por arma branca escondida, presença de
+arma de fogo, risco de queda de altura, de afogamento, de incêndio, de
+explosão, de atropelamento, etc.;
+d) não reduzir a atenção nas ocorrências de tentativas de suicídio, mesmo que o
+tentante aparente cooperar. Há relatos de tentantes que utilizam métodos de
+suicídio distintos e que escondem armas brancas (facas, vidro, canivetes, etc.)
+em suas vestimentas, podendo ferir o bombeiro militar desatento.
+4.4.6 Desenvolvimento
+a) remover pessoas e objetos da cena para deixar o espaço de comunicação entre
+o CBMMG e o tentante livre de poluição sonora e visual, além de remover da
+cena potenciais fatores de risco;
+b) acionar mais equipes de bombeiros militares e/ou outras instituições, como
+equipes de saúde (SAMU), concessionárias (como CEMIG) ou forças policiais
+(como PMMG, PCMG, PRF, PRE, Polícia Penal), agentes municipais (Agentes
+de Trânsito, Guarda Civil Municipal), conforme necessidade;
+c) conferir o uso de EPIs por todos os participantes da ocorrência conforme suas
+funções em execução;
+d) considerar evacuação total/parcial do local da ocorrência, conforme
+necessidade;
+e) a abordagem tática deve estar montada e em condições de pronto emprego a
+todo instante, primando pela possibilidade de atuar pelo efeito surpresa.
+ITO 30 - ATENDIMENTO A TENTATIVAS DE SUICÍDIO 26
+5 ABORDAGEM TÉCNICA
+Conforme Silvia et al. (2000), “comunicação é um processo de interação no qual
+compartilhamos mensagens, ideias, sentimentos e emoções, podendo influenciar o
+comportamento das pessoas que, por sua vez, reagirão a partir de suas crenças,
+valores, história de vida e cultura”. Quando se fala em comunicação, normalmente,
+pensa-se na linguagem verbal, ou seja, nas palavras, sejam elas escritas ou faladas.
+Comumente esquece-se de que há também outra forma de comunicação presente em
+nossas relações com o outro e com o mundo – a comunicação não verbal - que pode
+estar expressa nos sons, entonação e volume da voz, nos gestos, nas expressões
+faciais, na motricidade corpórea, entre outras formas (GOIS, NOGUEIRA e VIEIRAS,
+2011).
+A postura do profissional que busca ajudar o tentante é facilitada pelo rapport28 que
+nada mais é do que “(...) um relacionamento cordial, de entendimento, de aceitação e
+de empatia mútua (...)” (BOTEGA, 2005, p. 135). Dessa forma busca-se o
+desenvolvimento de apoio emocional e de formação de vínculo que vão facilitar a
+condução da abordagem.
+Na abordagem técnica, o bombeiro militar utiliza-se da habilidade comunicativa com
+objetivo de conhecer os pensamentos do tentante, compreendê-lo de forma empática
+e potencializar sua desistência do ato autodestrutivo. Para tal, utiliza-se de uma
+comunicação verbal, por meio de algumas ferramentas de diálogo, bem como de uma
+sutil linguagem corporal, como inclinação de seu corpo, posição das mãos, seu olhar,
+seu posicionamento espacial na cena, etc.
+Assim sendo, conforme Munhoz (2018), temos comportamentos gerais desejáveis por
+parte do abordador durante o atendimento como:
+
+28 Rapport é uma palavra de origem francesa rapporter, que significa “trazer de volta” ou “criar uma
+relação”.
+5 ABORDAGEM TÉCNICA 27
+a) a guarnição (principalmente o abordador) deve entender a postura, a
+entonação de voz e os gestos do tentante, e ainda agir de maneira sincera e
+atenciosa para fortalecer o vínculo de confiança;
+b) buscar formar vínculo com o tentante;
+c) manter canal de comunicação aberto;
+d) olhar para o tentante em demonstração de atenção;
+e) ouvir atentamente;
+f) respeitar pausas silenciosas;
+g) repetir, resumir e relacionar ideias para o tentante;
+h) apoiar o tentante a encontrar soluções próprias;
+i) dar espaço para o tentante perguntar.
+Por outro lado, há comportamentos improdutivos que devem ser evitados a todo custo
+como, conforme (MUNHOZ, 2018):
+a) completar frases para o tentante;
+b) mentir, prometer, seduzir;
+c) chamar por apelidos ou nomes depreciativos;
+d) ser agressivo ou ríspido;
+e) rir ou demonstrar desprezo pela fala ou emoção do tentante, ameaçar, desafiar,
+julgar;
+f) dar opinião pessoal e aconselhar;
+g) antecipar a ação tática de forma desnecessária;
+h) levar parentes e/ou conhecidos à presença do tentante;
+i) efetuar comemorações na frente dele;
+j) ceder a qualquer exigência que vá contra o protocolo;
+k) dar cigarros, celulares, refeições ou algo do tipo, dentre outros29. (MUNHOZ,
+2018).
+
+29 Água poderá ser oferecida ao tentante com o objetivo de evitar desidratação.
+ITO 30 ATENDIMENTO A TENTATIVAS DE SUICÍDIO 28
+5.1 Aproximação
+a) o abordador técnico aproximará do tentante de forma lenta, silenciosa e irá
+expor, de forma natural, suas mãos, para transmitir segurança;
+b) no momento em que o tentante disser para o abordador parar, este
+interromperá seu deslocamento e aquele local passará a ser a borda da zona
+de aproximação;
+c) em algumas ocorrências, no início da aproximação é possível que o tentante
+possa apresentar uma comunicação bastante agressiva, inclusive com
+xingamentos. O abordador deverá manter a calma, pois este comportamento
+verbal, tende a diminuir com o tempo, e poderá ser manejado conforme
+instruções adiante;
+d) o abordador deve evitar posicionar-se com as mãos na cintura ou deixá-las
+para trás, para que o tentante não interprete esta postura como intimidação ou
+enganação;
+e) após construção de vínculo de confiança, o abordador dará pequenos passos
+(um por vez) em direção ao tentante de forma lenta e sutil;
+f) o objetivo da aproximação é alcançar de forma segura e permissiva a zona
+interpessoal do tentante;
+g) na abordagem, apenas o abordador se comunica com o tentante30;
+h) o abordador não deve perder o tentante de vista, pois deve analisar
+constantemente sinais de suicídio iminente;
+i) ATENÇÃO! Em caso de uso de arma branca pelo tentante, a aproximação
+somente deverá ocorrer após esta arma ser arremessada para longe do
+tentante, conforme orientação do abordador. Neste caso, não nominar a arma
+branca (faca, canivete, adaga, etc.) e sim, chamá-la de “objeto”. Ex: “Fulano,
+deixe este objeto que está em sua mão ali!31”;
+j) o abordador deve estar abrigado em caso de arremessos de objetos e
+aproximar-se-á apenas quando houver certeza de que a cena está segura.
+Com o abordador na zona interpessoal, a abordagem tática deverá ocorrer
+
+30 Muitas pessoas conversando simultaneamente com o tentante podem confundi-lo. Por outro lado, o
+ato pode ser percebido por ele como uma forma de coação.
+31 Evite pedir para que coloque simplesmente o objeto no chão. Ele pode fazer isso mesmo mas o
+instrumento ainda estaria de fácil acesso a ele. Importante salientar que o tentante pode estar ainda
+ambivalente, podendo pegar tal objeto facilmente se estiver próximo a ele.
+5 ABORDAGEM TÉCNICA 29
+apenas se houver risco iminente de suicídio para que o tentante não tenha a
+percepção de que foi enganado;
+k) o abordador deve evitar participar da abordagem tática, sempre que possível;
+l) a rota de fuga deve ser de conhecimento amplo dos bombeiros militares.
+5.2 Silêncio inicial
+O abordador permanecerá em silêncio quando chegar à borda da zona de
+aproximação. O silêncio inicial tem o objetivo de fazer o tentante acostumar-se com o
+bombeiro militar na cena.
+5.3 Apresentação pessoal
+A apresentação do abordador ao tentante deve seguir a seguinte sequência:
+a) após o silêncio inicial, o abordador apresentar-se-á ao tentante dizendo seu
+nome, sua função, e que está ali para ouvi-lo. Por exemplo: “Oi, meu nome é
+Thaís, sou bombeira militar, e estou aqui para te ouvir!”;
+b) o abordador não deverá dizer que está ali para ajudá-lo, pois o tentante poderá
+pedir ajuda sobre algo que não possa ser realizado. Isso quebrará a confiança.
+Ao dizer que está para ouvir, na pior das hipóteses, o abordador realmente irá
+ouvi-lo;
+c) evite saudações como “Bom dia!”, “Boa noite!”, “Como vai você?”, pois em
+situação de tentativa de suicídio, as respostas são óbvias e há grande
+possibilidade de repulsa por parte do tentante.
+5.4 Perguntas simples
+O abordador deverá:
+a) rastrear quais são os fatores de risco e de proteção por meio de perguntas
+simples sobre o cotidiano do tentante;
+ITO 30 - ATENDIMENTO A TENTATIVAS DE SUICÍDIO 30
+b) fazer perguntas como: qual é seu nome? Tem filhos? Qual o nome de seus
+filhos? Mora com quem? Qual sua idade? Onde você trabalha? Com quem
+você trabalha? Pratica esportes? O que gosta de fazer? Dentre outras,
+conforme os assuntos descobertos;
+c) observar a reação verbal (entonação de voz aumenta, traz respostas de caráter
+agradável ou ríspido, xinga ou elogia, etc.) e a não verbal (choro, riso,
+introspecção, agitação motora, desvia olhar ou olhar fixo, arremessa objetos
+etc.) do tentante;
+d) buscar sinais de reações, uma vez que estas são indicativos de pensamentos
+e/ou emoções. Reações positivas são esperadas para fatores de proteção e
+reações negativas para fatores de risco;
+e) focar nos fatores de proteção e evitar fatores de risco predisponentes durante
+todo o atendimento;
+f) buscar o máximo de fatores de proteção para que o diálogo não fique repetitivo;
+g) não ser invasivo demais com perguntas indiscretas;
+h) ouvir com atenção as respostas, olhando para o tentante 32
+, e forma
+compreensiva e sem julgamentos;
+i) conhecer os fatores de risco e os de proteção para realizar as perguntas
+complexas de forma segura;
+j) demonstrar interesse (de maneira verbal e não verbal) pelos assuntos e temas
+abordados pelo tentante.
+5.5 Perguntas complexas
+Cabe ao abordador:
+a) fazer perguntas que façam o tentante refletir sobre suas ações e suas aflições.
+O lema do Centro de Valorização da Vida (CVV) é: “Enquanto você não fala, o
+sofrimento não vai embora!”;
+
+32 Em caso de tentantes com perfil agressivo, evitar olhar diretamente em seus olhos nos primeiros
+instantes da ocorrência para que não interprete como desafio.
+5 ABORDAGEM TÉCNICA 31
+b) conversar sobre o fator precipitante (o gatilho para a tentativa) com escuta
+ativa33, demonstrando empatia e sem julgamentos pessoais;
+c) manter o diálogo aberto sobre a motivação principal, perda, ou isolamento, pois
+isso favorece a organização dos pensamentos do tentante e diminui os conflitos
+mentais;
+d) não oferecer soluções próprias para o tentante. Ao invés disso, deve-se
+estimulá-lo a encontrá-las;
+e) respeitar as pausas silenciosas para que o tentante possa organizar suas
+ideias. Contudo, caso o tentante demore demais em introspecção, estimular a
+resposta, pois ele poderá estar realizando uma espécie de contagem
+regressiva para cometer o suicídio;
+f) não mentir, não aconselhar de forma impositiva, não enganar e não prometer
+(principalmente o que não se pode cumprir);
+g) não demonstrar desinteresse ou falta de paciência com o tentante.
+5.6 Algumas ferramentas de diálogo
+A conversa entre o abordador e o tentante pode funcionar como estímulo para
+formação de pensamentos diversos por parte do tentante (autoavaliação sobre si,
+sobre os outros e sobre o futuro) durante a tentativa de suicídio. Também pode
+deflagrar diferentes emoções, como raiva, tristeza ou angústia.
+Pensamentos e emoções do tentante definirão seus comportamentos, como
+agressividade34, atos impulsivos, foco atencional suicida ou desistência. Enquanto as
+perguntas simples buscam identificar os fatores de risco e de proteção, as perguntas
+complexas permitem ao tentante reduzir sua angústia. A seguir, serão apresentadas
+algumas ferramentas de diálogo que poderão influenciar o tentante a desistir da ação
+inicial.
+
+33 Demonstrar um interesse verdadeiro pelo assunto.
+34 Importante ressaltar que há formas distintas de expressão da agressividade, podendo ser uma
+heteroagressividade, quando ela é dirigida a outros ou autoagressividade, quando dirigida a si
+(QUEVEDO; CARVALHO, 2014).
+ITO 30 - ATENDIMENTO A TENTATIVAS DE SUICÍDIO 32
+5.6.1 Técnica do sucesso anterior
+a) perguntar ao tentante sobre experiências similares do passado em que ele
+tenha obtido sucesso;
+b) perguntar ao tentante quais foram as estratégias por ele usadas para superar
+o problema da outra vez;
+c) exemplos: quando o fator precipitante é o término de um relacionamento, o
+abordador questiona ao tentante se ele já terminou relacionamento amoroso
+alguma vez antes, conseguindo outro relacionamento. Se for o desemprego, se
+já teve a experiência de ficar desempregado antes e conseguir outro emprego;
+d) o objetivo desta técnica é fazer o tentante compreender que já superou
+problemas parecidos antes, e que ainda existem recursos internos que o
+permitem solucionar o atual também.
+5.6.2 Ponte para o futuro
+a) verificados os hábitos que dão prazer ao tentante (perguntas simples),
+perguntar ao tentante os dias da semana e horários que costuma praticar
+determinado hábito prazeroso;
+b) perguntar ao tentante, como se ele fosse realizar tal hábito, quais serão os
+preparativos antes de executar tal prática ou o que fará logo após terminar a
+prática;
+c) por exemplo, se o passatempo do tentante for andar de bicicleta aos sábados
+e o dia da tentativa é terça-feira, o abordador pergunta: “Fulano, neste próximo
+sábado, qual a trilha que irá percorrer?”, “Quantos quilômetros você irá
+pedalar?” Ou “Quando você terminar de pedalar neste próximo sábado, o que
+você pretende fazer para relaxar?”;
+d) o objetivo é incutir probabilidades de eventos futuros com atividades que lhe
+dão prazer. Lembre-se que, dado ao foco atencional suicida, ele inicialmente
+tem certeza de que não terá futuro. Com o uso desta técnica, ele começará a
+ter dúvidas, favorecendo a desistência do suicídio.
+5 ABORDAGEM TÉCNICA 33
+5.6.3 Ponte para o passado
+a) perguntar ao tentante sobre algum evento do passado muito agradável. Logo a
+seguir, pede-se que o tentante descreva esta cena com o maior número de
+detalhes possíveis, com estímulo à memória visual, auditiva, sinestésica,
+olfativa e gustativa;
+b) por exemplo: se o tentante disser que um momento agradável do passado foi
+ter levado o filho de 6 anos ao parque, pedir que se permita lembrar os detalhes
+do parque, da cor da roupa do filho (visual), se andava descalço na areia (tato),
+se tinha outras crianças conversando (audição) e sorrindo na cena, se a criança
+tomava algum sorvete (gustação), etc.;
+c) o objetivo desta técnica é evocar boas memórias do tentante. Essas boas
+memórias (potencializadas pelos estímulos sensoriais) geram emoções
+agradáveis e este conjunto pensamento-emoção pode mudar o comportamento
+suicida aos poucos, facilitando sua desistência.
+5.6.4 Paráfrase resumida
+a) se o tentante começar a narrar eventos muito alheios à ocorrência, o abordador
+repete as falas (relacionadas à abordagem) emanadas pelo tentante de
+maneira organizada, explorando a motivação principal da tentativa de suicídio;
+b) sempre que possível, reformular as afirmações feitas pelo tentante para fazêlo concluir pensamentos positivos;
+c) o objetivo desta técnica é diminuir o tempo de abordagem, pois se atenta à
+motivação principal, além de reduzir o desconforto psíquico do tentante.
+5.6.5 Apoiar o tentante a encontrar as próprias soluções
+a) não é adequado que o abordador conte experiências pessoais. O foco do
+diálogo sempre será o tentante;
+ITO 30 - ATENDIMENTO A TENTATIVAS DE SUICÍDIO 34
+b) não transmita fraqueza ou permita que o assunto seja a vida do abordador.
+Demonstrar sensibilidades por ter passado por problema parecido não irá
+demonstrar a referência de segurança necessária ao tentante;
+c) quando o tentante estiver fora da realidade, a melhor forma de encontrar
+soluções é trazendo ao diálogo situações reais;
+d) o objetivo desta técnica é deixar o tentante expressar-se livremente, pois há
+um valor terapêutico nesta comunicação.
+5.6.6 Evitar frases de negação
+a) evitar uso de frases de negação, pois quando se nega algo é inevitável que o
+tentante foque na hipótese negada;
+b) por exemplo: “não pule”, “não chore”; “não fique nervoso”. Fatalmente o
+tentante pensa no ato de pular, de chorar, de ficar nervoso. Prefira, “olhe para
+mim”, “fique comigo”, “escute o que estou dizendo”, por exemplo;
+c) o objetivo desta técnica é conduzir o pensamento do tentante para situações
+positivas e objetivas. Lembre-se de que pensamentos geram emoções e seu
+conjunto cria comportamentos.
+5.7 Perfis comportamentais na tentativa de suicídio
+Os perfis dos tentantes foram didaticamente classificados de maneira a reunir
+características semelhantes de acordo com seus comportamentos e, a partir disso,
+embasar posturas desejáveis pelo abordador. Importante constar que não se trata do
+resultado de uma avaliação psicológica, mas tão somente uma categorização
+comportamental entre os tentantes para que haja direcionamento a casos específicos
+de intervenção.
+O objetivo dessa categorização visa auxiliar o abordador a planejar o atendimento e
+realizar as melhores escolhas para cada tipo. Vale ressaltar que esta classificação
+não é fixa ou rígida, podendo haver tentantes que alternem seu tipo durante o
+atendimento, exigindo do abordador flexibilidade e capacidade de adaptação.
+5 ABORDAGEM TÉCNICA 35
+5.7.1 Agressivo
+O tentante pode estar agressivo no momento da chegada do(a) abordador(a) ou
+mesmo tornar-se agressivo durante a abordagem. Conforme Quevedo e Izquierdo
+(2020), a agressividade é todo o comportamento pelo indivíduo composto por ameaça,
+intenção ou ato de causar dano a outra pessoa ou a si mesmo. O tentante agressivo
+não costuma aceitar imposições, manifesta agressões verbais e demonstra raiva e
+hostilidade, podendo haver a possibilidade de agressão física. É muito importante
+fornecer a oportunidade de uma saída honrosa ao tentante, evitando sua exposição.
+Quevedo e Carvalho (2014) relacionam diferentes transtornos mentais em que a
+agressividade pode estar presente:
+O comportamento agressivo/agitado pode ocorrer no curso de diversos
+transtornos mentais, notavelmente na esquizofrenia, no transtorno bipolar, e
+nos transtornos de personalidade. A agitação também estar associada a
+doenças neuropsiquiátricas, incluindo acidentes vasculares cerebrais
+(AVCs), epilepsia, traumatismos cranianos, doença de Parkinson, doença de
+Alzheimer e outras demências. Também a intoxicação e/ou abstinência de
+substâncias psicoativas, como, por exemplo, álcool, cocaína e anfetaminas
+são causas frequentes de comportamento agressivo (Quevedo; Carvalho,
+2014, p.100).
+O Quadro 1 a seguir ilustra algumas características encontradas em tentantes de perfil
+agressivo:
+QUADRO 1 – Caracterização de tentantes agressivos.
+Fonte: Dalgalarrondo (2019) – adaptação.
+Características cognitivas Características emocionais Características
+comportamentais
+Pensamento acelerado; fuga de
+ideias; confusão; crenças de
+desvalor; crenças de injustiça;
+crenças punitivas; crenças de
+perfectibilidade, especialmente
+sobre como os outros irão
+avaliá-lo, entre outras.
+Raiva; revolta; rancor; ciúme;
+ódio; ira; inveja; vingança;
+repúdio; desprezo; irritabilidade,
+entre outras.
+Agitação motora; inquietude;
+tentante anda de um lado para o
+outro; fala bastante;
+impulsividade; automutilação;
+destruição de objetos ao redor;
+comportamento de ataque;
+hostilidade em relação às
+pessoas, entre outras.
+ITO 30 ATENDIMENTO A TENTATIVAS DE SUICÍDIO 36
+Abordagem técnica:
+a) falar pouco e dar oportunidade ao tentante de desabafar;
+b) evite olhar diretamente nos olhos (raiz dos olhos) nos primeiros momentos da
+ocorrência;
+c) se possível, posicionar-se no mesmo nível do tentante, ou em um nível abaixo;
+d) quanto mais o tentante gritar, fale cada vez mais baixo;
+e) evitar palavras de negação como: não pode, não vai, etc.;
+f) em hipótese alguma, reaja a qualquer provocação ou xingamento;
+g) nunca desafie o tentante;
+h) não ceda às suas exigências;
+i) nunca dê ultimato de tempo. Por exemplo, “se você não se entregar em 10
+minutos, nós vamos agarrar você aí”.
+5.7.2 Depressivo
+Este grupo tem como característica geral, na cena, o silêncio, a dificuldade de expor
+o que sente, o choro eventual e a tristeza. Algumas outras características também
+podem estar presentes, conforme descreve Dalgalarrondo (2019), como apatia, tédio,
+irritabilidade, angústia, ansiedade, desespero, desesperança, desânimo, negativismo,
+autodepreciação, dentre outros. Possivelmente, o abordador terá que utilizar uma
+variedade maior de perguntas, sempre estimulando a fala do tentante.
+Não há transtornos mentais ou condições psicopatológicas em que não haja
+alterações do humor da pessoa. Assim, os sintomas negativos do humor podem estar
+presentes na depressão, no transtorno bipolar, na esquizofrenia, nos transtornos de
+personalidade, nas demências, entre outros (DALGALARRONDO, 2019). O Quadro 2
+a seguir ilustra algumas características encontradas em tentantes de perfil depressivo:
+5 ABORDAGEM TÉCNICA 37
+QUADRO 2 – Caracterização de tentantes depressivos.
+Fonte: Dalgalarrondo (2019) – adaptação.
+Abordagem técnica:
+a) muita fala até conseguir estabelecer diálogo;
+b) abordar de frente para o tentante;
+c) se possível, no mesmo nível do tentante;
+d) ter uma atitude mais enérgica e assertiva, mas sem ser agressivo;
+e) conduza o diálogo a fim de que o tentante chegue a uma conclusão por si só;
+f) não aconselhe;
+g) seja otimista a todo o momento.
+5.7.3 Psicótico
+Podemos considerar psicóticas, pessoas que apresentam no momento da abordagem
+alterações psíquicas como alucinações 35 (como ouvir vozes com conteúdo de
+acusação ou ameaça; ilusões visuais, táteis, gustativas ou olfativas), ideias
+delirantes36 (com conteúdo persecutório, autorreferente, com distorção da realidade
+(como imaginar-se um cientista nuclear), pensamentos desorganizados (produção de
+pensamento incompreensível, totalmente incoerente) e falta de insight (tentante não
+
+35 A percepção de ter visto, ouvido, tocado, provado ou cheirado algo que não estava realmente no
+local.
+36 Alteração do conteúdo do pensamento, em que não existe alucinações nem alterações da linguagem,
+mas em que a pessoa acredita fortemente numa ideia irreal, mesmo quando já foi comprovado que não
+é verdade.
+Características cognitivas Características emocionais Características
+comportamentais
+Lentificação do pensamento;
+capacidade diminuída para
+pensar ou se concentrar;
+ideação negativa em relação a
+tudo; crença de culpa; crença de
+insuficiência e de incapacidade,
+baixa autoestima; entre outras.
+Melancolia; choro; irritabilidade;
+saudade; tristeza; nostalgia;
+vergonha; impotência; aflição;
+autopiedade; autodepreciação;
+culpa; remorso; sentimento de
+inferioridade; infelicidade; tédio;
+desesperança, entre outras.
+Impulsividade; automutilação;
+diminuição da fala lentificação
+motora; desanimado; recusa a
+interação social; pouco contato
+visual, entre outras.
+ITO 30 ATENDIMENTO A TENTATIVAS DE SUICÍDIO 38
+percebe que tem algum problema psíquico). Em alguns casos há perda de expressão
+emocional, o que dificulta que o abordador tenha percepção de suas ações e fique
+sem condições de medir quando o diálogo está sendo efetivo ou positivo
+(DALGALARRONDO, 2019).
+As alucinações auditivas e visuais, bem como os delírios, podem estar presentes na
+esquizofrenia, no transtorno bipolar, na depressão, no transtorno de personalidade
+borderline, no delirium, na doença de Parkinson, entre outros transtornos.
+(DALGALARRONDO, 2019).
+O Quadro 3 a seguir ilustra algumas características encontradas em tentantes de perfil
+psicótico:
+QUADRO 3 – Caracterização de tentantes psicóticos.
+Fonte: Dalgalarrondo (2019) – adaptação.
+Características cognitivas Características emocionais Características
+comportamentais
+Delírios (perseguição, religioso,
+grandeza, de ciúmes, etc.);
+alucinação audiovisual
+(conteúdo persecutório, fuga de
+ideias, etc.); pensamentos
+desordenados (persecutórios;
+depreciativos, de ataque à
+autoestima; de poder, riqueza,
+grandeza ou missão; religioso,
+místico, mágico; erótico,
+sexuais, de ciúmes; de culpa;
+conteúdos hipocondríacos),
+entre outras.
+Desmotivação; perda da
+capacidade de sentir prazer;
+distanciamento e indiferença
+afetiva; dificuldade de expressar
+sentimentos; sensação de vazio;
+inquietude; ansiedade; medo,
+entre outras.
+Automutilação; destruição de
+objetos ao redor; discurso
+desorganizado e incoerente;
+comportamento grosseiramente
+desorganizado; autocuidado
+prejudicado; comportamentos
+bizarros, entre outros.
+5 ABORDAGEM TÉCNICA 39
+Abordagem técnica:
+a) não se posicionar de forma superior ou autoritária, pois o abordador pode
+passar a ocupar o lugar de perseguidor para o tentante (a depender do quadro);
+b) deverá ser testado se o diálogo torna-se positivo quando o abordador concorda
+com as alucinações/delírios do tentante;
+c) sobre seu delírio ou alucinação, caso o tentante pergunte ao(a) abordador(a)
+se ele é algum personagem específico, este(a) abordador(a) devolve a
+pergunta da seguinte forma: “Para você, Fulano, eu pareço ser este
+personagem?”. Esta pergunta evita a possibilidade de mentir para o tentante,
+pois será ele quem afirmará, não o (a) abordador(a);
+d) geralmente, são abordagens mais demoradas para atingir seu desfecho;
+e) tentantes psicóticos têm dificuldades em estabelecer novas relações. Neste
+caso, se possível, utilize bombeiros militares conhecidos do tentante;
+f) tentantes psicóticos, durante o surto, podem perder o senso de realidade, não
+diferenciando a realidade de sua imaginação. Neste caso, o abordador poderá
+descrever em voz alta o que ele está fazendo no momento. Exemplo: “você
+está virando-se para mim”, “você está usando esta camisa verde”, etc.;
+g) perguntar se ele sabe que existem pessoas que podem ajudá-lo a cuidar
+dessas “vozes” (ou o que ele estiver manifestando como sofrimento), para que
+elas parem de atrapalhá-lo;
+h) buscar descobrir se existe um vínculo do tentante com algum profissional de
+saúde mental ou alguma instituição, dessa forma ficará mais fácil levá-lo a um
+especialista que o remeterá a seu profissional de referência.
+ITO 30 - ATENDIMENTO A TENTATIVAS DE SUICÍDIO 40
+5.8 Dinâmicas na abordagem
+Devido ao dinamismo do cenário da ocorrência, algumas situações poderão ser
+alteradas como descrito abaixo.
+5.8.1 Troca do Abordador
+A abordagem técnica sustenta-se na comunicação entre abordador e tentante, sendo
+assim ela é um desafio para os bombeiros militares, especialmente por envolver
+condições psíquicas e fisiológicas atinentes ao cenário da ocorrência. Considerando
+que algumas ocorrências podem durar horas, o abordador deverá ser trocado,
+conforme preconiza Sousa et al. (2018), em algumas situações:
+a) exaustão do abordador: devido a condições climáticas, posição na cena,
+condições fisiológicas ou psicológicas, conteúdo tenso e intenso para o militar.
+Importante explicar ao tentante qual o motivo real de sua saída da cena para
+que este não interprete como algo negativo;
+b) perda da confiança: se o tentante fechar o canal de comunicação, após uma
+conduta do abordador, este deve ser imediatamente substituído. Por exemplo,
+se o tentante perceber que o abordador mentiu, prometeu e não cumpriu, foi
+ríspido, não respeitou a zona de aproximação ou o desafiou, o próprio
+abordador pode ter se tornado um fator de risco.
+5.8.2 Migrando da Abordagem Técnica para a Abordagem Tática
+a) a observação e a comunicação são as duas ações mais importantes para a
+abordagem técnica;
+b) observar se há contato visual contínuo, se a entonação da voz é normal, se a
+postura corporal indica interesse na comunicação (de frente para o abordador),
+se usa as mãos ou pernas para se prender em algum objeto (revelando
+ausência de interesse naquele instante de suicidar-se), se consegue falar sobre
+os fatores de proteção. Neste caso, há vínculo de confiança com o tentante e
+o abordador deve permanecer na abordagem técnica;
+5 ABORDAGEM TÉCNICA 41
+c) observar se o tentante percebeu algum ato que possa quebrar o vínculo por
+parte do abordador37;
+d) após a quebra de vínculo, observar se há mudanças comportamentais38 do
+tentante de forma desproporcional e abrupta. Elas podem ser indicativos de
+iminência de suicídio;
+e) a análise deve ser rápida. No momento em que se intensifica o foco atencional
+aos fatores de risco, com quebra de vínculo, revelada pela inclinação do corpo
+(dar as costas, ou realizar qualquer comportamento que sinalize suicídio
+iminente, por exemplo), neste instante é dada a voz de comando para a
+abordagem tática;
+f) não esperar o tentante desprender-se da estrutura em que estiver para ativar a
+abordagem tática, desde que esteja quebrado o vínculo entre a díade;
+g) sempre que se inicia a abordagem técnica, com fluidez da comunicação, e
+ocorre quebra do vínculo, com ausência do contato comunicativo como sinais
+iminentes de suicídio, deve-se ativar a abordagem tática.
+
+37 Nem sempre é o abordador a causa da quebra de vínculo de confiança. Características do tentante
+também influenciam na quebra do vínculo com o abordador.
+38 Por exemplo: mudanças na intensidade em que manifesta raiva, tristeza, angústia, mágoa,
+ansiedade, Perda de contato visual; a mudança na entonação da voz; a postura corporal indica
+desinteresse na comunicação (começa a inclinar-se, dar as costas ao abordador); desprende-se de
+gradil, guarda-corpo, balaústres, deixando seu corpo sem qualquer segurança; ignora plenamente
+qualquer fator de proteção e intensifica falas agressivas ou de alta intensidade emocional nos fatores
+de risco.
+ITO 30 - ATENDIMENTO A TENTATIVAS DE SUICÍDIO 42
+6 ABORDAGEM TÁTICA
+A abordagem tática consiste, conforme Sousa et al (2018), na ação de força física de
+contenção do tentante (imobilização, derrubada, paralisação, etc.) com o objetivo de
+se evitar o suicídio completo.
+Deve ser utilizada quando todas as possibilidades de abordagem técnica falharem e
+quando houver sinais indicativos de suicídio iminente; devendo ser o último recurso
+empregado, dados os seus riscos inerentes aos envolvidos (além de ser um evento
+traumático para o tentante).
+Para tal, há a padronização prévia39, logo no início da ocorrência, de uma palavrasenha, que será a voz de comando, e gesto para se acionar a abordagem tática. A
+voz de comando é acionada em voz alta (ou via rádio) pelo comandante da operação.
+6.1 Risco de precipitação em queda livre
+Cerca de 87% dos óbitos por suicídio decorrem de lesões autoprovocadas e dentre
+elas, segundo Machado e Santos (2015), as precipitações representam cerca de 5%
+destes óbitos.
+Aguiar (2016) afirma que é mais seguro convencer o tentante a não praticar o suicídio
+que realizar alguma técnica de resgate em ambiente vertical, o que nunca é
+completamente seguro.
+Emprego tático específico:
+a) conforme diretrizes de salvamento em altura do CBMMG em vigor;
+b) tratando-se de viadutos, após análise dos riscos e benefícios, o comandante
+da operação poderá solicitar que algum veículo alto (caminhões, ônibus, etc.)
+
+39 Ao chegar à ocorrência, as equipes padronizam uma palavra-senha que seja de fácil compreensão
+e emprego que servirá de gatilho para se deflagrar a abordagem tática. Devido a eventuais barulhos
+na localidade, gestos também podem ser acordados de forma a sinalizar o momento do emprego tático.
+6 ABORDAGEM TÁTICA 43
+seja colocado sob a projeção do tentante, com o objetivo de reduzir a altura da
+queda;
+c) os abordadores táticos delimitadores terão a função de “limitar”40 a área de
+queda, convergindo-a para a área do veículo abaixo do viaduto. Caso o
+tentante corra na direção de alguns dos limitadores para “fugir” da área do
+veículo, o comandante da operação grita a senha estabelecida previamente, o
+que aciona a abordagem tática;
+d) em nenhuma hipótese, escalar uma torre de transmissão de eletricidade se o
+tentante estiver próximo aos cabos elétricos e não houver garantia de que estão
+desligados;
+e) a abordagem tática é o backup da abordagem técnica, portanto, será o último
+recurso, na iminência de suicídio.
+6.2 Risco de afogamento
+Afogamentos para cometer suicídio não são comuns. Machado e Santos (2015)
+estimam que este método seja em torno de 1,3% dos suicídios completos. No entanto,
+o risco de afogamento é muito comum associado a outros meios, como a precipitação
+de altura. Nestes casos, a morte pode ocorrer pelos efeitos do impacto com a água
+ou pelo afogamento após o impacto, por exemplo.
+Emprego tático específico:
+a) conforme diretrizes de salvamento aquático do CBMMG em vigor;
+b) a linha de esforço será: alcançar, lançar, caminhar (locais rasos), remar e por
+último, nadar. O arremesso de flutuadores em direção à vítima, para que esta
+possa agarrar-se e ser resgatada do ambiente aquático, é um exemplo de ação
+recomendada;
+
+40 Os “delimitadores” devem atentar-se quanto à aproximação em relação ao tentante, especialmente
+se ainda não houver algum veículo na projeção abaixo do viaduto. A aproximação repentina destes
+poderá ser interpretada pelo tentante como uma ação de contenção, com quebra de confiança, o que
+deflagraria o suicídio.
+ITO 30 - ATENDIMENTO A TENTATIVAS DE SUICÍDIO 44
+c) se houver necessidade de adentrar a água, a intervenção deve ser realizada
+por dois bombeiros militares, pois há risco de o tentante agredir o abordador
+tático na água;
+d) as ações de atendimento pré-hospitalar para casos de afogamento devem ser
+conforme diretrizes de APH do CBMMG em vigor.
+6.3 Risco de incêndio/explosão
+Suicídios causados por incêndios/explosão representam, conforme Machado e
+Santos (2015), cerca de 2,3% do total de autoextermínios por lesões autoprovocadas;
+contudo, o potencial ofensivo desta ocorrência é elevado para as guarnições atuantes
+no local.
+Os riscos de incêndio (fogo, calor, vapor de água, fumaça, queda de objetos,
+explosões, colapsos de estruturas) nas tentativas de suicídio estão relacionados à
+ignição de combustíveis sólidos, líquidos, gasosos; ambientes ventilados ou em
+espaços confinados; e associados a atividades fora da cota zero, dentre outras
+possibilidades.
+Emprego tático específico:
+a) conforme diretrizes de combate a incêndio do CBMMG em vigor;
+b) caso o tentante reaja ou forneça condições reais de ferir abordadores, a equipe
+de abordagem tática deverá acionar o esguicho em direção ao tentante, a fim
+de neutralizá-lo e retirar a fonte de combustão;
+c) esse jato de deslocamento poderá ser com mangueira e esguicho de 1,5
+polegada, 7 a 8kgf/cm² de pressão na bomba, com vazão de 125 gpm, sendo
+empunhada a mangueira por um ou dois bombeiros militares, conforme
+disponibilidade;
+d) a abordagem tática é o backup da abordagem técnica, portanto, será o último
+recurso, na iminência de suicídio.
+6 ABORDAGEM TÁTICA 45
+6.4 Risco de eletrocussão
+Em tentativas de suicídio em torres energizadas, na eletrocussão, a corrente elétrica
+flui do lado energizado de um circuito para o corpo e, em seguida, deixa o corpo em
+um ponto de saída, geralmente para a terra ou o condutor neutro do suprimento de
+eletricidade. Tal corrente flui melhor através dos vasos sanguíneos (solução salina)
+ou outras partes do corpo (BLIGH-GLOVER; MILLER; BALRAJ, 2004).
+Dentre as possibilidades, há a passagem de corrente pelo coração, determinando uma
+parada cardiorrespiratória. Devido à descarga elétrica, há possibilidade de
+precipitação ocasionando também politraumatismo.
+Emprego tático específico:
+a) em caso de torres de alta tensão
+41 , acionar equipe especializada da
+concessionária para corte do fornecimento de energia e aterramento;
+b) ter absoluta certeza de que a rede foi desenergizada antes de realizar a
+subida;
+c) torna-se importante a presença de equipe de saúde no local (SAV, SBV);
+d) acionar equipes de apoio para controle de curiosos e multidões;
+e) não utilize um dispositivo aéreo ou escada próximos a linhas eletrificadas. É de
+fundamental importância manter as distâncias de segurança, tanto na
+execução de movimentos, quanto na utilização de ferramentas;
+f) para a abordagem técnica deverão subir dois bombeiros abordadores
+especialistas em salvamento em altura (após desenergização da rede);
+g) o abordador auxiliar irá com o sistema de salvamento pronto para debrear o
+tentante e auxiliar na abordagem;
+h) em caso de descarga elétrica e/ou precipitação, proceder conforme diretrizes
+de APH do CBMMG em vigor.
+
+41 Há torres de comunicação (repetidoras, antenas de rádio, etc.) em que as técnicas apresentadas
+aqui também podem ser executadas, conforme as peculiaridades da estrutura, sendo eventualmente
+adaptadas.
+ITO 30 - ATENDIMENTO A TENTATIVAS DE SUICÍDIO 46
+6.5 Risco de enforcamento
+Conforme boletim do perfil epidemiológico das tentativas e óbitos por suicídio do MS
+(Brasil, 2019), enforcamento é o 3º método de suicídio mais utilizado pelos homens e
+mulheres. O enforcamento representa 70,3% dos suicídios completos entre os
+homens e 53,8% entre as mulheres, fazendo deste método o de maior letalidade.
+Croce e Junior (2012) dizem que a morte por enforcamento pode ser imediata ou
+concretizar-se em até 10 minutos, a depender da intensidade da constrição ou lesões
+locais ou à distância. Por isso, o cenário de enforcamento exige perícia nas ações e
+paciência durante a abordagem, pois a intervenção tática abrupta poderá gerar lesões
+e levar o tentante a óbito instantaneamente.
+Emprego tático específico:
+a) ter um anteparo para suportar o peso do tentante até que a corda seja cortada;
+b) utilizar uma tesoura, faca ou canivete para cortar a corda (ou outro instrumento
+utilizado para enforcamento). Este será o foco na abordagem tática;
+c) a equipe de ação tática ficará à retaguarda da equipe de abordagem técnica,
+verificando qual é o meio mais rápido e eficaz de chegar ao tentante no caso
+de acionamento;
+d) é necessária uma equipe de SAV/SBV em condições de pronto emprego.
+6.6 Tentativa de suicídio por armas brancas
+Conforme boletim do perfil epidemiológico das tentativas e óbitos por suicídio do
+Ministério da Saúde (Brasil (2019), objetos perfurocortantes são o 2º método de
+suicídio mais utilizado pelos homens (19,9%) e pelas mulheres (16,7%).
+6 ABORDAGEM TÁTICA 47
+Emprego tático específico:
+a) acionar o policiamento para apoio na segurança da Gu BM e da cena em geral;
+b) estabelecer a rota de fuga antes da abordagem técnica;
+c) o abordador deve permanecer protegido por um anteparo, formando um
+obstáculo entre o tentante e ele, para que atue em segurança;
+d) a equipe de abordagem tática atua junto com a equipe de abordagem técnica,
+a fim de protegê-la, devidamente equipados com o EPI da atividade (neste caso
+específico, o roupão de aproximação pode dar uma proteção a mais);
+e) é necessária uma equipe de SAV e/ou SBV em condições de pronto emprego;
+f) caso o tentante sinalize suicídio iminente ou forneça condições reais de ferir os
+abordadores, a equipe de abordagem tática deverá acionar o esguicho com
+jato compacto em direção ao tentante a fim de neutralizá-lo e retirar a arma
+branca.
+6.7 Tentante com intoxicação exógena
+Conforme boletim do perfil epidemiológico das tentativas e óbitos por suicídio do
+Ministério da Saúde do Brasil (2019), a intoxicação/envenenamento é o 1º método de
+suicídio mais utilizado (41,6%, para homens e 51,7% para mulheres). Já para os
+óbitos, representa 11,9% dos suicídios completos entre os homens e 28% entre as
+mulheres, fazendo deste método o segundo de maior letalidade.
+Emprego tático específico:
+a) se o tentante estiver trancado dentro de algum cômodo (quarto, banheiro,
+alojamento etc.) e não responder ao abordador, deverá ser feita a testagem
+conforme descrito no item 10.1 (entrada forçada) e, sendo necessária, será
+feita a entrada forçada;
+b) tal procedimento faz-se necessário, pois determinadas substâncias quando
+ingeridas/inaladas/injetadas podem causar depressão do sistema nervoso
+central, causando uma parada respiratória, seguida de parada
+cardiorrespiratória;
+ITO 30 - ATENDIMENTO A TENTATIVAS DE SUICÍDIO 48
+c) atentar para o risco de o tentante saltar pela janela e a ocorrência virar uma
+tentativa de suicídio por precipitação;
+d) em caso de intoxicação exógena, a Gu BM procederá conforme a diretrizes de
+APH do CBMMG em vigor.
+6.8 Tentante com arma de fogo
+O enforcamento, a intoxicação exógena e as armas de fogo são os métodos mais
+empregados para o suicídio completo (OMS, 2012). Conforme o Boletim
+Epidemiológico Nr 17 do MS (BRASIL, 2017), entre 2011 e 2015, 10% dos suicídios
+completos entre os homens foram por uso de arma de fogo. Já entre as mulheres, o
+percentual foi de 4%.
+Emprego tático específico:
+a) salienta-se que tentativa de suicídio com arma de fogo é de responsabilidade
+da PMMG, pois bombeiros militares não possuem materiais adequados e
+específicos de proteção. Ressalta-se que a arma de fogo reveste a ocorrência
+com potencial natureza homicídio-suicídio, situação na qual o tentante pode, a
+qualquer momento, mudar a sua violência autodirigida para qualquer um
+presente na cena;
+b) estabelecer o isolamento do perímetro para evitar possíveis outras vítimas;
+c) acionar a PMMG para intervenção (caso ainda não haja equipes PM na cena);
+d) um abordador BM poderá assessorar as equipes PM quanto a ferramentas de
+comunicação da abordagem técnica;
+e) apoiar a PMMG no que couber, conforme as características da ocorrência;
+f) as Gu BM devem estar protegidas por um anteparo, esse obstáculo deve estar
+entre o tentante e elas, para que permaneçam em segurança.
+7 ENCERRAMENTO DA OCORRÊNCIA 49
+7 ENCERRAMENTO DA OCORRÊNCIA
+O encerramento da ocorrência ocorrerá conforme abaixo:
+a) conduzir o tentante para a unidade hospitalar de referência mais próxima,
+independentemente de como foi o desfecho (abordagem técnica ou tática). Devese considerar para tal, o método empregado42 (intoxicação para UPA, lesões
+incisivas para hospitais de trauma, por exemplo);
+b) a condução do tentante à unidade hospitalar deverá ocorrer sempre com o respeito
+e com a ética;
+c) o abordador poderá acompanhar o tentante no deslocamento se o desfecho for
+pela abordagem técnica. Se foi empregada a abordagem tática, o abordador não
+poderá acompanhar o(a) tentante;
+d) a perícia técnica deverá ser acionada em caso de óbito no local, para continuidade
+das ações específicas;
+e) a Gu BM avaliará o local da ocorrência com o objetivo de verificar a existência de
+corpos ou pessoas feridas, perigo de Incêndio/explosão, colapso de estruturas
+etc.;
+f) o relator do Registro de Eventos de Defesa Social (REDS) deverá especificar, o
+quanto possível, a real codificação da ocorrência quando tratar-se de tentativa de
+suicídio. Por exemplo, sendo uma tentativa de suicídio por precipitação claramente
+observada pela equipe, codificá-la como V03.021 Vítima de Suicídio (Tentativa) –
+APH TRAUMA e não V03.019 (Queda de Altura);
+g) a autoridade bombeiro militar que der o aceite no REDS deverá conferir a
+codificação correta para fins estatísticos do CBMMG enfatizando as possíveis
+codificações que são: autoextermínio (suicídio) A03000, Vítima de Suicídio
+(Tentativa) – APH Trauma V03.021 e Vítima de Suicídio (Tentativa) – APH Clínico
+V01.024. Em seguida, deverá enviá-lo à Secretaria Municipal de Saúde do
+município onde houve a tentativa/suicídio completo para monitoramento e
+balizamento de possíveis políticas públicas de prevenção e controle da saúde
+mental no município;
+
+42 Há cidades mineiras em que o atendimento clínico e trauma ocorrem em locais de referência
+diferentes.
+ITO 30 - ATENDIMENTO A TENTATIVAS DE SUICÍDIO 50
+h) especificamente para tentativas de suicídio, também é importante o
+encaminhamento dos REDS desta natureza para os Centros de Atenção
+Psicossocial (CAPS) do município onde houve a ocorrência, para que estes
+possam dar continuidade ao tratamento, reduzindo a reincidência;
+i) não oferecer dados específicos da ocorrência, como informações pessoais,
+método empregado e possíveis motivações da tentativa/ suicídio à imprensa. Tais
+informações compartilhadas pelos canais midiáticos podem resultar no Efeito
+Werther, incentivando-se o suicídio de outras pessoas vulneráveis;
+j) caso a Gu BM presencie o suicídio completo43, após uso da abordagem técnica ou
+tática, o CBU/Chefe de serviço produzirá relatório sobre o evento e o encaminhará
+ao NAIS apoiador da Unidade para que os militares envolvidos sejam avaliados,
+ou direcionados para avaliação do estado psicológico em rede conveniada;
+k) tal conduta visa prevenir o TEPT44 e outros possíveis agravos psicológicos e
+viabilizar a posvenção45 ao suicídio para estes militares.
+
+43 Oportunamente, a Assessoria de Assistência à Saúde (AAS) elaborará e publicará um Programa de
+Posvenção ao Suicídio para militares do CBMMG.
+44 Transtorno do Estresse Pós-Traumático.
+45
+“Considerando-se o risco de suicídio para este grupo intitulado sobreviventes, pensou-se em um
+conjunto de medidas preventivas chamadas posvenção. Para Scavacini (2018), a posvenção poderia
+ser conceituada como um conjunto de ações, atividades, intervenções, suporte e assistência àqueles
+afetados por um suicídio e que seria importante para a saúde mental dessas pessoas. A posvenção
+então ajudaria pessoas cujas vidas foram impactadas por um suicídio a continuarem seguindo suas
+vidas de forma mais funcional” (PINTO, 2020, p. 30).
+8 GERENCIAMENTO DE OCORRÊNCIAS DE ATS 51
+8 GERENCIAMENTO DE OCORRÊNCIAS DE ATS
+O alicerce da equipe de atendimento neste tipo de situação deve pautar pela preservação
+da integridade do tentante e principalmente de si. A equipe deve sempre pedir apoio quando
+houver riscos iminentes de agressão física a qualquer envolvido no cenário.
+Assim, para haver um viés técnico, é preciso a padronização das técnicas efetuadas, em
+especial, do gerenciamento propriamente dito.
+8.1 Funções primordiais
+Conforme proposição da CONATTS, a equipe de bombeiros militares deve estar
+dividida em: comandante da operação, abordador, abordador auxiliar, equipe de
+abordagem tática, equipe responsável pela coleta de informações sobre o tentante e
+segurança.
+8.1.1 Do Comandante da operação
+a) o comandante da operação deverá ser o bombeiro militar de maior antiguidade
+hierárquica no local, deliberando qual será a ação tática a ser realizada e
+deixando a equipe a postos antes de começar a abordagem técnica. Sendo
+assim, é o responsável por todo o cenário da ocorrência;
+b) estabelecer qual será a voz de comando para acionamento da abordagem
+tática, caso seja necessária;
+c) determinar as rotas de fuga antes de realizar a abordagem técnica;
+d) verificar todas as equipes, viaturas e meios de apoio;
+e) o comandante da operação deslocará junto com o abordador e o abordador
+auxiliar ao encontro do tentante;
+f) é primordial que o comandante da operação tenha acesso visual com a
+abordagem técnica e contato via rádio com a equipe da abordagem tática.
+ITO 30 - ATENDIMENTO A TENTATIVAS DE SUICÍDIO 52
+8.1.2 Do Abordador
+a) o abordador deverá ser preferencialmente um bombeiro militar com o CATS46
+ou com experiência em comunicação neste tipo de ocorrência. Ser atencioso,
+observador, respeitoso, calmo, eloquente, comunicativo, que ouça com
+atenção e paciência e que não julgue o tentante;
+b) antes de realizar a abordagem, deverá coletar o maior número de informações
+possíveis, buscando os fatores de risco e de proteção;
+c) durante a abordagem, deverá buscar formar vínculo com o tentante, ouvindo-o
+atentamente;
+d) embora se mantenha um abordador com todas as qualidades e capacidades
+supracitadas, o tentante é quem escolhe quem, quando e como se vincular a
+cada indivíduo, e uma vez formado este vínculo, deve-se preservá-lo até o final
+da ocorrência.
+8.1.3 Do abordador auxiliar
+a) o abordador auxiliar deverá ter as mesmas qualidades e capacidades do
+abordador principal e acompanhá-lo em todas as ações, servindo assim, como
+reserva (backup), caso haja a necessidade de troca do abordador;
+b) quando não houver a necessidade de troca, o abordador auxiliar permanecerá
+com o abordador principal, auxiliando-o na formação de vínculo, no diálogo e
+na desmotivação da consumação do suicídio;
+c) apenas um abordador (o principal) fala. Não deve haver duas ou mais pessoas
+falando com o tentante.
+8.1.4 Da equipe de abordagem tática
+a) deverá ser composta por bombeiros militares com qualificações específicas
+para cada método, como, por exemplo, no caso de precipitação, todos
+abordadores táticos que atuarão deverão ser especialistas em salvamento em
+altura;
+
+46 Curso de Atendimento a Tentativas de Suicídio.
+8 GERENCIAMENTO DE OCORRÊNCIAS DE ATS 53
+b) deverá ser chefiada por um oficial ou graduado, estando este sempre em
+contato com o comandante da operação, repassando as novidades e a
+condição de pronto emprego;
+c) a abordagem tática será acionada pelo comandante da operação e com voz de
+comando (ou gesto) previamente estipulados;
+d) deverá priorizar sempre o efeito surpresa fugindo aos olhos do tentante para
+não dificultar a atuação técnica.
+8.1.5 Da equipe responsável pela coleta de informações
+A coleta de informações deverá ser realizada por um socorrista ou equipe específica
+para tal, devendo levar em conta a importância em utilizar mais de uma fonte e a todo
+momento alimentar o comandante da operação com as informações adquiridas.
+8.1.6 Da segurança
+a) o responsável pela segurança deverá fiscalizar todas as ações no que diz
+respeito à segurança pessoal de cada ator na cena, verificando a utilização de
+EPI, as condições do local da emergência, a mitigação de riscos, as
+probabilidades de possíveis danos à guarnição e verificar e estipular a rota de
+fuga;
+b) em caso de qualquer ação que afete as condições de segurança dos
+participantes da ocorrência, o responsável por tal deverá informar ao
+comandante das operações para providências imediatas.
+8.2 SCO aplicado ao ATS
+O Sistema de Comando em Operações (SCO) é uma ferramenta gerencial que visa a
+comandar, controlar e coordenar as operações de resposta em situações críticas.
+ITO 30 - ATENDIMENTO A TENTATIVAS DE SUICÍDIO 54
+A padronização do SCO, além de oferecer uma ferramenta gerencial efetiva,
+visa ao cumprimento da Resolução Conjunta 166, de 28 de setembro de
+2012, que cria a Metodologia Integrada de Gerenciamento de Eventos de
+Defesa Social no âmbito do Sistema Integrado de Defesa Social do Estado
+de Minas Gerais. (ITO 01).
+Aplicando essa ferramenta no ATS, obtêm-se vários benefícios, tais como: maior
+segurança para as equipes e demais envolvidos no cenário, alcance de objetivos e
+prioridades previamente estabelecidos, consegue-se o uso eficiente e eficaz dos
+recursos humanos e materiais disponíveis, fornecimento de apoio logístico
+operacional, melhora a articulação do comandante das operações com elementos
+internos e externos à operação, facilitando essas relações, e por último agrega valor
+à operação, evitando a duplicação de esforços e ampliando a segurança dos
+envolvidos.
+8.3 Plano/Planejamento de Ação
+Traçar um planejamento que contenha objetivos, estratégias e táticas necessárias
+para nortear as ações nas ocorrências, conforme o seguinte:
+a) pode ser um plano escrito (papel ou aplicativo de celular, por exemplo) ou
+mesmo um planejamento mental;
+b) se a ocorrência não ultrapassar 4h de duração (maioria das ocorrências de
+ATS) poderá ser apenas mental.
+8.4 Método SMART47
+Traçar os objetivos constantes no Plano ou no Planejamento conforme:
+a) metas SMART, cujo acrônimo significa: Específico (specific), Mensurável
+(measurable), Atingível (achievable), Relevante (realistic) e Temporal;
+b) ter especificidade exige a resposta de certas perguntas como: Quem está
+envolvido? O que eu quero realizar? Quais propósitos e benefícios para atingir
+
+47 O método S.M.A.R.T foi criado por Peter Drucker para auxiliar na definição de metas, independente
+do objetivo ser profissional ou pessoal.
+8 GERENCIAMENTO DE OCORRÊNCIAS DE ATS 55
+seu objetivo? Qual o local? Por exemplo, nestas ocorrências, a premissa
+específica é movimentar o tentante para um local em segurança;
+c) ser mensurável exige estabelecer critérios concretos para medir o progresso
+em direção à realização de cada objetivo definido. É necessário determinar as
+seguintes perguntas para mensurar seu objetivo: Quanto? Quantos? Como vou
+saber quando ele será realizado?;
+d) ser atingível significa que de nada adianta construir uma meta que é impossível
+de ser atingida. Intervenções mirabolantes apenas põem em risco a vida do
+tentante, da Gu BM, bem como de outros atores na cena;
+e) Ser relevante significa que não faz sentido definir um objetivo que não trará
+qualquer significado prático ou que ainda possa prejudicar o desfecho da
+ocorrência, como antecipar a abordagem tática fora do timing;
+f) a temporalidade reporta que os objetivos devem ser cumpridos em certo tempo
+pré-determinado. Aqui não se refere a dar um prazo para encerramento da
+ocorrência, mas a elaboração de prazos para a realização de algumas tarefas,
+como a montagem da ancoragem humana, por exemplo.
+Figura 2: Método SMART.
+Fonte: Disponível em: https://www.egregoraconsultoria.com.br/o-metodo-smart/ Acesso em:
+05Jan21.
+ITO 30 - ATENDIMENTO A TENTATIVAS DE SUICÍDIO 56
+9 OUTRAS INSTITUIÇÕES NA CENA
+Eventualmente, dadas as diferentes circunstâncias (método tentado, riscos de
+agressão, tipo de local com difícil acesso etc.), eventos relacionados a tentativas de
+suicídio podem exigir intervenções multiprofissionais. Neste caso, diferentes órgãos
+com papéis institucionais distintos participam da ocorrência de forma complementar
+entre si.
+Assim, de forma geral, todos os atores atuam conforme seus saberes e práticas
+específicas e por todos eles em conjunto, conforme Pereira e Lima (2005). Estas
+autoras discorrem que as ações desenvolvidas respeitam as especificidades,
+competências e responsabilidades de cada membro da equipe.
+Condutas em caso de já existir algum abordador ou comunicante de outra instituição
+conversando com o tentante no local da ocorrência:
+a) caso já haja vínculo na díade, a Gu BM pode permitir a continuação do mesmo
+apoiador na ocorrência, podendo a Gu BM fazer orientações verbais ao
+interlocutor de forma discreta;
+b) caso não haja vínculo na díade, deve ocorrer a troca deste interlocutor com um
+abordador da Gu BM, conforme previsto neste protocolo;
+c) caso a tentativa de suicídio tenha como método o emprego de arma de fogo, o
+comandante da Gu BM deverá procurar o comandante da Gu PM (ou
+equivalente da Polícia Penal, se for o caso) para receber orientações sobre o
+melhor posicionamento dos bombeiros militares no tocante à segurança física
+da equipe BM;
+d) caso haja equipe de saúde (SAV/SBV) - como SAMU - na cena, após avaliação
+do comandante da Gu BM, este deverá orientar o responsável pela equipe de
+saúde sobre o melhor posicionamento da ambulância;
+e) caso haja Polícia Rodoviária Federal, Polícia Rodoviária Estadual, Agentes de
+Trânsito ou Guardas Municipais na cena, o comandante da Gu BM solicitará
+aos respectivos chefes destas instituições que esses contribuam com o
+isolamento do local, bem como a manutenção/interrupção do fluxo de trânsito.
+9 OUTRAS INSTITUIÇÕES NA CENA 57
+Condutas a serem adotadas quando a Gu BM está em atendimento e chegam atores
+de outras instituições:
+a) caso a tentativa de suicídio ocorra com uso de arma de fogo, o comandante da
+Gu BM deverá transferir o comando da ocorrência ao comandante da Gu PM
+(ou equivalente da Polícia Penal, se for o caso), que designará agentes de sua
+instituição para realizar a negociação com o tentante;
+b) neste caso, também receberá desse orientações sobre o melhor
+posicionamento dos bombeiros militares no tocante à segurança física;
+c) na chegada de equipe de saúde (SAV/SBV) - como SAMU - na cena, após
+avaliação do comandante da Gu BM, este deverá orientar o responsável pela
+equipe de saúde sobre o melhor posicionamento da ambulância, bem como
+dirimir sobre as possíveis intervenções em caso de tentativas de suicídio
+abortadas, interrompidas ou com trauma musculoesquelético resultante;
+d) na chegada da Polícia Rodoviária Federal, Polícia Rodoviária Estadual,
+Agentes de Trânsito ou Guardas Municipais na cena, o comandante da Gu BM
+solicitará aos respectivos chefes dessas instituições que esses contribuam com
+o isolamento do local bem como a manutenção/interrupção do fluxo de trânsito.
+Casos gerais:
+a) considerar a presença de outros profissionais não pertencentes ao CBMMG na
+cena como potenciais apoiadores à Gu BM;
+b) a Gu BM poderá acatar sugestões de procedimentos dadas por profissionais
+de outras instituições desde que não contrariem as diretrizes desta ITO e que
+sejam de fato necessárias para o bom desenvolvimento da operação;
+c) caso algum integrante de outra instituição oriente alguma conduta conflituosa
+que possa prejudicar o desenvolvimento da ocorrência, o comandante da
+operação o informará que tal ação não será realizada;
+ITO 30 - ATENDIMENTO A TENTATIVAS DE SUICÍDIO 58
+d) em caso de conflito, repassar informações detalhadas para o
+COBOM/CIAD/SOU/SOF e solicitar intervenção do CBU, se o tempo total de
+cena o permitir;
+e) anote o nome completo, o MASP ou Nr do CRM, do COREN ou de outro
+Conselho a que pertença o profissional que intervir na ocorrência, relate no
+RAPH/REDS os procedimentos técnicos adotados pelo profissional;
+f) faça um relatório ao comandante da UEOp ou ao CBU a respeito do conflito
+havido, citando dados completos da ocorrência e testemunhas.
+10 ENTRADA NO AMBIENTE E CONTENÇÃO 59
+10 ENTRADA NO AMBIENTE E CONTENÇÃO
+A entrada no ambiente poderá ocorrer por maneira natural48 ou forçada.
+Existem três tipos de contenção49: a física (manual), a mecânica (ataduras, tirantes,
+etc.) e a farmacológica (antipsicóticos típicos, atípicos e benzodiazepínicos), cabendo
+aos militares do CBMMG apenas as duas primeiras.
+10.1 Entrada forçada
+a) o abordador buscará persuadir o tentante, num primeiro momento, a permitir
+pelo menos uma pequena abertura para estabelecimento de contato visual;
+b) no decorrer do atendimento, buscar ter abertura total e franco acesso ao
+ambiente;
+c) caso não haja o estabelecimento de comunicação entre o tentante e o
+abordador por algum tempo, apesar de perguntas por parte do abordador, este
+deverá, antes de qualquer entrada tática, bater à porta/janela onde está o
+tentante e de forma enérgica e audível, dizer que irá contar até 3 (três);
+d) se o tentante não responder, a equipe presumirá que há um risco maior e que
+será necessário entrar de forma forçada no recinto;
+e) após a contagem em voz alta até 3 (três), na ausência de respostas por parte
+do tentante, a equipe de abordagem tática deverá adentrar o recinto utilizando
+técnicas de entrada forçada;
+f) tal ação faz-se necessária, pois há risco de o tentante estar inconsciente, em
+parada respiratória ou parada cardiorrespiratória decorrente do método
+utilizado para a tentativa de autoextermínio (intoxicação exógena, lesões
+autoprovocadas com hemorragia, enforcamento, etc.);
+g) verificar a estabilidade da estrutura antes de entrar;
+h) verificar se as portas estão abertas, antes de forçá-las;
+i) identificar atmosfera explosiva com risco de backdraft;
+
+48 Antes de iniciar a entrada forçada, deve-se checar se portas e/ou janelas de acesso ao local onde
+encontra-se o tentante não estão liberadas.
+49 Embora a ITO Nr 23 (APH) do CBMMG aborde a contenção mecânica, também foi utilizada a
+Resolução Nr 427/12, do Conselho Federal de Enfermagem, para melhor descrever medidas de
+contenção para as ocorrências de ATS pelo CBMMG.
+ITO 30 - ATENDIMENTO A TENTATIVAS DE SUICÍDIO 60
+j) manter-se em segurança quando estiver quebrando vidros e providenciar a
+remoção para local adequado;
+k) atentar para possível fuga do tentante por uma janela, transformando a
+ocorrência em tentativa de suicídio por precipitação;
+l) verificar a existência de animais de guarda no interior do imóvel e tomar as
+precauções de segurança;
+m) considerando a atividade peculiar de bombeiro militar, pode-se adentrar em
+uma residência sem o consentimento do morador, nos casos específicos de
+desastre ou para prestar socorro, situações legalmente admitidas pela
+Constituição Federal.
+10.2 Contenção física e contenção mecânica
+a) a contenção ocorrerá quando a abordagem técnica não for possível por quebra
+do canal de comunicação entre o abordador e o tentante. Neste caso, a
+contenção ocorrerá em situação de tentativa de suicídio interrompido;
+b) importante que a contenção física (manual) seja pautada nos princípios da ética
+e respeito à integridade e à dignidade humana50, com preservação máxima de
+segurança (do tentante, dos militares da Gu BM e de possíveis terceiros à
+cena), por meio de profissionais habilitados para tal (como em casos de
+salvamento em altura ou de incêndios);
+c) no caso de contenção mecânica, essa deverá ser utilizada somente se for o
+único meio disponível para prevenir dano imediato ou iminente ao tentante ou
+aos demais;
+d) é vedado aos militares do CBMMG o emprego de contenção mecânica de
+tentantes com o propósito de disciplina, punição e coerção;
+e) todo tentante em contenção mecânica deve ser monitorado atentamente pela
+Gu BM, para prevenir a ocorrência de eventos adversos ou para identificá-los
+precocemente durante todo o transporte;
+
+50 “Ninguém será submetido à tortura nem a tratamento desumano ou degradante.” (BRASIL, 1988, art.
+5, inciso III).
+10 ENTRADA NO AMBIENTE E CONTENÇÃO 61
+f) contraindicações/restrições para contenção mecânica: tentantes calmos e
+colaborativos; tentantes agitados ou confusos, mas responsivos aos manejos
+verbal e tentantes com restrições físicas na região a ser contida;
+g) para a contenção mecânica, poderão ser utilizados compressas, ataduras,
+tirantes da prancha-longa, lençóis e a própria prancha-longa (se necessário e
+viável).
+10.3 Contenção farmacológica
+a) a contenção farmacológica por meio de psicotrópicos no cenário pré-hospitalar
+contribui para garantir a integridade do tentante, equipes e terceiros;
+b) apenas as equipes de saúde, com médico e equipe de enfermagem na cena
+podem medicar o tentante. Logo, em hipótese alguma, o bombeiro militar do
+CBMMG poderá aplicar qualquer medicamento em qualquer tentante, sob
+qualquer circunstância;
+c) cabe às equipes da Gu BM promover a contenção manual e/ou mecânica para que
+a equipe de saúde possa proceder à contenção farmacológica, quando necessário;
+d) nesse caso, a condução do tentante será feita, obrigatoriamente, pela equipe que
+o medicou, ou esta acompanhará a Gu BM, com os devidos
+medicamentos/instrumentos necessários para sanar possível efeito colateral ou
+reação adversa do psicotrópico utilizado.
+ITO 30 - ATENDIMENTO A TENTATIVAS DE SUICÍDIO 62
+11 TENTANTE COM LESÕES E SUICÍDIO COMPLETO
+Se a tentativa de suicídio resultar em lesões, caberá à Gu BM proceder conforme a
+procedimentos de APH do CBMMG em vigor (ITO Nr 23).
+Em caso de suicídio completo, agir da seguinte forma:
+a) acionar a perícia técnica;
+b) isolar o local com objetivo de preservar o possível local de crime, exceto se
+houver a necessidade de preservar a vida de outrem;
+c) havendo cadáver (considerar a presunção de óbito conforme ITO Nr 23 do
+CBMMG), não tocar, nem remover da posição original, não revirar os bolsos
+das vestes e não realizar sua identificação – atribuição essa de
+responsabilidade da perícia criminal – salvo se houver a efetiva necessidade
+de preservá-lo materialmente;
+d) não recolher pertences;
+e) não mexer nos instrumentos do crime, principalmente armas;
+f) não manusear ou remover veículo(s) objeto(s) de crime ou utilizado(s) para
+fuga;
+g) em locais internos, manter portas, janelas, mobiliários, eletrodomésticos,
+utensílios, tais como foram encontrados, não os abrindo ou fechando, não os
+ligando ou desligando, salvo o estritamente necessário para conter riscos
+eventualmente existentes;
+h) em locais internos, não usar o telefone, sanitário ou lavatório eventualmente
+existentes;
+i) em locais internos ou externos, afastar os animais soltos, principalmente onde
+houver cadáver;
+j) não expor a vítima com produção de imagens e divulgação em meio virtual.
+Quartel em Belo Horizonte, 31/03/2021.
+Erlon Dias do Nascimento Botelho, Coronel BM
+Chefe do Estado-Maio

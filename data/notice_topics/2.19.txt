@@ -1,0 +1,724 @@
+COMANDO-GERAL
+INSTRUÇÃO TÉCNICA DE CORREGEDORIA (ITC) N.º 19, __ DE JANEIRO DE 2024.
+Estabelece finalidades, atribuições e rotinas
+administrativas no uso do SEI Sigiloso nos
+processos administrativos disciplinares, de polícia
+judiciária e atividades correcionais do CBMMG.
+A CORONEL BM CORREGEDORA DO CORPO DE BOMBEIROS MILITAR DE
+MINAS GERAIS, no uso de suas atribuições previstas no inciso XVII do art. 4° da Resolução n.º 1028, de 5
+de janeiro de 2022, que estabelece a competência, a estrutura e as atribuições da Corregedoria do Corpo de
+Bombeiros Militar de Minas Gerais – CCBM, e considerando:
+- o contido na Resolução n.º 1157, de 10 de outubro de 2023, que disciplina o uso do SEI
+Sigiloso no âmbito do CBMMG;
+- a necessidade de padronizar atribuições, atividades e trâmites a serem realizados no SEI
+por todos os usuários do CBMMG no âmbito dos processos e procedimentos disciplinares, de polícia
+judiciária e correcionais;
+- que o SEI Sigiloso é uma ferramenta de informatização dos processos administrativos e de
+polícia judiciária que requerem restrição de acesso;
+BAIXA A SEGUINTE INSTRUÇÃO
+Capítulo I
+Da Finalidade
+Art. 1º - Esta ITC tem por finalidade normatizar e padronizar a utilização do SEI Sigiloso
+no âmbito dos processos e procedimentos administrativo-disciplinares, de polícia judiciária militar e
+correcionais do CBMMG.
+Capítulo II
+Dos usuários em geral
+CBMMG - Resolução ITC 19/2023 (78317110) SEI 1400.01.0070128/2023-62 / pg. 1
+Art. 2º - O SEI, classificado com o nível de acesso “Sigiloso”, será utilizado pelos bombeiros
+militares, nos termos da Resolução n.º 1157, de 10 de outubro de 2023, para fins disciplinares e/ou
+correcionais nas seguintes atividades:
+I - confecção de Comunicações e Queixas Disciplinares;
+II - confecção de Relatórios Reservados;
+III - confecção de Autos de Prisão em Flagrante (APF);
+IV - Procedimentos e Processos Administrativo-Disciplinares, de caráter acusatório ou
+inquisitório;
+V - Inquéritos Policial-Militares (IPM);
+VI - Instrução Provisória de Deserção (IPD);
+VII - Processos Administrativo-Exoneratórios (PAE);
+VIII - outros processos, procedimentos e documentos que requeiram restrição de acesso.
+§ 1º A instauração e a condução de processos prevista no caput observará os manuais
+disponíveis no SEI, assim como o Manual do SEI Sigiloso do CBMMG aprovado pela Resolução n.º 1157,
+de 10 de outubro de 2023.
+§ 2º A instauração e a condução de processos administrativo-disciplinares e de atividades
+de polícia judiciária militar em meio eletrônico obedecerão às normas processuais a eles aplicáveis,
+ressalvadas as adaptações imperativas relativas ao meio digital.
+Art. 3º - O Levantamento Inicial, previsto no art. 100 do Manual de Processos e
+Procedimentos Administrativos das Instituições Militares de Minas Gerais (MAPPA), utilizará o tipo de
+processo “Corregedoria: Investigação Preliminar” do SEI.
+Art. 4º - A confecção de Comunicação ou de Queixa Disciplinar será realizada pelo usuário
+ao criar um processo do tipo “CBMMG - Processo de Comunicação Disciplinar” ou “CBMMG - Processo
+de Queixa Disciplinar”, conforme o caso.
+§1º - O tipo de documento a ser usado será o “Comunicação” no caso de Comunicação
+Disciplinar e “Requerimento” no caso de Queixa Disciplinar, até que sejam incluídos documentos
+próprios do CBMMG no SEI.
+§2º Na tela de geração de documento, o nome na árvore será completado com a expressão
+"Disciplinar" para identificação do documento.
+Art. 5º - A confecção de Relatório Reservado será realizada pelo usuário no processo SEI
+do tipo “CBMMG - Processo Administrativo - PA”.
+Parágrafo único - O tipo de documento a ser usado será o “Relatório”, preenchendo-se, na
+tela de geração de documento, o campo “Nome na árvore” com a expressão “Reservado”.
+Art. 6º - A confecção dos processos e procedimentos administrativos não disciplinares será
+realizada pelo usuário por meio do processo tipo “CBMMG - Processo Administrativo - PA” ou outros
+específicos.
+Art. 7º - A inserção de anexos externos na árvore de processos no SEI Sigiloso pelo
+usuário ocorrerá por meio do tipo de documento “Externo”, observando-se as extensões de arquivos
+digitais admitidas pelo SEI.
+§ 1º Os anexos que sejam documentos em formato PDF cujo tamanho seja superior ao
+CBMMG - Resolução ITC 19/2023 (78317110) SEI 1400.01.0070128/2023-62 / pg. 2
+suportado pelo SEI serão comprimidos em um único arquivo de extensão .zip ou particionados em tantas
+partes quanto forem necessárias.
+§ 2º Os arquivos a que se refere o parágrafo anterior serão inseridos e nomeados em
+sequência numérica conforme o quantitativo de partes geradas, como “anexo parte 1, anexo parte 2” e
+assim sucessivamente.
+§ 3º Os anexos que sejam arquivos de mídia, tais como imagens, áudios e vídeos, cujo
+formato ou tamanho não sejam suportados pelo SEI, serão comprimidos em um único arquivo de extensão
+.zip ou serão disponibilizados por meio de nuvem, cujo link de compartilhamento, obrigatoriamente, terá
+permissão apenas para leitura.
+§ 4º Os anexos compartilhados por meio de nuvem constarão no processo utilizando-se o
+tipo de documento “Anexo”, que terá o campo “Nome na Árvore” preenchido com nome que identifique,
+sucintamente, o seu conteúdo e no teor do documento (corpo do texto) constará breve descrição do
+conteúdo e o link de acesso aos arquivos.
+§ 5º Os arquivos compartilhados por meio de nuvem serão copiados pelo Cartório em
+nuvem e disco rígido próprios da Seção, a fim de assegurar a cadeia de custódia, devendo-se incluir
+certidão deste ato no processo.
+Art. 8º - O criador do processo e/ou militar credenciado renunciará à sua credencial, em ato
+contínuo, logo após o credenciamento do destinatário nos autos, salvo as exceções previstas na Resolução
+n.º 1157, de 10 de outubro de 2023.
+§ 1º Nos processos sigilosos destinados ao Cartório ou a setor equivalente, recomenda-se
+credenciar, no mínimo, dois militares da seção destinatária.
+§ 2º Nos processos sigilosos criados pelo Cartório da Unidade ou por setor equivalente,
+recomenda-se permanecer, enquanto o processo tramitar pela unidade correlata, no mínimo, dois militares
+credenciados desse setor.
+§ 3º O criador do processo se certificará do recebimento da documentação eletrônica por,
+pelo menos, um dos destinatários antes de renunciar à sua credencial, verificando, no andamento do
+processo, se consta na coluna “Descrição” a expressão “Processo Recebido”.
+Art. 9º - O usuário que for erroneamente credenciado em um processo SEI Sigiloso
+providenciará sua renúncia imediata, assim que tomar ciência, informando a quem lhe tenha concedido a
+credencial, bem como retornando-lhe o processo, caso o concedente da credencial não a remova, para o
+trâmite devido.
+Art. 10º - A documentação física recebida em qualquer Unidade ou Fração BM cujo teor
+seja de cunho ético-disciplinar será digitalizada e inserida em processo eletrônico no SEI Sigiloso, em
+seguida, tramitada para o Cartório da Unidade.
+§ 1º A documentação lacrada e de caráter reservado, cujo destinatário não pertença à
+Unidade ou Fração, será remetida fisicamente para o Cartório da Unidade em que aportar, o qual
+providenciará sua digitalização e trâmite devido, tanto eletrônico quanto físico, conforme lotação do
+militar interessado.
+§ 2º A documentação física no Cartório da Unidade em que estiver lotado o militar
+interessado poderá ser descartada nos termos do rito previsto no Decreto Federal nº 10.278 de 18 de março
+de 2020.
+§ 3º A documentação física não descartada será mantida em arquivo no Cartório da Unidade
+em que estiver lotado o militar interessado, que, após a solução do processo, a destinará à Pasta Funcional
+do militar.
+Art. 11 - As remissões, utilizadas para referenciar determinado processo ou documento,
+CBMMG - Resolução ITC 19/2023 (78317110) SEI 1400.01.0070128/2023-62 / pg. 3
+serão realizadas utilizando-se a funcionalidade “Inserir um link para processo ou documento no SEI”,
+onde será lançado o número do processo ou o protocolo eletrônico único gerado pelo Sistema mostrado
+entre parênteses à direita de cada documento, conforme se desejar.
+§1º A remissão a documento ou página da internet externa ao SEI utilizará a funcionalidade
+de “Inserir um Link”.
+§ 2º A remissão a trechos específicos observará, além do protocolo único, a estrutura do
+documento referenciado e utilizará a numeração de tópicos, a contagem de parágrafos e linhas, expressões
+que encerram ou iniciam frases, dentre outros, conforme o documento de referência possibilitar.
+§º 3º Para fins do previsto no parágrafo anterior, poderá ser utilizada imagem dos
+documentos referenciados obtida com uso de programa de captura de tela, mantendo-se a obrigatoriedade
+do uso do link para documento SEI que remeta ao conteúdo referenciado na imagem.
+Art. 12 - O tipo de processo em tramitação no SEI poderá ser alterado pelo Cartório da
+unidade responsável, após análise e despacho com a autoridade competente, dando prosseguimento ao
+trâmite correspondente ao tipo de processo mais adequado.
+Capítulo III
+Dos Cartórios
+Seção I
+Das competências
+Art. 13 - Além das atribuições previstas em normas, compete aos Cartórios:
+I - Receber, criar e controlar os atos, procedimentos e processos administrativodisciplinares e de polícia judiciária militar no SEI Sigiloso, utilizando a Unidade SEI do Cartório.
+II - Manter, no mínimo, um militar do setor credenciado em cada processo eletrônico em
+tramitação.
+III - Realizar o credenciamento e descredenciamento de autoridades e encarregados nos
+procedimentos e processos administrativo-disciplinares e de polícia.
+IV - Realizar o credenciamento e descredenciamento dos integrantes de CPAD e CEDMU.
+V - Proceder à análise e validação de cadastro de usuários externos no SEI envolvidos nos
+procedimentos e processos administrativo-disciplinares e de polícia judiciária militar.
+VI - Supervisionar, orientar e instruir os militares de sua Unidade no uso do SEI Sigiloso.
+VII - Realizar as operações atinentes à função de administrador SEI requeridas nos
+processos, tais como cancelamento e movimentação de documentos na árvore de processos, dentre outras.
+VIII - Arquivar os processos por ocasião de seu encerramento em Blocos Internos por ano e
+tipo de processo.
+IX - Fazer constar nos processos no SEI Sigiloso as respectivas publicações e lançamentos
+efetivados no SIGP e em Boletim Reservado.
+Seção II
+Da gestão dos Processos Eletrônicos
+Art. 14 - Os processos eletrônicos de que trata esta ITC, criados ou recebidos no SEI Sigiloso
+pelo Cartório, serão despachados com o Comandante da Unidade para definição de sua tramitação.
+§ 1º Uma vez determinado o trâmite pelo Comandante, o Cartório providenciará a
+documentação necessária conforme a natureza do processo, tais como Portarias, Despachos, Arquivamento
+CBMMG - Resolução ITC 19/2023 (78317110) SEI 1400.01.0070128/2023-62 / pg. 4
+Prévio.
+§ 2º A inserção de documentos pelos Cartórios será realizada utilizando-se os tipos de
+documentos próprios do CBMMG e, em sua ausência, os de Correição e, por fim, os de uso geral
+disponibilizados pelo Sistema.
+§ 3º A inserção de documentos de origem física obedecerá às normas aplicáveis à
+digitalização de documentos.
+Art. 15 - Os processos criados para apuração de fatos residuais de outros processos e
+procedimentos disciplinares ou de polícia judiciária terão como anexo do documento de sua instauração o
+arquivo PDF ou ZIP da parte ou do todo do processo que lhe deu origem, conforme o caso, ainda que
+incluídos outros anexos.
+Parágrafo único - O processo de origem a ser anexado que esteja em formato físico terá
+providenciada sua digitalização obedecendo às normas aplicáveis à digitalização de documentos.
+Art. 16 - O Comandante da Unidade será credenciado e descredenciado pelo Cartório, de
+acordo com a fase do processo, para a prática de atos de sua competência, sendo facultado à referida
+autoridade permanecer credenciado durante todo o trâmite do processo.
+Parágrafo único - O Comandante interino, devidamente designado, somente poderá ser e
+permanecer credenciado pelo período em que o ato de designação lhe conferir autoridade.
+Art. 17 - As publicações e lançamentos dos atos administrativos constarão no processo
+eletrônico por meio de despacho assinado pelo boletinista do Cartório.
+§ 1º O despacho será inserido na árvore do processo logo após o ato administrativo a que se
+referir.
+§ 2º A numeração dos atos administrativos no SIGP constará do teor despacho no processo
+SEI.
+§ 3º O lançamento do ato administrativo no SIGP fará constar o número do processo
+eletrônico correspondente no SEI e número dos documentos do processo SEI, quando couber.
+Art. 18 - O Cartório providenciará a inserção ou edição das informações básicas dos
+processos eletrônicos ao criá-los ou recebê-los, fazendo constar os dados Tipo de Processo, Especificação,
+Classificação por assuntos, Interessados, Observações da Unidade, Nível de acesso e Hipótese legal.
+Parágrafo único - As informações obedecerão ao seguinte:
+I - Tipo de Processo: o campo será preenchido automaticamente após a seleção do processo
+adequado de acordo com a sua natureza e em conformidade com o previsto no MAPPA.
+II - Especificação: constará a abreviatura do tipo de processo, o número da portaria ou
+despacho gerado no SIGP, o número BM e as iniciais abreviadas do acusado, indiciado ou investigado.
+III - Classificação por assuntos: o campo será preenchido com “025.12 –
+PROCEDIMENTOS ADMINISTRATIVOS DISCIPLINARES” e/ou com o código adequado para o tipo
+de processo escolhido.
+IV - Interessados: constará o nome do encarregado, do acusado, indiciado ou investigado e
+da autoridade com poder disciplinar sobre o envolvido.
+V - Observações desta unidade: constará a data da prescrição da pretensão punitiva e outras
+informações julgadas úteis.
+VI - Nível de acesso: Selecionar a opção “SIGILOSO”.
+VII - Hipótese Legal: art. 45 da Lei Estadual n.º 14.310 - CEDM, de 19 de junho de 2002
+CBMMG - Resolução ITC 19/2023 (78317110) SEI 1400.01.0070128/2023-62 / pg. 5
+ou Sigilo Funcional (art. 325, CP) ou Sigilo do Inquérito Policial (art. 20 do CPP) até que sejam incluídas
+as hipóteses relativas à polícia judiciária militar.
+Art. 19 - A distribuição dos processos eletrônicos a serem acompanhados pelos militares do
+Cartório, para fins de orientação e controle, será feita pelo chefe do Cartório, o qual também concorre para
+a atividade.
+§ 1º O chefe do Cartório avaliará a oportunidade e a conveniência de manter-se credenciado
+em todos os processos eletrônicos no SEI Sigiloso em tramitação no Cartório da Unidade.
+§ 2º Nos afastamentos planejados, como férias e cursos, o chefe do Cartório definirá o
+militar que será credenciado em substituição ao militar ausente.
+§ 3º Nos afastamentos não planejados, tais como licenças médicas, o chefe do Cartório
+providenciará junto ao administrador SEI da Unidade ou, em sua ausência, à SDTS, o credenciamento de
+outro militar do Cartório.
+§ 4º Os militares dos Cartórios credenciados nos processos atuarão, exclusivamente, na
+orientação do uso da ferramenta, salvo quando participando no exercício das competências da Seção.
+Art. 20 - O Cartório credenciará o encarregado do procedimento ou processo administrativo
+disciplinar ou de polícia judiciária para início da atividade que lhe foi delegada.
+§ 1º O encarregado que tenha acesso a mais de uma Unidade SEI será credenciado na
+Unidade SEI onde se encontra lotado, salvo determinação em contrário.
+§ 2º O Cartório informará o encarregado, via e-mail institucional, sobre seu
+credenciamento, podendo complementar com mensagem pelo Sistema Intranet de Mensagens (SIM).
+Art. 21 - O encarregado será considerado cientificado no dia e horário de acesso registrados
+pelo Sistema, momento a partir do qual operar-se-á a contagem de prazo de acordo com a regra processual
+aplicável, sem prejuízo para outros meios de notificação legalmente válidos.
+Parágrafo único - O acesso do militar credenciado, o qual é registrado automaticamente,
+será verificado no andamento do processo na linha constando data e hora do recebimento, Unidade, CPF
+do usuário e a informação “Processo Recebido” na coluna “Descrição”, a qual marca a ciência do militar.
+Art. 22 - O administrador SEI do Cartório da Unidade incluirá o e-mail institucional
+pessoal do encarregado no perfil SEI do militar na Unidade em que ele está lotado.
+§1º O militar que tenha acesso a mais de uma Unidade SEI poderá ter o e-mail incluído em
+mais de uma Unidade em conformidade com o credenciamento feito pelo Cartório.
+§ 2º A comunicação dirigida ao encarregado relativa à instrução processual que chegar na
+caixa de e-mail da Secretaria ou Cartório da Unidade será remetida imediatamente ao e-mail institucional
+pessoal do encarregado, devendo, na ocasião, ser incluído aviso para que o encarregado utilize seu e-mail
+institucional pessoal nas comunicações no processo SEI conforme art. 55 desta ITC.
+§ 3º O e-mail institucional pessoal do encarregado deverá permanecer credenciado
+enquanto permanecer no encargo delegado, após isso deverá ser removido.
+Art. 23 - O Cartório receberá e despachará com a autoridade delegante os pedidos de
+prorrogação e sobrestamento.
+§1º A decisão da autoridade constará no processo por meio do documento “Despacho”.
+§ 2º O lançamento da prorrogação, sobrestamento e dessobrestamento no SIGP serão
+informados pelo cartório no andamento do processo por meio da funcionalidade “Atualizar Andamento”.
+CBMMG - Resolução ITC 19/2023 (78317110) SEI 1400.01.0070128/2023-62 / pg. 6
+Art. 24 - O processo eletrônico retornado pelo encarregado ao Cartório será objeto de
+análise e saneamento para fins de assessoramento à autoridade delegante quanto à sequência do trâmite.
+§ 1º Caso o Comandante determine retorno do processo ao encarregado, o Cartório
+providenciará a inserção da documentação necessária e o novo credenciamento do encarregado.
+§ 2º Caso o Comandante determine a remessa do processo para análise do CEDMU, o
+Cartório providenciará ofício de remessa ao CEDMU, o qual poderá ser assinado, mediante delegação,
+pelo chefe do Cartório.
+§3º Caso o Comandante determine a remessa do processo para a Justiça Comum ou Militar
+ou outros destinatários, o Cartório providenciará a inserção da documentação necessária e o trâmite
+subsequente.
+Art. 25 - O Cartório realizará o credenciamento de todos os integrantes do CEDMU e
+informará a todos eles, via e-mail institucional, sobre seu credenciamento, podendo complementar com
+mensagem pelo Sistema Intranet de Mensagens (SIM).
+§ 1º O CEDMU será considerado cientificado no dia e horário do primeiro acesso de
+qualquer de seus integrantes registrado pelo SEI, iniciando-se a contagem de prazo no próximo dia útil
+subsequente a este acesso, sem prejuízo para outros meios de notificação legalmente válidos.
+§ 2º O acesso do militar credenciado será verificado no andamento do processo na linha
+constando data e hora do recebimento, Unidade, CPF do usuário e a informação “Processo Recebido” na
+coluna “Descrição”, a qual marca a ciência do militar.
+Art. 26 - O processo eletrônico retornado pelo CEDMU terá sua ata analisada pelo Cartório
+para fins de assessoramento à autoridade competente quanto à sequência do trâmite.
+§ 1º Caso o Comandante determine retorno do processo ao CEDMU, o Cartório
+providenciará a inserção da documentação necessária e o novo credenciamento dos integrantes do
+CEDMU.
+§ 2º Caso o Comandante determine o retorno do processo ao encarregado, face a pedido do
+CEDMU, o Cartório providenciará a inserção da documentação necessária e o novo credenciamento do
+encarregado.
+§ 3º Caso o Comandante emane decisão de mérito, o Cartório providenciará a inserção da
+solução no processo ou o ofício de encaminhamento à autoridade imediatamente superior nos casos de
+discordância.
+§ 4º As soluções em discordância serão remetidas ao cartório da Unidade responsável pelo
+processo para a devida notificação ao acusado.
+Art. 27 - Cumprirá ao Cartório a inserção e a edição do documento “CBMMG - Solução”
+na árvore do processo.
+§ 1º Se a solução versar sobre arquivamento, o Cartório providenciará sua publicação e
+lançamento, bem como o despacho do boletinista no processo.
+§ 2º Uma vez lançada e publicada a solução de arquivamento, o Cartório dará ciência ao
+interessado via e-mail institucional, dispensando-se seu credenciamento, e providenciará o arquivamento
+do processo eletrônico.
+§ 3º Se a solução versar sobre enquadramento, o Cartório inserirá o respectivo Ato de
+Enquadramento no processo SEI e providenciará o lançamento e publicação de ambos os atos, bem como
+o despacho do boletinista no processo.
+CBMMG - Resolução ITC 19/2023 (78317110) SEI 1400.01.0070128/2023-62 / pg. 7
+§ 4º Uma vez lançada e publicada a solução de enquadramento, o Cartório dará ciência ao
+interessado, via e-mail institucional, e o credenciará no processo para ciência do Ato de Enquadramento e
+manifestação em grau de recurso, quando cabível.
+§ 5º O prazo para interposição de recurso será contado a partir do primeiro dia útil após o
+recebimento do processo pelo militar, verificado em consulta ao andamento do processo na linha
+constando data e hora do recebimento, Unidade, CPF do usuário e a informação “Processo Recebido” na
+coluna “Descrição”, a qual marca a ciência do militar.
+§ 6º A não apresentação de recurso no prazo estipulado resulta na preclusão do direito e nos
+consequentes efeitos da decisão, devendo o Cartório remover a credencial do interessado assim que findo
+o prazo para sua manifestação.
+§ 7º É facultado ao Cartório a criação do documento “CBMMG-Solução” em processo SEI
+diferente e a sua inserção no processo solucionado por meio do tipo de documento “Externo” em PDF,
+cujo tipo de documento será “Decisão” e o nome na árvore será o número de controle do respectivo
+Cartório.
+Art. 28 - O processo eletrônico retornado pelo acusado contendo recurso será analisado
+pelo Cartório para fins de assessoramento à autoridade que aplicou a sanção disciplinar acerca da
+admissibilidade, bem como sobre a possibilidade de reconsideração da decisão recorrida.
+§ 1º Caso a autoridade que aplicou a sanção disciplinar opte pela reconsideração do ato
+sancionatório, o Cartório providenciará para que o processo retorne ao CEDMU para cumprimento do
+disposto no § 1º do art. 477 do MAPPA, sendo emitido novo parecer, salvo se a decisão reapreciada foi
+feita em sede de discordância, ocasião em que não haverá remessa ao CEDMU.
+§ 2º Caso o CEDMU opte, em seu novo parecer, pela manutenção da sanção, o processo
+será encaminhado à autoridade superior, nos termos do art. 60 do CEDM e art. 473 do MAPPA.
+§ 3º Caso a autoridade que aplicou a sanção disciplinar mantenha sua decisão, o Cartório
+providenciará o ofício circunstanciado para remessa à autoridade destinatária do recurso, conforme art.
+476 c/c parágrafo § 2º do art. 477, ambos do MAPPA.
+§ 4º Em qualquer das instâncias, o Cartório da Unidade remetente credenciará um ou mais
+militares do Cartório da Unidade destinatária para o trâmite do recurso, certificando-se de seu
+recebimento, no andamento do processo, antes de renunciar à sua credencial de acesso.
+§ 5º Em caso de inadmissibilidade do recurso, o Cartório providenciará a inserção da
+resposta fundamentada da autoridade que aplicou a sanção por meio de despacho no processo, remetendoo por e-mail ao acusado e/ou seu defensor, conforme o caso.
+§ 6º Os recursos analisados e respondidos pelas instâncias superiores serão remetidos ao
+Cartório da Unidade que aplicou a sanção para a devida notificação do acusado, salvo quando a sanção
+tiver sido aplicada em sede de discordância, hipótese em que os autos serão remetidos ao Cartório da
+Unidade de origem.
+Art. 29 - Em caso de transferência de militar que implique alteração da autoridade com
+poder disciplinar sobre o acusado, o Cartório da Unidade de origem credenciará um ou mais militares do
+Cartório da Unidade de destino para o seguimento do processo, inserindo as informações necessárias à
+nova Unidade no andamento do processo, podendo complementá-las via e-mail institucional ou Sistema
+Intranet de Mensagens (SIM).
+Parágrafo único - Uma vez certificado o recebimento do processo pela nova Unidade, os
+integrantes do Cartório da Unidade de origem renunciarão às suas credenciais.
+Seção III
+Das intervenções e operações nos processos
+Art. 30 - O Cartório é responsável pelas intervenções e operações nos processos que não
+CBMMG - Resolução ITC 19/2023 (78317110) SEI 1400.01.0070128/2023-62 / pg. 8
+estejam em fase instrutória.
+§ 1º Consideram-se intervenções e operações para fins do previsto no caput a apensação, a
+desapensação, a anexação, a desanexação, o desentranhamento e o desmembramento de peças e
+documentos processuais.
+§ 2º As alterações nos processos em fase instrutória serão realizadas pelo próprio
+encarregado, se lhe incumbirem, ou, na impossibilidade, pelo administrador SEI no Cartório, mediante
+solicitação formal e justificada do encarregado.
+Art. 31 - A apensação será realizada utilizando-se a função “Relacionar Processos”,
+observando-se o seguinte:
+I - No processo que receberá os autos apensados constará ofício de solicitação ou
+determinação de juntada.
+II - O processo apensado receberá, como último documento, o “Termo de Juntada por
+Apensação”, utilizando-se o tipo de documento “Termo” e preenchendo-se o campo “Nome na árvore”
+com a expressão “de Juntada por Apensação”, em cujo teor constará a remissão, por meio de link de
+processo SEI, ao processo SEI ao qual foi juntado.
+III - O processo apensado não será movimentado ou alterado até que ocorra a sua
+desapensação.
+IV - O relacionamento dos processos constará automaticamente em ambos os processos,
+podendo ser consultado por meio da função “Relacionamentos do Processo”.
+Art. 32 - A desapensação ocorrerá por meio da ação “Remover Relacionamento”,
+observando-se o seguinte:
+I - No processo que recebeu os autos apensados constará o “Termo de Desapensação”
+utilizando-se o tipo de documento “Termo” e preenchendo-se o campo “Nome na árvore” com a expressão
+“de Desapensação”.
+II - A remoção do relacionamento dos processos constará automaticamente em ambos os
+processos, podendo ser consultada por meio da função “Relacionamentos do Processo”.
+III - Será providenciado despacho em ambos os processos conforme o trâmite necessário a
+seu seguimento.
+Art. 33 - A anexação de processos será realizada de acordo com o conteúdo do processo a
+ser anexado, tendo em vista que o comando “Anexar Processo” não está disponível nos processos de nível
+de acesso sigiloso no SEI.
+§ 1º O processo cujo conteúdo possa ser integralmente convertido em PDF utilizando-se a
+funcionalidade “Gerar arquivo PDF” do processo SEI observará o seguinte:
+I - No processo que receberá os autos anexados constará ofício de solicitação ou
+determinação de juntada, sendo considerado como processo principal.
+II - O processo anexado, considerado como processo acessório, receberá, como último
+documento, o “Termo de Juntada por Anexação”, utilizando-se o tipo de documento “Termo” e
+preenchendo-se o campo “Nome na árvore” com a expressão “de Juntada por Anexação”.
+III - Será gerado arquivo em PDF do processo acessório, o qual deverá ser salvo em disco
+rígido para posterior anexação.
+IV - O processo acessório no SEI será migrado para o modo “restrito” e salvo em Bloco
+Interno específico para processos que foram objeto de anexação e não poderá ser alterado ou
+movimentado.
+V - No processo principal constará o “Termo de Juntada por Anexação”, utilizando-se o
+CBMMG - Resolução ITC 19/2023 (78317110) SEI 1400.01.0070128/2023-62 / pg. 9
+tipo de documento “Termo” e preenchendo-se o campo “Nome na árvore” com a expressão “de Juntada
+por Anexação”, em cujo teor constará a remissão, por meio de link de processo SEI, ao processo anexado;
+VI - O arquivo PDF contendo o processo acessório será inserido na árvore do processo
+principal por meio do tipo de documento “Externo”, sendo selecionado o Tipo de Documento “Processo”,
+constando como “Nome na Árvore” a sua numeração SEI de vinte algarismos integralmente, no campo
+"Formato" a opção será nato digital e, no campo data de documento, a data de sua última movimentação.
+§ 2º O processo, cujo conteúdo não possa ser integralmente convertido em PDF, como os
+que contêm mídias, observará o seguinte:
+I - No processo do qual parte o pedido de juntada constará ofício de solicitação ou
+determinação de juntada, sendo considerado como processo principal;
+II - O processo objeto do pedido de juntada, considerado como processo acessório,
+receberá, como último documento, o “Termo de Juntada por Anexação”, utilizando-se o tipo de
+documento “Termo” e preenchendo-se o campo “Nome na árvore” com a expressão “de Juntada por
+Anexação”;
+III - Será gerado arquivo em formato ZIP (extensão digital .zip) do processo acessório
+utilizando-se a função “Gerar arquivo ZIP”;
+IV - O processo acessório no SEI será migrado para o modo “restrito” e salvo em Bloco
+Interno específico para processos que foram objeto de anexação e não poderá ser alterado ou
+movimentado.
+V - No processo principal constará o “Termo de Juntada por Anexação”, utilizando-se o
+tipo de documento “Termo” e preenchendo-se o campo “Nome na árvore” com a expressão “de Juntada
+por Anexação”, em cujo teor constará a remissão, por meio de link de processo SEI, ao processo anexado;
+VI - O arquivo ZIP contendo o processo acessório será inserido na árvore do processo
+principal por meio do tipo de documento “Externo”, sendo selecionado o tipo de documento “Processo”,
+constando como “Nome na Árvore” a sua numeração SEI de vinte algarismos integralmente, no campo
+"Formato" a opção nato digital e, no campo data de documento, a data de sua última movimentação.
+Art. 34 - O ato administrativo anulado integralmente será removido da árvore do processo,
+obedecendo aos seguintes critérios:
+I - A remoção de ato administrativo será precedida de cópia do ato, a qual será feita por
+meio do comando “Gerar Arquivo PDF” ou “Gerar Arquivo ZIP”, conforme seu conteúdo.
+II - Será criado um processo relacionado sigiloso, do mesmo tipo do processo de origem,
+por meio do comando “Iniciar processo relacionado”, cujo campo “Especificação” constará em letras
+maiúsculas a palavra “DESENTRANHAMENTOS”.
+III - O arquivo PDF ou ZIP do ato administrativo anulado será inserido no processo
+relacionado como documento “Externo”, constando na árvore o nome e número originais seguidos, entre
+parênteses, da expressão “Anulado”.
+IV - O Cartório poderá também, a seu critério, salvar o arquivo PDF do ato administrativo
+anulado em nuvem digital e em disco rígido de computador da Seção.
+V - O Cartório providenciará o Termo de Desentranhamento cujo teor trará o motivo da
+anulação, assim como referência ao ato anulado, nos termos do art. 10 desta ITC.
+VI - Após certificar-se da existência da cópia do ato administrativo anulado, o
+administrador SEI do Cartório procederá à exclusão do documento, utilizando a funcionalidade
+“Cancelamento de Documento”.
+Parágrafo único - O ato anulado parcialmente de que se determine o desentranhamento
+obedecerá ao previsto nos incisos do caput deste artigo.
+CBMMG - Resolução ITC 19/2023 (78317110) SEI 1400.01.0070128/2023-62 / pg. 10
+Art. 35 - O ato administrativo anulado que necessitar ser refeito será inserido na árvore do
+processo após o Termo de Desentranhamento, não cabendo a sua reordenação no processo.
+Art. 36 - O Desentranhamento de documentos e peças processuais determinado por
+autoridade competente, de ofício ou a pedido de interessado, será realizado pelo Cartório por intermédio
+do administrador SEI.
+Parágrafo único - O procedimento de desentranhamento previsto no caput observará o
+contido no art. 34 desta ITC.
+Art. 37 - O desmembramento de processo determinado por autoridade competente será
+realizado pelo Cartório por meio de cópia integral ou parcial, conforme o caso, que será feita utilizando-se
+o comando “Gerar Arquivo PDF” ou “Gerar Arquivo ZIP”, de acordo com seu conteúdo.
+§ 1º O processo de origem do desmembramento receberá o “Termo de Desmembramento”,
+que constará relação de quais documentos compõem o conteúdo desmembrado, contendo também a
+remissão nos termos do art. 11 desta ITC.
+§ 2º O processo originado a partir de desmembramento seguirá trâmite próprio e
+independente conforme instruções da autoridade competente.
+§ 3º As instruções da autoridade que determina o desmembramento especificarão se a
+documentação desmembrada será removida do processo de origem.
+Seção IV
+Do administrador do Sistema no Cartório
+Art. 38 - Compete ao administrador SEI no Cartório, além das atribuições previstas na
+Resolução n.º 1157, de 10 de outubro de 2023, e na ITLF n.º 16/2021 - CBMMG/SDTS :
+I - Realizar a exclusão (cancelamento) de documentos na árvore de processos, mediante
+determinação superior ou pedido formal e justificado de usuários incumbidos de atos nos processos.
+II - Realizar a reordenação de documentos na árvore de processos, mediante determinação
+superior ou pedido formal e justificado de usuários incumbidos de atos nos processos.
+III - Analisar e validar os pedidos de cadastro de usuários externos envolvidos em
+procedimentos ou processos administrativo-disciplinares e de polícia judiciária militar de sua Unidade.
+IV - Realizar a inclusão e a exclusão de perfis de usuários das Unidades SEI conforme
+demanda dos processos eletrônicos e da Seção.
+V - Realizar a inclusão do e-mail institucional pessoal de usuário que figurar como
+encarregado/membros de CPAD nos termos do art. 22 desta ITC.
+VI - Divulgar e gerenciar o uso dos modelos favoritos, autotextos, bases de conhecimentos
+e processos modelos disponibilizados pela Corregedoria e demais Unidades Intermediárias na Unidade
+SEI de uso geral.
+VII - Manter contato regular com a SDTS a fim de conhecer sobre as atualizações do SEI e
+suas funcionalidades, bem como para sanar dúvidas.
+VIII - Providenciar o bloqueio de acesso de usuário ao SEI que, em virtude de algum fato
+ou ocorrência, seja afastado do serviço.
+IX - Substituir o administrador SEI da Unidade nos casos de férias, licenças e demais
+afastamentos legais, mediante determinação.
+X - Realizar credenciamentos, descredenciamentos, intervenções e operações nos processos
+conforme demanda, desde que motivadas e justificadas.
+CBMMG - Resolução ITC 19/2023 (78317110) SEI 1400.01.0070128/2023-62 / pg. 11
+Art. 39 - O encargo do administrador SEI no Cartório é exclusivo para atuação no âmbito
+das atividades da referida Seção, somente podendo atuar em substituição ou apoio ao administrador SEI da
+Unidade mediante determinação do Comandante da Unidade.
+Art. 40 - Na ausência temporária do administrador SEI no Cartório, como férias e licenças
+legais, este será substituído interinamente pelo administrador SEI da Unidade e, na impossibilidade,
+solicitar-se-á à SDTS a realização das atividades.
+Art. 41 - A realização de atividades típicas de administrador do Sistema observarão as
+normas e manuais voltados para este encargo, sem prejuízo ao previsto nesta ITC.
+Art. 42 - Os militares movimentados para outra Unidade SEI que estejam credenciados em
+processo sigilosos serão descredenciados antes da remoção de acesso, evitando-se a ocorrência de
+credencial inativa.
+§ 1º O administrador SEI do Cartório procederá à remoção de credenciais inativas de
+processos dos militares que tenham sido removidos da Unidade SEI antes de serem descredenciados de
+processo sigiloso.
+§ 2º Credencial inativa é aquela em que o usuário não tem mais permissão na Unidade SEI
+onde se encontram os processos sigilosos em que recebeu credencial, perdendo, assim, a capacidade de
+renunciá-la.
+Seção V
+Do arquivamento do processo eletrônico
+Art. 43 - Os processos sigilosos concluídos, assim considerados aqueles com decisão
+definitiva no âmbito administrativo, serão migrados para o modo restrito, por meio da funcionalidade
+“Consultar/Alterar Processo”, em seguida salvos em Blocos Internos, por meio da função “Incluir em Bloco”
+e, por fim, concluídos, utilizando-se o comando “Concluir Processo”.
+§ 1° Os Blocos Internos serão organizados por tipo de processo e ano de instauração do
+processo, distinguindo-se os de natureza disciplinar dos de natureza não disciplinar.
+§ 2° Os Cartórios das Unidades certificar-se-ão de que não há mais nenhum usuário
+credenciado antes de alterar o nível de acesso dos processos SEI.
+Art. 44 - A peça inaugural, as decisões não definitivas e definitivas no âmbito
+administrativo serão arquivadas na pasta funcional do militar após o encerramento do processo.
+Parágrafo único - Caso as pastas funcionais se encontrem em meio digital, o processo será
+integralmente arquivado na pasta funcional após sua conclusão, competindo ao Cartório a remessa à
+Unidade SEI responsável.
+Art. 45 - Os processos eletrônicos serão mantidos em arquivo conforme tabela de
+temporalidade prevista em legislação específica.
+Capítulo IV
+Do encarregado
+Art. 46 - O encarregado, no primeiro acesso ao processo eletrônico, consultará seu andamento
+a fim de certificar-se de que não houve movimentação posterior ao seu credenciamento e de que os
+CBMMG - Resolução ITC 19/2023 (78317110) SEI 1400.01.0070128/2023-62 / pg. 12
+documentos constantes não são editáveis.
+§ 1º O processo eletrônico dispensa o Termo de Autuação, nos termos do art. 6º da
+Resolução n.º 869, de 16 de setembro de 2019, sendo considerado autuado automaticamente face ao
+registro integral e em tempo real realizado pelo Sistema.
+§ 2º O Termo de Abertura constará em seu teor os links (endereços eletrônicos) de remissão
+aos documentos constantes do processo quando do início dos trabalhos pelo encarregado, sem prejuízo
+para as demais informações que nele devam constar.
+Art. 47 - A inserção de documentos pelo encarregado será realizada utilizando-se os tipos
+de documentos próprios do CBMMG e, em sua ausência, os de Correição e, por fim, os de uso geral
+disponibilizados pelo Sistema.
+§ 1º Os atos processuais que são constituídos por termos e que não constem dentre os tipos
+documentos do CBMMG ou Correição, tais como juntada, reconhecimento, degravação, compromisso,
+utilizarão o tipo de documento “Termo”, sendo preenchido o campo “Nome na árvore” de acordo com o
+tipo de termo que se deseja.
+§ 2º No APF, havendo Nota de Culpa, será utilizado o tipo de documento “Nota”, sendo
+preenchido o campo “Nome na árvore” com a expressão “de Culpa”.
+§ 3º A edição do documento no SEI se dará integralmente pelo encarregado, escrevente ou
+escrivão, ainda que utilizando-se autotextos, modelos favoritos, processos modelos e similares, sendo de
+sua responsabilidade a observância de seu conteúdo e forma.
+Art. 48 - Os documentos produzidos ou inseridos nos processos no SEI Sigiloso receberão
+classificação de “restrito” dentro dos respectivos processos sigilosos, devendo ser selecionada a hipótese
+legal aplicável.
+Art. 49 - Os pedidos de prorrogação e suas renovações e sobrestamento serão feitos no
+processo por meio do tipo de documento “Ofício”, bem como a comunicação do dessobrestamento.
+Parágrafo único - O encarregado informará o Cartório, por e-mail institucional externo ao
+processo, sobre o pedido de prorrogação ou sobrestamento constante do processo para fins de despacho
+com a autoridade delegante.
+Art. 50 - Competirá ao encarregado, conforme a fase em que se encontrar o processo, o
+credenciamento e o descredenciamento, exclusivamente, do escrevente ou do escrivão, do acusado e do
+militar do Cartório responsável, este último se não estiver credenciado, observando as normas aplicáveis.
+§ 1º Nos procedimentos de natureza inquisitória, como IPM, APF, LI e RIP, em regra, não
+serão credenciados os envolvidos, salvo por determinação superior.
+§ 2º O previsto no parágrafo anterior não impede a disponibilização de acesso aos autos à
+defesa dos envolvidos, nos termos da Súmula Vinculante n.º 14 do Supremo Tribunal Federal, o qual será
+concedido, quando necessário, utilizando-se a funcionalidade “Disponibilização de Acesso Externo”.
+Art. 51 - A notificação de militar sobre instauração de processo administrativo (Termo de
+Abertura de Vistas) informará o acusado sobre a necessidade de seus representantes, se houver,
+cadastrarem-se como usuários externos no SEI para fins de participação no processo, o qual ocorrerá por
+meio do sítio eletrônico próprio da Secretaria de Estado de Planejamento e Gestão – SEPLAG.
+Art. 52 - O encarregado informará o cadastro de usuário externo relativo ao processo ao
+administrador SEI do cartório de sua Unidade, o qual providenciará a análise e a validação de acesso
+externo ao SEI.
+CBMMG - Resolução ITC 19/2023 (78317110) SEI 1400.01.0070128/2023-62 / pg. 13
+Parágrafo único - Após concluído o cadastro do defensor, as notificações ocorrerão por
+meio do processo eletrônico no SEI Sigiloso.
+Art. 53 - Uma vez credenciado o acusado, as notificações ocorrerão por meio do processo
+eletrônico no SEI Sigiloso.
+§ 1º O encarregado concederá a credencial ao acusado para a prática e/ou assinatura dos
+atos atinentes à manifestação ou à participação da defesa, devendo removê-la logo após a realização dos
+atos mencionados.
+§ 2º O credenciamento será renovado a cada ocasião em que a defesa for chamada a se
+manifestar.
+§ 3º Para a solicitação de vistas aos autos, fica dispensado o credenciamento, devendo ser
+fornecida cópia integral do conteúdo já concluído por meio de correspondência eletrônica no processo SEI,
+nos termos da legislação em vigor.
+§ 4º O encarregado não renunciará à sua credencial ao credenciar o acusado, escrivão ou
+escrevente.
+§ 5º O acusado será considerado cientificado no dia e horário de acesso registrados pelo
+SEI, momento a partir do qual operar-se-á a contagem de prazo de acordo com a regra processual
+aplicável, sem prejuízo a outros meios de notificação legalmente válidos.
+§ 6º Caso o acusado deixe de observar o previsto no art. 40 da Resolução n.º 869, de 16 de
+setembro de 2019, o qual impõe ao militar em serviço a obrigação de acessar o SEI diariamente conforme
+jornada de trabalho, o encarregado tomará as medidas disciplinares cabíveis.
+§ 7º A omissão deliberada ou recusa no recebimento do processo implicará a elaboração do
+Termo de Recusa conforme previsto no MAPPA.
+Art. 54 - Os atos processuais, inclusive as correspondências eletrônicas (e-mail) do
+encarregado com acusados, envolvidos ou terceiros, ocorrerão no processo eletrônico no SEI, salvo
+impossibilidade técnica.
+Parágrafo único - No caso de impossibilidade técnica, os atos processuais realizados, sejam
+em meio físico ou digital, serão incluídos no processo SEI na ordem cronológica original por meio do tipo
+de documento “Externo”, assim que restabelecido o Sistema.
+Art. 55 - A disponibilização de acesso externo, a assinatura externa e as comunicações com
+o acusado, envolvidos e terceiros, sempre indicarão aos destinatários o e-mail institucional pessoal do
+encarregado, no campo “E-mail da Unidade”, para fins de recebimento de resposta e demais
+comunicações.
+§ 1º Caso o e-mail institucional pessoal do encarregado não conste nas opções de e-mail,
+ele deverá solicitar ao administrador SEI no Cartório a sua inclusão.
+§ 2º Toda disponibilização de acesso externo utilizará o campo "Tipo" com a opção
+“Disponibilização de Documentos”, ainda que o acesso ofertado seja a todo conteúdo do processo, ocasião
+em que selecionar-se-ão todos os documentos relacionados.
+§ 3º Toda disponibilização de documento para assinatura externa em que se desejar permitir
+a visualização de outros documentos, utilizará a opção “Protocolos adicionais disponibilizados para
+consulta (clique na lupa para selecionar)”, ainda que se queira permitir a visualização de todo conteúdo do
+processo, ocasião em que selecionar-se-ão todos os documentos relacionados.
+§ 4º Nas disponibilizações previstas nos 2º e 3º parágrafos do caput, a opção "Permitir
+inclusão de documentos" não deverá ser marcada.
+Art. 56 - As comunicações e respostas dirigidas ao e-mail institucional do encarregado que
+CBMMG - Resolução ITC 19/2023 (78317110) SEI 1400.01.0070128/2023-62 / pg. 14
+interessem à instrução processual serão incluídas no processo eletrônico por meio do tipo de documento
+“Externo” no formato adequado a seu conteúdo, nos termos do art. 7º desta ITC.
+Art. 57 - Toda notificação à defesa será remetida por e-mail ao acusado e/ou seu defensor,
+conforme o caso, pelo processo SEI, utilizando-se a funcionalidade “Enviar correspondência eletrônica”
+presente nos documentos SEI.
+Parágrafo único - No curso do processo, toda notificação ao acusado e a seus representantes
+franqueará acesso aos autos ou documentos específicos necessários à manifestação da defesa, observadas
+as regras processuais e procedimentais aplicáveis.
+Art. 58 - As oitivas de acusados, envolvidos e terceiros observará o previsto na Seção III do
+Capítulo III da Resolução n.º 1157, de 10 de outubro de 2023.
+§ 1º O responsável pela elaboração do documento da oitiva utilizará o tipo de documento
+“Correição – Termo de Declaração” para os declarantes descompromissados por lei e “Correição – Termo
+de Depoimento” para os compromissados.
+§ 2º Recomenda-se a criação e a edição dos documentos em programas de edição no
+computador, como Word, Bloco de Notas, Writer, a fim de se evitar a perda de dados por instabilidade ou
+indisponibilidade momentânea do Sistema, procedendo-se à cópia do conteúdo para o editor de
+documentos no SEI após finalizado.
+§ 3º Recomenda-se que o encarregado providencie o cadastramento como usuário externo
+das testemunhas que não sejam usuárias internas antes da audiência em que devam participar, tendo em
+vista o tempo necessário para que o administrador SEI analise e valide o cadastro.
+§ 4º Nos procedimentos presenciais com depoentes que possuem acesso ao SEI, a assinatura
+será aposta no documento, quando encerrado o ato, ao alterar-se os dados na janela “Assinatura de
+Documento” nos campos “Órgão do Assinante”, “Assinante” e "Cargo/Função" para cada pessoa que
+assina.
+Art. 59 - O encarregado de processo cujo acusado deixe de observar o previsto no art. 15 da
+Resolução n.º 1157, de 10 de outubro de 2023, providenciará o descredenciamento do militar do processo,
+assegurará sua participação como usuário externo e procederá à comunicação disciplinar ou informará o
+fato à autoridade competente para análise e providências cabíveis.
+Parágrafo único - Os fatos constarão como incidentes processuais no relatório do
+encarregado.
+Art. 60 - Ao término da instrução e do relatório, o encarregado incluirá o ofício de
+encaminhamento à autoridade delegante e credenciará o militar do Cartório responsável, caso este não
+esteja credenciado, a fim de que o processo seja despachado junto à referida autoridade.
+Parágrafo único - O encarregado informará o Cartório, por e-mail institucional, sobre o
+encaminhamento do processo.
+Art. 61 - Aplicam-se à CPAD as atribuições previstas para o encarregado, cumprindo ao
+Presidente da Comissão a delegação de atividades conforme as normas processuais aplicáveis.
+CAPÍTULO V
+Dos acusados
+CBMMG - Resolução ITC 19/2023 (78317110) SEI 1400.01.0070128/2023-62 / pg. 15
+ Art. 62 - Os acusados participarão do processo eletrônico no SEI como usuários internos,
+salvo quando incursos no previsto no art. 15 da Resolução n.º 1157, de 10 de outubro de 2023.
+Art. 63 - Aos acusados caberá informar seus defensores, se houver, sobre a necessidade de
+se cadastrarem como usuários externos no SEI a fim de terem acesso ao processo, sendo vedado, sob
+qualquer hipótese, o fornecimento de sua senha de acesso ao SEI a terceiros.
+Art. 64 - A inserção de documentos pelo acusado, quando usuário interno, será realizada
+utilizando-se os tipos de documentos próprios do CBMMG e, em sua ausência, os de Correição e, por fim,
+os de uso geral disponibilizados pelo Sistema.
+§ 1º O usuário externo, o acusado, este quando descredenciado nos termos do art. 15 da
+Resolução n.º 1157, de 10 de outubro de 2023, ou defensor, utilizará as funcionalidades próprias para
+inserção de documentos constantes do Manual do Usuário Externo, devendo observar, ainda, o previsto no
+art. 6º desta ITC quanto ao particionamento de arquivos e uso de anexo para compartilhamento por nuvem
+digital.
+§ 2º O tipo de documento para inclusão de Defesa, prévia ou final, será “Defesa”, para
+recursos administrativos o “Recurso”, e para inclusão de outros documentos, selecionará o tipo mais
+aproximado disponibilizado pelo sistema.
+Art. 65 - É vedado ao acusado credenciado utilizar qualquer funcionalidade alheia à sua
+condição no processo, ficando proibido de:
+I - Credenciar qualquer usuário no processo.
+II - Alterar, excluir, incluir, duplicar e remeter qualquer documento que não seja de sua
+responsabilidade.
+III - Assinar ou disponibilizar para assinatura qualquer documento que não requeira sua
+participação.
+IV - Concluir, relacionar, remeter, duplicar, disponibilizar acesso, reclassificar e alterar o
+processo.
+§ 1º - O descumprimento do previsto no caput implicará o descredenciamento do processo
+como usuário interno e a continuidade de seu acompanhamento e participação se dará somente como
+usuário externo do SEI.
+§ 2º - Aplica-se o disposto no caput ao militar usuário interno atuando como defensor.
+§ 3º - A inobservância do previsto neste artigo poderá configurar crime militar conforme
+art. 316 do Decreto-Lei n.º 1001, de 21 de outubro de 1969, sem prejuízo das demais responsabilidades
+legais aplicáveis.
+CAPÍTULO VI
+DO CEDMU
+Art. 66 - A inserção de documentos pelo CEDMU será realizada utilizando-se os tipos de
+documentos próprios do CBMMG e, em sua ausência, os de Correição e, por fim, os de uso geral
+disponibilizados pelo Sistema.
+Parágrafo único - A notificação ao acusado ou seu defensor para ciência da reunião ocorrerá
+por meio do tipo de documento “CBMMG-Notificação”.
+Art. 67 - A notificação à defesa será remetida por e-mail ao acusado ou a seu defensor pelo
+CBMMG - Resolução ITC 19/2023 (78317110) SEI 1400.01.0070128/2023-62 / pg. 16
+processo SEI utilizando a funcionalidade “Enviar correspondência eletrônica” presente nos documentos
+SEI.
+Parágrafo único - Para fins desta notificação, é facultativo o credenciamento do acusado,
+sendo suficiente a resposta ao e-mail de notificação para fins de registro da ciência.
+Art. 68 - A Ata de reunião do Conselho será confeccionada utilizando-se o tipo de
+documento “CBMMG- Processo Ata CEDMU”.
+§ 1º Recomenda-se a criação e a edição da ata em programas de edição de textos no
+computador, como Word, Bloco de Notas, Writer, a fim de se evitar a perda de dados por instabilidade ou
+indisponibilidade momentânea do Sistema, procedendo-se à cópia do conteúdo para o editor de
+documentos no SEI após finalizado o documento.
+§ 2º O encaminhamento da Ata à autoridade competente se dará por meio do tipo de
+documento “Ofício”.
+§ 3º Na ata de reunião em que houver o comparecimento do acusado e/ou seu defensor
+constará a assinatura destes.
+Art. 69 - Ao término dos trabalhos, o escrivão do CEDMU incluirá o ofício de
+encaminhamento à autoridade delegante e credenciará o militar do Cartório responsável, caso este não
+esteja credenciado, a fim de que a ata seja despachada junto à referida autoridade.
+§ 1º O escrivão informará o Cartório, por e-mail institucional, sobre o encaminhamento do
+processo.
+§ 2º O Cartório providenciará o descredenciamento dos integrantes do CEDMU do
+processo, caso eles não tenham renunciado às credenciais.
+CAPÍTULO VI
+Disposições finais
+Art. 70 - Todo credenciamento de usuário em processo SEI Sigiloso selecionará, no
+mínimo, a Unidade SEI em que o militar credenciado esteja lotado, assim entendida como aquela Unidade
+SEI para a qual exige-se a obrigação de acesso diário nos termos da Resolução n.º 869, de 16 de setembro
+de 2019.
+Art. 71 - Recomenda-se a edição de documentos mais extensos, tais como relatórios,
+soluções, atas e oitivas, em programas de edição de texto para prevenir-se a perda de dados em caso de
+instabilidade do sistema, procedendo-se à cópia do conteúdo para o editor de documentos no SEI após
+finalizado o documento.
+Art. 72 - É vedado a qualquer usuário concluir o processo antes do julgamento definitivo na
+esfera administrativa, após o qual a conclusão se dará pelo Cartório responsável.
+Parágrafo único - O militar que, em qualquer fase, não deva participar do processo deverá
+renunciar à sua credencial ou tê-la removida por quem a concedeu.
+Art. 73 - É vedado às Unidades estabelecerem procedimentos diversos, ainda que
+complementares, aos previstos nesta ITC, cabendo-lhes remeter sugestões, solicitações e dúvidas à
+Corregedoria ou SDTS, conforme o caso, salvo necessidade urgente.
+CBMMG - Resolução ITC 19/2023 (78317110) SEI 1400.01.0070128/2023-62 / pg. 17
+Art. 74 - Até que o CBMMG disponibilize serviço institucional de nuvem digital, o
+compartilhamento de arquivos não particionáveis nos termos do art. 6º desta ITC será feito por meio de
+serviços gratuitos de armazenamento de dados em nuvens cujas políticas de privacidade estejam em
+consonância com a legislação de proteção de dados e de informação.
+Parágrafo único – O previsto no caput não impede o uso de serviços de armazenamento em
+nuvem assinados de que disponha o militar que compartilha o arquivo, desde que o conteúdo esteja
+efetivamente acessível.
+Art. 75 - Algumas funcionalidades do SEI podem apresentar variação de acordo com as
+extensões disponíveis nos navegadores, tais como SEI++ e SEI Pro, as quais beneficiam o uso da
+ferramenta e não prejudicam o previsto nesta ITC.
+Art. 76 - As Unidades realizarão instruções periódicas à tropa sobre o uso da ferramenta
+SEI na modalidade de acesso sigiloso e suas atualizações.
+Art. 77 - O uso indevido do SEI Sigiloso implicará a apuração de responsabilidade na
+forma da legislação em vigor.
+Art. 78 - Esta Instrução entra em vigor na da data de sua publicação.

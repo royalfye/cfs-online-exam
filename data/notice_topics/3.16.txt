@@ -1,0 +1,2213 @@
+LISTA DE ABREVIATURAS E SIGLAS
+BBM – Batalhão de Bombeiro Militar
+CBMMG – Corpo de Bombeiros Militar de Minas Gerais
+CCZ – Centro de Controle de Zoonoses
+CETAS – Centro de Triagem de Animais Silvestres
+CINDS – Centro Integrado de Defesa Social
+COBOM – Centro de Operações de Bombeiros
+IBAMA – Instituto Brasileiro do Meio Ambiente e dos Recursos Naturais Renováveis
+IEF – Instituto Estadual de Florestas
+ITO – Instrução Técnica Operacional
+OBM – Organização de Bombeiro Militar
+PMAmb – Polícia Militar do Meio Ambiente
+SEMAD – Secretaria de Estado de Meio Ambiente e Desenvolvimento Sustentável
+SOF – Sala de Operações da Fração
+SOU – Sala de Operações da Unidade
+SUS – Serviço Único de Saúde
+UNESCO – Organização das Nações Unidas para a Educação, a Ciência e a Cultura
+UFMG – Universidade Federal de Minas Gerais
+UFPel – Universidade Federal de Pelotas
+SEPARATA Nº 38
+DE 22 DE SETEMBRO DE 2016
+Página
+576
+
+Visto do Ajudante Geral
+SUMÁRIO
+ PÁGINA
+1. INTRODUÇÃO........................................................................................................................................................ ..... ....666
+2. FINALIDADE............................................................................................................................................................................ 7
+3. OBJETIVOS............................................................................................................................................................................. 8
+4. ASPECTOS LEGAIS................................................................................................................................................................ 8
+5. CONCEITOS E DEFINIÇÕES................................................................................................................................................ 10
+5.1.Animais Domésticos............................................................................................................................................................... 10
+5.2.Animais Silvestres.................................................................................................................................................................. 10
+5.3.Animais Selvagens................................................................................................................................................................. 10
+5.4.Animais Exóticos.................................................................................................................................................................... 10
+5.5.Animais Soltos em Via Pública............................................................................................................................................... 11
+5.6.Animais em Risco .................................................................................................................................................................. 11
+5.7.Animal Oferecendo Perigo ..................................................................................................................................................... 11
+5.8.Animais Peçonhentos............................................................................................................................................................. 11
+5.9.Apicultor e Meliponicultor ....................................................................................................................................................... 11
+5.10.Canil ou Curral Municipal...................................................................................................................................................... 11
+5.11.Centro de Controle de Zoonoses (CCZ)................................................................................................................................ 11
+5.12.Centro de Triagem de Animais Silvestres (CETAS) .............................................................................................................. 12
+5.13.Contenção Química.............................................................................................................................................................. 12
+5.14.Contenção Física.................................................................................................................................................................. 12
+5.15.Distância Crítica ................................................................................................................................................................... 12
+5.16.Instituto Brasileiro de Meio Ambiente e dos Recursos Naturais Renováveis (IBAMA)........................................................... 12
+5.17.Instituto Estadual de Florestas (IEF)..................................................................................................................................... 13
+5.18.Jardim Zoológico .................................................................................................................................................................. 13
+5.19.Médico Veterinário................................................................................................................................................................ 13
+5.20.Polícia Militar de Meio Ambiente (PMAmb)........................................................................................................................... 13
+5.21.Zoonoses.............................................................................................................................................................................. 13
+6. CLASSIFICAÇÃO E CARACTERÍSTICAS DOS ANIMAIS MAIS SUJEITOS À CAPTURA.............................................. 14
+6.1.INVERTEBRADOS................................................................................................................................................................. 14
+6.2.VERTEBRADOS.................................................................................................................................................................... 15
+7. CONTENÇÃO ........................................................................................................................................................................ 17
+7.1.Contenção Química................................................................................................................................................................ 17
+7.2.Contenção Física ................................................................................................................................................................... 18
+7.3.Preparativos........................................................................................................................................................................... 19
+7.4.Procedimentos Operacionais.................................................................................................................................................. 20
+SEPARATA Nº 38
+DE 22 DE SETEMBRO DE 2016
+Página
+577
+
+Visto do Ajudante Geral
+7.4.1.Invertebrados (Abelhas, Marimbondos, Aranhas e Escorpiões)........................................................................................... 20
+7.4.2.Vertebrados......................................................................................................................................................................... 22
+I – Aves .........................................................................................................................................................................................22
+II – Serpentes............................................................................................................................................................................... 23
+III – Répteis .................................................................................................................................................................................. 25
+III – 1 Jacarés............................................................................................................................................................................... 25
+IV – Mamíferos Domésticos.......................................................................................................................................................... 27
+IV – 1 Cães (Canídeos): ............................................................................................................................................................... 27
+IV – 2 Gatos (Felinos)................................................................................................................................................................... 30
+IV – 3 Equídeos e Bovídeos ......................................................................................................................................................... 32
+V – Animais Selvagens................................................................................................................................................................. 36
+V – 1 Roedores ............................................................................................................................................................................ 37
+V – 2 Primatas (Macaco) ............................................................................................................................................................. 39
+V – 3 Felídeos ............................................................................................................................................................................. 40
+V – 4 Canídeos Selvagens ........................................................................................................................................................... 42
+V – 5 Tamanduás ......................................................................................................................................................................... 43
+8. PROCEDIMENTOS EM CASO DA ORGANIZAÇÃO DOS ANIMAIS EM GRUPOS ............................................................... 44
+9. TRANSPORTE DE ANIMAIS CAPTURADOS........................................................................................................................ 45
+10. DESTINAÇÃO DOS ANIMAIS CAPTURADOS ...................................................................................................................... 46
+10.1.Óbices à Destinação dos Animais......................................................................................................................................... 47
+10.2.Animais Soltos em Rodovias ................................................................................................................................................ 48
+11. O SACRIFÍCIO ANIMAL (EUTANÁSIA).................................................................................................................................. 49
+12. CONSIDERAÇÕES FINAIS ................................................................................................................................................... 49
+13. BIBLIOGRAFIA .................................................................................................................................................................... 49
+14. BIBLIOGRAFIA DE FIGURAS................................................................................................................................................ 51
+APÊNDICE I - KIT PARA CAPTURA E CONTENÇÃO DE ANIMAIS ............................................................................................ 54
+APÊNDICE II - DESINFECÇÃO ................................................................................................................................................... 60
+APÊNDICE III - CAPTURA DE ABELHAS.................................................................................................................................. 622
+SEPARATA Nº 38
+DE 22 DE SETEMBRO DE 2016
+Página
+578
+
+Visto do Ajudante Geral
+1. INTRODUÇÃO
+A captura de animais de maneira ordinária, no Corpo de Bombeiros Militar de Minas Gerais (CBMMG), é dividida
+em dois grupos: animais em perigo ou situação de risco e soltos oferecendo risco à população.
+Devido ao avanço gradativo das áreas urbanas em direção às áreas consideradas rurais em todo o Estado, os
+animais distribuídos nos diversos biomas estão sendo obrigados a dividir espaço com pessoas e buscar
+alimentos e abrigos nas áreas urbanizadas; além da grande quantidade de animais abandonados ou em fuga,
+que acabam oferecendo risco à população.
+Conforme descrito no quadro abaixo, o número de ocorrências envolvendo a captura de animais em todo o
+Estado é crescente, apesar de oscilar anualmente. Esses dados demonstram a necessidade de preparação para
+atender esses tipos de ocorrência, com o uso adequado das técnicas, para que não sejamos vítimas e nem
+causemos sofrimento ou ferimentos nos animais.
+Número de ocorrências envolvendo a captura de animais no Estado de Minas Gerais,
+exceto Captura de Insetos, de 2005 a 2015
+ANO 2005 2006 2007 2008 2009 2010 2011 2012 2013 2014 2015
+Número de
+ocorrências 2.784 3.866 5.199 5.258 4.889 5.105 6.443 6.822 6.033 6.071 7.198
+ Fonte: CINDS/BM (Anuário Estatístico de Ocorrências)
+Segundo o Professor Antônio Pereira de Novaes, desde seus primórdios o homem procurou adaptar os métodos
+de contenção às suas necessidades com o propósito de obter comodidade e segurança na lida com os animais.
+Dentre esses princípios, ao se lidar com animais domésticos ou silvestres, deve-se reduzir as possibilidades de
+acidentes, utilizando-se métodos de contenção seguros.
+É importante destacarmos que os equipamentos para a captura e contenção de animais nada mais são do que
+uma extensão da própria mão do ser humano, que, de uma forma ou de outra, possibilitam que se alcance e se
+manipule o animal sem que haja um contato direto.
+Os animais são protegidos por Leis Federais e Estaduais, além de terem direitos assegurados pela Declaração
+Universal dos Direitos dos Animais, proclamada na UNESCO em 1978:
+Art. 1º - Todos os animais nascem iguais perante a vida e têm os mesmos direitos à existência.
+Art. 2º - 1. Todo o animal tem o direito a ser respeitado.
+2. O homem, como espécie animal, não pode exterminar os outros animais ou explorá-los violando esse direito; tem o dever
+de pôr os seus conhecimentos ao serviço dos animais.
+3. Todo o animal tem o direito à atenção, aos cuidados e à proteção do homem.
+Art. 3º - 1. Nenhum animal será submetido nem a maus tratos nem a atos cruéis.
+2. Se for necessário matar um animal, ele deve de ser morto instantaneamente, sem dor e de modo a não provocar-lhe
+angústia.
+Art. 4º - 1. Todo o animal pertencente a uma espécie selvagem tem o direito de viver livre no seu próprio ambiente natural,
+terrestre, aéreo ou aquático e tem o direito de se reproduzir.
+2. Toda a privação de liberdade, mesmo que tenha fins educativos, é contrária a este direito.
+Art. 5º - 1. Todo o animal pertencente a uma espécie que viva tradicionalmente no meio ambiente do homem tem o direito de
+viver e de crescer ao ritmo e nas condições de vida e de liberdade que são próprias da sua espécie.
+2. Toda a modificação deste ritmo ou destas condições que forem impostas pelo homem com fins mercantis é contrária a
+este direito.
+Art. 6º - 1. Todo o animal que o homem escolheu para seu companheiro tem direito a uma duração de vida conforme a sua
+longevidade natural.
+2. O abandono de um animal é um ato cruel e degradante.
+Art. 7º - Todo o animal de trabalho tem direito a uma limitação razoável de duração e de intensidade de trabalho, a uma
+alimentação reparadora e ao repouso.
+Art. 8º - 1. A experimentação animal que implique sofrimento físico ou psicológico é incompatível com os direitos do animal,
+quer se trate de uma experiência médica, científica, comercial ou qualquer que seja a forma de experimentação.
+2. As técnicas de substituição devem ser utilizadas e desenvolvidas.
+Art. 9º - Quando o animal é criado para alimentação, ele deve de ser alimentado, alojado, transportado e morto sem que
+disso resulte para ele nem ansiedade nem dor.
+SEPARATA Nº 38
+DE 22 DE SETEMBRO DE 2016
+Página
+579
+
+Visto do Ajudante Geral
+Art. 10º - 1. Nenhum animal deve de ser explorado para divertimento do homem.
+2. As exibições de animais e os espetáculos que utilizem animais são incompatíveis com a dignidade do animal.
+Art. 11º - Todo o ato que implique a morte de um animal sem necessidade é um biocídio, isto é, um crime contra a vida.
+Art. 12º - 1. Todo o ato que implique a morte de um grande número de animais selvagens é um genocídio, isto é, um crime
+contra a espécie.
+2. A poluição e a destruição do ambiente natural conduzem ao genocídio.
+Art. 13º - 1. O animal morto deve de ser tratado com respeito.
+2. As cenas de violência de que os animais são vítimas devem ser interditas no cinema e na televisão, salvo se elas tiverem
+por fim demonstrar um atentado aos direitos do animal.
+Art. 14º - 1. Os organismos de proteção e de salvaguarda dos animais devem estar presentados a nível governamental.
+2. Os direitos do animal devem ser defendidos pela lei como os direitos do homem.
+Diante do exposto, fica evidenciado que toda captura de animal deve ser repleta de cuidados, de modo a não
+causar sofrimento ou ferimentos; todavia, a integridade física dos bombeiros e/ou pessoas jamais pode ser
+ameaçada ou colocada em segundo plano.
+2. FINALIDADE
+A presente Instrução Técnica Operacional (ITO) tem por finalidade orientar as ações das Guarnições Bombeiro
+Militar distribuídas em todo o Estado empenhadas neste tipo de ocorrência e padronizar o uso dos equipamentos
+de captura.
+É importante salientar que não se trata de uma Instrução taxativa, pois cada ocorrência evolui de uma maneira e,
+por mais que se assemelhem, o comportamento do animal pode variar devido a seu porte, peso, estado de
+saúde e/ou ambiente.
+3. OBJETIVOS
+a) Melhorar a qualidade nos atendimentos de ocorrências;
+b) Preservar a integridade física do bombeiro militar e do animal;
+c) Assegurar os Direitos Universais dos Animais;
+d) Demonstrar a responsabilidade social do bombeiro militar em alguns tipos de ocorrência envolvendo
+animais;
+e) Assegurar a destinação correta dos animais capturados;
+f) Despertar nas Unidades BM a importância de manter contatos estreitos com órgãos competentes para
+recebimento de animais;
+g) Descrever as principais doenças às quais os militares estão expostos ao manipularem os animais;
+h) Definir e diferenciar alguns conceitos básicos que podem gerar dúvidas nas guarnições;
+i) Descrever as competências de cada órgão ambiental ou semelhante dentro de suas respectivas esferas
+de governo;
+j) Classificar os animais e suas espécies;
+k) Alertar os bombeiros quanto aos mecanismos de defesa de algumas espécies animais;
+l) Alertar as guarnições quanto aos casos de necessidade de sacrifício do animal;
+m) Orientar as GU BM quanto à necessidade de desinfecção dos equipamentos/veículos utilizados na
+captura;
+n) Facilitar a triagem das chamadas recebidas pelo COBOM/SOU/SOF.
+SEPARATA Nº 38
+DE 22 DE SETEMBRO DE 2016
+Página
+580
+
+Visto do Ajudante Geral
+4. ASPECTOS LEGAIS
+Diversas Leis e Decretos protegem e respaldam a atuação do CBMMG na captura/contenção de animais, dentre
+elas citamos:
+a) Constituição Federal de 1988 – Art. 225 – Inciso VII.
+b) Constituição Estadual de 1989 – Art. 214 - Inciso V.
+c) Lei nº 9.605, de 12 de fevereiro de 1998, que dispõe sobre as sanções penais e administrativas derivadas de
+condutas e atividades lesivas ao meio ambiente, e dá outras providências.
+d) Lei Estadual nº 16.301, de 7 de agosto de 2006, que disciplina a criação de cães das raças que especifica, e
+dá outras providências.
+e) Decreto nº 44.417, de 6 de dezembro de 2006, que regulamenta a Lei nº 16.301, de 7 de agosto de 2006, que
+disciplina a criação de cães das raças que especifica.
+f) Lei nº 21.159, de 17 de janeiro de 2014, que proíbe, no território do Estado, a apresentação, a manutenção e
+a utilização de animais silvestres ou domésticos, nativos ou exóticos, em espetáculos circenses.
+g) Instrução Normativa n.º 7/2015 – IBAMA – Define os Centros de Triagem e Centros de Reabilitação de fauna
+silvestre como únicas categorias de uso e manejo de fauna com permissão legal para receber animais silvestres
+provenientes de ações de fiscalização, resgate ou entrega voluntária.
+Os bombeiros militares, por serem agentes públicos, representantes legais do Estado e investidos de autoridade
+para agir em seu nome, devem sempre trabalhar alinhados com as leis, para que sejam legítimas as ações de
+captura dos animais em risco ou perigo, mesmo que para isso tenha que utilizar de força física e meios para
+realizar uma captura bem-sucedida, minimizando os riscos para a integridade física de qualquer pessoa.
+O Código Penal, em seu Art. 23, prevê as excludentes de ilicitude: o estrito cumprimento do dever legal, o
+exercício regular de direito, a legítima defesa e o estado de necessidade; no entanto, o(s) militar(es)
+responderá(ão) por eventuais excessos.
+O estrito cumprimento do dever legal e o exercício regular do direito ocorrem quando o bombeiro, para cumprir
+uma de suas missões constitucionais, tem como ÚNICO CAMINHO agir de forma contrária ao tipificado na Lei e
+sacrificar o direito alheio.
+Por sua vez, em linhas gerais, a legítima defesa e o estado de necessidade ocorrem quando a ação do agente é
+defensiva e é realizada para evitar mal maior à sua integridade física ou à de terceiros, devido a um perigo
+iminente ou impossibilidade de agir de outra forma.
+A própria Constituição Federal, em seu Art. 144, prevê que a segurança pública é dever do Estado e constitui os
+Corpos de Bombeiros Militares como um dos órgãos responsáveis para preservação da ordem pública e da
+incolumidade (proteção/segurança desejável) das pessoas.
+Já a Constituição Estadual, em seu Art. 142, prevê as competências do Corpo de Bombeiros Militar:
+(...)
+II – ao Corpo de Bombeiros Militar, a coordenação e a execução de ações de
+defesa civil, a prevenção e combate a incêndio, perícias de incêndio, busca e
+salvamento e estabelecimento de normas relativas à segurança das pessoas e
+de seus bens contra incêndio ou qualquer tipo de catástrofe.
+Tais Constituições trazem bem definidas a função do Corpo de Bombeiros Militar perante a sociedade; por isso
+capturar animais oferecendo risco, utilizando meios e força necessários para contê-los, é totalmente legítimo, já
+que esta ação busca trazer a proteção/segurança desejável para as pessoas. A captura de animais em perigo se
+caracteriza, por analogia, como um salvamento, evitando, assim, o sofrimento animal, previsto no Art. 2º da
+Declaração Universal dos Direitos dos Animais.
+SEPARATA Nº 38
+DE 22 DE SETEMBRO DE 2016
+Página
+581
+
+Visto do Ajudante Geral
+Um ponto que deve ser destacado é que a Constituição Estadual, em seu Art. 171, alínea “c”, prevê que os
+municípios devem legislar sobre animais nocivos (fonte de perigo, transmissores ou causadores de doenças) em
+logradouros públicos, portanto compete às prefeituras municipais capturarem animais soltos em via pública,
+geralmente através de seus respectivos Centros de Controle de Zoonose (CCZ).
+5. CONCEITOS E DEFINIÇÕES
+5.1. Animais Domésticos
+São as espécies que, por meio de processos tradicionais de manejo e melhoramento zootécnico, tornaram-se
+domésticas, possuindo características biológicas e comportamentais em estreita dependência do homem,
+podendo, inclusive, apresentar aparência diferente da espécie silvestre que os originou.
+Exemplos: gato, cachorro, cavalo, vaca, búfalo, porco, galinha, pato, marreco, peru, avestruz, codorna-chinesa,
+canário-belga, periquito-australiano, calopsita e abelha-europeia, dentre outros. A portaria n.º 93/1998 do IBAMA,
+em seu anexo 1, lista uma série de animais domésticos para fins de operacionalização.
+5.2. Animais Silvestres
+São aqueles pertencentes às espécies nativas, migratórias e quaisquer outras, aquáticas ou terrestres, que
+tenham a vida ou parte dela ocorrendo naturalmente dentro dos limites do território brasileiro e suas águas.
+Exemplos: mico, morcego, quati, onça, tamanduá, ema, papagaio, arara, tico-tico, galo-da-campina, jiboia,
+jacaré, jabuti, abelha-sem-ferrão, vespa, borboleta, aranha e outros. O acesso, o uso e o comércio de animais
+silvestres são controlados pelo IBAMA e IEF em Minas Gerais.
+A Lei Complementar n.º 140/2011 estabelece que o controle de empreendimentos que utilizam fauna é
+compartilhado entre IBAMA e Estados.
+5.3. Animais Selvagens
+São chamados selvagens animais não domesticados que vivem nos seus habitats naturais, como florestas,
+desertos ou oceanos. Referem-se, em teoria, aos animais isolados de contato humano. Podem ser também
+chamados de animais silvestres. É dito em teoria, pois restam poucos locais no planeta ainda não ocupados pela
+civilização humana.
+5.4. Animais Exóticos
+São aqueles cuja distribuição geográfica não inclui o território brasileiro. Outras espécies consideradas exóticas
+são aquelas que tenham sido introduzidas fora das fronteiras brasileiras e suas águas e que tenham entrado
+espontaneamente em território brasileiro.
+Exemplos: leão, zebra, elefante, urso, javali, naja, tartaruga-de-orelha-vermelha e cacatua, dentre outros.
+5.5. Animais Soltos em Via Pública
+São aqueles que vagam à procura de alimento/abrigo ou deslocam-se de um ponto ao outro em local público,
+sem a presença de um dono ou responsável.
+5.6. Animais em Risco
+Todo e qualquer animal que esteja em situação que o impossibilite de se locomover ou sair de determinado local,
+desde que haja ameaças iminentes à saúde ou à vida. O risco pode estar associado à ação humana ou do
+próprio ambiente.
+SEPARATA Nº 38
+DE 22 DE SETEMBRO DE 2016
+Página
+582
+
+Visto do Ajudante Geral
+5.7. Animal Oferecendo Perigo
+Situação na qual há risco imediato, portanto, caso não haja intervenção, o quadro poderá evoluir de forma a
+causar danos à integridade física de alguém.
+5.8. Animais Peçonhentos
+Segundo o Ministério da Saúde, animais peçonhentos são aqueles que possuem glândulas produtoras de
+veneno ou substâncias tóxicas, além de aparelho especializado (dentes ocos, ferrões, aguilhões ou cerdas), por
+onde o veneno é inoculado. Os animais peçonhentos de importância para a saúde pública no Brasil são
+serpentes, aranhas, escorpiões, lagartas, abelhas e outros.
+5.9. Apicultor e Meliponicultor
+Apicultores são indivíduos que praticam a apicultura, ou seja, criam abelhas do gênero Apis para a obtenção de
+um ou mais dos seguintes produtos: mel, cera, pólen, geleia real, própolis ou veneno.
+Meliponicultores são também criadores de abelhas para obtenção dos mesmos produtos almejados pelos
+apicultores, porém a partir de meliponídeos, ou seja, abelhas nativas (indígenas) e sem ferrão.
+5.10. Canil ou Curral Municipal
+São estruturas criadas nos municípios, geralmente os que não possuem CETAS, e que tem a finalidade de
+receber, alojar, e tratar animais domésticos e silvestres capturados, bem como destiná-los aos seus donos,
+quando for o caso. Visa o controle da população animal, prevenção e controle de zoonoses e proteção animal.
+5.11. Centro de Controle de Zoonoses (CCZ)
+São unidades de saúde pública que têm como atribuição fundamental prevenir e controlar as zoonoses (como
+raiva/hidrofobia e a leishmaniose visceral, além da dengue e doença de Chagas), desenvolvendo sistemas de
+vigilância sanitária e epidemiológica. Desempenham suas funções por meio do controle de populações de
+animais domésticos (cães, gatos e animais de grande porte) e controle de populações de animais sinantrópicos
+(morcegos, pombos, ratos, mosquitos e abelhas, dentre outros) que se adaptam a viver junto ao homem, a
+despeito da vontade deste.
+Além de funções previstas, cabe ao CCZ planejar, normatizar, coordenar, acompanhar, avaliar, executar as
+ações de controle de zoonoses, integrar os sistemas de informação do Sistema Único de Saúde (SUS) para
+manutenção de banco de dados, produção e difusão de informações e criar, construir e equipar os núcleos de
+controle de zoonoses. Não é função do CCZ funcionar como canil, concentrando animais que não sejam de
+interesse de saúde pública.
+5.12. Centro de Triagem de Animais Silvestres (CETAS)
+É todo empreendimento autorizado pelo IBAMA, somente de pessoa jurídica, que tem por finalidade receber,
+identificar, marcar, triar, avaliar, recuperar, reabilitar e destinar animais silvestres provenientes da ação de
+fiscalização, resgates ou entrega voluntária de particulares.
+5.13. Contenção Química
+Contenção química refere-se ao estado induzido por medicamento, que produz modificação favorável do
+comportamento, sedação, analgesia e/ou relaxamento muscular, com objetivo de alcançar o estado de
+mobilidade que permita a realização de um procedimento médico ou de manejo mais prolongado, minimizando
+assim o estresse e oferecendo segurança para o animal e a equipe.
+SEPARATA Nº 38
+DE 22 DE SETEMBRO DE 2016
+Página
+583
+
+Visto do Ajudante Geral
+5.14. Contenção Física
+É caracterizada como sendo a cessação mecânica dos movimentos, de modo que o animal permaneça contido
+para permitir a intervenção dos procedimentos necessários, como, por exemplo, efetuar exames clínicos, coleta
+de material para exames laboratoriais e vacinação ou a captura propriamente dita.
+5.15. Distância Crítica
+É aquela que o animal mantém do seu “inimigo” antes de apresentar comportamento agonístico (de luta ou fuga).
+Se ela for ultrapassada o animal ataca ou foge. Almejando efetuar contenção química, o Médico Veterinário
+deverá manter distância suficiente para que não seja atingido o ponto de fuga do animal, o qual é variável entre
+as espécies. Esta distância pode variar entre animais da mesma espécie.
+5.16. Instituto Brasileiro de Meio Ambiente e dos Recursos Naturais Renováveis (IBAMA)
+O IBAMA, criado pela Lei nº 7.735/89, é uma autarquia federal vinculada ao Ministério do Meio Ambiente. É
+responsável pela execução da Política Nacional do Meio Ambiente no que toca à presença e conservação do
+patrimônio natural, exercendo o controle e a fiscalização sobre o uso dos recursos naturais (água, flora, fauna,
+solo, etc.). O acesso, o uso e o comércio de animais silvestres são controlados por ele.
+5.17. Instituto Estadual de Florestas (IEF)
+Vincula-se à Secretaria de Estado de Meio Ambiente e Desenvolvimento Sustentável – SEMAD e tem por
+finalidade executar a política florestal do Estado e promover a preservação e a conservação da fauna e da flora,
+o desenvolvimento sustentável dos recursos naturais renováveis e da pesca, bem como a realização de
+pesquisas em biomassa e biodiversidade. Com a Lei nº 140/2011, o IEF passa a ser responsável pela gestão da
+fauna no Estado de Minas Gerais e compartilha essa responsabilidade com o IBAMA.
+5.18. Jardim Zoológico
+Também chamado de zoológico ou simplesmente zoo, é um local específico para manter animais selvagens e
+domesticados que podem ser exibidos ao público. Nele existem profissionais especializados, como veterinários,
+biólogos e zootecnistas, que cuidam da alimentação, das jaulas, da saúde mental e física dos animais, dentre
+muitas outras atividades.
+Os zoológicos possuem vários objetivos, dentre os quais estão a pesquisa, a preservação e a educação, sendo
+que a diversão é o menos relevante. Assim, os zoológicos têm o papel de proteger os animais, em vez de
+explorá-los. Têm como grande função a pesquisa, como, por exemplo, tratamento de doenças, inseminação
+artificial e rastreamento de animais na natureza.
+5.19. Médico Veterinário
+O médico veterinário tem por atribuição prestar assistência clínica e cirúrgica a animais domésticos e silvestres,
+além de cuidar da saúde, da alimentação e da reprodução de rebanhos. Outra de suas funções,
+complementando sua atenção na saúde animal e na saúde pública, é inspecionar a produção de alimentos de
+origem animal. O médico veterinário é, também, o profissional capacitado/responsável para a utilização de
+técnicas de contenções farmacológicas.
+5.20. Polícia Militar de Meio Ambiente (PMAmb)
+A Polícia Ambiental é uma das subdivisões da Polícia Militar que tem por funções fiscalizar as exportações
+florestais, o transporte de produtos e subprodutos florestais, o transporte e o comércio de pescados, o transporte
+e o comércio de plantas vivas procedentes de florestas, os desmatamentos e queimadas, os criadouros de
+animais silvestres e as atividades de pisciculturas, além de coibir as atividades poluidoras do meio ambiente, e
+outras relacionadas.
+SEPARATA Nº 38
+DE 22 DE SETEMBRO DE 2016
+Página
+584
+
+Visto do Ajudante Geral
+5.21. Zoonoses
+Entende-se por zoonoses as infecções ou doenças infecciosas transmissíveis por animais ao homem e as que
+são comuns ao homem e aos animais. O exemplo clássico é a raiva. A leishmaniose visceral tem sido, nos dias
+atuais, uma importante zoonose, porém não é transmitida ao homem pelo contato direto com o cão. Ela precisa
+do vetor, que é um mosquito.
+6. CLASSIFICAÇÃO E CARACTERÍSTICAS DOS ANIMAIS MAIS SUJEITOS À CAPTURA
+Classificar significa agrupar os seres seguindo características comuns. Esses caracteres podem ser anatômicos,
+fisiológicos, genéticos e evolutivos. Taxonomia é a ciência que se incumbe de classificar os seres vivos.
+De acordo com o sistema de classificação criado por um cientista chamado Carolus Linnaeus (traduzido para o
+Português: Lineu), os seres vivos podem ser classificados em Reino, Filo, Classe, Ordem, Família, Gênero e
+Espécie, podendo haver subdivisões desses grupos (táxons). Esse método leva em consideração apenas
+semelhanças anatômicas e fisiológicas, não observando similaridades evolutivas. Sendo assim, existe outra
+forma de agrupar os organismos vivos seguindo parentescos evolutivos: a Sistemática Filogenética ou
+Cladística.
+Os animais são organismos vivos multicelulares que pertencem ao reino Metazoa (reino dos animais). Para este
+trabalho, iremos inicialmente dividir os animais em vertebrados e invertebrados e citaremos apenas os grupos
+que possuem importância em relação à atividade do Bombeiro Militar. Em caso de acidentes, as ações de APH
+seguirão ao disposto na ITO 23 - Protocolo de APH.
+6.1. INVERTEBRADOS
+São os animais que não apresentam coluna vertebral. Exemplos: minhocas, insetos, aracnídeos, moluscos
+(lesmas e caramujos) e crustáceos. Destacaremos, em seguida, os invertebrados que frequentemente oferecem
+riscos aos humanos ou outros animais, sendo mais recorrentes nos chamados junto ao CBMMG:
+I- Abelhas: Os grupos de abelhas que oferecem maior risco de ataque pertencem ao gênero Apis, pois
+possui um aparelho capaz de inocular veneno: a apitoxina. Pessoas que sofrerem múltiplos ataques podem
+desenvolver insuficiência renal aguda (IRA) em até 72 horas.
+Algumas espécies de abelhas nativas não devem ser alvo de extermínio por parte do CBMMG, pois tal
+ação pode contribuir para a extinção dessas espécies, que são muito importantes na polinização de plantas
+brasileiras: Jataí, Arapuá, Uruçu Amarela, Guarupu, Mandaçaia-do-Chão, Mirim-Guaçu, dentre outras.
+II- Marimbondos: Diferem das abelhas por apresentarem um estreitamento entre o tórax e o abdômen,
+formando uma cintura. Constroem seus ninhos com lama, geralmente em telhados e forros das casas. São
+atraídas por perfumes e substâncias doces. Tornam-se agressivas quando molestadas por pessoas ou animais.
+Possuem ferrão e toxina. A composição do veneno ainda é pouco conhecida, porém existe diferença
+entre os venenos das abelhas e dos marimbondos. Constitui-se, também, de mistura de substâncias (proteínas e
+aminas). O quadro clínico é parecido com o de acidente causado por abelhas do gênero Apis, podendo até
+desenvolver reações de hipersensibilidade, entretanto, no caso dos marimbondos, não há presença do ferrão no
+local da picada.
+III- Aranhas: possuem o corpo articulado, quatro pares de pernas e o corpo dividido em cefalotórax e
+abdômen. Quase todas as espécies descritas no mundo possuem glândula de veneno, entretanto, no Brasil,
+apenas 3 gêneros podem causar envenenamento grave em humanos: Armadeira, Marrom e Viúva-Negra.
+De maneira geral, os acidentes envolvendo aranhas podem causar dor (de discreta a severa) no membro
+afetado, priapismo, náuseas, vômitos, dor abdominal, sialorreia (salivação abundante), sudorese, hipertensão
+arterial e taquicardia. Além disso, pode ocorrer necrose e insuficiência renal em caso de acidentes com aranhas
+SEPARATA Nº 38
+DE 22 DE SETEMBRO DE 2016
+Página
+585
+
+Visto do Ajudante Geral
+marrons. Raramente os acidentes com aranhas são fatais. Em envenenamentos graves, pode ocorrer estado de
+choque e edema pulmonar. Os sinais e sintomas irão depender da espécie que causou o envenenamento.
+IV-Escorpiões: O veneno do escorpião provoca quadro local e sistêmico, que varia muito, dependendo
+da espécie do animal, quantidade de veneno inoculado e da idade do paciente (mais grave nos extremos etários
+- crianças e idosos). No local da picada, geralmente ocorre dor, que pode irradiar para todo o membro, seguido
+de edema. Dentre as manifestações sistêmicas, podemos citar: náusea, vômito, arritmia cardíaca, insuficiência
+cardíaca congestiva, estado de choque, sudorese, agitação e dispneia. Nos casos graves, pode ocorrer parada
+cardiorrespiratória.
+6.2. VERTEBRADOS
+São os animais que apresentam coluna vertebral.
+Exemplos: peixes, anfíbios, répteis, aves e mamíferos.
+Destacaremos, em seguida, os vertebrados que frequentemente oferecem riscos aos humanos ou outros
+animais, sendo mais recorrentes nos chamados junto ao CBMMG:
+I – Répteis: Os répteis são animais pecilotérmicos (a temperatura corporal varia conforme a do
+ambiente), possuem a pele seca e coberta por escamas ou estruturas rígidas (carapaças). Exemplos bem
+conhecidos são ofídios ou cobras. Em relação aos ofídios, muitos são venenosos, porém não são peçonhentos,
+pois não são capazes de inocular seu veneno. Algumas serpentes não possuem glândulas de veneno, mas
+podem causar acidentes através de sua mordedura e secundariamente causar infecções. Podem também matar
+suas presas por constrição.
+De maneira geral, as vítimas de serpentes peçonhentas podem apresentar os seguintes quadros clínicos: dor,
+necrose de membros, formação de bolhas, hemorragias, ptose palpebral, face miastênica, diplopia, hematúria,
+distúrbios de coagulação sanguínea, insuficiência renal, dispneia, insuficiência respiratória aguda, podendo,
+inclusive, haver episódios fatais.
+No Brasil existem quatro grupos de serpentes peçonhentas: Bothrops (grupo das jararacas), Crotalus (grupo das
+Cascavéis), Lachesis (grupo da surucucu pico-de-jaca) e Micrurus (grupo das Corais Verdadeiras).
+A característica principal das serpentes peçonhentas do Brasil é a presença de fosseta loreal. Essa estrutura é
+um órgão responsável pela percepção de calor nas serpentes que a possuem. O único grupo de serpentes
+peçonhentas que não possui fosseta loreal é o das Corais Verdadeiras. Somado à fosseta loreal, podemos
+também observar as caudas dos animais. As cascavéis possuem chocalho ou guiso em suas caudas. As do
+gênero Bothrops possuem as escamas da cauda lisa no mesmo padrão do corpo. A surucucu pico-de-jaca
+possui as escamas eriçadas. Veja a fig. 02.
+Fig.02 – fosseta loreal em A; cauda típica de Bothrops em B; Cauda típica de Cascavel em C;
+cauda típica de Surucucu Pico-de-Jaca em D.
+A
+B
+C D
+SEPARATA Nº 38
+DE 22 DE SETEMBRO DE 2016
+Página
+586
+
+Visto do Ajudante Geral
+II – Aves: com características típicas que dispensam descrições, é importante frisar apenas que pássaro
+não é sinônimo de ave. Os pássaros são da ordem passeriformes, já as águias, falcões, carcarás e
+assemelhados são da ordem falconiformes. Apesar das diferenças, ambos estão inclusos na classe das aves.
+As aves têm como defesa: bicos e garras. Os ferimentos causados por ambos podem ser muito graves, podendo
+causar mutilação de partes do corpo e/ou até mesmo cegueira.
+Podem causar ao ser humano várias doenças por meio de aerossóis, secreções e excreções.
+III – Mamíferos: constituem uma classe de animais vertebrados caracterizados pela presença de
+glândulas mamárias que, nas fêmeas, produzem leite para alimentação dos filhotes, presença de pelos ou
+cabelos, com exceção dos golfinhos e de algumas baleias, os quais somente na fase embrionária possuem
+pelos.Destacaremos, em seguida, os mamíferos que frequentemente oferecem riscos aos humanos ou outros
+animais, sendo mais recorrentes nos chamados junto ao CBMMG:
+ Gambá: tem como defesa os dentes. O gambá brasileiro não exala odor desagradável, característica
+essa peculiar ao gambá norte americano.
+ Tamanduás: têm como defesa as patas dianteiras (unhas) e o “abraço”, momento este que os
+animais ficam num tripé formado por pernas traseiras, cauda e patas dianteiras.
+ Capivara: Não possui dentes caninos, mas possuem molares que trituram alimentos e dentes
+incisivos (da frente) bem desenvolvidos. Os dentes são seus principais mecanismos de defesa.
+ Morcego: possui como defesa os dentes. É grande transmissor de doenças, principalmente pelas
+fezes.
+ Equídeos: tem como defesa a cabeça, coice e esporadicamente os dentes.
+ Bovídeos: tem como defesa a cabeça e coice.
+ Javali: tem com defesa cabeça e dentes.
+ Macaco: possui grande força nos membros superiores e tem com defesa socos, mordidas e unhas.
+ Cães, Lobos, Gatos e Onças: possuem como defesa dentes e garras. Dependendo da espécie
+apresentam muita agressividade.
+Obs.: Todos os mamíferos possuem o potencial de transmitir a raiva por meio de mordidas, arranhões e
+lambeduras.
+7. CONTENÇÃO
+Conter um animal significa limitar seus movimentos ou até mesmo imobilizá-lo completamente. Os métodos de
+contenção podem ser divididos em físicos (mecânicos) e químicos (farmacológicos).
+A escolha do método de contenção, mecânica ou farmacológica, depende da espécie e do caso em questão, o
+que envolve conhecimento da biologia da espécie, como o porte do animal e como ele responde durante um
+período de estresse, ou seja, se o animal irá adotar uma postura de ataque, defesa ou fuga e com quais meios
+irá atacar e defender-se.
+Qualquer que seja o meio empregado é de fundamental importância que o método selecionado permita plena
+segurança para o animal e para a equipe envolvida. Para isso, é essencial uma equipe bem treinada e
+entrosada.
+7.1. Contenção Química
+Consiste na utilização de drogas em um animal, a fim de levá-lo a um estado de letargia ou sonolência e de
+mobilidade para que possa ser manuseado.
+SEPARATA Nº 38
+DE 22 DE SETEMBRO DE 2016
+Página
+587
+
+Visto do Ajudante Geral
+As drogas podem ser administradas por diversas vias, mas é dada ampla preferência à via intramuscular, em
+função de oferecer maior praticidade e menores riscos.
+A injeção intramuscular pode ser feita de maneira direta, estando, o paciente, contido por meios físicos ou
+podem ser empregados métodos de injeção à distância, como no caso de bastões aplicadores, zarabatanas ou
+até mesmo o uso de rifles e pistolas.
+Nos casos em que a agressividade, o porte do animal e/ou o espaço físico impedirem a ação do bombeiro,
+poderá ser realizada a contenção química.
+Para isso, de acordo com a Lei Federal nº 5.517, de 23 de outubro de 1968, haverá necessidade do
+acionamento de um veterinário, pois somente esse profissional tem legalmente autorização de emprego de
+armas com drogas em animais.
+Dessa forma, somente um profissional devidamente registrado no Conselho Regional de Medicina Veterinária
+poderá preparar o fármaco para eventuais empregos, mesmo que quem venha disparar a arma seja um
+bombeiro militar.
+7.2. Contenção Física
+A contenção mecânica ou física de um animal é considerada quando utilizamos as mãos ou algum equipamento
+para isso. Trata-se de um ato extremamente estressante para o animal, sendo que a intensidade e o
+prolongamento desse estímulo podem resultar em graves sequelas e até mesmo levá-lo à morte.
+A atuação do CBMMG na contenção de animais se restringirá às ocorrências em que o animal estiver em uma
+situação que coloque em risco sua integridade física ou sua vida ou que coloque em risco pessoas ou outros
+animais, devendo, então, ser imobilizado para transporte para uma instituição, soltura em seu habitat natural ou
+devolução ao seu proprietário.
+O recolhimento de animais doentes ou soltos em via pública não é responsabilidade do CBMMG,
+devendo ser acionado o Centro de Controle de Zoonose do município; no entanto, na impossibilidade do
+comparecimento do CCZ para capturar os animais soltos nas vias, o CBMMG pode fazer a captura, pois
+esses animais, além de estarem em risco/perigo, podem colocar em risco a integridade física de
+pedestres e motoristas.
+A responsabilidade sobre qualquer falha ou acidente é do coordenador da operação, que deve tomar a frente e
+descartar procedimentos errôneos. As possibilidades de acidentes devem ser reduzidas, utilizando-se métodos
+de contenção seguros.
+O ambiente em que o animal se encontra deve ser minuciosamente estudado, assim como locais de possível
+abrigo e meios de fuga, tanto para o animal como para o operador.
+Antes de conter qualquer animal, devemos conhecer seu comportamento de defesa, para que ele possa ser
+imobilizado, primeiramente, na parte do corpo com que tentará se defender.
+O respeito ao animal nunca deve ser negligenciado. Mesmo quando o sacrifício for necessário, deve-se
+minimizar a dor e o sofrimento.
+7.3. Preparativos
+a) Os chefes de Guarnição devem, ao assumirem o turno de serviço, verificar a existência dos materiais
+listados nesta Instrução Técnica Operacional e solicitá-los ao Setor de Meios/Almoxarifado da Unidade, caso
+necessário;
+b) Antes de conter um animal, todos os equipamentos e materiais necessários para o procedimento
+deverão estar prontos e disponíveis;
+SEPARATA Nº 38
+DE 22 DE SETEMBRO DE 2016
+Página
+588
+
+Visto do Ajudante Geral
+c) Utilizar sempre equipamentos de proteção e não subestimar o animal que será contido, visto que até
+mesmo animais de pequeno porte podem causar ferimentos graves;
+d) Respeitar a distância crítica, ou seja, manter uma distância mínima que respeite a individualidade do
+animal, a qual, se violada, pode levar o animal a atacar ou fugir;
+e) As roupas a serem utilizadas pelo bombeiro devem ser de cores discretas (preto, branco, cinza, marrom,
+caque) ou camufladas, além de permitirem movimentos livres;
+f) Odores podem ser utilizados para diminuir o estresse e atrair o animal. Quando da captura de animais
+livres, o odor tem importância ainda maior, sendo que frutas e flores de época da região podem ser esfregadas
+nas vestes e calçados;
+g) A fim de minimizar o cheiro humano, cosméticos, xampus, perfumes e repelentes de inseto têm uso não
+recomendado;
+h) O som pode ser utilizado para atrair muitas espécies de animais, estando normalmente relacionado à
+alimentação ou à reprodução, porém pode ser utilizado para afugentar, também, como é o caso de bombas;
+i) O fogo causa medo nos animais e serve para deter o ataque ou ajudar na transferência de locais
+(recintos);
+j) Duchas de água podem ajudar a repelir ou atrair o animal, de acordo com a espécie. Deve-se ter
+cuidado de não molhar o pavilhão auditivo para não predispor às infecções. Caso o pavilhão auditivo seja
+molhado, deve-se secar, fazendo-o com segurança;
+k) O alimento pode atrair e acalmar o animal e pode ser utilizado em armadilhas;
+l) Evitar segurar os animais apenas por uma pata, asa, bico ou braço. Lembrar sempre que algumas
+espécies possuem membros delicados, como aves e saguis, sendo assim, fraturas podem acontecer facilmente.
+Fluxograma de atendimento:
+Fonte: O Autor
+SEPARATA Nº 38
+DE 22 DE SETEMBRO DE 2016
+Página
+589
+
+Visto do Ajudante Geral
+7.4. Procedimentos Operacionais
+7.4.1. Invertebrados (Abelhas, Marimbondos, Aranhas e Escorpiões)
+a) Mecanismos de Defesa:
+ Ferrão e veneno (toxinas);
+ Picadas (com ou sem toxinas);
+ Irritação por liberação de cerdas.
+b) EPI:
+ Luvas de raspa ou vaqueta;
+ Óculos;
+ Capacete;
+ Macacão de apicultor;
+ Botas.
+c) Equipamentos para Captura:
+ Panos e toalhas;
+ Sacolas plásticas;
+ Puçá ou redes de malha fina;
+ Recipiente de transporte e/ou captura;
+ Fumigador;
+ Chamas se for necessário e possível.
+d) Métodos de Captura/Controle de Fauna:
+ Para a captura podem ser usados panos, toalhas, puçás ou redes de malha fina, de acordo com as
+características de cada espécie;
+ Nos casos em que houver risco iminente à população, ou seja, oferecer risco direto à integridade
+física do ser humano, poderá ser realizada a eliminação direta da espécie (insetos e aracnídeos),
+devidamente fundamentada com detalhamento pelo chefe da guarnição em documento oficial de registro
+de ocorrência;
+ É desejável que os insetos sejam eliminados o mais rápido possível, diminuindo-se, assim, o sofrimento
+deles. Existem muitas técnicas que podem ser empregadas para se eliminar insetos diretamente, dentre elas o
+uso de álcool 70% ou absoluto, gases tóxicos (inseticidas) e fogo (maçarico/ tocha);
+ Para se capturar aranhas ou escorpiões pode ser usado um frasco de “boca” larga, sendo colocado sobre
+o animal com cuidado para não esmagá-lo com a beirada do frasco. Depois coloca-se um papel embaixo, de
+preferência grosso, e vira-se o frasco para cima, tampando-o para maior segurança;
+Fig. 03 – Captura Aranha/Escorpião.
+SEPARATA Nº 38
+DE 22 DE SETEMBRO DE 2016
+Página
+590
+
+Visto do Ajudante Geral
+ O manuseio, captura ou extermínio de abelhas ou marimbondos deve ser executado preferencialmente
+no período noturno; período no qual esses animais diminuem suas atividades e aglomeram-se nos ninhos;
+ No caso de abelhas ou marimbondos alvoroçados em locais públicos, atacando pessoas e/ou animais, o
+uso de jatos d‟água pulverizados pode ser usado com a finalidade de espantá-los.
+7.4.2. Vertebrados
+I – Aves
+a) Mecanismos de Defesa:
+ Bico;
+ Garras,
+ Vômito (urubus).
+b) EPI:
+ Luvas de raspa ou vaqueta;
+ Óculos,
+ Capacete,
+ Jaqueta (capa de combate a incêndio).
+c) Equipamentos para Captura:
+ Panos e toalhas;
+ Puçá ou redes de malha fina
+ Caixa de transporte e/ou captura,
+ Sacos.
+d) Métodos de Captura:
+ Procura-se uma aproximação de forma pouco perceptível pelo animal e faz-se a captura repentina com o
+lançamento de um pano, toalha, rede ou puçá;
+ Com o animal capturado ainda envolvido, fixa-se a cabeça por trás, segurando com o dedo indicador na
+região dorsal da cabeça e com o dedão e o dedo médio nas laterais da cabeça; o restante da palma da mão
+serve como apoio para o corpo ou pescoço da ave, dependendo de seu tamanho;
+ Após conter a cabeça, fixam-se os membros pélvicos de tal forma que um dos dedos esteja entre as
+articulações dos membros da ave, evitando-se, assim, que sejam comprimidas;
+Fig. 04 – Captura de pássaro.
+Sempre usar luvas!!!
+SEPARATA Nº 38
+DE 22 DE SETEMBRO DE 2016
+Página
+591
+
+Visto do Ajudante Geral
+ No caso de aves como: falcão, águia, coruja e gavião, deve-se focar primeiramente nas garras e depois no
+bico, imobilizando-se, por fim, os pés, acima das garras, para evitar acidentes.
+e) Cuidados:
+ Deve-se ter cuidado para não comprimir o corpo das aves e, dessa maneira, impedir os movimentos
+respiratórios delas, tendo em vista não possuírem diafragma, o que pode levar à morte desses animais;
+ Sempre que possível, vendar os olhos da ave a fim de possibilitar a tranquilização;
+ A retirada de qualquer material que esteja preso ou enroscado no animal, como linha de pipa, deverá ser
+realizada com cautela;
+ Quanto aos urubus, eles também se defendem lançando vômito que contém ácidos fortes e muitas
+bactérias, o que pode representar perigo quando em contato com as mucosas das pessoas.
+II – Serpentes
+Havendo dúvidas, toda serpente deverá ser tratada como peçonhenta para captura pelo Corpo de Bombeiros.
+a) Mecanismos de Defesa:
+ Mordida ou picada;
+ Veneno;
+ Contrição (algumas serpentes de grande porte).
+b) EPI:
+ Bota cano longo ou perneira até altura do joelho;
+ Luvas de raspa ou vaqueta;
+ Óculos,
+Fig. 05 – Captura de ave de rapina.
+SEPARATA Nº 38
+DE 22 DE SETEMBRO DE 2016
+Página
+592
+
+Visto do Ajudante Geral
+ Capacete.
+c) Equipamentos para Captura:
+ Gancho (entre 1,00m e 1,20m);
+ Pinça;
+ Cambão,
+ Tubos (PVC, se possível transparente);
+ Caixa de transporte e/ou captura,
+ Laço de Lutz (pau de couro ou cambão).
+d) Métodos de Captura:
+ Respeitar à distância crítica dos répteis, devendo-se ter como base a extensão do equipamento utilizado
+para captura;
+ Quando for necessária a utilização das mãos para a captura do animal, ela deverá ser feita conjugada com
+equipamentos auxiliares (gancho, cambão e etc.);
+ Com o uso do gancho, do cambão ou laço de Lutz, faz-se uma leve pressão na base da cabeça da
+serpente, para contê-la, segurando firmemente com os dedos. Com a outra mão, segura-se a cauda, não
+podendo, o animal, ser seguro apenas pela cabeça;
+Fig. 06 – Laço de Lutz.
+Fig. 07 – Captura de serpente.
+Sempre usar luvas e óculos!!!
+SEPARATA Nº 38
+DE 22 DE SETEMBRO DE 2016
+Página
+593
+
+Visto do Ajudante Geral
+ Ao colocar o animal no solo ou na caixa de transporte, deverá ser usado o equipamento para imobilizar
+novamente a base da cabeça, antes de soltá-lo. Mantém-se a pressão atrás da cabeça, retira-se a mão e afastase;
+ Com o uso dos mesmos equipamentos, poderemos, ainda, levantar a serpente em sua parte medial, sem
+a utilização da mão atrás da cabeça, para colocação na caixa para transporte;
+ O fechamento da caixa e abertura deverá ser realizado com o uso do gancho, para evitar acidentes.
+e) Cuidados:
+ Tomar precaução quando for revirar troncos, pilhas de lenha, folhagens, pedras e etc.;
+ Levar sempre em conta o comportamento das serpentes, em especial a distância que podem atingir no bote,
+que varia com os gêneros e espécies, sendo, entretanto, cerca de 1/3 do comprimento corporal;
+ Em caso de acidentes, deverá ser prestado o socorro imediato com o transporte para hospital para aplicação
+do soro antiofídico, devendo, sempre que possível, ser capturado ou identificado o animal agressor;
+ Um dos fatores que influenciam a agressividade das serpentes é a temperatura, ou seja, quanto maior a
+temperatura mais agressiva e quanto mais frio maior sua sonolência;
+ Em atendimentos envolvendo serpentes exóticas, os bombeiros devem redobrar a atenção, devido à
+ausência de soros antiofídicos apropriados.
+III – Répteis
+III – 1 Jacarés
+a) Mecanismos de Defesa:
+ Mordida;
+ Cauda;
+ Unhas ou Garras.
+b) EPI:
+ Bota cano longo ou perneira até altura do joelho;
+ Luvas de raspa ou vaqueta;
+ Óculos;
+ Capacete.
+Fig. 08 – Captura com gancho.
+Sempre usar EPI
+SEPARATA Nº 38
+DE 22 DE SETEMBRO DE 2016
+Página
+594
+
+Visto do Ajudante Geral
+c) Equipamentos para Captura:
+ Cambão ou enforcador;
+ Laço;
+ Fitas adesivas resistentes ou tira de câmara de ar para fechamento da boca;
+ Pano para tapar os olhos do animal (umedecidos);
+ Redes (malha de 2,5 a 5 cm);
+ Cordas;
+ Gaiola de transporte e/ou captura.
+d) Métodos de Captura:
+ No caso de jacarés, pode-se utilizar o cambão, envolvendo o pescoço e um dos membros torácicos,
+tomando cuidado com a cauda, que possui grande força muscular. Segurar firmemente, pois tais animais
+possuem o hábito de girar sobre seu próprio eixo, com grande força;
+ O giro do animal pode arrancar o cambão das mãos de um homem e jogá-lo no chão;
+ Após o animal ter sido laçado pelo pescoço, sua boca deverá ser também, imobilizada. No entanto, ao
+envolver a boca com fita ou câmara de ar, deve-se tomar cuidado para não tapar suas narinas, já que
+isso pode levar o animal à morte;
+ Utiliza-se o laço com uma vara longa, para envolver a boca do animal, assim se permite que ele gire
+livremente, mantendo-se tensa a corda até que ele canse e pare;
+ Joga-se uma toalha molhada sobre os olhos, para que não consiga fixar o olhar num alvo (diminui a
+agressividade), sendo que, então, a boca é amarrada, as pernas traseiras são, também, amarradas junto ao
+corpo, e, por fim, as pernas dianteiras;
+Fig. 09 – Imobilização de Jacaré com 2 cambões.
+Fig. 10 e 11 – Imobilização de um Jacaré: cordas e fita
+adesiva.
+SEPARATA Nº 38
+DE 22 DE SETEMBRO DE 2016
+Página
+595
+
+Visto do Ajudante Geral
+ Também, pode-se encurralar o animal, deixando uma rota de fuga, onde é armado um dispositivo de
+captura (gaiola ou rede).
+e) Cuidados:
+ Esses animais geralmente possuem unhas afiadas e cortantes, podendo ferir o manipulador,
+principalmente com os membros pélvicos;
+ Nunca devemos segurar o animal apenas pela cauda, pois a maior parte dos lagartos pode desprendêlas como mecanismo de defesa.
+IV – Mamíferos Domésticos
+IV – 1 Cães (Canídeos):
+Família de mamíferos carnívoros que possuem 4 ou 5 dedos nas patas anteriores e posteriores, providas
+de garras não retráteis adaptadas para tração em corridas.
+a) Mecanismos de Defesa:
+ Dentes;
+ Garras.
+b) EPI:
+ Luvas de raspa ou vaqueta;
+ Óculos;
+ Capacete;
+ Botas;
+ Em alguns casos pode-se utilizar o roupão de aproximação de combate a incêndio, que, devido à sua
+espessura, pode dificultar a mordida do animal.
+c) Equipamentos para Captura:
+ Cambão ou Enforcador;
+ Cordas;
+ Rede;
+ Puçá;
+ Caixa de transporte e/ou captura e sacos.
+d) Métodos de Captura:
+ Antes de iniciar qualquer procedimento, deve-se isolar o local da captura, a fim de evitar o aumento do
+estresse animal devido à presença e agitação do público;
+ Prever uma rota de fuga para o animal, desde que com armadilha montada;
+ Planejar rota de fuga para a equipe;
+ O trabalho com o cambão/enforcador deverá ser realizado com, no mínimo, uma dupla de bombeiros,
+ambos com o equipamento, porém em lados opostos. Um dos bombeiros chama a atenção do animal, enquanto
+que o outro faz a captura;
+ Após o primeiro envolver o animal com o cambão/enforcador, o outro bombeiro também deverá fazê-lo;
+SEPARATA Nº 38
+DE 22 DE SETEMBRO DE 2016
+Página
+596
+
+Visto do Ajudante Geral
+ Não apertar o laço com muita força, pois poderá matar o animal por enforcamento ou causar traumatismo,
+como fraturas dentais e lesões na traqueia;
+ É aconselhável envolver a extremidade do cabo, onde forma o laço, com um pedaço de câmara de ar ou
+de mangueira, a fim de evitar a quebra dos dentes do animal;
+ Utilização da técnica do “Chicletes” ou “Isca”: Abre-se o laço do enforcador (1) e, por dentro da alça,
+coloca-se a ponta de outro enforcador (2). Quando o animal mordê-lo, envolve-se seu pescoço com o laço que
+está aberto, fechando-o rapidamente;
+ Rede de arrasto: O uso pode ocorrer encurralando o animal ou em sua rota de fuga;
+ Rede de arremesso: Utilizada em áreas abertas, a rede (tarrafa) é arremessada sobre o animal (estático
+ou em movimento);
+Fig. 12 – Imobilização com cambão
+Fig. 13 – Técnica do Chiclete/Isca.
+Fig. 14 – Utilização de Rede.
+SEPARATA Nº 38
+DE 22 DE SETEMBRO DE 2016
+Página
+597
+
+Visto do Ajudante Geral
+ O puçá poderá ser utilizado para a captura de cães de pequeno porte, tomando-se o cuidado devido ao
+diâmetro da malha, que poderá causar lesões no animal;
+ A gaiola ou jaula é utilizada para o transporte dos animais, porém pode ser utilizada como um dispositivo
+do tipo armadilha tomahawk ou sherman, colocando-se em seu interior uma isca para atrair o animal. Consiste
+em uma armadilha do tipo “espera”. Ela é armada em situações onde a captura do animal pode ser dificultada
+pelas características do ambiente, que proporciona várias rotas de fuga com risco ao operador e ao animal;
+ Após capturado, o animal deve ser colocado rapidamente na gaiola/jaula de transporte, mantendo-se a
+ventilação. Para acalmar o animal, é aconselhável cobrir a gaiola/jaula com um pano escuro, mantendo-se
+sempre uma boa ventilação.
+e) Cuidados
+ Realizar desinfecção dos equipamentos após utilização;
+ Observar se alguma pessoa foi mordida ou arranhada pelo animal a ser capturado, devido ao risco de
+transmissão de doença;
+ Evitar misturar mais de um animal na jaula, principalmente se forem de espécies diferentes.
+IV – 2 Gatos (Felinos)
+Família de mamíferos carnívoros que possuem dedos com almofadas e garras retráteis ou semi retráteis.
+a) Mecanismos de Defesa:
+ Dentes e mordidas;
+ Unhas e arranhões, com travamento das garras;
+ Os felinos conseguem dar um giro de 180º com o corpo, quando mal contidos.
+b) EPI:
+ Luvas de raspa ou vaqueta;
+ Óculos;
+ Capacete;
+ Em alguns casos pode-se utilizar o roupão de aproximação de combate a incêndio, que, devido à sua
+espessura, pode dificultar os arranhões do animal.
+c) Equipamentos para Captura:
+ Panos e toalhas;
+ Puçá ou redes de malha fina;
+Fig. 15 – Gaiola/Jaula.
+SEPARATA Nº 38
+DE 22 DE SETEMBRO DE 2016
+Página
+598
+
+Visto do Ajudante Geral
+ Gaiolas de transporte e/ou captura e sacos.
+d) Métodos de Captura:
+ O cuidado deve ser em relação ao comportamento arisco do felino;
+ Contido pelos equipamentos de captura, segura-se firme no dorso do animal, na região entre as
+escápulas, pressionando-o contra o chão ou parede, a fim de imobilizá-lo;
+ Outra forma de imobilizar o gato é segurando firme a pele no dorso do animal, na região entre as
+escápulas, levantando-o;
+ A imobilização das patas é de suma importância, podendo ser feita envolvendo o corpo do animal em um
+pano;
+ animal poderá ser encurralado com a rede, montando-a na rota de fuga ou arremessando-a sobre o
+animal;
+ Em geral, os felinos domesticados são dóceis, sendo que os ataques geralmente estão relacionados à
+tentativa de pegá-los ou acariciá-los;
+ É aconselhável, sempre que possível, o bombeiro, no momento da captura, usar o recurso de “iscas”, que
+podem ser alimentos e ou até mesmo objetos com que o animal esteja familiarizado, para atraí-lo e ganhar sua
+confiança, realizando a captura fácil, sem descuidar, em momento algum, da segurança pessoal e de terceiros.
+ Para acalmar o animal, é aconselhável cobrir a gaiola/jaula com um pano escuro, mantendo-se sempre
+uma boa ventilação.
+e) Cuidados:
+ Deve-se observar se alguma pessoa foi mordida ou arranhada pelo animal a ser capturado, devido ao
+risco de transmissão de doenças;
+ Evitar apertar o animal com muita força, a fim de evitar lesões e até mesmo a morte durante ou após sua
+captura;
+ Cuidado especial ao utilizar redes para captura de felinos, pois essa técnica deixa-os muito agressivos, e,
+na tentativa de fugir, eles acabam se enroscando nas redes, sendo que na maioria das vezes é necessário cortáFig. 17 – Pano nas Patas.
+Fig. 16 – Contenção de Gato com mãos e toalha.
+SEPARATA Nº 38
+DE 22 DE SETEMBRO DE 2016
+Página
+599
+
+Visto do Ajudante Geral
+las para liberação dos animais. Há, ainda, o risco de lesões graves nos animais devido ao tamanho da malha e
+ao diâmetro do cordim. Redes de pesca devem ser evitadas.
+f) Situações Especiais (gatos em cima de árvores):
+É normal os gatos subirem em lugares altos, seguindo seus instintos naturais de caça e curiosidade,
+sendo, seus músculos, adaptados para essas atividades.
+A atuação do bombeiro deverá ser realizada após avaliação criteriosa e somente haverá
+intervenção caso haja a confirmação de que o animal encontra-se em situação de risco, tais como presos
+em linhas, galhos e fios.
+Avaliados os riscos e tomadas todas as medidas de segurança pela equipe poderão ser adotados os
+seguintes procedimentos:
+ Acessar o animal utilizando escadas e ou lança elevatória;
+ Utilizar o Puçá ou Cambão para a captura;
+ Em galhos de árvores muito finos, a guarnição poderá optar por cortar o galho utilizando a técnica do
+“Balancinho” (queda guiada), improvisando um apara quedas para proteger o animal de uma queda direta no
+solo;
+ Animais dóceis poderão ser capturados com as mãos, protegidas por luvas, sendo utilizadas bolsas ou
+mochilas amarradas e guiadas por cordas para descê-los;
+ Não é recomendado descer segurando o animal, devido aos riscos de acidentes com o bombeiro.
+IV – 3 Equídeos e Bovídeos
+Mamíferos Artiodáctilos ou Perissodáctilos que possuem 1 ou 2 dedos em cada pata, protegido por
+cascos.
+a) Mecanismos de Defesa:
+ Equinos: pisões, coices (com os pés), manotadas (com as mãos), atropelamentos (quando em fuga),
+mordidas, cabeçadas e esmagamentos;
+ Bovinos: pisões, cabeçadas, chifradas, atropelamentos (quando em fuga), coices e esmagamentos.
+b) EPI:
+ Luvas de raspa ou vaqueta;
+ Óculos;
+ Capacete.
+ No caso de animal caído em poço:
+ Roupão Sanitário;
+ Baudrier;
+ Equipamento de Proteção Respiratória – EPR (caso seja necessário e possível).
+c) Equipamentos para Captura:
+ Cordas;
+ Laços;
+ Cabrestos;
+ Cinta de poliéster “Polifitema” (1.0m de comprimento, 50mm de largura, 1.0t de resistência), na
+impossibilidade pode-se substituir por cabo solteiro (nó fiel) ou anel de fita;
+ Sistemas de redução de força (polias, moitões, talha tirfor);
+ Lingas;
+ Tripé, aparelho de poço;
+SEPARATA Nº 38
+DE 22 DE SETEMBRO DE 2016
+Página
+600
+
+Visto do Ajudante Geral
+ Escadas;
+ Guincho elétrico (caso haja).
+d) Métodos de Captura (animal atolado em brejo ou caído em poço):
+ Com o uso de cordas, o bovino pode ser amarrado pelas patas dianteiras e os equinos entre o boleto e o
+casco, conhecido como machinho;
+ A ancoragem pode ser realizada passando-se uma fita de carga de espessura considerável (mangueira)
+sob o tronco do animal e, se possível, outra pelas ancas, tendo o cuidado para não estrangular a genitália, pois
+isso pode matá-lo ou deixá-lo agressivo;
+B
+C
+A
+Fig. 18 - A - Cinta de poliéster “Polifitema”
+B e C - Peia para elevação de bovinos e equinos
+adultos construída a partir de A.
+Fig. 18.1– Amarração.
+SEPARATA Nº 38
+DE 22 DE SETEMBRO DE 2016
+Página
+601
+
+Visto do Ajudante Geral
+
+ Para a elevação do animal deverá ser confeccionado um cabresto na cabeça, com nó que não se ajuste
+na altura do pescoço, travando-se a boca, para que ele não morda;
+Fig. 18.2 A - Laçadas conjugando 2 cordas de
+10m (polipropileno trançado com 18mm) para
+içar animais de grande porte;
+B-Cruzamento da corda entre os membros
+anteriores; C-Cruzamento da corda entre os
+membros posteriores
+A
+C
+B
+Fig. 19 – Cabresto improvisado. Fig. 20 – Cachimbo.
+SEPARATA Nº 38
+DE 22 DE SETEMBRO DE 2016
+Página
+602
+
+Visto do Ajudante Geral
+ A remoção do animal deve ser realizada com o uso de tripé e/ou um sistema de redução de forças;
+ Uma venda ou pano pode ser colocado sobre os olhos do animal, para diminuir o estresse;
+ A atuação deve ser, preferencialmente, na presença do proprietário do animal, devido ao grande risco de
+morte por estresse em virtude da situação.
+e) Cuidados:
+ Animais dentro de poços podem esmagar o bombeiro durante as amarrações, devendo a atenção ser
+redobrada;
+ Antes do resgate de bovinos e equinos vivos atolados é indispensável ter certeza que os mesmos estejam
+respirando. Isso para evitar asfixia e agonia (se debaterem violentamente) com maiores riscos de acidentes e
+morte;
+ O uso de laço no pescoço isolado ou associado à focinheira deve ser praticado de modo a não enforcar
+nem obstruir as narinas;
+ Sempre que possível, o bovino e o equino adultos devem ser elevados em posição horizontal em relação à
+coluna vertebral, com os membros para cima ou para baixo. Quando só for possível a elevação em posição
+vertical, essa deve ser feita pelos membros anteriores, estando a cabeça amarrada (sem enforcar e tampar as
+narinas) próximo dos cascos. Elevar bovinos e equinos adultos pelos membros posteriores (de cabeça para
+baixo) induz compressão no diafragma pelos órgãos pesados do abdome, com risco de asfixia;
+ Quando, ao invés de elevação, a necessidade é de arrastar o bovino ou equino adulto pode-se utilizar a
+força de arrasto pelos membros posteriores e anteriores juntos com a cabeça, garantindo ausência de
+enforcamento e de oclusão das narinas;
+ Sempre que possível, deve-se evitar a elevação de bovino e equino adultos vivos por um só membro.
+Como também não se devem utilizar dois membros,
+sendo um anterior junto a outro posterior, do mesmo lado ou cruzados. Tais práticas
+facilitam a ocorrência de lesões graves, podendo o animal não se recuperar. A elevação através dos quatro
+membros pode ser feita. Lembrando que acarreta hipertensão abdominal com risco de asfixia e aborto em
+fêmeas em final de gestação;
+ Durante a retirada do animal, ele pode usar de mecanismos de defesa, como, por exemplo, coices, sendo
+assim, suas patas devem ser amarradas, para evitar acidentes;
+ A cabeça do animal deve ser amarrada e guiada durante todo o içamento, pois o peso do pescoço,
+dependendo da posição, pode vir a quebrar a coluna do animal e levá-lo a óbito;
+Fig. 21 – Vedação dos olhos com pano úmido.
+SEPARATA Nº 38
+DE 22 DE SETEMBRO DE 2016
+Página
+603
+
+Visto do Ajudante Geral
+ Ainda dentro de poços, ao se amarrarem as patas dos animais, deve-se ter cuidado com mordidas de
+equinos e com cabeçadas de bovinos, devendo-se, além disso, redobrar esses cuidados com relação aos chifres
+desses animais;
+ No caso de fossas, o socorrista deve estar equipado, também, com o roupão sanitário, para evitar
+contaminação, devendo, todo material utilizado, ser descontaminado, ao final dos trabalhos;
+ No caso de animais machucados e na ausência do proprietário, o município deverá ser acionado, pois é o
+órgão responsável, nesses casos;
+ Deve-se observar se o bombeiro teve algum tipo de contato com secreções do animal, devido ao
+risco de transmissão de doenças.
+f) 10 Condições que geralmente facilitam ou dificultam a interação, captura e contenção física de
+bovinos e equinos
+ CONDIÇÕES FACILITA DIFICULTA
+1. Estresse +
+2. Barulho +
+3. Silêncio +
+4. Ambiente estranho +
+5. Habitat natural +
+6. Animal isolado +
+7. Animal acompanhado (mesma espécie) +
+8. Operador que transmite segurança ao animal +
+9. Comunicação verbal e corporal adequadas +
+10. Desconforto e Dor +
+ Fonte: Escola de Veterinária da UFMG
+V – Animais Selvagens
+Devido ao pouco contato com o homem, tendem a apresentar sinais visíveis de estresse no momento da
+captura, tais como, por exemplo, pelos eriçados, liberação de feromônios, urina e etc.
+Os de maior porte não permitem uma aproximação prévia, devendo ser sedados para uma posterior
+imobilização. Somente um médico veterinário pode preparar o fármaco a ser aplicado nestes animais. Sendo
+assim, o CBMMG deverá acionar um profissional detentor de tal título e habilitado para captura, que possua
+equipamentos adequados, como: zarabatanas e/ou espingardas, dentre outros.
+Fig. 22 – Sem amarração da cabeça.
+Cabeça solta sem guia.
+SEPARATA Nº 38
+DE 22 DE SETEMBRO DE 2016
+Página
+604
+
+Visto do Ajudante Geral
+O lançamento do dardo tranquilizante no animal poderá ficar a cargo do bombeiro mais capacitado, porém a
+supervisão será a todo instante do profissional supracitado, que detém a responsabilidade técnica na captura.
+Mesmo após a sedação, as partes mais perigosas são a boca e as unhas, as quais devem ser protegidas.
+V – 1 Roedores
+a) Mecanismos de Defesa:
+ Mordida (dentes incisivos).
+b) EPI:
+ Luvas de raspa ou vaqueta;
+ Óculos;
+ Capacete.
+c) Equipamentos para Captura:
+ Panos, toalhas;
+ Puçá ou redes de malha fina;
+ Cambão/enforcador;
+ Caixa de transporte e/ou captura.
+d) Métodos de Captura:
+ Para a captura de roedores de pequeno porte podem ser usados panos, toalhas, puçá ou rede de malha
+fina;
+ A contenção de um roedor de pequeno porte deve ser feita com as duas mãos, uma segurando a cabeça
+e os membros torácicos, com o indicador e o dedo médio em volta do pescoço, pois, se o animal virar a cabeça,
+ele poderá morder. A outra mão segura os membros pélvicos juntos;
+ Pacas e cutias poderão ser capturadas utilizando-se puçás ou redes;
+ Para roedores grandes, como a capivara, o uso de cambão para contenção é recomendado. Após
+capturar, nunca colocar o macho dominante de capivara no mesmo recinto com outra capivara;
+ O ouriço-cacheiro é um roedor que, além de morder, apresenta o corpo coberto por espinhos, os quais
+nunca são lançados voluntariamente pelo animal, mas, caso alguém venha encostar na ponta deles, esses
+espinhos ficarão espetados e soltar-se-ão do corpo do animal;
+Fig. 23 – Pequeno roedor.
+SEPARATA Nº 38
+DE 22 DE SETEMBRO DE 2016
+Página
+605
+
+Visto do Ajudante Geral
+O transporte de ouriço cacheiro de um lugar próximo a outro poderá ser feito pela ponta da cauda
+e) Cuidados:
+Caso alguém tenha sido mordido pelo animal a ser capturado, deverá ser socorrido imediatamente e
+levado a um hospital, sendo repassadas as seguintes informações aos médicos: hora do ataque, espécie do
+animal e procedimentos adotados com relação à vítima.
+V – 2 Primatas (Macaco)
+a) Mecanismos de Defesa:
+ Mordida;
+ Arranhões;
+ Socos e compressões (gorila e chimpanzé).
+Obs.: os primatas podem arremessar objetos.
+Fig. 24 – Espinho no corpo do cão após
+tentativa de mordida.
+Fig. 25 – Transporte de Ouriço
+Cacheiro
+SEPARATA Nº 38
+DE 22 DE SETEMBRO DE 2016
+Página
+606
+
+Visto do Ajudante Geral
+b) EPI:
+ Luvas de raspa ou vaqueta;
+ Óculos;
+ Capacete;
+ Roupão de aproximação de combate a incêndio.
+c) Equipamentos para Captura:
+ Panos e toalhas;
+ Puçá ou redes de malha fina;
+ Cambão/enforcador;
+ Caixa de transporte e/ou captura;
+ Gaiolas armadilhas.
+d) Métodos de Captura:
+ Para a captura de primatas de pequeno porte podem ser usados panos, toalhas, puçá ou rede de malha
+fina e gaiolas (armadilhas), devendo, esta última, ter dispositivo mecânico de travamento nas portas;
+ A contenção de animais pequenos, como os saguis, deve ser feita segurando-os com uma mão atrás da
+cabeça, firmando as mandíbulas com o dedo indicador e o polegar, e, com a outra mão, segurando os membros
+pélvicos;
+ Primatas de médio porte, como o macaco-prego, poderão ser capturados com o uso de puçá, devendo ser
+analisada previamente a necessidade de sedar o animal antes da contenção;
+ A contenção deve ser iniciada juntando-se os membros torácicos e puxando-os para trás, e, com a outra
+mão, os membros pélvicos são contidos;
+Fig. 26 – Contenção de Primata (pequeno porte)
+SEPARATA Nº 38
+DE 22 DE SETEMBRO DE 2016
+Página
+607
+
+Visto do Ajudante Geral
+ Primatas de grande porte devem ser sedados por médico veterinário para a captura e contenção ou serem
+utilizadas as armadilhas (gaiola ou jaula).
+e) Cuidados:
+ Deve-se observar se alguma pessoa foi mordida pelo animal a ser capturado, devido ao risco de
+transmissão de doença. Deve-se, também, cobrir a gaiola ou jaula de transporte para ajudar a minimizar o
+estresse da captura.
+ O tórax do animal é muito sensível e alta temperatura podem colocá-lo em risco.
+V – 3 Felídeos
+a) Mecanismos de Defesa:
+ Mordida com grande potência;
+ Garras afiadas.
+b) EPI:
+ Luvas de raspa ou vaqueta;
+ Óculos;
+ Roupão de Combate a Incêndio;
+ Capacete.
+Fig. 27 – Contenção Primata (médio porte)
+SEPARATA Nº 38
+DE 22 DE SETEMBRO DE 2016
+Página
+608
+
+Visto do Ajudante Geral
+c) Equipamentos para Captura:
+ Panos, toalhas;
+ Puçá ou redes;
+ Cambão/enforcador;
+ Caixa de transporte e/ou captura;
+ Gaiolas, caixas e jaulas armadilhas, com dispositivos de fechamento da porta acionados pelo peso do
+animal ou isca.
+d) Métodos de Captura:
+ Para a captura de animais de pequeno porte ou filhotes, os procedimentos são semelhantes aos usados
+para cães e gatos, levando-se em consideração o fato de serem animais selvagens que são mais ariscos e
+possuem risco maior de morte por estresse;
+ Animais de grande porte, sempre que possível devem ser sedados (médico veterinário) para captura e
+contenção;
+ Colocar a armadilha em um local de acesso do animal, tomando-se o cuidado de confundir o odor humano
+esfregando o alimento ou folhas nativas na gaiola ou jaula (armadilha);
+ Cobrir as jaulas e/ou gaiolas com galhos ou até mesmo mantê-las escuras, cobrindo-as com pano, o que
+poderá facilitar a entrada do animal, que, instintivamente, para fugir, poderá tentar abrigar-se em locais escuros.
+f) Cuidados:
+ Deve-se observar se alguma pessoa foi mordida pelo animal a ser capturado, devido ao risco de
+transmissão de doenças, sendo-lhe prestado socorro imediato;
+ Procurar ficar sempre abrigado e a uma distância de segurança, para evitar que qualquer pessoa fique
+ferida.
+V – 4 Canídeos Selvagens
+São mais conhecidos como raposas, lobos e chacais. São essencialmente carnívoros, sendo que o Lobo
+Guará tem nas frutas um importante alimento.
+Fig. 28 – Contenção Felino (Química)
+SEPARATA Nº 38
+DE 22 DE SETEMBRO DE 2016
+Página
+609
+
+Visto do Ajudante Geral
+a) Mecanismos de Defesa:
+ Dentes;
+ Garras.
+b) EPI:
+ Luvas de raspas ou vaquetas;
+ Óculos;
+ Capacete;
+ Botas;
+ Em alguns casos pode-se utilizar o roupão de aproximação de combate a incêndio, pois devido à sua
+espessura, pode dificultar a mordida.
+c) Equipamentos para Captura:
+ Cambão ou enforcador;
+ Cordas;
+ Redes;
+ Puça;
+ Caixa de transporte e/ou captura;
+ Sacos.
+d) Métodos de Captura:
+ Isolar o local de captura a fim de evitar o aumento do estresse animal devido à presença e agitação do
+público;
+ Deixar uma rota de fuga para o animal (em caso de armadilha preparada) e para a guarnição;
+ Trabalhar em dupla em caso de se usar o cambão/enforcador. Um militar chama à atenção do animal e o
+outro, do lado oposto, realiza a captura;
+ Após envolver o animal com o cambão/enforcador, o segundo militar também deverá fazê-lo;
+ Não apertar o laço com muita força, evitando-se traumatismos ou a morte do animal por asfixia;
+ Pode-se utilizar a técnica do “chicletes” ou isca. Abre-se o laço de um cambão/enforcador e por dentro do
+laço coloca-se a ponta do outro cambão/enforcador. Quando o animal morder a alça do primeiro, passa-se o laço
+do segundo até o pescoço, fechando rapidamente;
+ Uma vez estando o animal encurralado, pode-se utilizar rede de arrasto ou esta pode ser montada na rota
+de fuga;
+ Em locais abertos a rede arremesso é a mais indicada, estando o animal parado ou em movimento;
+ O puçá pode ser utilizado na captura de animais de menor porte, tomando-se o cuidado em relação ao
+diâmetro da malha, pois quando muito grande poderá causar lesões;
+ Gaiolas ou jaulas podem ser utilizadas para captura tipo armadilha de espera, colocando-se em seu
+interior uma isca. São indicadas em situações onde a captura pode ser dificultada pela presença de várias rotas
+e fuga e quando houver risco para o operador e para o animal;
+ Uma vez capturado, o animal deverá ser colocado na gaiola de transporte, cobrindo-a com pano escuro e
+mantendo boas condições de ventilação.
+e) Cuidados:
+ Fazer desinfecção dos equipamentos após utilização;
+ Verificar se alguma pessoa foi arranhada ou mordida;
+ Não colocar mais de um animal na gaiola, principalmente de espécies diferentes.
+SEPARATA Nº 38
+DE 22 DE SETEMBRO DE 2016
+Página
+610
+
+Visto do Ajudante Geral
+V – 5 Tamanduás
+a) Mecanismos de Defesa:
+ Patas;
+ Garras afiadas e resistentes usadas como alavancas.
+b) EPI:
+ Luvas de raspa ou vaqueta;
+ Óculos;
+ Roupão de Combate a Incêndio;
+ Capacete.
+c) Equipamentos para Captura:
+ Puçá ou redes de malha fina;
+ Cambão/enforcador;
+ Caixa de transporte e/ou captura.
+d) Métodos de Captura:
+ Para a captura podem ser usados puçás e cambões, pegando o pescoço e por baixo de uma das patas
+para evitar estrangulamento;
+ A contenção visa, também, nesses animais, a fechar a alavanca das unhas dobradas, passando fita
+adesiva em volta delas, para não se engancharem.
+Fig. 29 – Tamanduá Mirim
+Fig. 30 – Medição das Unhas
+de um Tamanduá
+SEPARATA Nº 38
+DE 22 DE SETEMBRO DE 2016
+Página
+611
+
+Visto do Ajudante Geral
+e) Cuidados:
+ Deve-se observar se alguma pessoa foi ferida por dentes ou unhas do animal a ser capturado, devido ao
+risco de transmissão de doenças;
+ Não tentar pegá-los com as mãos sem o emprego de equipamentos, pois suas garras/unhas afiadas
+podem provocar ferimentos profundos, seguidos de sangramentos intensos, o que naturalmente pode levar à
+morte em pouco tempo.
+8. PROCEDIMENTOS EM CASO DA ORGANIZAÇÃO DOS ANIMAIS EM GRUPOS
+Alguns animais selvagens vivem em grupos, outros só se agrupam na época de reprodução. De qualquer forma,
+precisamos conhecer alguns métodos comportamentais dos animais para facilitar eventuais capturas.
+Os grupos têm um líder, denominado alfa, normalmente macho, que é a referência. Geralmente é de fácil
+identificação, pois ele é o mais forte, agressivo, vocaliza mais, fica à frente, defende o bando e tende a ser o
+primeiro a atacar.
+Já nos primatas, o macho alfa pode se diferenciar dos demais pela pelagem diferenciada e por estar vocalizando
+mais no momento da captura.
+Identificar e capturar o macho alfa é a principal meta, pois essa ação pode desestabilizar o grupo e facilitar as
+demais capturas. É importante ressaltar que não há dispersão do grupo com a captura de seu líder. Por isso,
+uma alternativa boa é manter o líder preso em local próximo do grupo e ir pegando um por um.
+Outro ponto a ser observado é se o grupo só está de passagem ou está alimentando, pois pode estar ocorrendo
+respectivamente um processo migratório ou busca por alimentos. Nesse caso é só monitorar à distância o grupo
+e verificar se não está havendo ameaça à integridade física das pessoas.
+Oferecer alimentos é uma prática comum e que se mostra muito eficaz no caso de animais em grupos. O
+alimento deve ser colocado dentro de uma armadilha (caixa de captura). Quando parte do grupo estiver dentro
+desse cercado, o portão deve ser fechado. Isso é válido para animais, como capivaras, por exemplo. Lembre-se,
+no caso das capivaras o macho alfa deve ser separado dos demais.
+Existe uma grande incidência de ocorrências de captura de cachorros, animais tipicamente domésticos e
+acostumados a conviver com o homem; porém existem algumas raças de cães que tendem a ser mais
+agressivas por natureza, dentre as quais podemos destacar: pit bull, dobermann e rottweiler.
+Por analogia, podemos dizer que os cachorros em grupos estabelecem uma hierarquia própria, elegendo um
+macho alfa dominante.
+São exemplos de animais que vivem em grupos: macacos (primatas), cachorros-do-mato-vinagre e capivaras.
+São exemplos de animais que não vivem em grupos: lobo-guará, tamanduás e raposas-do-campo.
+9. TRANSPORTE DE ANIMAIS CAPTURADOS
+Quando são capturados mais de um animal na mesma operação, principalmente de espécies diferentes, o
+transporte deles deve ser realizado em compartimentos/caixas/gaiolas diferentes, pois, se colocados juntos, um
+desfecho negativo pode ocorrer, principalmente ocasionado por brigas.
+Outro ponto que deve ser observado é quanto ao correto fechamento dos compartimentos/caixas/gaiolas após a
+captura e principalmente durante o transporte, com vistas a evitar a fuga dos animais ora capturados, com a
+viatura em deslocamento. Cobrir a jaula e/ou gaiola para evitar o estresse do animal também é uma técnica
+recomendada.
+Tais procedimentos parecem simples, mas podem fazer toda a diferença no desfecho final de uma operação.
+SEPARATA Nº 38
+DE 22 DE SETEMBRO DE 2016
+Página
+612
+
+Visto do Ajudante Geral
+10. DESTINAÇÃO DOS ANIMAIS CAPTURADOS
+A Instrução Normativa do IBAMA nº 179, de 25 de junho de 2008, define as diretrizes e procedimentos para
+destinação dos animais da fauna silvestre nativa e exótica.
+Os animais silvestres sadios capturados só podem ser destinados ao CETAS. Os feridos podem ser
+encaminhados para hospitais e clínicas veterinárias especializadas, desde que o CETAS esteja ciente deste
+procedimento. O hospital ou clínica que recebeu o animal silvestre ferido deve encaminhá-lo ao CETAS assim
+que se recupere.
+Um ponto a ser destacado está no fato de soltar animais silvestres fora de sua área original. Essa ação, por mais
+inofensiva que pareça, pode causar problemas ambientais e sanitários, causando um desequilíbrio da população
+(riscos para outros animais) e/ou ocorrer a transmissão de agentes patogênicos. Exceção feita se o animal for
+recém capturado, houver comprovação do ambiente em que vivia e se sua espécie ocorrer naturalmente naquele
+local.
+A título de exemplificação, para ilustrar o desequilíbrio de biomas por uma simples ação do homem, está no fato
+de peixes exóticos serem soltos na natureza (rios/lagos) aleatoriamente. Eles podem não se adaptar àquele
+bioma ou passarem a dominar o ambiente, eliminando predadores naturais e estimulando o cruzamento de
+espécies que, em condições normais, nunca se encontrariam.
+O ideal, ao capturar um animal silvestre, é encaminhá-lo a um órgão ambiental.
+Como a captura de animais pode ocorrer a qualquer hora, é importante que as OBM possuam os contatos,
+periodicamente revisados, de órgãos públicos ou sociedade civis que recebem animais.
+O COBOM/SOU/SOF devem possuir os telefones, endereços e nomes dos responsáveis pelo recebimento,
+horários de funcionamento, tipo e porte de animas capturados que podem ser recebidos. Tal determinação visa a
+evitar que os animais fiquem sob a responsabilidade do CBMMG por um tempo além do necessário.
+A seguir, segue uma tabela que se refere apenas ao município de Belo Horizonte, que deve ser mantida
+atualizada, servindo como modelo para as demais unidades:
+Órgão Telefones Endereço Funcionamento Tipos de Animais
+Centro de Zoonoses
+(CCZ)
+(31) 3277-7413 /
+7802/9546
+Rua Edna de Quintel, 173 –
+São Bernardo – Belo
+Horizonte/MG
+- Segunda à Sexta de 08:00h às
+17:00h para captura, exceto
+feriados.
+- Para o recebimento de animais de
+Belo Horizonte 24h.
+- Cães, Gatos,
+Cavalos, Morcegos,
+Porcos.
+Sistema de Limpeza
+Urbana (SLU)
+(31) 3277-
+9343/55/46
+156 (Geral para
+Solicitação)
+Rua Tenente Garro, 118 -
+Santa Efigênia - Belo
+Horizonte/MG
+- Segunda à Sábado
+- 156: Segunda à Sexta (horário
+comercial).
+Ambos exceto feriados.
+- Mortos em via
+pública.
+(pequeno e grande
+porte)
+- Não faz contenção
+de animal.
+Polícia de Meio
+Ambiente (PMAmb) (31) 2123-1600/14
+Rua Jequitinhonha, 700 –
+Vera Cruz - Belo
+Horizonte/MG
+24 horas todos os dias da semana.
+- Aves da fauna
+silvestre, sem
+ferimentos.
+Recebem somente
+em casos
+excepcionais.
+IBAMA (Linha
+Verde): Ouvidoria 0800-618080 Brasília/DF Segunda a Sexta de 08:00h às
+18:00h, exceto feriados.
+- Denúncia de maus
+tratos aos animais
+silvestres.
+SEPARATA Nº 38
+DE 22 DE SETEMBRO DE 2016
+Página
+613
+
+Visto do Ajudante Geral
+Quadro - relação de endereços, telefones, horário de funcionamento e recebimento de animais de órgãos de BH.
+10.1. Óbices à Destinação dos Animais
+As secretarias municipais de meio ambiente são órgãos dos poderes públicos municipais que emanam as
+diretrizes sobre a captura e destinação dos animais nocivos e/ou soltos em via pública, portanto, são parceiros
+importantes.
+Visando a necessidade de implementar uma política pública que consiga resolver por completo os problemas e
+desafios enfrentados nas cidades, frente aos animais soltos, é importantíssimo que cada OBM mantenha contato
+estreito com a secretaria de seu município para discutir e apontar as dificuldades enfrentadas, para que, juntos,
+possam chegar a uma solução.
+Em Belo Horizonte/MG, por exemplo, a Secretaria Municipal de Meio Ambiente, por meio da Coordenadoria de
+Defesa dos Animais está em fase de implementação de parcerias com agentes privados, mediante remuneração,
+para que possam capturar, receber e tratar animais encontrados transitando em via pública.
+A Divisão Especializada de Proteção ao Meio Ambiente é a delegacia responsável no Estado pela investigação
+dos danos ao meio ambiente e também pelos maus tratos a animais. Qualquer cidadão que queira denunciar
+deve procurá-la pessoalmente. No interior do Estado, devem ser procuradas as delegacias locais, que se
+encarregarão de tomar as medidas pertinentes, geralmente em conjunto com a supracitada divisão.
+A Polícia de Meio Ambiente (PMAmb) não tem por competência realizar a captura de animais nem recebê-los em
+situações ordinárias, mas apenas realizar repreensão, prevenção dos crimes e infrações administrativas
+ambientais.
+O Centro de Triagem de Animais Silvestres (CETAS) também está presente nos municípios de Juiz de Fora/MG
+e Montes Claros/MG, tendo vínculo direto com a Secretaria Estadual de Meio Ambiente e Desenvolvimento
+Sustentável (SEMAD). Possui estrutura para receber, tratar e reintroduzir os animais silvestres em seu habitat
+natural.
+Já o Centro de Controle de Zoonose (CCZ) tem como missão verificar se o animal capturado em via pública ou
+levado até o Centro encontra-se doente. Caso esteja doente, será tratado ou, em último caso, será realizada
+eutanásia, visando a minimizar o sofrimento do animal. Um ponto que deve ser observado é o fato de que os
+Centro de Triagem
+de Animais
+Silvestres (CETAS)
+(31) 3555-6179/
+00/32
+Av. do Contorno, 8121 –
+Lourdes – Belo Horizonte
+- Segunda à Sexta de 08:00h ás
+11:30h e de 14:00h ás 16:30h,
+exceto feriados.
+- Silvestres.
+Cães e Amigos
+(Parceria com
+CETAS)
+(31) 3441-5656
+Rua Padre Silveira Lobo,
+487 - São Luiz - Belo
+Horizonte/MG
+Segunda à Sexta de 08:30h ás
+18:00h, exceto feriados. - Silvestres.
+Clínica Veterinária
+Animal Center (31) 3441-0511 Av. Portugal, 3871 – Itapuã -
+Belo Horizonte/MG
+- 24 horas todos os dias da semana.
+- Animal ferido de 08:00h às 17:00h,
+todos os dias inclusive feriados e
+finais de semana.
+- Silvestres de
+pequeno porte
+Obs.: não recebem
+animais de médio a
+grande porte, como:
+lobo guará e
+capivara.
+Secretaria Municipal
+de Meio Ambiente
+(31) 3277-5260
+/5270
+Av. Afonso Pena, 4000 - 6º
+andar – Mangabeiras - Belo
+Horizonte/MG
+Segunda a Sexta de 08:00h às
+18:00h, exceto feriados. #
+Divisão
+Especializada de
+Proteção ao Meio
+Ambiente
+(DEMA/PCMG)
+(31) 3212-1043
+/1356
+Rua Piratininga, 105 –
+Carlos Prates – Belo
+Horizonte/MG
+Segunda à Sexta de 08:30h às
+12:00h e de 14:00 às 18:30h, exceto
+feriados.
+- Denúncias
+diversas contra
+maus tratos a
+animais.
+Universidade
+Federal de Minas
+Gerais (Veterinária)
+(31) 3409-2000
+/2276
+Av. Antônio Carlos 6627 –
+Pampulha – Belo
+Horizonte/MG
+Segunda à Sexta de 08:00h às
+21:00h
+Sábado e Domingo de 08:00h às
+18:00h
+- Qualquer porte,
+preferencialmente
+domésticos.
+SEPARATA Nº 38
+DE 22 DE SETEMBRO DE 2016
+Página
+614
+
+Visto do Ajudante Geral
+CCZ só recebem animais ou capturam aqueles que pertençam ao município de sua sede. Devido à estrutura e
+capacidade, nem todas as espécies de animais podem ser recebidas, o que pode dificultar a destinação dos
+animais capturados pelo CBMMG.
+A Escola de Veterinária da UFMG recebe animais capturados pelo CBMMG. Possui estrutura para recebimento e
+tratamento de animais domésticos, porém, tem limitações para o recebimento de animais silvestres,
+notadamente os de maior porte.
+Já algumas clínicas veterinárias e assemelhadas, devidamente credenciadas pelo IBAMA e/ou secretarias
+municipais de meio ambiente, recebem certos tipos de animais, dentro de suas limitações físicas. Elas estão
+presentes em diversos municípios e são parceiras essenciais para a destinação dos animais.
+Independente da destinação dada aos animais capturados, é imprescindível que a entrega deles a terceiros, seja
+órgão público ou não, venha acompanhada do número da ocorrência e, posteriormente, no menor espaço de
+tempo possível, que haja a entrega do documento físico de registro de ocorrência ao destinatário, para que o
+animal tenha registrada sua procedência, diminuindo-se, com isso, as chances de comércio ou tráfico ilegal de
+animais.
+10.2. Animais Soltos em Rodovias
+O Código Nacional de Trânsito é omisso com relação a animais soltos em estradas, sejam elas Estaduais ou
+Federais. O que não há dúvida é o fato de que o proprietário é o responsável pelos danos causados pelo animal
+de sua propriedade a terceiros ou ao bem público.
+No caso de um animal solto em rodovia Estadual, a responsabilidade por recolhê-lo recai sobre o Departamento
+de Estradas de Rodagem (DER). Já nas rodovias Federais, recai sobre o Departamento Nacional de
+Infraestrutura de Transportes (DNIT). Caso a rodovia seja cedida, a responsabilidade recai sobre a
+concessionária, sob supervisão da Agência Nacional de Transportes Terrestres (ANTT).
+Nos casos em que houver a solicitação por outro órgão ou agência de apoio em ocorrências dessa natureza, o
+CBU ou militar mais antigo da unidade deve avaliar as circunstâncias para autorizar o apoio, ponderando sobre
+os riscos potenciais e a necessidade de uso de técnicas e equipamentos específicos.
+11. O SACRIFÍCIO ANIMAL (EUTANÁSIA)
+As ações letais (eutanásia) contra os animais serão empregadas em situações extremas, onde o bombeiro,
+utilizando-se dos meios ao seu alcance, defende a própria vida ou a de terceiros de um eventual ataque. Tais
+ações devem ser feitas de forma rápida, evitando-se o sofrimento prolongado do animal.
+12. CONSIDERAÇÕES FINAIS
+Nunca devemos nos esquecer de que a captura de animais em algumas situações tem um cunho social. Um
+resgate mal feito ou uma contenção inadequada podem levar o animal a óbito. A princípio, pode não ter um
+significado imediato para os militares que participarem da captura/resgate, pois eventualidades podem ocorrer,
+porém, para o proprietário, aquele animal pode ser responsável pela fonte de renda de sua família. Tal exemplo
+aumenta ainda mais responsabilidade dos bombeiros durante o empenho nessas ocorrências.
+Os assuntos tratados nesta ITO abordam apenas os casos mais comuns com os quais o CBMMG se depara em
+seu dia a dia. Por isso, é aconselhável aprofundar os conhecimentos, fazendo pesquisas e consultando
+bibliografia especializada, para que se possa conhecer variações nas técnicas apresentadas, novas técnicas,
+bem como o modo de contenção física de outros animais não abordados neste trabalho.
+Os casos omissos serão resolvidos pelo Chefe do EMBM.
+SEPARATA Nº 38
+DE 22 DE SETEMBRO DE 2016
+Página
+615
+
+Visto do Ajudante Geral
+Quartel em Belo Horizonte, 19 de setembro de 2016.
+(a) HELDER ÂNGELO E SILVA, CORONEL BM
+CHEFE DO ESTADO-MAIOR
+13. BIBLIOGRAFIA
+BOCHNER, Rosany; STRCHINER, Cláudio José. Acidentes por animais peçonhentos e sistemas nacionais de
+informação. Cadernos de Saúde Pública Rio de Janeiro, n., p.19-33, 05 jun.2002.
+BRASIL. Constituição (1988). Constituição da República Federativa do Brasil, 1988. Brasília: Senado Federal.
+BRASIL. Decreto Lei 2848, de 07 de dezembro de 1940. Institui o Código de Penal Brasileiro. Diário Oficial da
+União, Brasília, 31 Dez. de 1940.
+BRASIL. Decreto Lei 3688, de 03 de outubro de 1941. Institui a Lei de Contravenções Penais. Diário Oficial da
+União, Brasília, 03 Out de 1941.
+BRASIL. EMPRESA BRASILEIRA DE PESQUISA AGROPECUÁRIA. ABC da Agricultura familiar: Criação de
+abelhas (apicultura). Brasília: Embrapa Informação Tecnológica, 2007.
+BRASIL. Manual de controle de escorpiões. Ministério da Saúde. Brasília, 2009.
+BRUSCA, Richard C. Invertebrados. 2ª ed.
+FUNED. Cartilha sobre animais peçonhentos.3ª ed. Belo Horizonte, 2009 .
+Disponível em: <http://www.discoverlife.org/mp/20q?search=Exomalopsis>
+FILHO, Adebal de Andrade; CAMPOLINA, Délio; DIAS, Mariana Borges. Toxicologia na Prática Clínica. 2ª ed.
+Belo Horizonte, 2013
+Fundação Zoobotânica de Belo Horizonte. Disponível em: http://portalpbh.pbh.gov.br/. 2015
+JUNIOR, J.L.R. Técnicas de Captura e Contenção Físico-química. In: CUBAS, Z. S.; SILVA, J. C. R.; CATÃO
+DIAS, J. L. Tratado de Animais Selvagens. Editora Roca, São Paulo, 2006, p.992-1039.
+LANGE, R. R. Clínica de Animais Silvestres e de Zoológico. Apostila, Curitiba, 2004, 98p.
+LICHTENSTEIN, L. M. Alergia a picadas de insetos in: Goldman, L.; Bennett, J. C. Cecil – Tratado de Medicina
+Interna, 21°ed. Guanabara Koogan. RJ, 2001: 1618-1620.
+MINAS GERAIS. Constituição Estadual de Minas Gerais, 1989. Belo Horizonte: Assembleia Legislativa do
+Estado de Minas Gerais, 2014.
+MINAS GERAIS. Lei 16301, DE 07 de agosto de 2006. Disciplina a criação de cães das raças que especifica e
+dá outras providências.
+Manual de prevenção de acidentes com animais peçonhentos. FUNDACENTRO, 2001.
+NOVAES, Antônio Pereira. Contenção Mecânica e Farmacológica de Animais. Empresa Brasileira de Pesquisa
+Agropecuária – EMBRAPA. UEAPE de São Carlos- São Paulo, 1990.
+PACHALY, J. R. Medicina de Animais Selvagens. Apostila, Umuarama 2002, 290p.
+PORTARIA CFBio Nº 148/2012. “Regulamenta os procedimentos de captura, contenção, marcação e coleta de
+animais vertebrados previstos nosArtigos, 4º, 5º, 6º e 8º da Resolução. CFBio nº 301/2012”. Conselho Federal de
+Biologia. Brasília/DF, 8 de dezembro de 2012. 11 páginas.
+POUGH, F. Harvey; JANIS, Chistine M; HEISER, Jonh B. A Vida dos Vertebrados. 4ª ed.
+RIO DE JANEIRO. Procedimento Operacional Padrão: Captura e Combate a Inseto- CBMRJ. 1ª Versão –
+Boletim nº 143 de 02 de agosto. Rio de Janeiro, 2000.
+SÃO PAULO. Manual de Salvamento Terrestre. Coletânea de Manuais Técnicos de Bombeiros. MTB 3 –
+Salvamento Terrestre. PMESP.2º ed. São Paulo, 2006
+SAMPAIO, S.A.P.; RIVITI, E. A. Dermatoses por toxinas e venenos animais in: SAMPAIO, S.A.P.;RIVITI, E. A.
+Dermatologia. 2° ed, ARTES MÉDICAS, São Paulo, 2001:593-601.
+SILVEIRA, Fernando A; MELO, Gabriel A.R; ALMEIDA, Eduardo A.B. Abelhas Brasileiras. Sistemática e
+Identificação. 1ª ed. Belo Horizonte, 2002.
+SEPARATA Nº 38
+DE 22 DE SETEMBRO DE 2016
+Página
+616
+
+Visto do Ajudante Geral
+VIANNA, Leonardo Rocha. A arte da Contenção: Métodos de Contenção Física e Farmacológica dos Animais
+Domésticos e Silvestres. PMMG.
+VANDERLINDE, Rodrigo. Padronização e Peculiaridades no Manejo de Abelhas e Vespas no âmbito do
+CBMSC. 2012 . Monografia apresentada para Conclusão do Curso de Formação de Oficiais Bombeiros de Santa
+Catarina – Academia de Bombeiros Militar .Florianópolis : CEBM, 2012
+UNESCO. Declaração Universal dos Direitos dos Animais.Bruxelas - Bélgica, em 27 de Janeiro de 1978.
+WERTHER, K. Semiologia de Animais Silvestres. In: FEITOSA, F. L. F. Semiologia Veterinária. 1 ed, Editora
+Roca, São Paulo, 2004, p.774-791.
+ZANUSSO, Jerri. Manual Básico de Apicultura. Ano 2014, Pelotas, Rio Grande do Sul.
+Disponível em: <http://www.cerratinga.org.br/abelhas-nativas/>
+Disponível em: <http://www.saudeanimal.com.br/serpentes.htm>
+Disponível em: <http://www.cobrasbrasileiras.com.br/veneno-peconha.html>
+Disponível em: <http://biologiaeterna.blogspot.com/>
+Disponível em:< http://www.encoppragas.com.br/controledepragas_120.html>
+Disponível em:< http://ambientes.ambientebrasil.com.br/natural/artigos/ duvidas_mais_freqüentes_-_ibama.html>
+Disponível em:< http://revistaguiainfantil.uol.com.br/professores-atividades/145/artigo362458-3.asp>
+14. BIBLIOGRAFIA DE FIGURAS
+01 - Extraída do site: http://www.portaldoservidor.go.gov.br/post/ver/181607/animais-em-extincao-saomonitorados-na-apa-do-encantado (Foto da Capa)
+02 - Extraída do site: http://mspiritoselvagem.blogspot.com.br/2010/11/fosseta-loreal-resposta-da-enquete.html e
+http://www.brasilescola.com/biologia/serpentes.htm
+03 - Extraída do site: http://aquabiotech2.tripod.com/id22.html
+04 - Extraída do site: http://www.assimsefaz.com.br/sabercomo/como-pegar-um-passarinho
+05 – Extraída do acervo do CBMMG, fonte: RAMOS, Edson Cota.
+06 - Extraída do site: http://bombeiroswaldo.blogspot.com.br/2011/11/cobras-serpentes-laco-de-cobra-lutz.html
+07 - Extraída do site: http://www.saudeanimal.com.br/manejo_serpentes.htm
+08 - Extraída do site: http://www.patosagora.net/noticias/?n=0H6L4TyMXg
+09 - Extraída do site: http://www.anda.jor.br/17/08/2015/jacare-resgatado-iguatama-mg-solto-rio-sao-francisco
+10 - Extraída do site: http://eltonvaletavares.blogspot.com.br/2014/10/egua-moleque-tu-e-doido-jacare-decinco.html
+11 - Extraída do site: http://entretenimento.r7.com/bichos/noticias/cirurgia-salva-jacare-baleado-no-pescoco20110123.html
+12 - Extraída do site: http://www.em.com.br/app/noticia/gerais/2012/12/26/interna_gerais,339514/cao-da-racapitbull-e-capturado-por-bombeiros-em-montes-claros.shtml
+13 - Extraída do site: http://revistadk.com.br/pet-lovers/seis-dicas-de-como-agir-quando-o-seu-cachorro-mordeas-visitas/
+14 – Extraída do site: Acervo CBMMG, fonte não localizada
+15 - Extraída do site: http://www.viewbeforebuying.com/s/feral-cat-traps
+16 - Extraída do site:
+http://ainfo.cnptia.embrapa.br/digital/bitstream/item/61993/1/PROCIDoc11APNFolheto30.pdf
+17 - Extraída do site:
+http://ainfo.cnptia.embrapa.br/digital/bitstream/item/61993/1/PROCIDoc11APNFolheto30.pdf
+18 - Fonte: Escola de Veterinária da UFMG
+18.1 - Extraída do site: http://www.bombeiros.pb.gov.br/bombeiros-resgatam-animais-de-buracos-no-sertao/
+18.2 - Fonte: Escola de Veterinária da UFMG
+19 - Extraída do site:
+http://ainfo.cnptia.embrapa.br/digital/bitstream/item/61993/1/PROCIDoc11APNFolheto30.pdf
+20 - Extraída do site:
+http://ainfo.cnptia.embrapa.br/digital/bitstream/item/61993/1/PROCIDoc11APNFolheto30.pdf
+21 - Extraída do site:
+http://ainfo.cnptia.embrapa.br/digital/bitstream/item/61993/1/PROCIDoc11APNFolheto30.pdf
+SEPARATA Nº 38
+DE 22 DE SETEMBRO DE 2016
+Página
+617
+
+Visto do Ajudante Geral
+22 - Extraída do site:
+https://www.google.com.br/search?q=captura+cachorro+bombeiros&espv=2&biw=1920&bih=979&source=lnms&t
+bm=isch&sa=X&ved=0CAcQ_AUoAmoVChMI7PvO3OvayAIVzAyQCh2B2Asd#tbm=isch&q=bombeiros+sp+boi+
+&imgrc=FMc-mZcMfyjDeM%3A
+23 - Extraída do site:
+http://ainfo.cnptia.embrapa.br/digital/bitstream/item/61993/1/PROCIDoc11APNFolheto30.pdf
+24 - Extraída do site: http://www.caliandradocerrado.com.br/2009/11/ourico-cacheiro.html
+25 - Extraída do site:
+https://www.google.com.br/search?hl=pt&tbm=isch&q=captura+ouri%C3%A7o+&oq=&gs_l=#hl=pt&tbm=isch&q=
+ouri%C3%A7o+bombeiros&imgrc=u_n1z0HlX5xRTM%3A
+26 - Extraída do site: http://photos1.blogger.com/blogger/5547/3624/1600/DSC01596.1.jpg
+27 - Extraída do acervo do CBMMG, fonte: RAMOS, Edson Cota.
+28 - Extraída do site: http://g1.globo.com/sp/sao-carlos-regiao/noticia/2013/02/apos-8h-onca-parda-que-invadiuloja-de-carros-e-capturada-em-tambau-sp.html
+29 - Extraído do site: http://noticias.uol.com.br/cotidiano/ultimas-noticias/2011/11/05/tamandua-mirim-ecapturado-em-varanda-de-casa-em-ms.htm e http://www.istoaqui.com.br/2012/01/captura-de-um-tamanduamirim/
+30 - Extraída do site: Fonte não localizada
+31 - Extraída do site: http://www.soropet.com.br/sorocaba/detalhes.asp?categoria=21&subcategoria=54&id=844
+32 - Extraída do site: http://www.igapoo.com.br/produtos.php
+33 - Extraída do site: Fonte não localizada
+34 - Extraída do site: http://www.sossul.com.br/sossul/produtos/detalhes/cod/8042
+35 - Extraída do site: Fonte não localizada
+36 - Extraída do site: http://www.rosaminas.com.br/produtos02.asp?cpg=3&cp=11
+37 - Extraída do site: http://www.viewbeforebuying.com/s/feral-cat-traps
+38 - Extraída do site: http://www.minamel.com/produto/24/materiais-apicolas
+39 - Extraída do site: Fonte não localizada
+40 - Extraída do site: http://www.campolandia.com.br/index.asp?idproduto=286902
+41 – Extraída do acervo do CBMMG. Fonte: 1ºBBM
+42 - Extraída do acervo do CBMMG. Fonte: 1ºBBM
+43 - Extraída do acervo do CBMMG. Fonte: 1ºBBM
+44 - Extraída do acervo do CBMMG. Fonte: 1ºBBM
+45 - Extraída do acervo do CBMMG. Fonte: 1ºBBM
+46 - Extraída do acervo do CBMMG. Fonte: 1ºBBM
+47 - Extraída do acervo do CBMMG. Fonte: 1ºBBM
+48 - Extraída do acervo do CBMMG. Fonte: 1ºBBM
+49 - Extraída do acervo do CBMMG. Fonte: 1ºBBM
+50 - Extraída do site:
+https://www.google.com.br/search?q=roupa+apicultor+abelhas&espv=2&biw=1920&bih=935&source=lnms&tbm=
+isch&sa=X&ved=0CAYQ_AUoAWoVChMIkcbIyff0yAIVDIaQCh14mAbS&dpr=1#imgrc=tg7d6ZJlapSSFM%3A
+SEPARATA Nº 38
+DE 22 DE SETEMBRO DE 2016
+Página
+618
+
+Visto do Ajudante Geral
+APÊNDICE I - KIT PARA CAPTURA E CONTENÇÃO DE ANIMAIS
+Qtd EQUIPAMENTO DESCRIÇÃO
+02
+Enforcador (Fig.31) Equipamento utilizado para a captura e a contenção de
+várias espécies, principalmente os mamíferos e alguns
+répteis, como lagartos mais agressivos e jacarés de
+porte pequeno a médio. Existem vários modelos e
+todos utilizam o princípio do laço ao redor do pescoço
+e de um dos membros torácicos para a captura, onde
+um cabo de madeira ou outro material serve de guia
+para um laço feito com tira de couro ou corda de
+material sintético que pode ser manejado pela outra
+extremidade do equipamento para apertar ou afrouxar
+o laço. Deve ser manejado por pessoas experientes, a
+fim de evitar traumatismos ao animal, como fraturas
+dentais, enforcamento, trauma de traqueia e luxações
+atlanto occipitais, nos répteis.
+Tamanho: mínimo de 120 cm.
+Material: Tubo de ferro ou alumínio resistente, corda
+ou cabo de aço revestido (8 ou 10mm).
+02
+Ganchos p/ Serpentes (Fig.32) Empregado para a contenção de serpentes. É
+composto de um cabo de madeira ou ferro e em uma
+de suas extremidades possui uma haste de ferro na
+forma de “L” ou de “C”, para dar sustentação ao corpo
+do animal ou mesmo para conter a cabeça da serpente
+para posterior contenção com as mãos ou com um
+tubo de PVC.
+Tamanho: de 115 a 140 cm.
+Material: Alumínio ou ferro.
+02
+Laço (Fig.33) De couro trançado ou fibra sintética, podem ajudar na
+contenção da maioria das espécies. Quando se
+utilizam cordas, deve-se estar atento à espessura e
+resistência delas. Deve-se ter cuidado com cordas
+fracas, nós frouxos, nós muito apertados, cordas finas
+e uso de fios metálicos para contenção
+(desaconselhável). Asfixia e traumatismos são
+acidentes comuns no uso de cordas e laços.
+Tamanho: 10 ou 15 metros.
+Material: Couro trançado ou fibra sintética e olhal de
+ferro ou aço.
+SEPARATA Nº 38
+DE 22 DE SETEMBRO DE 2016
+Página
+619
+
+Visto do Ajudante Geral
+01
+Puçá com Alça (Fig.34) Utilizado para a captura e contenção de várias
+espécies de aves, mamíferos e até alguns répteis,
+principalmente para animais que impossibilitam a
+aproximação do manipulador e que são
+potencialmente pouco agressivos. É composto de um
+cabo de madeira ou ferro, possuindo em uma de suas
+extremidades um aro de metal que pode ser quadrado,
+redondo ou triangular e que sustenta uma rede de
+corda ou um saco de pano fechado, onde o animal
+ficará contido. O diâmetro do aro de metal, bem como
+a rede, poderão ser de tamanhos diferentes, podendo
+ser aplicados a diferentes espécies.
+
+01
+Rede de Arrastro ou Arremesso
+(Fig.35)
+Geralmente confeccionadas em cordas de fibras
+naturais ou sintéticas, podendo ser empregadas de
+diferentes formas na contenção e captura de uma
+grande variedade de espécies de aves e mamíferos.
+Tamanhos: 250 cm x 250 cm.
+Malha: 50 mm.
+Fio de nylon: 3,5 cm.
+01
+Caixa de Transporte para Repteis
+(Fig.36)
+Uma caixa para serpente deve reunir uma série de
+condições gerais, tais como, por exemplo, o tipo e o
+tamanho da serpente. Características referentes à sua
+„confiabilidade‟, no sentido de ter uma construção
+sólida, em material resistente (inclusive a eventuais
+quedas), com acesso amplo, sistema de fechamento
+fácil e vedação total, além de um travamento seguro. A
+caixa deve, dentro do possível, possuir um visor para
+permitir uma fácil e rápida vistoria diária, além de se
+observar o posicionamento e atitudes da serpente
+antes de sua abertura para atividades de rotina e
+manuseio.
+Material: Madeira, fibra de vidro e polipropileno.
+Tamanho: 50 x 35 x 16 cm, aproximadamente.
+01
+Gaiola Armadilha (Fig.37)
+Equipamentos de tela galvanizada ou chapas
+metálicas, com dispositivos de fechamento acionados
+pelo peso do animal ou “isca”, de tamanhos variados,
+para fins de captura do tipo “espera” de animais de
+pequeno, médio e grande portes.
+SEPARATA Nº 38
+DE 22 DE SETEMBRO DE 2016
+Página
+620
+
+Visto do Ajudante Geral
+01
+Fumigador (Fig.38) De forma cilíndrica, com um fole, tampa com bico,
+grelha e bico de pato, utilizado para produzir fumaça.
+Deve ser preferencialmente de tamanho grande, para
+que haja fumaça por mais tempo.
+03
+Conjunto Roupão de Apicultor (Fig.39)
+A indumentária é o equipamento de proteção individual
+(EPI) do apicultor. É composta de macacão branco,
+máscara, luvas (preferencialmente de couro), botas e
+chapéu de palha, devendo ser usado todo o conjunto
+para que o apicultor esteja protegido, o que,
+consequentemente, diminuirá riscos de ferroadas.
+Deve ser confeccionada na cor branca e mantida
+sempre limpa, pois o cheiro de suor irrita as abelhas. A
+máscara deve ser de tecido resistente, de cor clara,
+com tela fina e escura no visor, de forma a permitir
+melhor visualização.
+01
+Caixa de Captura de Abelhas ou Ninho
+(Fig.40)
+Confeccionada em madeira com dimensões
+aproximadas (milímetro): 465x370x240.
+Fundo 555x410, tampa 545x440, vareta superior do
+quadro 481x25x20, acabamento da vareta nas pontas
+25x15x12, peças laterais do quadro 233x35 e 25x10,
+vareta inferior do quadro 450x15x12.
+Deve possuir de 5 a 10 quadros aramados (será a
+nova colmeia das abelhas que foram capturadas), tela
+de transporte (colocada sobre o ninho para transportálo) e espuma para vedar o alvado do ninho (entrada da
+caixa).
+SEPARATA Nº 38
+DE 22 DE SETEMBRO DE 2016
+Página
+621
+
+Visto do Ajudante Geral
+01
+Carretinha reboque c/ duas jaulas
+armadilha para transporte ou captura
+de médios e grandes animais. (Fig. 41)
+Utilizada para transporte de duas jaulas construídas de
+chapas de ferro, com medidas variadas, porta de
+correr no sentido vertical, podendo ser utilizado
+dispositivo de armadilha para fechamento da porta. As
+caixas metálicas podem ser adaptadas com
+dispositivos de gatilho que disparam acionados pelo
+peso do animal, liberando a porta de correr vertical,
+ocasionando o fechamento e realizando a captura do
+tipo “espera”.
+Como “isca” para o animal, poderão ser utilizados
+alimentos ou até mesmo essência que simula o “cio”
+do animal a ser capturado.
+A “isca” deverá ser colocada após a plataforma de
+acionamento do gatilho e de preferência ser amarrada.
+Quando se utilizam armadilhas do tipo “espera”, é
+aconselhável disfarçar o cheiro humano esfregando
+alimento ou folhas na armadilha.
+(Fig. 42)
+
+Fig. 43)
+ (Fig. 44)
+Porta de Correr
+Alça de Transporte
+Tela para
+Ventilação e
+Monitoramento
+01 – Plataforma de acionamento
+02 – Dobradiças da plataforma
+03 – Cabo de acionamento da
+plataforma
+04 – Haste do gatilho
+SEPARATA Nº 38
+DE 22 DE SETEMBRO DE 2016
+Página
+622
+
+Visto do Ajudante Geral
+(Fig. 44) (Fig. 45)
+05- Gatilho (argola e ponta da haste de ferro)
+06-Alça de armar
+07- Guia do Cabo de içamento da porta
+08- Cabo de içamento da porta
+09- Guia da Haste do Gatilho
+ ARMANDO O DISPOSITIVO
+8
+8
+8
+SEPARATA Nº 38
+DE 22 DE SETEMBRO DE 2016
+Página
+623
+
+Visto do Ajudante Geral
+(Fig 46) (Fig 47)
+(Fig 48) (Fig 49)
+
+
+APÊNDICE II - DESINFECÇÃO
+Realizar a desinfecção correta de jaulas, caixas de transporte e equipamentos é muito importante antes e após a
+captura de animais. Uma assepsia ineficiente expõe o homem e outros animais a doenças devido à possível
+presença de agentes patogênicos: bactérias, vírus, protozoários, fungos e helmintos.
+Lavar as mãos em água corrente, com sabonete e escovas de mão, assim como realizar a devida secagem das
+mãos após a captura de animais é uma postura desejável e que elimina o risco de contaminação. Evitar levar as
+mãos à boca, olhos e a eventuais feridas na pele são medidas simples, mas que podem evitar um
+desdobramento indesejável à integridade física.
+Sendo assim, os bombeiros militares devem adotar práticas sanitárias nesse tipo de ocorrência, impedido que
+uma simples captura, muitas vezes bem sucedida, possa ter consequências negativas para a saúde,
+inimagináveis e silenciosas, tanto para o homem quanto para os animais.
+ Conceitos:
+ Biossegurança: Conjunto de ações voltadas para prevenção, minimização ou eliminação de riscos
+inerentes às atividades de pesquisa, produção, ensino, desenvolvimento tecnológico e prestação de serviços,
+visando à saúde do homem, dos animais, à preservação do meio ambiente e à qualidade dos resultados.
+ Condições Higiênico-Sanitárias: São condições relacionadas à higiene, tanto pessoal quanto ambiental,
+bem como sanitária, no que se refere à sobrevivência e multiplicação de perigos biológicos. O controle higiênico
+sanitário são orientações e medidas profiláticas tendo como finalidade assegurar a qualidade do processo sob o
+ponto de vista da saúde pública.
+SEPARATA Nº 38
+DE 22 DE SETEMBRO DE 2016
+Página
+624
+
+Visto do Ajudante Geral
+ Descontaminação: Processo de eliminação total ou parcial da carga microbiana de artigos e superfícies,
+tornando-os aptos para o manuseio seguro. Esse processo pode ser aplicado através de limpeza, desinfecção e
+esterilização.
+ Desinfecção: É o processo de eliminação de agente infecciosos em forma vegetativa, sendo classificado
+como potencialmente patogênicos, usando-se meios físicos e químicos.
+ Esterilização: Processo de destruição de todos os microrganismos, inclusive os esporulados, a tal ponto
+que não seja mais possível detectá-los através de testes microbiológicos padrão.
+ Limpeza: Processo mecânico de retirada de sujidades, mediante o uso de água, sabão e detergente
+neutro ou detergente enzimático, para manter em estado de asseio os artigos e superfícies.
+Desinfecção de Materiais/Equipamentos:
+Durante o processo de higienização dos equipamentos é importante, também, seguir duas etapas: a da limpeza
+e a da sanitização. A limpeza consiste na remoção de resíduos macroscópicos de alimentos, sujidades ou outro
+material portador de agentes contaminantes. Essa remoção é realizada através de uma simples pré-lavagem,
+seguida da lavagem.
+ Pré-lavagem: Consiste na retirada de resíduos mais grosseiros. Nesse processo são usados raspadores,
+escovas, e/ou água pura e pode haver remoção de até 90% de resíduos solúveis em água.
+ Lavagem: É realizada com detergentes adequados e em concentrações apropriadas. As superfícies que
+ainda apresentem resíduos aderentes devem ser escovadas e enxaguadas.
+Os materiais empregados na lavagem devem ser esponjas de metal e outros materiais abrasivos.
+O próximo passo é a sanitização. Nessa segunda etapa, retira-se a sujeira que não se consegue ver. A
+sanitização consiste na eliminação ou redução de microrganismos indesejáveis, por processos químicos e/ou
+físicos adequados e não prejudiciais ao produto. É importante considerar que a sanitização não corrige falhas do
+processo de limpeza. Os resíduos remanescentes nos alimentos ou utensílios protegerão os microrganismos da
+ação dos agentes sanitizantes.
+PROCEDIMENTOS PARA LIMEPEZA E DESINFECÇÃO DE EQUIPAMENTOS
+EQUIPAMENTO PROCEDIMENTO
+Cambão  Lavagem mecânica com água e sabão;
+ Passar hipoclorito de sódio 1% nos locais onde existir
+sangue e secreções, deixando atuar por dez minutos;
+ Secar o material.
+Ganchos para Serpentes  Lavagem mecânica com água e sabão, álcool 70%;
+ Secar o material.
+Laços  Lavagem mecânica com água e sabão;
+ Secar no varal.
+Puçá  Lavagem mecânica com água e sabão;
+ Secar no varal.
+Rede de Arrastro ou Arremesso  Lavagem mecânica com água e sabão;
+ Secar no varal.
+Caixa de Transporte para
+Répteis
+ Lavagem mecânica com água e sabão;
+ Passar hipoclorito de sódio 1% nos locais onde existir
+sangue e secreções, deixando atuar por dez minutos;
+ Secar ao sol.
+Gaiola Armadilha  Lavagem mecânica com água e sabão;
+ Passar hipoclorito de sódio 1% nos locais onde existir
+sangue e secreções, deixando atuar por dez minutos;
+SEPARATA Nº 38
+DE 22 DE SETEMBRO DE 2016
+Página
+625
+
+Visto do Ajudante Geral
+ Secar ao sol.
+Fumigador  Passar pano úmido.
+Carretinha Reboque  Passar hipoclorito de sódio 1% nos locais onde existir
+sangue e secreções, deixando atuar por dez minutos;
+ Lavagem mecânica com água e sabão;
+ Secar ao sol.
+Viatura  Seguir o previsto na ITO 16.
+ Fonte: O Autor
+APÊNDICE III - CAPTURA DE ABELHAS
+Ocorrências envolvendo abelhas, onde há necessidade da intervenção do CBMMG, estendem-se ao longo do
+ano, porém o período mais crítico é o segundo semestre.
+O período de maior incidência está entre os meses de setembro a dezembro, devido à primavera, onde ocorre
+uma floração intensa na natureza e são construídas novas colmeias. O segundo período de maior incidência é
+no período de queimadas, que praticamente coincide com a primavera, pois as abelhas são “expulsas” das
+matas e buscam abrigo nas cidades.
+No ano de 2013, o CBMMG atendeu em todo Estado 4.484 ocorrências de enxame de insetos; no ano de 2014,
+foram 4.994 ocorrências.
+As abelhas são os mais importantes agentes polinizadores da natureza, fundamentais para a existência de
+milhares de espécies vegetais, desde que em estejam em seus ambientes naturais.
+Segundo a ONU, está sendo observado nas últimas décadas o desaparecimento gradativo das abelhas, o que é
+um fator preocupante, pois a vida humana e de espécies animais é diretamente dependente das abelhas, que
+são responsáveis pela polinização de 80% dos cultivos existentes, ou seja, boa parte dos alimentos consumidos
+pelo homem (frutos e sementes) é diretamente dependente do papel das abelhas na natureza.
+Feita essas considerações, serão abordados, mais detalhadamente, o comportamento das abelhas, o método de
+captura mais adequado, as ações a serem desenvolvidas nesse tipo de ocorrência e os cuidados que devem ser
+tomados durante a captura, complementando, assim, o item 7.4.1 desta ITO.
+Organização Social
+As abelhas são organizadas em castas, com funções previamente definidas, tendo a seguinte formação/função:
+rainha (reprodução e harmonia dos trabalhos na colmeia), zangão (somente fecunda a rainha) e operárias
+(garantir principalmente a alimentação da rainha e secundariamente do zangão, além de construir, defender a
+colmeia e captam néctar, água, pólen e resinas). Em cada colmeia existem cerca de 60 mil abelhas, e cada
+colônia é constituída por uma única rainha e até 400 zangões.
+Formação Anatômica e Reações
+O corpo se divide em: cabeça, tórax e abdômen.
+Na cabeça estão os olhos que, além de orientar seu vôo, distinguem as cores das flores. As antenas (sensores)
+também estão nessa parte do corpo, conseguindo diferenciar o cheiro de abelhas, flores e “inimigos”. Por isso o
+uso de perfumes ou cosméticos pode deixar as abelhas mais agressivas.O que é popularmente conhecido como
+ataque é, na verdade, um comportamento defensivo do animal. Dificilmente ocorrerá uma ferroada em um animal
+ou humano se as abelhas e/ou suas colônias não forem ameaçadas e perturbadas.
+No abdômen (extremidade) fica o ferrão, que nada mais é que um mecanismo de defesa da rainha e
+principalmente das operárias. Após a picada (liberação de toxina), o ferrão da operária fica no homem/animal e
+pode levar a vítima à morte, principalmente se a quantidade de picadas for grande.
+SEPARATA Nº 38
+DE 22 DE SETEMBRO DE 2016
+Página
+626
+
+Visto do Ajudante Geral
+É importante deixar claro que uma única picada pode levar a vítima à morte (em minutos ou horas), caso ela seja
+alérgica a tal toxina. Por isso é fundamental que a vítima seja encaminhada a um médico ao primeiro sinal de
+reação alérgica severa (choque anafilático), conforme listado abaixo:
+ Pele avermelhada, com coceira ou queimação;
+ Edema de face e língua;
+ Respiração ruidosa e difícil;
+ Hipotensão arterial;
+ Pulso fraco;
+ Tontura;
+ Palidez e cianose;
+ Coma.
+A vítima de picada que não possui reação alérgica severa geralmente apresenta no local inchaço, vermelhidão,
+coceira moderada e dor.
+Em caso de picada é preciso fazer a limpeza do local com água e sabão neutro. A aplicação de gelo ou
+compressa fria no local é suficiente para melhorar os sinais e sintomas, principalmente a dor.
+Não perfurar qualquer bolha que possa surgir no local da picada; não é, além disso, recomendado retirar o
+ferrão do local, para evitar que se rompa a bolsa de veneno e ocorra maior inoculação do veneno. Não se
+esqueça de perguntar ao paciente se ele é alérgico a picadas de abelhas.
+Na dúvida, desloque imediatamente com a vítima para um hospital.
+Orientação das Abelhas
+As abelhas têm uma boa memória geográfica e orientam-se pelo sol em busca de alimento e retorno para sua
+colmeia, por isso o melhor momento de capturá-las é no período noturno. Se as abelhas estiverem muito
+agitadas, a captura deve ocorrer naquele momento, para evitar um agravamento da situação.
+O recomendado é que a guarnição visualize a colmeia durante o dia, planeje a captura, oriente os moradores
+(inclusive da vizinhança) a deixarem o perímetro de trabalho ou isolarem-se dentro de suas residências (inclusive
+animais), faça contatos com outros órgãos, caso seja necessário, como, por exemplo, a CEMIG, e providencie os
+materiais necessários para a operação, visando a não expor os militares aos riscos mencionados anteriormente,
+e, por fim, realize o trabalho de forma eficiente.
+Equipamentos e EPI
+Todos os EPI utilizados pelos bombeiros devem ser de cor branca, pois as abelhas são sensíveis às
+tonalidades escuras, especialmente ao preto e ao marrom. As abelhas enxergam o branco de forma difusa,
+servindo assim como uma camuflagem.
+O Equipamento de Proteção Individual – EPI é composto:
+ Macacão com máscara (visor de tela plástica ou metálica pintada com tinta preta fosca na frente,
+possibilitando melhor visibilidade);
+ Par de luvas (preferência de couro fino para facilitar o manejo. As luvas de borracha geralmente não
+protegem de ferroadas);
+ Par de botas de cano longo;
+ Chapéu de palha (evitar que as abelhar piquem o bombeiro no rosto e na cabeça). Dar preferência
+para um modelo com chapéu redondo, pois deixará a tela da máscara afastada de todas as partes do rosto.
+SEPARATA Nº 38
+DE 22 DE SETEMBRO DE 2016
+Página
+627
+
+Visto do Ajudante Geral
+A roupa para apicultura, além das características acima, deve ser larga, e o tecido deve ser resistente para
+proteger o corpo de ferroadas. As extremidades do macacão (mangas e pernas) devem ser arrematadas em
+elástico, para impedir a entrada de abelhas na vestimenta. O tecido de brim é bastante utilizado e oferece uma
+boa proteção. O nylon grosso é o que oferece melhor proteção, pois as abelhas têm dificuldades de grudarem-se
+no macacão para então curvar o abdômen e cravar seu ferrão. Entretanto, o nylon caso venha a tocar um objeto
+quente (como o fumigador), pode derreter.
+O fumigador é indispensável, pois ele diminui a agressividade das abelhas. Ao primeiro sinal de fumaça, as
+abelhas têm a impressão de que está havendo um incêndio na colmeia, enchem os papos de mel e fogem. Com
+isso mantemos elas ocupadas, desorganizando a defesa do enxame. Por estarem carregadas de mel, o voo fica
+mais lento e têm dificuldade em ferroar, pois não possuem a amplitude completa do abdômen.
+Um sinal de que as abelhas estão tentando atacar é quando elas se chocam contra a máscara. Neste caso o
+manejo deve ser feito com cautela e em menor tempo possível.
+Geralmente as abelhas dispersam quando é feito um manejo brusco, com sacudidas e pancadas no local onde
+estão instaladas. Da mesma forma, deve-se evitar ir para uma captura sem fumigador. Complementarmente,
+pode-se utilizar um borrifador de água, que produza gotículas finas, que ao molhar as asas das abelhas, estas
+ficam temporariamente incapacitadas de voar.
+O importante é que a fumaça (usada aos poucos e em pequenas quantidades) não seja jamais produzida por
+materiais que possam irritar ou molestar as abelhas, como óleo de qualquer natureza: querosene, gasolina e
+produtos que desprendam odor forte ou mau cheiro. A fumaça deve ser fria e limpa, feita pela queima de
+serragem grossa, capim seco e palhas.
+ Questões que Envolvem a Captura
+Conforme o Inciso IV do Art. 37 da Lei nº 9605, de 12 de fevereiro de 1998, c/c Arts. 2º, 5º e 8º da Instrução
+Normativa do IBAMA nº 141, de 19 de dezembro de 2006, as espécies sinantrópicas nocivas passíveis de
+controle, dentre elas as abelhas, cupins, formigas, pulgas, piolhos, mosquitos, pombos, ratos, moscas e demais
+espécies nocivas comuns ao ambiente antrópico, que impliquem em transtornos sociais ambientais e
+Fig. 50 – Macacão Apicultor
+SEPARATA Nº 38
+DE 22 DE SETEMBRO DE 2016
+Página
+628
+
+Visto do Ajudante Geral
+econômicos significativos, observada a legislação vigente, especialmente no que se refere a maus tratos,
+translocação e utilização de produtos químicos, poderão ser manejados ou sofrer o controle da fauna1
+pelo
+Corpo de Bombeiros Militar, sempre que representarem risco iminente à população.
+A eliminação direta de indivíduos das espécies deve ser efetuada somente quando tiverem sido esgotadas as
+medidas de manejo ambiental, pois o extermínio, quando não se enquadrar nos casos supracitados, é CRIME
+AMBIENTAL, conforme prevê o Art. 29 da Lei nº 9605, de 12 de fevereiro de 1998.
+Sendo assim, o CBMMG somente atuará em ocorrências onde vidas (humanas e animais) estejam sendo
+colocadas em risco iminente2
+devido ao ataque de abelhas e marimbondos. Fora dessa situação, a princípio não
+nos compete mais realizar o serviço de captura, já que existem profissionais, apicultores, com competência para
+tal.
+O apicultor maneja de forma racional, dentro de técnicas, abelhas e seus produtos. Eles são encontrados
+facilmente na internet e catálogos telefônicos, todavia, por exercerem atividade remunerada, a população
+geralmente liga para a central de atendimento telefônico do CBMMG.
+Caso fique constatado pelo tele atendente do 193 que se trata de uma solicitação para captura de
+abelhas/marimbondos que não está colocando vidas em risco iminente, ele deverá orientar o solicitante a
+procurar um apicultor e a tomas as seguintes precauções:
+ não se aproximar do enxame;
+ não aplicar fumaça, veneno, álcool ou fogo;
+ não tentar matar o inseto que se aproximar, já que ele libera feromônio de alerta, o que atrai outras
+abelhas, as quais poderão vir a atacar;
+ proteger-se de eventuais ataques, pois esses insetos liberam substâncias tóxicas ao ser humano,
+quando atacam.
+Enxames itinerantes devem ser observados de longe, pois tendem a não atacar qualquer pessoa ou animal.
+Sendo assim, os procedimentos acima devem ser repetidos.
+Enxames em postes são de competência da concessionária responsável. Caso a empresa julgue necessário,
+essa deve contatar o CBMMG para eventuais apoios.
+Quanto há enxames que estejam fixos, localizados entre a laje e o telhado da residência ou entre muros, é
+preciso saber se habitam há muitos anos esse local, pois, nesse caso, só irão atacar se forem provocados.
+Dessa forma, não há risco iminente.
+As abelhas-sem-ferrão não oferecem risco, o que isenta a Corporação de atuação.
+Técnicas de Captura
+Como o extermínio de abelhas e marimbondos deve ser exceção, alguns procedimentos devem ser tomados
+antes, durante e depois da captura:
+ Verificar in loco se as abelhas são de espécies passíveis de captura;
+ Nunca se esquecer da segurança da guarnição, antes de qualquer coisa;
+
+1
+Conforme Instrução Normativa nº 141/2006 – Ibama, Art. 2º: (...) captura de espécimes animais seguida de soltura, com intervenções de
+marcação, esterilização ou administração farmacológica; captura seguida de remoção; captura seguida de eliminação; ou eliminação direta
+de espécimes animais.
+2
+Segundo Ferreira, 1993 apud Vanderlinde, 2012. O significado das palavras risco e iminente, significam, respectivamente “[...] perigo ou
+possibilidade de perigo” e “que ameaça acontecer em breve”.
+SEPARATA Nº 38
+DE 22 DE SETEMBRO DE 2016
+Página
+629
+
+Visto do Ajudante Geral
+ Verificar se a captura deve ser imediata (geralmente só em enxames itinerantes) ou pode ocorrer à
+noite;
+ Separar os EPI e materiais necessários antes de iniciar a captura;
+ Isolar a área de trabalho, variando o perímetro de acordo com o porte da colmeia/ninho;
+ Solicitar que todos os vizinhos fechem as portas e janelas de suas casas/lojas e guardem em local
+seguro seus animais;
+ Solicita à vizinhança que apaguem as luzes ou usem apenas as essenciais, principalmente as
+localizadas na parte externa da edificação, pois as abelhas terão a tendência de fugir para locais iluminados;
+ Contatar a CEMIG previamente se a colmeia estiver próximo à fiação;
+ Posicionar-se, preferencialmente, na parte de trás ou nas laterais da colmeia/ninho, nunca na frente,
+evitando a linha de voo das abelhas (entrada e saída da colmeia);
+ Caso utilize escada, a mesma deve ser amarrada antes do bombeiro subir;
+ Não trabalhar com abelhas/marimbondos quando estiver com excesso de suor ou cheiro forte e,
+menos ainda, com cheiro de álcool, pois isso pode agitá-las;
+ Evitar trabalhar em dia chuvoso, pois o risco de acidente é grande;
+ Tentar não passar mais de 5 minutos trabalhando numa colmeia/ninho;
+ Fazer o mínimo de barulho possível, para não irritá-las;
+ Sempre trabalhar em duplas, principalmente quando estiver operando o fumigador;
+ As colmeias/ninhos capturados devem ser ensacadas em sacos plásticos grandes;
+ Liberar as abelhas/marimbondos em mata no mínimo 2.500 metros de onde foram capturadas, para
+evitar que elas retornem para o local onde estavam estabelecidas;
+ Fazer o registro da ocorrência com o maior grau de detalhe possível.
+Em caso de extermínio:
+ O ideal é utilizar extintor de CO2 para congelar a colmeia/ninho;
+ Caso seja utilizado fogo, em extrema necessidade, todo cuidado é necessário para não ocorrer
+um incêndio ou o bombeiro se acidentar. Mantenha o fogo distante do corpo;
+ Trabalhe com calma e pense nas suas ações antes de agir;
+ Mantenha meio de extinção próximo ao operador do fogo, para combater princípios de incêndio;
+ Se o fogo for colocado em tochas, as mesmas devem ser confeccionadas em material resistente e de
+preferência incombustível. Um chumaço de estopa ou pano deve ser amarrado na extremidade da haste da
+tocha de forma firme, de preferência com arame, para evitar que o mesmo se solte durante a queima;
+ Cuidado com a rede elétrica e com as copas de árvores;
+ Verifique se não há concentração de gases inflamáveis ou outras fontes de combustível próximas,
+como: GLP, madeira e gasolina;
+ No máximo mais um bombeiro deve ficar próximo de quem está operando a tocha;
+ Certifique-se que toda colmeia/ninho foi extinta.

@@ -1,0 +1,3146 @@
+Corpo de Bombeiros Militar de Minas Gerais.
+ Manual de Bombeiros Militar : Busca e resgate em
+ estruturas colapsadas. 2.ed. Belo Horizonte: CBMMG,
+ 2019.
+155 p. il.
+ 1. Corpo de Bombeiros Militar de Minas Gerais.
+2. Manual 3.MABOM 4.Busca e resgate
+5. Estruturas colapsadas 6.Desabamento. I. Título
+
+
+ CDD 62
+
+APRESENTAÇÃO
+Após dois anos de aplicação do Manual de Busca e Resgate em Estruturas
+Colapsadas Volume I, e analisada sua aplicação no CBMMG, foi verificada sua
+excelente aplicabilidade à atividade Bombeiro Militar, principalmente no que
+concerne às adaptações propostas para as peculiaridades do CBMMG e do Estado
+de Minas Gerais.
+Independentemente, viu-se necessária uma atualização do manual pela
+necessidade de pequenas correções e adaptações às situações que se mostraram
+necessárias.
+O CBMMG tem envidado esforços para evoluir as atividades de Busca e Resgate
+em Estruturas Colapsadas e a produção de documentos técnico-profissionais, tanto
+que em 2019 publicou um manual para auxiliar sua tropa na construção de manuais,
+instruções técnicas e procedimentos operacionais padrão, o MABOM Elaboração de
+Documentos Técnicos Operacionais.
+O presente MABOM, denominado BREC Volume I – 2ª Edição tem por finalidade
+subsidiar o CBMMG e demais Corpos de Bombeiros Militares do Brasil de
+conhecimentos atinentes a atividades de busca e salvamento para casos de
+estruturas colapsada, direcionado a atuação para vitimas superficiais. Vítimas que
+não se encontrem presas em grandes profundidades nas estruturas colapsadas,
+nem que necessitem de tanta estrutura logística, tecnologia, de escoramentos e
+rompimentos para que sejam resgatadas/recuperadas.
+O MABOM BREC Volume I – 2ª Edição apresenta procedimentos para busca,
+localização, estabilização e retirada de vítimas superficiais de escombros,
+proporcionando uma forma segura dos resgatistas operarem, mantendo o cenário o
+mais seguro possível durante a operação. Devido à legislação mineira, é utilizado no
+Manual o Sistema de Comando em Operações.
+Esperamos que esta bibliografia possa auxiliar a todos que procurem estudar um
+pouco mais profundamente a atividade de BREC Básico.
+Belo Horizonte, 29 de outubro de 2019.
+OS AUTORES
+LISTA DE FIGURAS
+Figura 1 - Desabamento no Parque de Exposições da Gameleira - BH - 1974 ........17
+Figura 2 - INSARAG..................................................................................................18
+Figura 3 - Operações BREC no Haiti em 2010..........................................................19
+Figura 4 - Elevação de carga realizada em Curso BREC Básico do CBMMG ..........20
+Figura 5 - BREC CBMMG .........................................................................................21
+Figura 6 - Diagrama de localização provável de vítimas em estruturas colapsadas .22
+Figura 7 - Divisão dos cursos BREC na INSARAG e no CBMMG ............................24
+Figura 8 - Desabamento do Viaduto Batalha dos Guararapes em Belo Horizonte –
+jul. 2014.....................................................................................................................25
+Figura 9 – Uma Equipe BREC Básico.......................................................................28
+Figura 10 - Delimitações das Zonas de Trabalho......................................................31
+Figura 11 - Delimitação física de áreas de trabalho ..................................................32
+Figura 12 - Simbologia de Posto de Comando - PC..................................................33
+Figura 13 - Simulado de PC do CBMMG ..................................................................33
+Figura 14 - Simbologia de Área de Espera/Estacionamento - E ...............................33
+Figura 15 - Simulado de E do CBMMG.....................................................................34
+Figura 16 - Simbologia de Área de Informações ao Público - I .................................34
+Figura 17 - Simbologia de Base - B...........................................................................35
+Figura 18 - Simbologia de Área de Concentração de Vítimas - ACV ........................35
+Figura 19 - Simulado de ACV do CBMMG ................................................................36
+Figura 20 - Simbologia de Acampamento - A............................................................36
+Figura 21 - Simbologias de Heliponto e Helibase - H1 e H .......................................37
+Figura 22 - Exemplo de área de incidente com as delimitações de áreas de trabalho
+e instalações do SCO................................................................................................38
+Figura 23 - Simulado de área com instalações do SCO e zonas de trabalho ...........38
+Figura 24 – Composição de uma Equipe BREC Básico............................................43
+Figura 25 – Condição insegura. Bombeiro em local que apresenta uma condição
+insegura. A pedra sobre a estrutura pode se desprender a qualquer momento,
+atingindo o bombeiro.................................................................................................51
+Figura 26 - Ação insegura. O bombeiro retira um EPI na zona quente (E) e o
+bombeiro coloca sua mão deliberadamente sob uma carga sem o devido
+escoramento (D)........................................................................................................52
+Figura 27 - Líder de equipe BREC usando apito para fazer sinalização ...................53
+Figura 28 - Líder de equipe desempenhando as funções de Encarregado de
+Segurança.................................................................................................................54
+Figura 29 - Encarregado de Segurança identificado com colete reflexivo.................54
+Figura 30 - Resgatistas em posição de trabalho em dupla .......................................57
+Figura 31 - Rodízio de FEA's. O resgatista põe a FEA no chão para o que seu
+substituto a pegue e continue os trabalhos (E) e resgatistas trabalhando em dupla
+(D) .............................................................................................................................57
+Figura 32 - Resgatista utilizando os EPI's necessários para operação.....................58
+Figura 33 - Perímetro de segurança delimitado com identificação das zonas de
+trabalho .....................................................................................................................59
+Figura 34 - Materiais do kit de um membro de Equipe BREC...................................64
+Figura 35 - Imagem de infraestrutura ........................................................................66
+Figura 36 –Imagem de outro tipo de infraestrutura ...................................................66
+Figura 37 - Imagem de superestrutura ......................................................................66
+Figura 38 - Imagem de outra superestrutura.............................................................67
+Figura 39 - Imagem de fechamentos em alvenaria ...................................................67
+Figura 40 - Imagem de fechamento por dry wall em processo de instalação............68
+Figura 41 - Imagem de esquadria tipo claraboia .......................................................68
+Figura 42 - Imagem de revestimento.........................................................................69
+Figura 43 - Imagem de instalações hidráulicas .........................................................69
+Figura 44 - Dano estrutural em coluna ......................................................................71
+Figura 45 - Dano não estrutural em revestimento .....................................................72
+Figura 46 - Dano nível leve comprometendo apenas o revestimento da edificação .73
+Figura 47 - Dano moderado, comprometendo parte dos fechamentos da estrutura .73
+Figura 48 - Dano severo comprometendo a superestrutura e infraestrutura da
+edificação ..................................................................................................................74
+Figura 49 - Colapso em V .........................................................................................75
+Figura 50 - Exemplo de colapso em V ......................................................................75
+Figura 51 - Colapso por empilhamento .....................................................................76
+Figura 52 - Exemplo de edificação colapsada por empilhamento .............................76
+Figura 53 - Colapso apoiado ao piso.........................................................................77
+Figura 54 - Exemplo de colapso apoiado ao piso......................................................77
+Figura 55 - Colapso suspenso...................................................................................78
+Figura 56 - Exemplo de edificação em colapso suspenso ........................................78
+Figura 57 - Exemplo de edificação que sofreu colapso total .....................................79
+Figura 58 - Exemplo de edificação que sofreu colapso parcial .................................79
+Figura 59 – Paciente com membro em situação de esmagamento prolongado........86
+Figura 60 - Paciente em condição de síndrome de compartimentação aguda..........87
+Figura 61 - Demonstração da fase inicial da triagem com o chamamento da vítima
+responsiva (E), a vítima caminhando em direção ao resgatista (D) e os resgatistas
+auxiliando a saída da vítima (Abaixo)........................................................................89
+Figura 62 - Algoritmo do método START com JumpStart .........................................92
+Figura 63 - Área de Concentração de Vítimas onde é feita a triagem.......................93
+Figura 64 - Paciente imobilizado em estrutura colapsada.........................................94
+Figura 65 - Tipos de macas para imobilização de vítimas em estrutura colapsada.
+Maca tipo cesto (E), maca tipo basket (C) e prancha rígida (D)................................94
+Figura 66 - Momento em que o líder da equipe dá o comando de "preparar para
+levantar" ....................................................................................................................96
+Figura 67 - Momento em que o líder da equipe dá o comando de "levantar"............96
+Figura 68 - Momento em que os resgatistas já estão com a prancha nos joelhos e
+recebem o comando de "passar" ..............................................................................97
+Figura 69 - Momento da finalização da técnica com o comando e a execução do
+"preparar para abaixar" e "abaixar" ...........................................................................98
+Figura 70 - Quatro momentos da execução da técnica do PASSA MÃO..................98
+Figura 71 - Líder de equipe exercendo a função de encarregado de segurança ....101
+Figura 72 - Desenho esquemático do padrão de busca em paralelo ......................104
+Figura 73 - Exemplo de equipe em posição para realização de busca em paralelo105
+Figura 74 - Desenho esquemático do padrão de busca em circular externo ..........106
+Figura 75 - Exemplo de equipe em posição para realização de busca em circular
+externo ....................................................................................................................106
+Figura 76 - Execução da técnica de chamado e escuta..........................................107
+Figura 77 - Modelo do diagrama da área de busca.................................................109
+Figura 78 - Identificação das áreas externas...........................................................111
+Figura 79 - Identificação das áreas internas............................................................112
+Figura 80 - Sinalização estrutural - parte interna.....................................................113
+Figura 81 - Sinalização estrutural - parte externa....................................................114
+Figura 82 - Marcação estrutural completa com os dados internos e externos ........114
+Figura 83 - Marcação estrutural com indicação de trabalho finalizado....................115
+Figura 84 - Marcação estrutural com erro ...............................................................115
+Figura 85 - Pé de cabra...........................................................................................117
+Figura 86 - Gerador elétrico ....................................................................................118
+Figura 87 - Seguetas de arco de serra (E) e trena (D)............................................118
+Figura 88 - Exemplos de FEA's para resgate - marreta (1), talhadeira (2), alavanca
+(3) e talha tifor (4)....................................................................................................119
+Figura 89 - Exemplos de FEA's para atividade de altura – cordeletes e fitas tubulares
+(1), polias (2), mosquetões (3), freios tipo 8 (4) e corda (5) ....................................120
+Figura 90 - Exemplo de FEA's para suporte operacional - gerador elétrico (1), luz tipo
+pendente (2), lanterna de cabeça (3) e lanterna de mão (4)...................................120
+Figura 91 - Exemplos de FEA's para APH - prancha rígida (1) e head block (2) ....121
+Figura 92 - Exemplos de FEA's para proteção individual – capacete (1), máscaras
+faciais (2), joelheiras e cotoveleiras (3) e luvas (4) .................................................121
+Figura 93 - Exemplos de FEA's para agentes QBRNE – explosímetro detector de
+gases combustíveis CH4 NEXT (1) e barreira de contenção (2).............................122
+Figura 94 - Imagens internas e externas da caixa BREC........................................125
+Figura 95 - Serrote ..................................................................................................127
+Figura 96 - Utilização do serrote na zona quente....................................................127
+Figura 97 - Arco de serra ........................................................................................128
+Figura 98 - Utilização de arco de serra na zona quente..........................................129
+Figura 99 - Talhadeira .............................................................................................130
+Figura 100 - Utilização de talhadeira na zona quente .............................................130
+Figura 101 - Martelo ................................................................................................131
+Figura 102 - Marreta de dois quilos.........................................................................132
+Figura 103 - Pé de cabra.........................................................................................133
+Figura 104 - Alavanca e sua utilização para elevação de cargas............................134
+Figura 105 - Serra de fio .........................................................................................134
+Figura 106 - Utilização do malho.............................................................................136
+Figura 107 - Demonstração da técnica de remoção de escombros ........................138
+Figura 108 – Elevação e estabilização de carga utilizando sistema de alavancas..139
+Figura 109 - Alavanca Classe A onde o apoio se encontra entre a força e a carga 140
+Figura 110 - Alavanca Classe B onde a carga está entre a força e o apoio............141
+Figura 111 - Alavanca Classe C onde a força está entre a carga e o apoio ...........141
+Figura 112 - Carga sendo estabilizada....................................................................142
+Figura 113 – Base sólida formada por quatro blocos de madeira ...........................143
+Figura 114 - Assoalho tipo plataforma - 3x3............................................................143
+Figura 115 - Assoalho tipo caixa - 2x2 ....................................................................144
+Figura 116 - Procedimento de elevação e estabilização de cargas sendo executado
+................................................................................................................................145
+Figura 117 - Carga elevada e estabilizada..............................................................146
+Figura 118 - Equipe BREC em condições para iniciar a técnica de resgate vertical
+................................................................................................................................147
+Fluxograma 1 - Fases da administração de um desastre..........................................45
+Fluxograma 2 - Etapas da resposta ..........................................................................46
+Organograma 1 - Equipes BREC dentro do organograma do SCO ..........................27
+Organograma 2 - Equipe de busca e localização....................................................100
+Quadro 1 - Classificação INSARAG das Equipes USAR ..........................................23
+Quadro 2 - Classificação das Equipes BREC - CBMMG...........................................23
+Quadro 3 - Formulário SCO 201 – PG 01 .................................................................39
+Quadro 4 - Formulário SCO 201 – PG 02 .................................................................40
+Quadro 5 - Formulário SCO 201 – PG 03 .................................................................40
+Quadro 6 - Formulário SCO 201 – PG 04 .................................................................41
+Quadro 7 - Classificação das Equipes BREC CBMMG.............................................42
+Quadro 8 - Funções de cada integrante da equipe BREC ........................................44
+Quadro 9 - Classificação x Proteção dos EPI's .........................................................61
+Quadro 10 - Kit de EPI's e apetrechos ......................................................................63
+Quadro 11 - Formulário de avaliação de edificação ..................................................81
+Quadro 12 - Quadros clínicos ou traumáticos que podem se apresentar quando
+submetido a alguns riscos.........................................................................................84
+Quadro 13 - Mecanismo de lesão x Quadro clínico ou traumático............................85
+Quadro 14 - Quadro de prioridades do método START ............................................91
+Quadro 15 - Marcação de vítimas padrão INSARAG..............................................116
+LISTA DE SIGLAS E ABREVIATURAS
+ACV Área de Concentração de Vítimas
+B Base
+BM Bombeiro Militar
+BEMAD Batalhão de Emergências Ambientais e Resposta a Desastres
+BREC Busca e Resgate em Estruturas Colapsadas
+CBMMG Corpo de Bombeiros Militar de Minas Gerais
+COBOM Centro de Operações de Bombeiros
+E Área de Espera
+EPI Equipamento de Proteção Individual
+EVI Espaço Vital Isolado
+FEA Ferramenta, Equipamento e Acessório
+GTO BREC Grupo Temático Operacional de Busca e Resgate em Estruturas
+Colapsadas
+I Seção de Informações ao Público
+IFC Isolamento de Fluidos Corporais
+INSARAG1
+International Search and Rescue Advisory Group
+IRPM Incursões Respiratórias Por Minuto
+FEMA Federal Emergency Management Agency2
+MDL Mecanismos Da Lesão
+NDD Naturezas Da Doença
+OCHA Office for the Coordination of Humanitarian Affairs3
+OFDA Office of U.S. Foreign Disaster Assistance4
+ONU Organização das Nações Unidas
+PC Posto de Comando
+PEMAD Pelotão de Emergências Ambientais e Resposta a Desastres
+QBRNE Químico, Biológico, Radiológico, Nucleares e Explosivos
+SCI Sistema de Comando de Incidentes
+SCO Sistema de Comando de Operações
+SEDS Secretaria de Estado de Defesa Social
+
+1 Grupo Consultivo Internacional de Busca e Resgate. Tradução nossa.
+2
+Agência Federal de Gerenciamento de Emergências. Tradução nossa.
+3
+Escritório de Coordenação de Ajuda Humanitária. Tradução nossa.
+4
+Escritório dos Estados Unidos para Assistência à Desastres Estrangeiros. Tradução nossa.
+SICOE Sistema Integrado de Comando e Operações
+SICOE/PR Sistema Integrado de Comando e Operações em Emergências
+SICOE/SP Sistema de Comando em Operações de Emergência
+START Simple Triage And Rapid Treatment5
+SOU Sala de Operações da Unidade
+UR Unidade de Resgate
+USAID United States Agency for International Development6
+USAR Urban Search and Rescue7
+
+5
+Simples Triagem e Rápido Tratamento. Tradução nossa.
+6
+Agência dos Estados Unidos para o Desenvolvimento Internacional. Tradução nossa.
+7
+Busca e Resgate Urbano. Tradução nossa.
+SUMÁRIO
+1 RESGATE EM ESTRUTURAS COLAPSADAS...................................................16
+1.1 Da doutrina internacional de busca e resgate em estruturas colapsadas...16
+1.2 Da doutrina BREC no CBMMG.........................................................................19
+1.3 Classificação dos cursos CBMMG e a correspondência com a INSARAG..20
+2 SISTEMA DE COMANDO EM OPERAÇÕES - SCO ...........................................25
+2.1 Vantagens do SCO............................................................................................26
+2.2 As equipes BREC Básico no SCO...................................................................26
+2.3 Como instalar o SCO ........................................................................................28
+2.3.1Sete passos para instalação do SCO em uma operação BREC Básico.....29
+2.4 Zonas e perímetros de segurança...................................................................30
+2.5 Instalações padronizadas do SCO ..................................................................32
+2.5.1Posto de Comando (PC) e Área de Espera/Estacionamento (E).................32
+2.5.2Área de Informações ao Público (I)...............................................................34
+2.5.3Base (B) ...........................................................................................................35
+2.5.4Área de Concentração de Vítimas (ACV) ......................................................35
+2.5.5Acampamento (A) ...........................................................................................36
+2.5.6Heliponto e Helibase (H1 e H) ........................................................................37
+2.6 Formulários do SCO .........................................................................................39
+3 ORGANIZAÇÃO INICIAL DAS OPERAÇÕES BREC BÁSICO...........................42
+3.1 Equipe BREC Nível Básico...............................................................................42
+3.2 Organização mínima de uma equipe BREC Nível Básico CBMMG...............42
+3.2.1Características da equipe ..............................................................................42
+3.2.2Composição da Equipe BREC Básico ..........................................................43
+3.2.3Funções de cada integrante da equipe.........................................................44
+3.3 Fases da administração de um desastre envolvendo estruturas colapsadas
+.....................................................................................................................45
+3.3.1Fase de preparação ........................................................................................45
+3.3.2Fase de ativação e mobilização.....................................................................45
+3.3.3Fase da atuação operacional.........................................................................45
+3.3.4Fase de desativação/desmobilização ...........................................................48
+3.3.5Fase de atividades pós-missão (relatório final e avaliação) .......................48
+4 SEGURANÇA NAS OPERAÇÕES.......................................................................49
+4.1 Principais ameaças presentes em uma ocorrência envolvendo estruturas
+colapsadas...............................................................................................................49
+4.2 Condições e ações inseguras..........................................................................51
+4.2.1Condição Insegura..........................................................................................51
+4.2.2Ação insegura:................................................................................................52
+4.3 Sinais sonoros em operações BREC Básico .................................................52
+4.4 Encarregado de Segurança..............................................................................53
+4.4.1Atribuições do Encarregado de Segurança..................................................54
+4.5 Segurança nas operações................................................................................55
+4.6 Normas de segurança para as operações das equipes BREC Básico.........56
+4.6.1Normas de segurança no local de trabalho..................................................56
+4.6.2Normas de segurança para a proteção pessoal dos integrantes da Equipe
+BREC Básico ...........................................................................................................57
+4.7 Avaliação das condições de acesso ao local de trabalho.............................59
+4.8 Normas a seguir ante a presença de produtos químicos, biológicos,
+radiológicos, nucleares e explosivos (QBRNE)....................................................60
+5 EQUIPAMENTOS DE PROTEÇÃO INDIVIDUAL - EPI .......................................61
+5.1 Classificação dos EPI.......................................................................................61
+5.2 EPI’s para operações BREC Básico................................................................62
+5.2.1Kit de EPI’s e apetrechos de um resgatista BREC Básico..........................62
+5.3 Manutenção dos EPI’s......................................................................................64
+6 RECONHECIMENTO DE DANOS........................................................................65
+6.1 Conceitos...........................................................................................................65
+6.1.1Componentes da edificação ..........................................................................65
+6.2 Espaço Vital Isolado – EVI ...............................................................................70
+6.3 Classificação dos danos em edificações........................................................70
+6.3.1Classificação de dano por tipo......................................................................70
+6.3.2Classificação de dano por nível ....................................................................72
+6.4 Classificação dos colapsos de uma edificação .............................................74
+6.4.1Classificação de colapso pela forma ............................................................74
+6.4.2Classificação de colapso por extensão ........................................................79
+6.5 Procedimentos para reconhecimento de danos em edificações..................80
+6.6 Descrição do formulário de avaliação.............................................................81
+7 ATENDIMENTO PRÉ HOSPITALAR EM ESTRUTURAS COLAPSADAS .........82
+7.1 Aspectos gerais ................................................................................................82
+7.2 Comunicação com a vítima..............................................................................83
+7.3 Precauções em locais de escombros .............................................................84
+7.4 Principais Naturezas Da Doença (NDD) ou Mecanismos De Lesão (MDL)
+causadas pelo colapso de uma estrutura .............................................................84
+7.5 Síndrome do Esmagamento Prolongado e Síndrome Compartimental
+Aguda .....................................................................................................................85
+7.6 Triagem de vítimas em estruturas colapsadas ..............................................88
+7.6.1Passo a passo da triagem..............................................................................89
+7.7 Imobilização de vítimas em escombros..........................................................93
+7.8 Remoção e deslocamento de vítimas em escombros ...................................95
+7.9 Considerações ..................................................................................................99
+8 BUSCA E LOCALIZAÇÃO.................................................................................100
+8.1 Busca e localização em estruturas colapsadas ...........................................100
+8.2 Equipe de busca e localização ......................................................................100
+8.2.1Composição ..................................................................................................100
+8.2.2Funções .........................................................................................................101
+8.3 Recursos necessários para a realização da busca......................................102
+8.4 Realizando uma operação de busca e localização ......................................102
+8.5 Padrões de busca e técnicas aplicadas........................................................103
+8.5.1Padrões de busca .........................................................................................104
+8.5.2Técnicas de busca ........................................................................................106
+8.6 Sinalização estrutural do CBMMG e de sinalização de vítimas da INSARAG .
+...................................................................................................................109
+8.6.1Desenhos, marcações e sinalização...........................................................110
+8.6.2Marcação estrutural BREC Básico CBMMG ...............................................112
+8.6.3Sinalização de vítimas da INSARAG ...........................................................116
+9 FERRAMENTAS, EQUIPAMENTOS E ACESSÓRIOS – FEA ..........................117
+9.1 Ferramenta ......................................................................................................117
+9.2 Equipamento ...................................................................................................117
+9.3 Acessório.........................................................................................................118
+9.4 Classificação de FEA’S ..................................................................................119
+9.4.1FEA’s para resgate .......................................................................................119
+9.4.2FEA’s para atividade em altura....................................................................119
+9.4.3FEA’s para suporte operacional..................................................................120
+9.4.4FEA’s para atendimento pré-hospitalar (APH) ...........................................121
+9.4.5FEA’s para proteção individual ...................................................................121
+9.4.6FEA’s para atuação com agentes QBRNE..................................................122
+9.5 Uso das FEA’S ................................................................................................122
+9.6 Acondicionamento das FEA’s .......................................................................123
+9.6.1Caixa BREC ...................................................................................................123
+9.6.2Passos para utilização das FEA’s ...............................................................125
+9.6.3Utilização e manuseio das FEA’s ................................................................126
+10RESGATE EM SUPERFÍCIE..............................................................................137
+10.1 Técnicas para resgate ................................................................................137
+10.1.1 Remoção e Transporte de Escombros .....................................................137
+10.1.2 Elevação e estabilização de cargas ..........................................................138
+10.1.3 Técnica de resgate vertical........................................................................146
+10.1.4 Normais gerais para realização da técnica de resgate vertical. .............148
+REFERÊNCIAS .............................. ........................................................................150
+APÊNDICES ............................................................................................................152
+MABOM – BUSCA E RESGATE EM ESTRUTURAS COLAPSADAS – VOLUME I 16
+1 RESGATE EM ESTRUTURAS COLAPSADAS
+Ação desencadeada visando o salvamento de vítimas em um cenário provocado por
+um colapso de uma edificação (parcial ou total), sendo que estas vítimas podem ser
+encontradas superficialmente ou presas aos escombros.
+1.1Da doutrina internacional de busca e resgate em estruturas colapsadas
+Desastres e emergências envolvendo estruturas colapsadas sempre ocorreram
+desde que o homem passou a utilizar estruturas construídas de alvenaria.
+Estas emergências, quer sejam provocadas por causas naturais (tempestades,
+deslizamentos de terra, inundações etc.), quer sejam provocadas pelo próprio
+homem (construções irregulares, erros de construção, atentados etc.), trazem
+reflexos para a sociedade, através dos danos materiais e perdas de vidas.
+As ocorrências envolvendo estruturas colapsadas sempre foram cenários de
+atuação operacional dos Corpos de Bombeiros Militares pelo Brasil, através da
+aplicação de técnicas de salvamento terrestre.
+Um exemplo nacionalmente conhecido é o desabamento de parte da estrutura do
+Parque de Exposições da Gameleira em Belo Horizonte/MG, ocorrido em 4 de
+fevereiro de 1971 (Figura 1).
+Naquele episódio, ao se retirar as escoras de sustentação da laje do pavilhão que
+estava sendo construído, parte da estrutura cedeu, culminando no óbito de 69
+(sessenta e nove) trabalhadores em decorrência da queda da estrutura (sem contar
+os que morreram posteriormente em decorrência dos ferimentos), além de diversos
+feridos. O CBMMG atuou nesta ocorrência por diversos dias, utilizando das técnicas
+e equipamentos de salvamento terrestre disponíveis à época.
+CAPÍTULO 1 – RESGATE EM ESTRUTURAS COLAPSADAS 17
+Figura 1 - Desabamento no Parque de Exposições da Gameleira - BH - 1974
+Fonte: Acervo histórico CBMMG
+Todavia, apesar deste tipo de ocorrência sempre ter sido atendido pelos Corpos de
+Bombeiros Militares, com o passar dos anos e a evolução de técnicas e
+equipamentos, as atividades de busca e resgate em estruturas colapsadas, que
+estavam inicialmente inseridas no conteúdo da disciplina de “Salvamento Terrestre”,
+passaram a se especializar ainda mais, deixando de ser um assunto trabalhado de
+maneira generalista, para ser trabalhado por uma abordagem específica.
+Neste contexto, houve o início de uma doutrina específica da atividade de Busca e
+Resgate em Estruturas Colapsadas (BREC). Esta especialização da atividade de
+BREC é relativamente recente, surgida no ano de 1991.
+Devido a dois graves terremotos, ocorridos no México no ano de 1985 e na Armênia
+no ano de 1988, que provocaram severos danos nas edificações existentes
+naqueles países e muitas mortes, inúmeras equipes de busca e resgate urbano de
+diversos lugares do mundo foram mobilizadas, e foi verificada a premente
+necessidade de padronização das atividades de salvamento neste tipo de cenário.
+Tal necessidade ficou evidente a partir do momento em que profissionais de
+salvamento de países diferentes utilizavam técnicas e equipamentos distintos, sendo
+que inúmeras vezes ocorriam conflitos nas atividades de salvamento decorrente
+desta diferente atuação operacional (exemplo: uma equipe necessitava de silêncio
+MABOM – BUSCA E RESGATE EM ESTRUTURAS COLAPSADAS – VOLUME I 18
+para ouvir se havia alguma vítima nos escombros, enquanto uma equipe de outro
+país fazia barulho ao lado rompendo concreto).
+Visando padronizar condutas e procedimento de respostas aos desastres, no ano de
+1991, por iniciativa das equipes de resgate urbano que trabalharam nos terremotos
+do México e da Armênia, foi criada o Grupo Assessor Internacional e Busca e
+Resgate (International Search and Rescue Advisory Group – INSARAG),
+vinculada à Organização das Nações Unidas (ONU). Trata-se de uma rede formal de
+organizações que respondem aos desastres, criada como resultado das iniciativas
+das equipes internacionais de busca e resgate que operaram no terremoto de 1988
+na Armênia. A Figura 2 apresenta a insígnia da INSARAG.
+Figura 2 - INSARAG
+Fonte: Disponível em: https://www.insarag.org/. Acesso em: 07 ago. 2019
+A INSARAG tem como principal objetivo promover os critérios normalizados para a
+capacitação, o equipamento e a autossuficiência que devem cumprir as equipes
+internacionais para a assistência em caso de desastres.
+Para cumprir este objetivo no que diz respeito à capacitação, a INSARAG passou a
+replicar em diversos países do mundo a sua doutrina de atuação em operações
+envolvendo busca e resgate em estruturas colapsadas, através de cursos e
+treinamentos.
+E esta padronização de técnicas e procedimentos já apresentou resultados, como
+por exemplo, nos grandes terremos ocorridos no ano de 2010 no Haiti e no Chile, e
+mais recentemente no Nepal (2015) e no Equador (2016), onde equipes
+internacionais de resgate de diversos países foram empenhadas e trabalharam
+CAPÍTULO 1 – RESGATE EM ESTRUTURAS COLAPSADAS 19
+tendo como base uma mesma doutrina, evitando conflitos e retrabalhos no teatro de
+operações.
+De acordo com o relatório final das operações de resposta do terremoto do Haiti em
+2010, produzido pela INSARAG, mais de 60 (sessenta) equipes de BREC,
+totalizando 2.000 (dois mil) resgatistas e 200 (duzentos) cães de busca, de um total
+de 36 (trinta e seis) países diferentes trabalharam naquela oportunidade, utilizando
+uma doutrina padronizada nos trabalhos de resgate (Figura 3).
+Figura 3 - Operações BREC no Haiti em 2010
+Fonte: Disponível em http://jackspaces.blogspot.com/2010_01_17_archive.html. Acesso em: 07 ago.
+2019
+1.2Da doutrina BREC no CBMMG
+Após os acontecimentos que provocaram sua criação, a INSARAG passou a
+elaborar e difundir em diversos países do mundo a sua doutrina de atuação em
+operações envolvendo busca e resgate em estruturas colapsadas, através de cursos
+e treinamentos. Hoje, a INSARAG é a principal referência internacional no que diz
+respeito à atendimento a desastres envolvendo estruturas colapsadas, com a
+publicação de manuais e protocolos de atuação operacional.
+A doutrina difundida pela INSARAG é aplicável ao CBMMG, todavia, são
+necessárias algumas adaptações/ajustes, em observância à competência legal da
+Corporação, bem como em relação a sua estrutura logística disponível.
+MABOM – BUSCA E RESGATE EM ESTRUTURAS COLAPSADAS – VOLUME I 20
+Um exemplo a ser dado é que, os protocolos de atuação operacional da INSARAG
+preveem, por parte do resgatistas, a adoção de procedimentos invasivos no
+atendimento pré-hospitalar em uma emergência envolvendo estruturas colapsadas,
+com o fornecimento de fármacos, por exemplo. Todavia, no Brasil há o impedimento
+da adoção destes procedimentos invasivos por bombeiros militares “combatentes”
+(não especialistas do Quadro de Saúde).
+Dessa forma, o presente manual cria a doutrina de BREC do CBMMG, tendo como
+amparo técnico referencial a doutrina internacional da INSARAG, adaptada à
+realidade operacional e logística da Corporação.
+1.3Classificação dos cursos CBMMG e a correspondência com a INSARAG
+A classificação das equipes BREC é correspondente aos cursos de qualificação que
+a INSARAG ministra: Curso de BREC níveis Leve, Intermediário e Pesado.
+O profissional aprovado no Curso BREC Nível Leve da INSARAG está capacitado a
+realizar o resgate de vítimas superficiais, ou seja, aquelas que se tem acesso sem a
+necessidade de penetração nos escombros e técnicas complexas de escoramento.
+Além disso, neste curso são trabalhados os princípios da doutrina BREC no que diz
+respeito a segurança das operações e organização inicial de operação envolvendo
+estruturas colapsadas (gestão de desastres). A Figura 4 mostra uma técnica relativa
+ao BREC nível básico.
+Figura 4 - Elevação de carga realizada em Curso BREC Básico do CBMMG
+Fonte: Acervo GTO BREC
+CAPÍTULO 1 – RESGATE EM ESTRUTURAS COLAPSADAS 21
+O profissional aprovado no Curso BREC Nível Intermediário da INSARAG está
+capacitado a realizar o resgate de vítimas presas aos escombros, uma vez que
+neste curso o aluno aprende técnicas avançadas de rompimento e escoramento de
+estruturas.
+O profissional aprovado no Curso BREC Nível Pesado da INSARAG está capacitado
+a realizar o resgate de vítimas presas aos escombros de maneira extremamente
+complexa, uma vez que neste curso o aluno trabalha com recursos tecnológicos
+avançados e o apoio de equipes de cães de busca e resgate, além do enfoque na
+gestão do desastre. A Figura 5 faz alusão à doutrina BREC no CBMMG, que
+apresenta algumas características próprias, descritas posteriormente.
+Figura 5 - BREC CBMMG
+Fonte: Acervo GTO BREC
+É importante frisar que a INSARAG recomenda um número significativamente maior
+de profissionais capacitados em BREC Nível Leve, haja vista que a maioria das
+ocorrências envolvendo estruturas colapsadas consegue-se atender apenas com as
+técnicas de resgate superficial (Figura 6).
+Além disso, quanto mais profissionais capacitados com a doutrina BREC, maior o
+número de pessoas habilitadas a organizar o cenário inicial de uma operação
+MABOM – BUSCA E RESGATE EM ESTRUTURAS COLAPSADAS – VOLUME I 22
+envolvendo estruturas colapsadas e garantir a adoção dos princípios de segurança
+específicos para se iniciar o trabalho.
+Figura 6 - Diagrama de localização provável de vítimas em estruturas colapsadas
+‘
+Fonte: USAID; OFDA (2011)
+As equipes de resgate em estruturas colapsadas são denominadas
+internacionalmente como equipes USAR, em decorrência da abreviação de sigla
+Urban Search and Rescue (busca e resgate urbano).
+A INSARAG classifica as Equipes USAR em três níveis, conforme o Quadro 1.
+CAPÍTULO 1 – RESGATE EM ESTRUTURAS COLAPSADAS 23
+Quadro 1 - Classificação INSARAG das Equipes USAR
+NÍVEL AUTONOMIA CAMPO DE AÇÃO EQUIPAMENTO
+1 Básico 24 horas Resgate superficial sem
+atuação internacional
+Ferramentas básicas e alguns
+equipamentos de apoio.
+2 Intermediário
+24 horas em um
+local de trabalho
+por até 07 dias
+Escoramentos,
+levantamentos de
+cargas pesadas e
+perfuração de
+estruturas de madeiras
+robustas, concreto
+armado e com atuação
+internacional.
+Equipamentos, ferramentas e
+acessórios (elétricos,
+hidráulicos, pneumáticos),
+cães e equipamentos
+tecnológicos e corpo clínico
+para tratar a própria equipe.
+3 Pesado
+24 horas em dois
+locais de trabalho
+por até 10 dias
+Escoramentos,
+levantamentos de
+cargas pesadas e
+perfuração de
+estruturas de aço
+estrutural além do
+concreto, com atuação
+internacional.
+Equipamentos, ferramentas e
+acessórios (elétricos,
+hidráulicos, pneumáticos),
+cães e equipamentos
+tecnológicos e corpo clínico
+para tratar a própria equipe.
+Fonte: Adaptado de Ocha (2015)
+Tendo como base o currículo de formação da INSARAG e das especificidades da
+estrutura operacional da Corporação, o Corpo de Bombeiros Militar de Minas Gerais
+classifica suas equipes de Busca e Resgate em Estruturas Colapsadas (BREC) em
+dois níveis conforme o Quadro 2.
+Quadro 2 - Classificação das Equipes BREC - CBMMG
+NÍVEL AUTONOMIA CAMPO DE AÇÃO EQUIPAMENTO
+1 Básico 24 horas Resgate superficial Ferramentas básicas e alguns equipamentos
+de apoio.
+2 Avançado 10 dias
+Vítimas presas às
+estruturas colapsadas
+necessitando de
+grandes escoramentos e
+perfurações
+Equipamentos, ferramentas e acessórios
+(elétricos, hidráulicos, pneumáticos),
+máquinas pesadas, busca com cães,
+equipamentos tecnológicos (sonares, sondas
+etc.).
+Fonte: Elaborado pelos autores
+A nomenclatura adotada pelo CBMMG (Básico e Avançado) se dá em virtude de que
+não há na Corporação a divisão da capacitação em BREC em três níveis, não
+justificando, dessa forma, utilizar os termos “Leve” e “Intermediário”, uma vez que
+este último remete a ideia de existir um nível superior.
+MABOM – BUSCA E RESGATE EM ESTRUTURAS COLAPSADAS – VOLUME I 24
+O Curso de BREC Básico do CBMMG se assemelha ao nível Leve da INSARAG,
+sendo o curso destinado a capacitar os militares da Corporação para realizar o
+resgate superficial de vítimas em uma ocorrência envolvendo estruturas colapsadas;
+enquanto o Curso de BREC Avançado do CBMMG corresponde a uma junção dos
+conhecimentos do nível Intermediário e Pesado da INSARAG, sendo o curso
+destinado a capacitar os militares da Corporação a realizar o resgate de vítimas
+presas aos escombros em uma ocorrência envolvendo estruturas colapsadas,
+através do emprego de técnicas avançadas rompimento, estabilização de cargas e
+escoramento de estruturas.
+A Figura 7 mostra a correspondência entre a classificação das equipes INSARAG e
+do CBMMG:
+Figura 7 - Divisão dos cursos BREC na INSARAG e no CBMMG
+Fonte: Elaborado pelos autores
+CAPÍTULO 2 – SISTEMA DE COMADNO EM OPERAÇÕES 25
+2 SISTEMA DE COMANDO EM OPERAÇÕES - SCO
+O SCO - Sistema de Comando em Operações - é uma ferramenta gerencial
+altamente difundida no Brasil, com esta nomenclatura ou com outras semelhantes,
+como o SCI (Sistema de Comando de Incidentes), SICOE/SP (Sistema de Comando
+em Operações de Emergência) e SICOE/PR (Sistema Integrado de Comando e
+Operações em Emergências).
+Esta ferramenta permite aos envolvidos em resposta a emergências um trabalho
+mais organizado, com comunicações e recursos integrados, com delegações de
+responsabilidades compartilhadas, além de outras características que serão
+importantes para o sucesso de uma operação, como representado pela Figura 8.
+Figura 8 - Desabamento do Viaduto Batalha dos Guararapes em Belo Horizonte – jul. 2014
+Fonte: Disponível em: http://zh.clicrbs.com.br/rs/noticias/noticia/2014/07/desabamentode-viadutodeixa-um-morto-e-20-feridos-em-minas-gerais-4542568.html. Acesso em: 15 maio 2017
+No âmbito do Estado de Minas Gerais existe a Resolução Conjunta 166, de 28 de
+setembro de 2012
+8
+, criada pela Secretaria de Estado de Defesa Social (SEDS) que
+utiliza o SCO como sistema de gerenciamento de eventos adversos e grandes
+desastres.
+
+8
+Art. 3º - As agências que utilizarem a Metodologia Integrada de Gerenciamento de Eventos adotarão
+o Sistema de Comando em Operações (SCO) como ferramenta de gerenciamento de eventos.
+MABOM – BUSCA E RESGATE EM ESTRUTURAS COLAPSADAS – VOLUME I 26
+No ano de 2014, foi assinado pelo Governador do Estado de Minas Gerais o Decreto
+46.449/20149
+, que maximizou o potencial legal deste sistema, com a previsão do
+estabelecimento do SCO como ferramenta gerencial para resposta à eventos com
+múltiplas vítimas, incluindo a Secretaria de Estado de Saúde no Grupo Gestor
+Operacional.
+2.1Vantagens do SCO
+Devido aos princípios e características do SCO, sua concepção sistêmica,
+contingencial e a possibilidade de se aplicar a todos os tipos de riscos e operações,
+várias são as vantagens que poderão ser visualizadas em um cenário de
+emergência onde ele é aplicado.
+O fato de uma grande emergência ser gerenciada por esta ferramenta permitirá aos
+envolvidos ter controle integral dos recursos da operação, dará condições ao
+comando da operação de acessar informações sobre o evento, independentemente
+da agência que as possuir ou produzir, facilitará as comunicações com a imprensa
+presente no evento, a fim de divulgar informações através de uma fonte única, além
+de delegar responsabilidades a todas as agências envolvidas, cada qual em sua
+área de atuação específica.
+2.2As equipes BREC Básico no SCO
+Devido a sua estrutura modular e flexível, o SCO poderá se expandir ou retrair à
+medida da evolução da emergência, devendo o comando ativar as funções
+necessárias para o melhor aproveitamento dos recursos disponíveis e maior
+efetividade nos trabalhos.
+De acordo com sua doutrina, a estrutura do SCO é dividida em Staff de Comando e
+Staff Geral. O Staff de Comando é aquele responsável pelas funções de Ligações,
+Informações ao Público, Secretaria e Segurança, enquanto o Staff Geral é aquele
+
+9
+Art. 14 – Será empregada a metodologia do Sistema de Comando em Operações – SCO – como
+ferramenta gerencial para planejar, organizar, dirigir e controlar, de forma padronizada, a resposta em
+situações com múltiplas vítimas.
+CAPÍTULO 2 – SISTEMA DE COMADNO EM OPERAÇÕES 27
+responsável pelas seções de Planejamento, Operações, Logística e Administração e
+Finanças.
+Dentro da Seção de Operações, no Staff Geral, existem, duas subdivisões
+denominadas como seções operacionais e setores operacionais.
+As seções operacionais agrupam seus recursos usando como critério a afinidade
+das atividades operacionais ou os objetivos, tendo seus acionamentos sempre
+solicitados pelo Coordenador de Operações do SCO, baseado no Plano de Ação
+pré-estabelecido.
+Os setores operacionais, diferentemente das seções, agrupam seus recursos com
+base na divisão geográfica em que os recursos serão empenhados. Da mesma
+forma, apenas serão solicitados pelo Coordenador de Operações do SCO, também
+baseado no Plano de Ação pré-estabelecido (Organograma 1).
+Organograma 1 - Equipes BREC dentro do organograma do SCO
+Fonte: Adaptado de Oliveira (2010)
+MABOM – BUSCA E RESGATE EM ESTRUTURAS COLAPSADAS – VOLUME I 28
+Nas subdivisões da Seção de Operações do SCO serão colocadas as Equipes
+BREC Básico presentes na emergência. Caso uma Equipe BREC Básico seja a
+primeira a chegar ao local, ela será responsável pela montagem inicial do SCO e
+posteriormente será designada como um tipo de recurso em uma destas divisões.
+(Figura 9).
+Figura 9 – Uma Equipe BREC Básico
+Fonte: Acervo GTO BREC
+2.3Como instalar o SCO
+Na administração de um desastre, existem 05 fases10 a serem seguidas, e a terceira
+delas é a Fase de Atuação Operacional. Esta fase se inicia com a instalação do
+SCO.
+Para instalar o SCO como o primeiro recurso a chegar ao local, é necessário
+respeitar 07 passos. Estes passos permitirão uma organização inicial da
+emergência, planejamento inicial das atividades e uma preparação para que outros
+agentes possam assumir o comando assim que possível ou necessário.
+
+10 Será abordado no próximo capítulo item 4. - Fases da administração de um desastre envolvendo
+estruturas colapsadas.
+CAPÍTULO 2 – SISTEMA DE COMADNO EM OPERAÇÕES 29
+2.3.1 Sete passos para instalação do SCO em uma operação BREC Básico
+Os passos a seguir estão de acordo com a doutrina do SCI, adotada mundialmente
+por diversas equipes de busca e salvamento.
+É importante salientar que neste manual serão apresentados os passos iniciais para
+atendimento de uma equipe BREC Básico, dentro da estrutura tático operacional.
+São os passos:
+a) passo 1 - informar ao Centro de Operações de Bombeiros (COBOM) ou Sala
+de Operações da Unidade (SOU) da sua chegada ao local:
+- quem? Chefe da equipe ou quem ele determinar;
+- avisar ao COBOM: imediatamente na chegada à cena via rádio, celular ou
+outro meio de comunicação disponível.
+b) passo 2 - assumir o comando da operação e estabelecer o Posto de
+Comando (PC) e a Área de Espera/Estacionamento (E):
+- o chefe da equipe presta o anúncio à central e instala o PC. Esse anúncio
+deverá conter o nome do comandante das operações e a localização da área
+de espera, onde as demais viaturas deverão se apresentar.
+c) passo 3 - realizar a avaliação da situação:
+- verificar a existência de vítimas;
+- avaliar os riscos existentes;
+- levantar o histórico dos fatos.
+d) passo 4 - Estabelecer o perímetro de segurança11:
+- nomear um encarregado de segurança;
+- providenciar isolamento físico da área;
+- delimitar as zonas de trabalho;
+- realizar a checagem dos EPI’s adequados.
+e) passo 5 - Estabelecer os objetivos/estratégias/atribuições táticas:
+- identificar os objetivos mensuráveis (o que fazer);
+- elaborar um plano de ação inicial com base nos objetivos e estratégias (o que,
+quem, quando, como e onde);
+
+11 Fase onde irá ser definida a criação das Zonas Quente, Morna e Fria.
+MABOM – BUSCA E RESGATE EM ESTRUTURAS COLAPSADAS – VOLUME I 30
+- distribuir as funções do organograma inicial de acordo com a demanda
+apresentada e os recursos disponíveis.
+f) passo 6 - Estabelecer as necessidades de recursos adicionais e possíveis
+instalações pré-definidas do SCO:
+- avaliar a capacidade de resposta existente no momento;
+- verificar a necessidade de apoio especializado;
+- implementar as instalações padronizadas de ACV, Base, Centro de
+Informações ao Público, e demais de acordo com a necessidade.
+g) passo 7 - Preparar as informações para transferir o comando:
+- o chefe da equipe BREC Básico deve preparar informações necessárias, tais
+como:
+i. organograma do SCO atualizado;
+ii. croqui, mapas da área, ou plantas da edificação;
+iii. controle de recursos humanos empregados e à disposição;
+iv. controle de recursos logísticos empregados e à disposição;
+v. controle dos contatos importantes tanto internos quanto externos;
+vi. plano de ação atualizado.
+Os passos para instalação do SCO são um guia fundamental para a sequência
+operacional logica de coordenação e gerenciamento do desastre, de modo que esta
+ferramenta não é uma ação solida ou engessada restrita aos sete passos.
+A gestão inicial deve ser dinâmica e realizada de forma horizontal, ou seja, os
+passos serão realizados de modo integrado e envolvendo todos os resgatistas da
+equipe BREC.
+2.4Zonas e perímetros de segurança
+Na área da operação envolvendo estruturas colapsadas, algumas instalações do
+SCO serão ativadas e utilizadas durante toda a emergência à medida de sua
+necessidade, além das obrigatórias. Para que se consiga definir tanto os locais de
+trabalho quanto onde irão ficar estas instalações, é necessário que se divida o local
+em três zonas principais, QUENTE, MORNA E FRIA. (Figura 10).
+CAPÍTULO 2 – SISTEMA DE COMADNO EM OPERAÇÕES 31
+Figura 10 - Delimitações das Zonas de Trabalho
+Fonte: Elaborado pelos autores, baseado em Oliveira (2010)
+A Zona Quente é a mais interna, de maior risco, onde serão executados os
+trabalhos de busca e resgate propriamente ditos.
+A Zona Morna é a área de transição entre a Zona Quente e a Zona Fria, com um
+risco mais controlado e onde estará o Corredor de Acesso à Zona Quente, local
+onde serão verificados principalmente os recursos que entram e saem da Zona
+Quente e se todos estão utilizando os EPI’s corretos (Figura 11).
+A Zona Fria é a área mais externa, de menor risco, onde preferencialmente
+deverão ficar as instalações pré-definidas do SCO.
+MABOM – BUSCA E RESGATE EM ESTRUTURAS COLAPSADAS – VOLUME I 32
+Figura 11 - Delimitação física de áreas de trabalho
+Fonte: Acervo GTO BREC
+2.5Instalações padronizadas do SCO
+O SCO tem em sua gama de conceitos, algumas instalações já previamente
+identificadas e padronizadas para serem instaladas à medida da necessidade que o
+evento tem.
+2.5.1 Posto de Comando (PC) e Área de Espera/Estacionamento (E)
+Como demonstrado anteriormente, quando do 2º passo de instalação do SCO, é
+necessário ativar duas instalações pré-definidas do SCO, o Posto de Comando
+(PC) e a Área de Espera/Estacionamento (E).
+Estas duas serão responsáveis por abrigar o comando da operação e os recursos
+que ficarão à disposição da administração da emergência.
+O Posto de Comando é representado por um retângulo horizontal laranja com a
+inscrição PC (em preto) no centro (Figuras 12 e 13), enquanto a Área de
+Espera/Estacionamento é representada por um círculo amarelo com a inscrição E
+(em preto) no centro (Figuras 14 e 15).
+CAPÍTULO 2 – SISTEMA DE COMADNO EM OPERAÇÕES 33
+Figura 12 - Simbologia de Posto de Comando - PC
+Fonte: Oliveira (2010, p. 50)
+Figura 13 - Simulado de PC do CBMMG
+Fonte: Acervo GTO BREC
+Figura 14 - Simbologia de Área de Espera/Estacionamento - E
+Fonte: Oliveira (2010, p. 57)
+MABOM – BUSCA E RESGATE EM ESTRUTURAS COLAPSADAS – VOLUME I 34
+Figura 15 - Simulado de E do CBMMG
+Fonte: Acervo GTO BREC
+2.5.2 Área de Informações ao Público (I)
+Esta área será ativada quando a demanda dos órgãos de imprensa for
+demasiadamente elevada, de forma a organizar as coletivas de imprensa e a
+divulgação de boletins informativos sobre os progressos da operação. É
+representada por um triângulo amarelo com a letra I (em preto) no centro. (Figura
+16).
+Figura 16 - Simbologia de Área de Informações ao Público - I
+Fonte: Oliveira(2010, p. 55)
+CAPÍTULO 2 – SISTEMA DE COMADNO EM OPERAÇÕES 35
+2.5.3 Base (B)
+Esta é a instalação onde serão desenvolvidas as atividades logísticas da operação.
+Todo o suporte logístico será conduzido a esta instalação e lá ficarão até serem
+utilizados ou retornados às suas agências de origem. É representada por um círculo
+amarelo com a inscrição B (em preto) no centro. (Figura 17).
+Figura 17 - Simbologia de Base - B
+Fonte: Oliveira (2010, p. 53)
+2.5.4 Área de Concentração de Vítimas (ACV)
+Nesta instalação as vítimas que são retiradas da Zona Quente serão triadas
+conforme suas condições clínicas, através do método START, e aguardarão
+deslocamento até o estabelecimento hospitalar. É representada por um círculo
+amarelo com a inscrição ACV (em preto) no centro. (Figuras 18 e 19).
+Figura 18 - Simbologia de Área de Concentração de Vítimas - ACV
+Fonte: Oliveira (2010, p. 58)
+MABOM – BUSCA E RESGATE EM ESTRUTURAS COLAPSADAS – VOLUME I 36
+Figura 19 - Simulado de ACV do CBMMG
+Fonte: Acervo GTO BREC
+2.5.5 Acampamento (A)
+Estrutura ativada principalmente em operações de longa duração, onde todos os
+resgatistas envolvidos serão recolhidos, contendo estruturas para dormitório,
+alimentação e posto de atendimento médico para os resgatistas. É representada por
+um círculo amarelo com a inscrição A (em preto) no centro. (Figura 20).
+Figura 20 - Simbologia de Acampamento - A
+Fonte: Oliveira (2010, p. 54)
+CAPÍTULO 2 – SISTEMA DE COMADNO EM OPERAÇÕES 37
+2.5.6 Heliponto e Helibase (H1 e H)
+O heliponto será a zona de pouso de helicópteros da operação, onde ocorrerão as
+operações de embarque e desembarque.
+A helibase é onde os recursos logísticos das operações aeronáuticas ficarão
+guardados, prontos para utilização assim que necessários.
+São representadas respectivamente por dois círculos amarelos com as inscrições H1
+e H (em preto) no centro. O numeral presente na marcação de heliponto define a
+identificação daquele heliponto, visando identificar mais facilmente em qual área
+cada aeronave pousará. (Figura 21).
+Fonte: Oliveira (2010, p. 56)
+Figura 21 - Simbologias de Heliponto e Helibase - H1 e H
+MABOM – BUSCA E RESGATE EM ESTRUTURAS COLAPSADAS – VOLUME I 38
+Desta maneira poderemos ter em uma emergência, a disposição abaixo, conforme a
+Figuras 22 e 23.
+Figura 22 - Exemplo de área de incidente com as delimitações de áreas de trabalho e instalações do
+SCO
+Fonte: Elaborado pelos autores, baseado em Oliveira (2010)
+Figura 23 - Simulado de área com instalações do SCO e zonas de trabalho
+Fonte: Acervo GTO BREC
+CAPÍTULO 2 – SISTEMA DE COMADNO EM OPERAÇÕES 39
+2.6Formulários do SCO
+Dos formulários utilizados nas doutrinas de SCO/SCI/SICOE, o que será mais
+utilizado pelas Equipes BREC Básico será o SCO 201, conforme Oliveira (2010).
+Este formulário é composto de 04 páginas (Quadro 3 a 6), onde serão
+disponibilizadas informações de toda a operação e deverá ser preenchido pelo
+Comando.
+Além do SCO 201, temos ainda alguns formulários da metodologia do SCI (Sistema
+de Comando de Incidentes) disponibilizados pela Federal Emergency Management
+Agency (FEMA)12 que poderão ser utilizados para auxiliar nos trabalhos como o SCI
+202, SCI 205, SCI 211 e o SCI 219.
+O SCI 202 é para o registro dos objetivos do próximo período operacional. O SCI
+205 determinará as comunicações internas do SCO, determinando faixas, redes,
+frequências e modulações. O SCI 211 e o SCI 219 registrarão informações sobre os
+recursos, sejam humanos e/ou logísticos, que se reportaram ao local da emergência.
+Quadro 3 - Formulário SCO 201 – PG 01
+1. Nome da Operação: 2. Preenchido por: Formulário
+3. Data/hora: SCO 201
+4. Mapa/croqui:
+5. Situação (resumo dos fatos):
+Fonte: Oliveira (2010, p. 69)
+
+12 Disponíveis em: https://www.nwcg.gov/publications/ics-forms. Acesso em: 08 ago. 2019
+MABOM – BUSCA E RESGATE EM ESTRUTURAS COLAPSADAS – VOLUME I 40
+Quadro 4 - Formulário SCO 201 – PG 02
+1. Nome da Operação: 2. Preenchido por: Formulário
+3. Data/hora: SCO 201
+6. Prioridades e objetivos:
+7. Sumário das ações planejadas e implementadas:
+Fonte: Oliveira (2010, p. 70)
+Quadro 5 - Formulário SCO 201 – PG 03
+1. Nome da Operação: 2. Preenchido por: Formulário
+3. Data/hora: SCO 201
+8. Estrutura organizacional da operação (inserir organograma):
+Fonte: Oliveira (2010, p. 71)
+CAPÍTULO 2 – SISTEMA DE COMADNO EM OPERAÇÕES 41
+Quadro 6 - Formulário SCO 201 – PG 04
+1. Nome da Operação: 2. Preenchido por: Formulário
+3. Data/hora: SCO 201
+9. Descrição dos recursos da operação:
+Recurso Identificador Hora
+Solicitação
+Tempo
+Estimado Contato No
+local 10. Observações
+Fonte: Oliveira (2010, p. 72)
+MABOM – BUSCA E RESGATE EM ESTRUTURAS COLAPSADAS – VOLUME I 42
+3 ORGANIZAÇÃO INICIAL DAS OPERAÇÕES BREC BÁSICO
+A Equipe BREC Básico será definida exatamente como a Equipe USAR Leve da
+doutrina da INSARAG:
+É um elemento ativo do sistema de resposta ante as emergências. Tem
+como propósito desenvolver atividades à busca convencional, estabilização
+e resgate de vítimas encontradas em superfícies, utilizando um sistema
+organizacional para desenvolver o trabalho. (INSARAG, 2011)
+3.1Equipe BREC Nível Básico
+Como demonstrado no capítulo anterior, para fins de atuação operacional nas
+atividades BREC no âmbito do CBMMG, adotar-se-á para as equipes BREC a
+classificação conforme o quadro abaixo:
+Quadro 7 - Classificação das Equipes BREC CBMMG
+NÍVEL AUTONOMIA CAMPO DE AÇÃO EQUIPAMENTO
+1 Básico 24 horas Resgate superficial sem
+atuação internacional
+Ferramentas básicas e
+alguns equipamentos de
+apoio.
+2 Avançado
+24 horas em
+dois locais de
+trabalho por
+até 07 dias
+Escoramentos,
+levantamentos de cargas
+pesadas e perfuração de
+estruturas de madeiras
+robustas, concreto
+armado além de ter área
+de atuação irrestrita.
+Equipamentos, ferramentas
+e acessórios (elétricos,
+hidráulicos, pneumáticos),
+cães e equipamentos
+tecnológicos e corpo clínico
+para tratar a própria equipe.
+Fonte: Elaborado pelos autores
+Observa-se então que as equipes BREC Básico atuarão para o resgate de vítimas
+superficiais, com utilização principalmente de ferramentas, devendo atuar com uma
+autonomia de 24 horas.
+3.2Organização mínima de uma equipe BREC Nível Básico CBMMG
+3.2.1 Características da equipe
+A unidade operacional mínima que atua em uma operação BREC Básico é
+denominada Equipe, sendo composta de no mínimo 05 (cinco) e no máximo de 06
+CAPÍTULO 3 – ORGANIZAÇÃO INICIAL DAS OPERAÇÕES BREC BÁSICO 43
+(seis) integrantes, devendo haver no mínimo 02 (duas) Equipes destas para
+trabalhar e descansar em sistema de rodízio em todas as etapas que formam uma
+operação de BREC Básico.
+As equipes de BREC Básico podem executar no cenário envolvendo estruturas
+colapsadas várias ações operacionais, como Atendimento Pré-Hospitalar (APH),
+busca e localização, trabalhos em altura, reconhecimentos de danos dentre outras.
+3.2.2 Composição da Equipe BREC Básico
+Para fins de padronização, a distribuição de responsabilidades e funções dos
+integrantes que irão compor a equipe poderá ser feita da seguinte forma (Figura 24):
+a) 01 líder, que também poderá acumular a função de encarregado de segurança,
+ou até mesmo designar um resgatista para exercer tal função, como é
+demonstrado no conteúdo do capítulo Segurança nas Operações;
+b) 01 encarregado da logística, que também exerce o papel de resgatista;
+c) 04 resgatistas.
+Figura 24 – Composição de uma Equipe BREC Básico
+Fonte: Acervo GTO BREC
+MABOM – BUSCA E RESGATE EM ESTRUTURAS COLAPSADAS – VOLUME I 44
+Em todas as operações BREC Básico, os trabalhos serão sempre realizados em
+dupla, com um resgatista sempre posicionado à retaguarda do que está operando a
+FEA, sendo seu segurança e observando todos os aspectos de segurança no local.
+Será também quem fará o revezamento com o operador para evitar extremo
+desgaste físico durante a operação.
+3.2.3 Funções de cada integrante da equipe
+O quadro a seguir elenca quais as funções são desempenhadas pelos integrantes
+da equipe:
+Quadro 8 - Funções de cada integrante da equipe BREC
+LÍDER DA EQUIPE
+ Comunicar com o Posto de Comando;
+ Comandar a Equipe BREC Básico;
+ Receber as ordens do Posto de Comando, conforme o Plano de Ação estabelecido;
+ Determinar as ações operacionais que deverão ser desenvolvidas pelos resgatistas;
+ Assegurar o revezamento das equipes empenhadas;
+ Escolher as FEA’s (ferramentas, equipamentos e acessórios) a serem utilizadas;
+ Zelar pela segurança da Equipe.
+ENCARREGADO DE LOGÍSTICA
+ Fazer o rodízio da função com os
+demais integrantes da equipe;
+ Manter contato durante toda a
+operação com o Chefe da Seção de
+Logística do SCO;
+ Receber as necessidades de
+ferramentas, equipamentos e
+acessórios (FEA´s) do líder;
+ Disponibilizar as FEA’s para os
+resgatistas;
+ Manter um inventário de todo o
+aparato logístico empregado;
+ Coordenar com o
+almoxarifado/deposito, a devolução
+do material utilizado;
+ Zelar pela segurança da Equipe.
+RESGATISTA
+ Cumprir as determinações do Líder,
+conforme o Plano de Ação estabelecido;
+ Utilizar as FEA’s de maneira correta e
+segura;
+ Manter o líder informado sobre o
+cumprimento da missão;
+ Solicitar ao Encarregado de Logística da
+Equipe BREC Básico as FEA’s
+necessárias;
+ Zelar pela segurança da Equipe.
+Fonte: Adaptado de USAID; OFDA (2011)
+CAPÍTULO 3 – ORGANIZAÇÃO INICIAL DAS OPERAÇÕES BREC BÁSICO 45
+3.3Fases da administração de um desastre envolvendo estruturas colapsadas
+Para garantir a resposta adequada, coordenada e sistêmica em um desastre
+envolvendo estruturas colapsadas, devem-se observar cinco fases conforme o
+fluxograma a seguir:
+Fluxograma 1 - Fases da administração de um desastre
+Fonte: Adaptado de USAID; OFDA (2011)
+3.3.1 Fase de preparação
+Reúne um conjunto de ações que visam melhorar a estruturação e capacitação dos
+agentes envolvidos no atendimento a desastres.
+3.3.2 Fase de ativação e mobilização
+Desenvolver mecanismos de ativação e mobilização dos recursos humanos e
+logísticos necessários para o emprego em uma emergência envolvendo estruturas
+colapsadas.
+3.3.3 Fase da atuação operacional
+É composta por cinco etapas. Trata da atuação operacional direta das Equipes
+BREC no cenário envolvendo estruturas colapsadas.
+MABOM – BUSCA E RESGATE EM ESTRUTURAS COLAPSADAS – VOLUME I 46
+3.3.3.1 Etapas para a resposta de uma operação BREC Básico
+O atendimento a uma emergência envolvendo estruturas colapsadas deve-se pautar
+pela adoção de determinadas etapas sucessivas, descritas a seguir e resumidas
+pelo Fluxograma 2:
+Fluxograma 2 - Etapas da resposta
+Fonte: Adaptado de USAID; OFDA (2011)
+a) 1ª ETAPA: instalação do SCO: Como visto no capítulo e SCO, no intuito de
+organizar o teatro de operações para o início dos trabalhos, deve-se adotar as
+seguintes providências:
+- informar ao COBOM (Sala de Operações) a sua chegada à cena;
+- assumir o comando da operação e estabelecer o Posto de Comando e a Área
+de Espera;
+- realizar a avaliação da situação, definindo o perímetro de segurança;
+- estabelecer os objetivos da operação (o que será realizado);
+- estabelecer as estratégias e táticas a serem adotadas (o que fazer / como
+fazer para atingir os objetivos);
+- estabelecer as necessidades de recursos adicionais e as instalações do SCO
+que serão ativadas;
+- preparar a informação para transferir o comando.
+b) 2ª ETAPA: verificar a existência de vítimas superficiais: Adotadas as
+providências de instalação do SCO, deve-se verificar na cena a existência de
+vítimas superficiais em decorrência do colapso estrutural ocorrido:
+CAPÍTULO 3 – ORGANIZAÇÃO INICIAL DAS OPERAÇÕES BREC BÁSICO 47
+- é necessário buscar informações com testemunhas sobre o evento, no intuito
+de se dimensionar o incidente, de modo que tais informações possam ser
+transmitidas ao Posto de Comando para a correta delimitação da emergência,
+confecção do Plano de Ação, necessidade de recursos logísticos e humanos
+suplementares, necessidade de ativação de novas instalações do SCO,
+dentre outras atividades;
+- é importante que esta verificação seja realizada em no máximo 05 (cinco)
+minutos, sendo que de acordo com as informações levantadas serão
+estabelecidos os cuidados de segurança necessários para a realização dos
+trabalhos.
+c) 3ª ETAPA: aplicação do método de triagem START: Considerando que na
+etapa anterior foi verificada a existência de vítimas superficiais, torna-se
+necessário realizar a triagem – através do método START – das vítimas
+presentes na cena, de modo a priorizar o atendimento em decorrência dos
+critérios estabelecidos pelo método referenciado.
+d) 4ª ETAPA: realizar busca e localização: Após a retirada das vítimas
+superficiais, devidamente triadas pelo método START (que definirá a prioridade
+de retirada), torna-se necessário a realização de buscas – através de técnicas
+específicas de busca e localização em estruturas colapsadas – no intuito de se
+localizar possíveis vítimas que não foram encontradas no momento de
+verificação da existência de vítimas superficiais. A aplicação das técnicas
+específicas de busca e localização visa, além de localizar uma vítima não
+superficial, determinar se esta pode ser retirada através das técnicas e
+equipamentos utilizados por uma Equipe BREC Básico, ou se será necessário
+o acionamento de uma Equipe BREC Avançado.
+e) 5ª ETAPA: estabilização e retirada: Aplicadas as técnicas de busca e
+localização, deve-se adotar os procedimentos necessários para a estabilização
+do paciente e retirada para um ponto seguro fora da edificação colapsada.
+Após a retirada do paciente para um local seguro, deve-se continuar a
+realização da 4ª Etapa no intuito de verificar se há outras vítimas presas aos
+escombros da estrutura colapsada.
+MABOM – BUSCA E RESGATE EM ESTRUTURAS COLAPSADAS – VOLUME I 48
+3.3.4 Fase de desativação/desmobilização
+Nesta fase será providenciada a desativação das funções não mais utilizadas da
+estrutura organizacional do SCO, bem como dos recursos humanos e logísticos, até
+que sejam encerrados todos os trabalhos no local da operação.
+3.3.5 Fase de atividades pós-missão (relatório final e avaliação)
+Deverão ser elaborados relatórios das ações operacionais desenvolvidas durante os
+trabalhos, no intuito de se avaliar as técnicas e procedimentos empregados, sua
+aplicabilidade, necessidade de melhorias e adequações, visando aprimorar o
+acionamento e a resposta em um próximo incidente.
+CAPÍTULO 4 – SEGURANÇA NAS OPERAÇÕES 49
+4 SEGURANÇA NAS OPERAÇÕES
+Diante das ocorrências atendidas pelas equipes de bombeiros, verifica-se que as
+atuações em estruturas colapsadas são uma das que apresentam grandes riscos à
+integridade dos resgatistas, devido às ameaças oferecidas pelo ambiente.
+Por isso as considerações sobre segurança presentadas neste capítulo devem
+observadas e seguidas rigorosamente, visando não só a segurança das vítimas que
+se encontram presas às estruturas colapsadas, mas também a de todos os
+resgatistas envolvidos na operação BREC Básico.
+4.1Principais ameaças presentes em uma ocorrência envolvendo estruturas
+colapsadas
+Várias são as ameaças presentes em um cenário de operações de bombeiros, e
+muitas se apresentam também e às vezes com mais incidência, nas operações
+BREC Básico.
+Dentre as muitas ameaças que se apresentam, as elencadas abaixo têm maior
+probabilidade de serem encontradas nas operações BREC Básico e a elas devem
+ser dispensadas a devida atenção. São elas:
+a) ar e águas contaminados: devido ao não conhecimento dos materiais
+presentes na edificação colapsada, pode-se ter uma atmosfera ou águas
+contaminadas tanto por gases tóxicos ou químicos que possam estar presentes
+no local;
+b) FEA’s mal conservadas: as FEA’s que não são corretamente manutenidas
+preventiva e corretivamente, e as que não são utilizadas conforme suas
+especificações têm possibilidade de causar acidentes com os integrantes da
+equipe;
+c) distúrbios civis: não é incomum nos cenários de grandes desabamentos, os
+quais atingem uma região muito extensa a presença de pessoas tentando
+saquear estabelecimentos atingidos ou não pelos colapsos, causando
+distúrbios para a segurança pública;
+MABOM – BUSCA E RESGATE EM ESTRUTURAS COLAPSADAS – VOLUME I 50
+d) estafa física: as atividades BREC Básico exigirão dos resgatistas um esforço
+físico elevado, provocando grande estafa física, o que pode elevar a
+probabilidade de baixas durante a operação;
+e) desconhecimento sobre o local do desastre: as equipes mobilizadas para
+uma operação BREC Básico nem sempre terão conhecimento aprofundado do
+local atingido, o que dificulta a interpretação das áreas atingidas;
+f) espaços confinados: mesmo nas atividades BREC Básico, haverá cenários
+onde em algum momento se apresentarão espaços extremamente pequenos e
+apertados para que os resgatistas realizem suas operações;
+g) estruturas Instáveis: o colapso sofrido pela estrutura pode culminar no
+rearranjo da estrutura restante, deixando-a instável e podendo provocar novas
+movimentações. Estas movimentações são também chamadas de réplicas;
+h) poluição sonora: devido à grande quantidade de FEA’s utilizadas no local,
+sejam elas de resgate ou suporte, haverá muita poluição sonora no local, daí a
+importância da utilização dos EPI conforme especificados;
+i) combustão: dada a natureza destas operações, poderão estar presentes nos
+locais de desabamentos agentes que provoquem algum tipo de combustão na
+estrutura colapsada, exigindo um cuidado especial quanto às altas
+temperaturas e chamas;
+j) presença de agentes QBRNE: como são eventos passíveis de ocorrer em
+qualquer tipo de edificação, poderemos ter a presença de agentes Químicos,
+Biológicos, Radiológicos, Nucleares e Explosivos, o que necessitará de uma
+resposta especializada;
+k) descargas elétricas: devido às destruições provocadas na rede elétrica da
+edificação colapsada, é provável, caso não seja desligada a rede principal de
+energia, que os resgatistas sofram acidentes por descargas elétricas;
+l) roedores: nos casos principalmente de eventos de maior duração, onde a
+presença de vítimas recuperadas é muito grande existe a probabilidade de
+aumento da quantidade de roedores no local, aumentando as chances de
+proliferação de doenças no local como a leptospirose por exemplo;
+m) acidentes por quedas de altura: como os escombros podem apresentar
+diferentes conformações, as quedas de altura são riscos consideráveis sob os
+quais os resgatistas deverão ter especial cuidado;
+CAPÍTULO 4 – SEGURANÇA NAS OPERAÇÕES 51
+n) materiais perfuro cortantes: as ferragens expostas devido ao colapso ou
+vidros presentes no local após o sinistro podem causar cortes ou perfurações
+não só nas vítimas, mas também nos resgatistas que operam.
+4.2Condições e ações inseguras
+Os conceitos e exemplos sobre estes temas serão apresentados a seguir.
+4.2.1 Condição Insegura
+Segundo a USAID; OFDA (2010), CONDIÇÃO INSEGURA é a “situação a qual se
+enfrenta um resgatista que implica uma ameaça para sua integridade física”.
+Está relacionada com as condições do local em que o resgatista está operando.
+Exemplos:
+a) uma parede inclinada ou grandes tricas em paredes;
+b) objetos ou estruturas da edificação que não estejam escorados (Figura 25);
+c) condições ambientais: ventos fortes, chuva, relâmpagos;
+d) presença de produtos perigosos: amônia, ácidos, dentre outros.
+Figura 25 – Condição insegura. Bombeiro em local que apresenta uma condição insegura. A pedra
+sobre a estrutura pode se desprender a qualquer momento, atingindo o bombeiro
+Fonte: Acervo GTO BREC
+MABOM – BUSCA E RESGATE EM ESTRUTURAS COLAPSADAS – VOLUME I 52
+4.2.2 Ação insegura:
+A USAID; OFDA (2011) classifica AÇÃO INSEGURA como sendo o “ato ou tarefa
+executada por um resgatista sem cumprir as normas estabelecidas para sua
+proteção, segurança”.
+A ação insegura está relacionada a uma atitude executada pelo resgatista que
+coloca em risco a sua segurança. Exemplos:
+a) entrar na área de trabalho sem seu EPI ou utilizá-lo da maneira incorreta
+(Figura 26 E);
+b) ingressar na área de trabalho sem a autorização do Encarregado de
+Segurança;
+c) trabalhar sozinho durante a operação;
+d) retirar o apoio de uma estrutura sem observar a sua estabilidade (Figura 26 D);
+e) não respeitar as normas de segurança.
+Figura 26 - Ação insegura. O bombeiro retira um EPI na zona quente (E) e o bombeiro coloca sua
+mão deliberadamente sob uma carga sem o devido escoramento (D).
+Fonte: Acervo GTO BREC
+4.3Sinais sonoros em operações BREC Básico
+De acordo com ITO 01/2015, haverá ações de segurança para alertar e orientar as
+guarnições BM através do som em áreas abertas. Isto com o intuito de facilitar a
+comunicação entre bombeiros militares, denunciar riscos e definir padrões para
+cessar e retomar os trabalhos operacionais.
+CAPÍTULO 4 – SEGURANÇA NAS OPERAÇÕES 53
+Esta metodologia se aplica a atividade BREC Básico e devem ser utilizados os
+sinais sonoros através do uso de apito (Figura 27), da seguinte forma:
+Cessar as Operações/Silêncio = 1 silvo longo (03 segundos de duração o
+sinal longo);
+Retomar as Operações = 1 sinal longo + 1 sinal curto (03 segundos de
+duração o sinal longo e 01 segundo de duração sinal curto);
+Evacuar = 3 sinais curtos (01 segundo de duração cada sinal curto).
+(CBMMG, 2015, p. 52)
+Figura 27 - Líder de equipe BREC usando apito para fazer sinalização
+Fonte: Acervo GTO BREC
+4.4Encarregado de Segurança
+Conforme já descrito anteriormente, uma Equipe BREC Básico é composta por 05
+(cinco) ou 06 (seis) integrantes.
+Tendo em vista a necessidade de uma pessoa responsável pela segurança da
+equipe, um dos integrantes deverá assumir a função de Encarregado e Segurança,
+podendo o Líder da Equipe acumular esta função.
+Em toda a operação deve haver um Encarregado de Segurança devidamente
+identificado por colete reflexivo, sendo o responsável pela segurança no seu local de
+trabalho, e será a máxima autoridade no quesito segurança dentre os componentes
+da equipe. (Figuras 28 e 29).
+MABOM – BUSCA E RESGATE EM ESTRUTURAS COLAPSADAS – VOLUME I 54
+Figura 28 - Líder de equipe desempenhando as funções de Encarregado de Segurança
+Fonte: Acervo GTO BREC
+Figura 29 - Encarregado de Segurança identificado com colete reflexivo
+Fonte: Acervo GTO BREC
+4.4.1 Atribuições do Encarregado de Segurança
+São atribuições do Encarregado de Segurança da equipe BREC Básico:
+a) definir uma rota de fuga para evacuação (sinalizando-a quando possível) e uma
+zona de segurança (também a sinalizando quando possível) para o encontro
+dos integrantes da equipe;
+b) estabelecer períodos de 15 minutos para condições normais de rodízio dos
+resgatistas;
+CAPÍTULO 4 – SEGURANÇA NAS OPERAÇÕES 55
+c) fará o monitoramento das condições meteorológicas para ajudar a definir sobre
+a continuidade da operação ou não;
+d) retirar da área de trabalho qualquer pessoa que provoque repetidas ações
+inseguras;
+e) conferir se todos os resgatistas que iniciarão a operação estão com todos os
+EPI estabelecidos como obrigatórios;
+f) fiscalizar para que os resgatistas não retirem parte ou totalmente o EPI durante
+o período que estiverem operando;
+g) manter observação constante do local onde sua equipe está operando,
+sinalizando quaisquer riscos que se apresentem e parando a operação caso
+necessário;
+h) comunicar-se constantemente com o Coordenador de Segurança do SCO da
+operação.
+4.5Segurança nas operações
+É necessária a existência e presença durante todo o tempo das operações do
+Encarregado de Segurança, porém todos os integrantes da equipe devem
+reconhecer o valor da segurança na operação, assumindo sua responsabilidade,
+indicando e prevenindo a ocorrência de ações ou condições inseguras durante o
+desenvolvimento das atividades.
+Por isso é importante que durante as operações, a segurança seja assegurada
+através da observação dos seguintes quesitos:
+a) identificação dos riscos no local de trabalho;
+b) reunião prévia da operação:
+- sinais de alarme;
+- indicação das rotas de fuga e zona de segurança;
+- designação do Encarregado de segurança;
+- uso de coletes reflexivos para identificação.
+MABOM – BUSCA E RESGATE EM ESTRUTURAS COLAPSADAS – VOLUME I 56
+4.6Normas de segurança para as operações das equipes BREC Básico
+Para manter a integridade das equipes, diminuindo à medida do possível os riscos a
+que os resgatistas estão expostos e permitir que os trabalhos ocorram de forma
+mais segura, algumas regras devem ser obedecidas com base nos princípios
+empregados em INSARAG (2011). São elas:
+4.6.1 Normas de segurança no local de trabalho
+Para o local de trabalho, deverão ser seguidas as seguintes normas de segurança:
+a) sempre trabalhar em dupla (Figura 30);
+b) ao fazer o rodízio de operador das FEA’s utilizadas, estas deverão ser
+deixadas no solo para que o outro resgatista a pegue para iniciar sua operação,
+nunca devendo ser passada em suas mãos (Figura 31);
+c) só é permitido entrar em áreas de trabalho com autorização do líder ou do
+Encarregado de Segurança;
+d) deverá haver uma Unidade de Resgate/Ambulância para o atendimento dos
+integrantes das equipes BREC Básico;
+e) manter no local de trabalho um extintor portátil com a capacidade extintora
+mínima de 3A-20BC, para fazer frente a um princípio de incêndio;
+f) não fumar na área de trabalho;
+g) não comer na área de trabalho;
+h) estar atento à possível existência de agentes QBRNE no local;
+i) identificar os riscos presentes no local de trabalho e sinalizá-los com fita de
+isolamento ou outros meios que facilitem sua visualização;
+j) deverá existir ao menos uma equipe em condições de efetuar o rodízio com a
+equipe que está operando;
+k) não deixar resíduos de consumo no local de trabalho, tais como luvas
+descartáveis, embalagens diversas etc.
+CAPÍTULO 4 – SEGURANÇA NAS OPERAÇÕES 57
+Figura 30 - Resgatistas em posição de trabalho em dupla
+Fonte: Acervo GTO BREC
+Figura 31 - Rodízio de FEA's. O resgatista põe a FEA no chão para o que seu substituto a pegue e
+continue os trabalhos (E) e resgatistas trabalhando em dupla (D)
+Fonte: Acervo GTO BREC
+4.6.2 Normas de segurança para a proteção pessoal dos integrantes da
+Equipe BREC Básico
+Para proteção pessoal, deverão ser seguidas as seguintes normas de segurança:
+a) somente entrar no local de trabalho devidamente equipado com o equipamento
+de proteção individual (EPI) completo estabelecido previamente pelo
+Encarregado de Segurança (Figura 32);
+MABOM – BUSCA E RESGATE EM ESTRUTURAS COLAPSADAS – VOLUME I 58
+b) lavar as mãos com água e sabão antes de entrar e depois de sair do local de
+trabalho, assim como antes e depois de ingerir alimentos e antes e depois de
+usar o sanitário;
+c) portar um cantil ou mochila de hidratação com água potável e utilizá-los sempre
+que necessário para evitar a desidratação;
+d) identificar e visualizar a rota de fuga definida pelo Encarregado de Segurança a
+partir do ponto onde se encontra, até a zona de segurança também
+estabelecida pelo Encarregado de segurança.
+Figura 32 - Resgatista utilizando os EPI's necessários para operação
+Fonte: Acervo GTO BREC
+IMPORTANTE
+TODOS OS INTEGRANTES DA EQUIPE BREC SÃO RESPONSÁVEIS PELA SEGURANÇA DE
+TODOS, SENDO O LÍDER DA EQUIPE, O RESPONSÁVEL PELA INTEGRIDADE FÍSICA DE SEU
+PESSOAL.
+CAPÍTULO 4 – SEGURANÇA NAS OPERAÇÕES 59
+4.7Avaliação das condições de acesso ao local de trabalho
+Para acessar algum local nas estruturas colapsadas a fim de resgatar uma vítima ou
+fazer alguma recuperação, deve-se observar alguns passos para garantir uma maior
+segurança durante as operações. Dentre estes passos, os quatro definidos a seguir,
+facilitarão e imporão maior segurança a todos. São eles:
+a) perímetro de segurança: assegurar que os perímetros de segurança tenham
+sido delimitados pelo SCO, sinalizando as Zonas Quente, Morna e Fria e
+mantendo os acessos restritos de forma a não terem pessoas desautorizadas
+em cada uma das áreas restritas (Figura 33);
+Figura 33 - Perímetro de segurança delimitado com identificação das zonas de trabalho
+Fonte: Acervo GTO BREC
+a) interrupção dos serviços: garantir que os terminais das redes de serviços como
+gás, água e eletricidade tenham sido cortados e descarregados;
+b) rotas de fuga e zona de segurança: fazer conhecer por todos os integrantes
+das equipes presentes a rota de fuga e a zona de segurança estabelecida pelo
+Encarregado de Segurança;
+MABOM – BUSCA E RESGATE EM ESTRUTURAS COLAPSADAS – VOLUME I 60
+c) desobstrução do acesso ao local de trabalho: garantir o acesso à área de
+trabalho removendo escombros que obstruem o caminho até as vítimas.
+4.8Normas a seguir ante a presença de produtos químicos, biológicos,
+radiológicos, nucleares e explosivos (QBRNE)
+Identificando a possibilidade de agentes QBRNE no local de trabalho, devem-se
+adotar as seguintes providências:
+a) acionar equipes especializadas em agentes QBRNE;
+b) posicionar a Área de Espera com o vento a favor, em uma área mais elevada, a
+montante (águas acima) e no mínimo a 300 m de distância até que se
+identifique o agente QBRNE;
+c) isolar e evacuar imediatamente a área, não entrando na Zona Quente sem o
+EPI específico da atividade especializada QBRNE;
+d) reconhecer o produto pelo uso e ocupação da edificação, forma e
+características do invólucro, placas, rótulos, etiquetas, marcas corporativas e
+testemunhas;
+e) identificar: Número da ONU, nome da substância ou produto marcado no
+invólucro, documentos de transporte e ficha de emergência (em caso de
+veículos). No caso de observar um número de identificação, uma placa ou
+rótulo, notifique imediatamente o COBOM ou a Sala de Operações com o
+objetivo de determinar qual o tipo de produto e as ações que devem ser
+tomadas;
+f) observar a presença de fumaça, derramamento, vapores coloridos, silvos, sons
+ou qualquer manifestação que indique a presença de agente QBRNE e
+informar imediatamente ao Posto de Comando.
+IMPORTANTE
+ESPERE A CHEGADA DOS TÉCNICOS, MANTENHA A ZONA DE SEGURANÇA INICIAL E NÃO
+ENTRE ATÉ QUE OS TÉCNICOS LHE INFORMEM QUE NÃO HÁ RISCO OU QUE ESTE ESTEJA
+CONTROLADO.
+CAPÍTULO 5– EQUIPAMENTO DE PROTEÇÃO INDIVIDUAL 61
+5 EQUIPAMENTOS DE PROTEÇÃO INDIVIDUAL - EPI
+O Equipamento de Proteção Individual (EPI), conforme a Norma Regulamentadora
+nº 06 (NR-06) do Ministério do Trabalho e Emprego (MTE), é definido como “todo
+dispositivo ou produto, de uso individual utilizado pelo trabalhador, destinado à
+proteção de riscos suscetíveis de ameaçar a segurança e a saúde no trabalho”
+(MTE, 2006, p. 1).
+Os EPI’s são os responsáveis pela proteção e integridade do indivíduo que, devido
+sua atividade, está vulnerável e pode sofrer algum dano ou lesão. Esses
+equipamentos são de uso obrigatório quando de realização das atividades de busca
+e regate em estruturas colapsadas.
+Os EPI’s devem possuir capacidades de alta durabilidade, resistência adequada
+para os riscos a que o resgatista irá se submeter, deve ser construído respeitando a
+legislação em vigor e não pode restringir a atuação de que os utiliza.
+5.1Classificação dos EPI
+Os EPI’s podem ser classificados de acordo com a proteção que oferecem. Segundo
+o quadro abaixo, eles visam garantir a proteção para:
+Quadro 9 - Classificação x Proteção dos EPI's
+PARTE DO
+CORPO A SER
+PROTEGIDA
+EPI PROTEÇÃO
+Cabeça Capacete Resguardam contra impactos, substâncias químicas,
+choques elétricos, dentre outros.
+Face e olhos
+Máscara facial
+Óculos
+de proteção
+Protegem os olhos e o rosto contra substâncias químicas,
+impacto de objetos, gases irritantes, excesso de luz ou
+radiações perigosas que podem lesionar a vista e as vias
+aéreas, dependendo do tipo de protetor utilizado.
+Ouvidos Protetor auricular Protegem os ouvidos de objetos estranhos e ruídos. Em
+alguns casos, podem estar adicionados ao capacete.
+Sistema
+respiratório
+Máscara facial
+Equipamentos
+autônomos de proteção
+respiratória
+Resguardam contra a inalação de elementos contaminantes
+do ar ou da deficiência de oxigênio.
+Extremidades
+Luvas
+Joelheiras
+Cotoveleiras
+Coturnos reforçados
+Protegem contra impactos, forças compressoras, objetos
+cortantes, umidade, produtos químicos, doenças
+transmissíveis.
+Fonte: Adaptado de USAID; OFDA (2011)
+MABOM – BUSCA E RESGATE EM ESTRUTURAS COLAPSADAS – VOLUME I 62
+5.2EPI’s para operações BREC Básico
+Em uma operação BREC Básico, os resgatistas deverão utilizar obrigatoriamente um
+conjunto mínimo de EPI’s.
+Estes EPI’s visam garantir condições mínimas de proteção para que um resgatista
+BREC Básico possa realizar suas atividades de busca e resgate em estruturas
+colapsadas tendo protegidas as partes do corpo que mais estarão suscetíveis a
+riscos em operações BREC Básico.
+Constituem este conjunto mínimo de EPI’s para uma operação BREC Básico:
+a) para a cabeça: capacete;
+b) para os olhos: óculos de proteção (preferencialmente com diferenciação de
+lentes para as diversas situações de luminosidade);
+c) para a face: máscara contra partículas em suspenção (com ou sem filtro)
+d) para os ouvidos: protetor auricular;
+e) para o corpo: uniforme 4ºA de alta visibilidade;
+f) para extremidades: luvas, joelheiras, cotoveleiras e botas/coturnos.
+Para os resgatistas poderem trabalhar em operações BREC Básico em quaisquer
+condições de horário, é extremamente importante que cada resgatista também
+possua em seu conjunto de EPI’s uma lanterna em seu capacete, além de uma
+lanterna de mão reserva.
+Tendo em vista ainda que cada resgatista também atua ou tem responsabilidades
+como encarregado de segurança em uma operação, cada resgatista deve possuir
+em seu conjunto mínimo de EPI’s um apito com emissão mínima de 90 decibéis.
+5.2.1 Kit de EPI’s e apetrechos de um resgatista BREC Básico
+Para que uma Equipe BREC Básico possa estar em condições de resposta a uma
+operação de busca e resgate em estruturas colapsadas, recomenda-se que cada
+CAPÍTULO 5– EQUIPAMENTO DE PROTEÇÃO INDIVIDUAL 63
+integrante possua um kit (Figura 34) contendo os EPI’s e apetrechos elencados no
+quadro a seguir:
+Quadro 10 - Kit de EPI's e apetrechos
+ITEM QUANT OBSERVAÇÕES
+Mochila acima de 30 Litros 01 Para ser levada a campo
+Rádio comunicador tipo HT 01 -------------
+Capacete 01
+No mínimo com especificações para atividades em
+altura, sendo ideais capacetes específicos para
+salvamento terrestre
+Luvas de vaqueta 01 par -------------
+Luvas para trabalhos pesados 01 par
+Devido aos trabalhos principalmente de
+movimentações de escombros e cargas, ideal para
+evitar que a luva de vaqueta se deteriore
+rapidamente
+Cinto de utilidades 01 Apropriado para transporte de acessórios
+Óculos de proteção (lente escura) 01 par Para trabalhos durante o dia ou grande
+luminosidade
+Óculos de proteção (lente clara) 01 par Para trabalhos em locais de pouca luminosidade
+Óculos de proteção (lente amarela) 01 par Para trabalhos noturnos
+Máscara para proteção contra
+partículas em suspensão 06 Preferencialmente com filtro
+Protetor auricular 06 Preferencialmente que produza o menor volume
+Cantil ou mochila de hidratação 01 -------------
+Apito 01 Que emita sons acima de 90 decibéis ao menos
+Lanterna de cabeça 01 Preferencialmente intrinsicamente segura e
+resistente à água
+Lanterna de mão 01 Preferencialmente intrinsicamente segura e
+resistente à água
+Pilhas para cada lanterna 06 Preferencialmente alcalinas
+Cotoveleira 01 par Preferencialmente não articuladas e com manga de
+lycra
+Joelheira 01 par Preferencialmente articulada e com 03 (três)
+presilhas de fixação
+Cabo solteiro 10 mm a 12 mm (5
+metros) 01 Preferencialmente estático
+Talher de campanha 01
+conjunto Para necessidades de montagem de acampamento
+Prato de campanha 01 Para necessidades de montagem de acampamento
+Panela de campanha 01 Para necessidades de montagem de acampamento
+Saco de dormir 01 Para necessidades de montagem de acampamento
+Manta aluminizada 01 Para proteção em tempos de frio
+Barraca individual 01 Para necessidades de montagem de acampamento
+Spray laranja ou preto 01 Para realização de marcações
+Fonte: Elaborada pelos autores
+MABOM – BUSCA E RESGATE EM ESTRUTURAS COLAPSADAS – VOLUME I 64
+Figura 34 - Materiais do kit de um membro de Equipe BREC
+Fonte: Acervo GTO BREC
+5.3Manutenção dos EPI’s
+Assim como as FEA’s, os EPI’s também necessitam de manutenção, sejam
+preventivas ou corretivas, para que possam sempre estar em condições de oferecer
+a segurança para os quais foram projetados.
+Sempre que utilizados, os EPI’s deverão ser limpos, obedecendo sempre as
+recomendações dadas pelos fabricantes, e posteriormente acondicionados em locais
+limpos, secos e afastados de altas temperaturas.
+Caso haja necessidade de alguma manutenção corretiva (conserto devido a algum
+tipo de dano) em qualquer EPI, sendo possível, o resgatista deverá providenciá-la.
+Entretanto, se não houver possibilidades de conserto com base nas recomendações
+e especificações dadas pelo fabricante, deverá ser providenciada a substituição do
+EPI para que o resgatista continue trabalhando sempre com a segurança máxima
+para que o EPI foi projetado.
+CAPÍTULO 6 – RECONHECIMENTO DE DANO EM EDIFICAÇÕES 65
+6 RECONHECIMENTO DE DANOS
+Para que se possa identificar os danos presentes em uma edificação, primeiramente
+é necessário conceituar o que é edificação e quais são seus componentes.
+6.1Conceitos
+Edificação é um conceito que está relacionado com a construção civil, e cercado de
+nuances que permeiam as técnicas usadas para a construção, sejam eles
+direcionados para habitação, comércio etc., conforme definições apresentadas por
+dicionários da língua portuguesa, utilizados no Brasil.
+Para a doutrina BREC, edificação é:
+Compreende-se edificação como construções desenvolvidas para diferentes
+usos relacionados com a habitabilidade ou ocupação do ser humano em
+todos os aspectos de seu desenvolvimento individual e coletivo. (USAID;
+OFDA, 2011)
+6.1.1 Componentes da edificação
+Dentre todas as definições utilizadas pela construção civil e pelas doutrinas BREC
+utilizados pelas equipes de resgate urbano pelo mundo, a divisão de uma edificação
+que se amolda e facilita as atividades BREC é a definida pela INSARAG, onde ela
+estabelece que uma edificação é dividida em 06 (seis) componentes. Aplicar-se-á
+então no CBMMG esta mesma divisão, sendo:
+a) infraestrutura: compreende as estruturas responsáveis por transferir as cargas
+da edificação e apoiá-las no solo. É composta pelas fundações (tubulão,
+estaca, sapata etc.), blocos e vigas baldrames (fundação rasa) no solo (Figuras
+35 e 36);
+MABOM – BUSCA E RESGATE EM ESTRUTURAS COLAPSADAS – VOLUME I 66
+Figura 35 - Imagem de infraestrutura
+Fonte: Disponível em: <http://www.casamaisfacil.com.br/fundacao-alicerce/> Acesso em: 11 out.
+2017
+Figura 36 –Imagem de outro tipo de infraestrutura
+Fonte: Disponível em: <http://blog.construir.arq.br/fundacao_sapata>. Acesso em: 11 out. 2017
+b) superestrutura: confere estabilidade estrutural para a edificação. É o “suporte”
+da edificação, sendo composta pelas lajes, vigas e pilares (Figuras 37 e 38);
+Figura 37 - Imagem de superestrutura
+Fonte: Disponível em: <http://global-constructions.com/?p=2039%20X> Acesso em: 11 out 2017
+CAPÍTULO 6 – RECONHECIMENTO DE DANO EM EDIFICAÇÕES 67
+Figura 38 - Imagem de outra superestrutura
+Fonte: Disponível em: <http://ideallaje.com.br/wp-content/uploads/2015/06/S05.jpg> Acesso em: 10
+out 2017
+c) fechamentos: são as estruturas responsáveis pelo encapsulamento da
+edificação. Faz o isolamento com o meio externo e promove a divisão interna.
+Podem ser de alvenaria, divisórias de madeira ou divisórias de dry wall etc.
+(Figuras 39 e 40);
+Figura 39 - Imagem de fechamentos em alvenaria
+Fonte: Disponível em: http://www.d2rengenharia.com.br/images/tecnicasconstrutivas/alvenariaestrutural.jpg. Acesso em: 11 out. 2017
+MABOM – BUSCA E RESGATE EM ESTRUTURAS COLAPSADAS – VOLUME I 68
+Figura 40 - Imagem de fechamento por dry wall em processo de instalação
+Fonte: Disponível em: <https://www.gearslutz.com/board/photo-diaries-recording-studioconstructionprojects/48460-steves-new-recording-studio-start.html> Acesso em: 11 out 2017
+d) esquadrias: estrutura instalada nos fechamentos/superestruturas que permite
+a comunicação entre os meios internos ou com o meio externo da edificação,
+tais como portas, janelas, claraboias etc. (Figura 41);
+Figura 41 - Imagem de esquadria tipo claraboia
+Fonte: Disponível em: <http://assimeugosto.com/wp-content/uploads/2014/05/claraboia.jpg>. Acesso:
+18 maio 2017.
+e) revestimentos: são materiais utilizados para proteção e acabamento da
+edificação. Exemplos: cerâmicas, pisos, reboco, granitos, mármores e outros
+(Figura 42);
+CAPÍTULO 6 – RECONHECIMENTO DE DANO EM EDIFICAÇÕES 69
+Figura 42 - Imagem de revestimento
+Fonte: Disponível em: <http://www.realimoveis.com.br/blog/wpcontent/uploads/2016/05/portas_e_
+janelas_-_em_madeira-Copy.jpg>. Acesso em: 18 maio 2017
+f) instalações: conferem funcionalidade aos ocupantes da edificação.
+Proporcionam ainda conforto e segurança aos seus ocupantes. Podemos
+destacar as instalações elétricas, telefônicas, hidráulicas, sanitárias, pluviais,
+ar-condicionado, combate a incêndio, gás liquefeito de petróleo, dentre outros
+(Figura 43).
+Figura 43 - Imagem de instalações hidráulicas
+Fonte: Disponível em: <http://www.msgconstrutora.com.br>. Acesso em: 18 maio 2017
+MABOM – BUSCA E RESGATE EM ESTRUTURAS COLAPSADAS – VOLUME I 70
+6.2Espaço Vital Isolado – EVI
+De acordo com a USAID; OFDA (2011, p. 3), espaço vital isolado (EVI) é o “lugar
+dentro de uma estrutura colapsada em que existem condições de sobrevivência para
+as pessoas”.
+Este espaço será o objetivo principal em uma operação BREC Básico, pois como
+visto em seu conceito, possui a maior condição de se encontrar uma vítima viva.
+Neste ponto será empregada especial atenção na aplicação das técnicas de resgate
+de forma a garantir um acesso seguro à vítima, para que sua saída possa ser o
+menos traumático possível.
+Em alguns tipos de colapsos, existe maior ou menor probabilidade de formação
+destes espaços. Durante a operação BREC Básico será importante entender a
+cinemática13 do acidente para verificar a maior ou menor quantidade destes
+espaços.
+6.3Classificação dos danos em edificações
+Os danos em edificações são classificados quanto ao seu tipo e ao seu nível.
+6.3.1 Classificação de dano por tipo
+Com relação aos tipos, os danos em edificações podem ser classificados como:
+estruturais e não estruturais.
+6.3.1.1 Danos estruturais
+São aqueles que afetam diretamente elementos destinados à sustentação da
+edificação (superestrutura e a infraestrutura):
+a) colunas: fendas e exposição de ferragens, explosão de juntas (Figura 44);
+
+13 Ramo da mecânica que estuda o movimento de corpos ou partículas, sem referência a massas ou
+a forças.
+CAPÍTULO 6 – RECONHECIMENTO DE DANO EM EDIFICAÇÕES 71
+b) vigas: exposição de reforço ou ferragens (por aparecimento de fendas);
+c) amarração (vigas-colunas): separação de juntas (de coluna ou viga);
+d) placas ou lajes: fendas.
+Figura 44 - Dano estrutural em coluna
+Fonte: Disponível em: <http://www.balzer.com.br/patologias-e-danos-construtivos-c1ksx>. Acesso em:
+18 maio 2017
+6.3.1.2 Danos não estruturais
+Afetam os demais elementos que compõem a edificação, que não os estruturais. Os
+danos não estruturais geralmente se apresentam na forma de rachaduras, trincas
+e falhas estruturais como curto circuito e exposição de esgoto (Figura 45).
+Podem ocorrer em:
+a) alvenaria divisória;
+b) escadas;
+c) sistemas vitais (redes sanitárias, hidráulicas, elétricas).
+MABOM – BUSCA E RESGATE EM ESTRUTURAS COLAPSADAS – VOLUME I 72
+Figura 45 - Dano não estrutural em revestimento
+Fonte: Disponível em: <http://www.cimentoitambe.com.br/erro-executivo-problemas-fachadas/>.
+Acesso em: 18 maio 2017
+6.3.2 Classificação de dano por nível
+Depois de ocorrido o incidente que origina o colapso nas edificações e, com o
+objetivo de determinar o risco que implica em operar neste cenário, é necessário
+conhecer o nível do dano que a edificação tenha sofrido. Estes níveis se classificam
+em leve, moderado e severo.
+6.3.2.1 Leve
+Vai se apresentar em elementos da edificação que não interferirão na capacidade de
+ocupação do local. Atingirá elementos não estruturais como revestimento e
+instalações, por exemplo, não tendo importância significativa que prejudique a
+segurança dos ocupantes (Figura 46).
+CAPÍTULO 6 – RECONHECIMENTO DE DANO EM EDIFICAÇÕES 73
+Figura 46 - Dano nível leve comprometendo apenas o revestimento da edificação
+Fonte: Disponível em: <http://www.pbagora.com.br/conteudo.php?id=20130419091235&cat=policial&
+keys=queda-marquise-deixa-seis-feridos-campina-grande>. Acesso em: 18 maio 2017
+6.3.2.2 Moderado
+Vai comprometer elementos da edificação que poderão afetar partes estruturais da
+edificação. Comprometerá elementos tanto arquitetônicos quanto estruturais e
+incidirão em risco para seus ocupantes. Necessita de desocupação até que sejam
+realizadas as correções necessárias (Figura 47).
+Figura 47 - Dano moderado, comprometendo parte dos fechamentos da estrutura
+Fonte: Disponível em: <http://www.nationalgeographic.com/environment/natural-disasters
+/earthquakes/>. Acesso em: 18 maio 2017
+MABOM – BUSCA E RESGATE EM ESTRUTURAS COLAPSADAS – VOLUME I 74
+6.3.2.3 Severo
+É o comprometimento total da capacidade de sustentação de uma edificação. Existe
+uma degradação generalizada na edificação, com comprometimento de toda sua
+estrutura e forma a não se poder habitar nem fazer correções imediatas para
+garantir seu uso. É uma destruição total do local (Figura 48).
+Figura 48 - Dano severo comprometendo a superestrutura e infraestrutura da edificação
+Fonte: Disponível em: <www.google.com.br/amp/s/amp.rfi.fr/br/mundo/20121203-japao-vaifiscalizartuneis-rodoviarios-apos-acidente>. Acesso em:18 maio 2017
+6.4Classificação dos colapsos de uma edificação
+Os colapsos sofridos pelas edificações são classificados quanto sua forma e quanto
+sua extensão.
+6.4.1 Classificação de colapso pela forma
+Decorrente do colapso estrutural, os escombros da edificação poderão se arranjar
+em diferentes conformações. Dependendo da estrutura, do agente provocador do
+colapso ou até mesmo do relevo em que se encontra a edificação.
+Diante disso, existem algumas classificações com relação à forma que os
+escombros permanecem após o colapso, sendo as mais comuns as apresentadas
+abaixo:
+CAPÍTULO 6 – RECONHECIMENTO DE DANO EM EDIFICAÇÕES 75
+6.4.1.1 Forma de colapso em V
+Colapso do teto de um pavimento da edificação, onde o teto apoia-se no piso do
+pavimento inferior, provocando uma deformidade da laje em V (Figuras 49 e 50).
+Nestes casos, observa-se a possível formação de dois espaços vitais isolados em
+forma de triângulos.
+Figura 49 - Colapso em V
+Fonte: São Paulo (2006, p. 299)
+Figura 50 - Exemplo de colapso em V
+Fonte: Disponível em: <http://acervo.oglobo.globo.com/em-destaque/em-novembro-de-1971-
+elevadopaulo-de-frontin-desabou-matando-29-pessoas-10808571>. Acesso em: 18 maio 2017
+MABOM – BUSCA E RESGATE EM ESTRUTURAS COLAPSADAS – VOLUME I 76
+6.4.1.2 Forma de colapso por empilhamento
+Uma ou mais placas/lajes se empilham (Figuras 51 e 52). Espaços vitais muito
+limitados e de difícil acesso. Este tipo de colapso tende a provocar maior número de
+mortos.
+Figura 51 - Colapso por empilhamento
+Fonte: São Paulo (2006, p. 300)
+Figura 52 - Exemplo de edificação colapsada por empilhamento
+Fonte: Disponível em: <http://g1.globo.com/mundo/noticia/2016/02/terremoto-de-magnitude-67-
+atingeo-taiwan.html>. Acesso em: 18 de maio 2017
+CAPÍTULO 6 – RECONHECIMENTO DE DANO EM EDIFICAÇÕES 77
+6.4.1.3 Forma de colapso apoiado ao piso
+Colapso do teto de uma edificação onde apenas um dos lados cede, apoiando-se no
+piso do andar inferior (Figuras 53 e 54). São grandes as probabilidades de
+sobrevivência devido à formação de um espaço vital isolado em forma de triângulo.
+Figura 53 - Colapso apoiado ao piso
+Fonte: São Paulo (2006, p. 300)
+Figura 54 - Exemplo de colapso apoiado ao piso
+Fonte: Disponível em: <https://showfranciscodacidade.blogspot.com.br/2015/04/caso-ocorreunamanha-desta-quinta.html. Acesso: 18 maio 2017
+MABOM – BUSCA E RESGATE EM ESTRUTURAS COLAPSADAS – VOLUME I 78
+6.4.1.4 Forma de colapso suspenso
+Colapso de parte da infraestrutura e fechamentos, permanecendo apenas partes de
+pisos e/ou tetos intactos (Figuras 55 e 56). Este tipo de colapso é extremamente
+perigoso por sua instabilidade, requer escoramento e extremo cuidado.
+Figura 55 - Colapso suspenso
+Fonte: USAID; OFDA (2011)
+Figura 56 - Exemplo de edificação em colapso suspenso
+Fonte: Disponível em: <http://g1.globo.com/revolta-arabe/noticia/2012/04/atentados-em-idlib-nasiriadeixam-nove-mortos.html>. Acesso em: 18 maio 2017.
+CAPÍTULO 6 – RECONHECIMENTO DE DANO EM EDIFICAÇÕES 79
+6.4.2 Classificação de colapso por extensão
+No que diz respeito à extensão do colapso estrutural, estes podem ser classificados
+como total ou parcial.
+6.4.2.1 Colapso total
+Quando há o colapso total da edificação, atingindo integralmente todos os elementos
+da estrutura (Figura 57).
+Figura 57 - Exemplo de edificação que sofreu colapso total
+Fonte: Disponível em: https://oglobo.globo.com/rio/escombros-de-predio-implodido-no-hospital-daufrjainda-nao-foram-recolhidos-na-ilha-do-fundao-2801119. Acesso em: 18 mai. 2017
+6.4.2.2 Colapso parcial
+Quando há o colapso parcial da edificação, atingindo parcialmente os elementos da
+estrutura (Figura 58).
+Figura 58 - Exemplo de edificação que sofreu colapso parcial
+Fonte: Disponível em: http://g1.globo.com/pernambuco/noticia/2014/08/predio-caixaodesocupadodesaba-parcialmente-na-zona-sul-do-recife.html. Acesso em: 18 mai. 2017
+MABOM – BUSCA E RESGATE EM ESTRUTURAS COLAPSADAS – VOLUME I 80
+6.5Procedimentos para reconhecimento de danos em edificações
+Quando da análise da estrutura colapsada, alguns fatores devem ser levados em
+consideração a fim de proporcionar segurança para os resgatistas envolvidos na
+operação de busca e resgate (RIO DE JANEIRO, 2012).
+Além das informações colhidas com ocupantes e vizinhos da edificação, é
+necessária a observação de aspectos técnicos. Para que se proceda esta análise,
+devemos seguir os seguintes passos:
+a) examinar o exterior da edificação: observar o estado geral da edificação e os
+danos apresentados nas fachadas, sacadas e tetos, analisando também o
+estado das edificações vizinhas e estabelecendo se as saídas da edificação
+permanecem seguras;
+b) observar o solo ao redor da edificação: determinar a possível presença de
+fendas, afundamentos, deslizamentos ou qualquer anomalia no terreno, no
+intuito de verificar a origem do colapso.
+c) examinar a segurança de elementos não estruturais: identificar a queda de
+tetos rebaixados, muros, escadas ou elementos que representem perigo à vida.
+d) avaliar o sistema estrutural do exterior para o interior: analisar o dano dos
+diferentes elementos estruturais e estabelecer a porcentagem de elementos
+afetados piso a piso.
+e) observar a presença de perigos: confirmar ou não da existência de
+condições inseguras extremas (Tubulações de Gás amassadas/rompidas,
+veículos com tanques de GLP ou GNV, tubulações de instalações de GLP ou
+outros sistemas com suprimento a gás). Derramamento de combustíveis,
+produtos químicos armazenados ou fios do sistema elétricos energizados ou
+transformadores caídos.
+f) explicar aos ocupantes se podem permanecer na edificação ou se devem
+evacuá-la: o acesso às áreas inseguras deve ser restrito, colocando-se algum
+tipo de barreiras, como por exemplo as fitas de isolamento que levam.
+g) notificar o resultado da avaliação: comunicar à central de comunicações
+(COBOM) para que sejam realizados os procedimentos cabíveis por parte das
+autoridades competentes (interdição, inspeção técnica etc.).
+CAPÍTULO 6 – RECONHECIMENTO DE DANO EM EDIFICAÇÕES 81
+6.6Descrição do formulário de avaliação
+Para proceder a avaliação citada anteriormente e formalizar os dados colhidos,
+deverá ser providenciado um formulário que deverá conter as seguintes
+informações:
+a) identificação da edificação;
+b) descrição da estrutura;
+c) avaliação do estado da edificação dividida em: tipo de colapso por extensão,
+danos em elementos estruturais, danos em elementos arquitetônicos e
+porcentagem de dano da edificação;
+d) recomendações e medidas de segurança;
+e) esquema;
+f) observações;
+g) data de inspeção.
+Quadro 11 - Formulário de avaliação de edificação
+FORMULÁRIO DE AVALIAÇÃO DE EDIFICAÇÃO
+DATA DA INSPEÇÃO: HORA DA INSPEÇÃO:
+NOME DA EDIFICAÇÃO:
+ENDEREÇO:
+NR PAVIMENTOS: ALTURA DA EDIFICAÇÃO:
+ESTRUTURA DA
+EDIFICAÇÃO: (__) CONCRETO (__) MADEIRA (__) METÁLICA
+COLAPSO POR EXTENSÃO: (__) TOTAL (__) PARCIAL
+PORCENTAGEM DE DANO NA
+EDIFICAÇÃO (%): (__) 0 A 25 (__) 25 A 50 (__) 50 A 75 (__) 75 A 100
+DANOS EM ELEMENTOS
+ESTRUTURAIS:
+DANOS EM ELEMENTOS
+ARQUITETÔNICOS:
+DESENHO ESQUEMÁTICO DA EDIFICAÇÃO:
+OBSERVAÇÕES/RECOMENDAÇÕES DE SEGURANÇA:
+Fonte: Adaptado de USAID; OFDA (2011)
+MABOM – BUSCA E RESGATE EM ESTRUTURAS COLAPSADAS – VOLUME I 82
+7 ATENDIMENTO PRÉ HOSPITALAR EM ESTRUTURAS COLAPSADAS
+O ambiente de uma estrutura colapsada envolve diversos riscos para os
+profissionais que irão desenvolver ações de busca e resgate de vítimas. É um
+ambiente instável e a possibilidade de uma réplica (novos eventos causadores do
+colapso de uma estrutura, como terremotos) leva-nos a ter uma abordagem peculiar
+à normatizada pelos manuais de atendimento pré-hospitalar encontrados no Brasil e
+no mundo. Por isso, a necessidade de se ter um capítulo à parte voltado para o
+Atendimento Pré-Hospitalar em áreas de escombros de uma estrutura colapsada.
+7.1Aspectos gerais
+Segundo CBMMG (2017), o resgatista deve dimensionar a cena tornando-a segura,
+caso esteja insegura. A abordagem à vítima, segundo a instrução, não deve ser
+realizada enquanto a cena estiver insegura.
+Este tipo de conduta, entretanto, para uma operação em escombros deve ser
+avaliada criteriosamente pelo Líder da Equipe, pois o próprio ambiente colapsado é
+relativamente inseguro e há a necessidade da busca de vítimas superficiais, o que
+deve ser levado em consideração.
+Assim, o resgatista deve ter a visão da ocorrência como um todo, analisando todos
+os riscos envolvidos, como:
+a) instabilidade das estruturas;
+b) possíveis vazamentos de GLP ou outros gases tóxicos;
+c) ruptura das redes de abastecimento de água com a consequente “lavagem”
+das bases maciças de terra e escombros, podendo ocasionar novos
+desabamentos;
+d) exposição de fiações e redes energizadas;
+e) comprometimento das edificações vizinhas e se estas trazem um risco imediato
+à vida dos resgatistas que ali trabalham.
+CAPÍTULO 7 – APH EM ESTRUTURAS COLAPSADAS 83
+Tornar a cena segura em um ambiente de estrutura colapsada muitas vezes não é
+possível e, assim, o resgatista irá realizar a abordagem rápida e precisa na
+identificação das vítimas e na sua remoção sem se preocupar com procedimentos
+técnicos de imobilização e avaliação do paciente no local em que ela foi encontrada.
+Deve-se ter em mente que o objetivo do APH de toda uma operação BREC Básico
+será o de buscar e resgatar as vítimas para um local seguro.
+A responsabilidade da equipe é de “buscar, acessar, avaliar, estabilizar e extrair as
+vítimas em superfície sem lhes produzir maiores danos, utilizando de procedimentos
+adequados e seguros.” (USAID; OFDA, 2011, p. 2).
+7.2Comunicação com a vítima
+O resgatista deve abordar uma vítima com voz segura, firme e transmitir segurança
+em sua entonação de voz, de forma que ela reconheça que será resgatada.
+Recomendações:
+a) identifique-se com tom calmo, direto e enfático;
+b) não faça comentários inconvenientes;
+c) transmita segurança e seja positivo;
+d) busque a confiança da vítima e leve-a a acreditar em sua sobrevivência;
+e) haja sempre como se a vítima estiver ouvindo;
+f) faça uma rápida avaliação sobre o estado da vítima;
+g) trate-o pelo nome sempre e promova perguntas repetidas para confirmar seu
+nível de consciência;
+h) avise caso precise sair do local;
+i) deixe-o informado do progresso da operação a todo o momento.
+MABOM – BUSCA E RESGATE EM ESTRUTURAS COLAPSADAS – VOLUME I 84
+7.3Precauções em locais de escombros
+O resgatista deve estar atento para os seguintes riscos em um ambiente envolvendo
+estrutura colapsada conforme apresentado pelo quadro a seguir:
+Quadro 12 - Quadros clínicos ou traumáticos que podem se apresentar quando submetido a alguns
+riscos
+RISCOS QUADRO CLÍNICO OU TRAUMÁTICO
+PRESENÇA DE ROEDORES
+- Feridas por mordidas
+- Infecções
+- Enfermidades (leptospirose)
+ATMOSFERAS POLUÍDAS/TÓXICAS E/OU
+EXPLOSIVAS
+(Neste tipo de ambiente é comum
+encontrarmos grandes quantidades de pó,
+gases tóxicos e inflamáveis)
+- Problemas respiratórios
+- Doenças coronarianas (IAM, PCR, ataque
+cardíaco)
+- Distúrbios nervosos do Sistema Nervoso Central
+- Queimaduras das vias aéreas
+- Morte por explosão
+AUSÊNCIA DE AR RESPIRÁVEL
+- Ausência temporária de respiração (apneia)
+- Respiração superficial, rápida e profunda
+- PR e PCR;
+- Sensação vertiginosa
+- Ansiedade, agitação, letargia e sonolência
+- Tosse contínua
+- Cefaleia
+- Dor torácica referida como aperto
+REDES ELÉTRICAS ENERGIZADAS
+- Queimaduras externas e internas
+- PCR
+- Laceração
+- Amputação traumática
+- Hemorragia decorrente de lesões associadas
+- Dispneia
+- Alteração do nível de consciência
+Fonte: Adaptado da USAID/OFDA (2011).
+7.4Principais Naturezas Da Doença (NDD) ou Mecanismos De Lesão (MDL)
+causadas pelo colapso de uma estrutura
+Vários são os quadros clínicos ou traumáticos a que um resgatista se submeterá
+dependendo do mecanismo da lesão a qual foi submetido. Logo abaixo serão
+relacionados estes quadros com cada mecanismo apresentado.
+CAPÍTULO 7 – APH EM ESTRUTURAS COLAPSADAS 85
+Quadro 13 - Mecanismo de lesão x Quadro clínico ou traumático
+MECANISMOS QUADRO CLÍNICO OU TRAUMÁTICO
+QUEDA LIVRE COM OBSTÁCULOS OU
+GOLPES
+- Fraturas múltiplas
+- Lesões na coluna cervical/lombar
+- Hemorragia interna/externa
+- Contusões
+- Ferimentos
+- Laceração
+TEMPERATURAS AMBIENTAIS EXTREMAS
+- Hipotermia e congelamento
+- Hipertermia
+- Câimbras musculares
+- Desidratação
+- Intermação
+- Exaustão pelo calor
+- Estado de Choque
+ISOLAMENTO PROLONGADO E DESESPERO
+- Estresse traumático
+- Claustrofobia
+- Distúrbio psicológico
+FALTA DE ÁGUA E/OU ALIMENTO
+- Desidratação
+- Inanição
+- Falhas renais
+- Estado de Choque
+ESMAGAMENTO e/ou COMPRESSÃO
+- Síndrome da compartimentação ou
+compartimental aguda
+- Síndrome do Esmagamento Prolongado
+- Fraturas múltiplas
+- Hemorragia interna/externa
+Fonte: Adaptado da USAID/OFDA (2011)
+7.5Síndrome do Esmagamento Prolongado e Síndrome Compartimental Aguda
+Dentre as principais naturezas de doenças e/ou mecanismos da lesão encontradas
+em vítimas provenientes de um colapso de uma estrutura destacamos a Síndrome
+do Esmagamento Prolongado e a Síndrome Compartimental Aguda ou de
+Compartimentação, as quais requerem uma maior preocupação dos resgatista.
+7.5.1.1 Síndrome do Esmagamento Prolongado:
+É uma complicação clínica causada pelo trauma vascular do esmagamento de
+algum membro do corpo humano. O conteúdo das células rompidas (rabdomiólise)
+cai na corrente sanguínea, ocasionando uma série de complicações por toxicidade,
+MABOM – BUSCA E RESGATE EM ESTRUTURAS COLAPSADAS – VOLUME I 86
+causado pela substância conhecida por mioglobina, que levam à insuficiência renal e
+até mesmo à morte.
+Para que a síndrome ocorra, é necessário um quadro de esmagamento de uma ou
+mais extremidades por um período superior a 4 horas com circulação sanguínea
+reduzida ou cessada para que a síndrome ocorra (Figura 59). A vítima pode
+apresentar os sintomas somente horas depois de resgatada e deve ser conduzida
+para o recurso hospitalar o quanto antes, mesmo que aparente estar em bom estado
+de saúde.
+Figura 59 – Paciente com membro em situação de esmagamento prolongado
+Fonte: Acervo GTO BREC
+7.5.1.2 Síndrome de Compartimentação ou Compartimental Aguda
+A síndrome foi descoberta por Richard Von Volkmann em 1872 e pode ser definida
+como o aumento de pressão interna de um compartimento confinado e pouco
+expansivo, diminuindo o fluxo sanguíneo para seu interior e de suas estruturas. A
+compressão é sua principal causa (Figura 60).
+CAPÍTULO 7 – APH EM ESTRUTURAS COLAPSADAS 87
+Alves et al (2011, p. 57) define a síndrome compartimental como “o aumento da
+pressão intersticial sobre a pressão de perfusão capilar dentro de um compartimento
+osteofascial fechado, podendo comprometer vasos, músculos e terminações
+nervosas provocando danos teciduais (1,2,3). O compartimento é:
+Um agrupamento de músculos, nervos e vasos sanguíneos em seus braços,
+pernas, mãos, pés e nádegas. A fáscia, membrana que envolve os
+músculos, não expande com facilidade. Quando há um inchaço ou
+sangramento dentro de um compartimento, a fáscia não consegue se
+expandir, resultando em um aumento de pressão sobre os vasos capilares,
+nervos e músculos do compartimento. Desta forma, o fluxo sanguíneo para
+as células musculares e nervosas é interrompido, ocasionando consequente
+dano às mesmas, podendo resultar em invalidez permanente do local
+afetado e necrose tecidual. (MELDAU, 2016, n.p.).
+Os sinais e sintomas iniciais são de fortes dores e aparecimento de edemas. Com o
+passar do tempo há a ausência dos pulsos distais, parestesias (queimação ou
+dormência) de extremidade e hipoestesia (perda ou diminuição da sensibilidade de
+um membro ou parte do corpo).
+Figura 60 - Paciente em condição de síndrome de compartimentação aguda
+Fonte: Acervo GTO BREC
+As partes do corpo mais afetadas são as que possuem menor capacidade elástica
+dos ossos e da fáscia (tecido conjuntivo que envolve músculos, grupos musculares,
+vasos sanguíneos e nervos, constituída por fibras de colágeno). Principais sintomas:
+MABOM – BUSCA E RESGATE EM ESTRUTURAS COLAPSADAS – VOLUME I 88
+a) aumento de pressão intracompartimental;
+b) dor intensa no local comprimido;
+c) câimbras;
+d) parestesia;
+e) palidez;
+f) paralisia;
+g) inchaço localizado.
+7.6Triagem de vítimas em estruturas colapsadas
+O local de uma estrutura colapsada pode conter diversas vítimas em um número
+superior aos recursos de busca e resgate disponíveis, sendo necessário que as
+equipes que ali trabalham façam uma avaliação rápida de quais vítimas deverão ser
+atendidas primeiro. Este processo de identificação e classificação das vítimas
+chama-se triagem.
+O CBMMG utiliza o Método START para a triagem das vítimas de qualquer natureza
+de desastre em que o aporte logístico e humano seja inferior ao necessário para
+fazer frente ao atendimento pré-hospitalar imediato aos vitimados.
+A sigla START é a abreviação em inglês para Simple Triage And Rapid Treatment
+traduzido por Simples Triagem E Rápido Tratamento. É um algoritmo simples de
+classificação primária de vítimas, realizado por perguntas simples e objetivas,
+classificando-as em cores de prioridade de atendimento. O sistema de triagem não
+pode durar mais do que 1 minuto por vítima.
+Segundo CBMMG (2017), antes de iniciar a triagem individualizada de cada vítimas
+tome os seguintes procedimentos:
+a) providencie o Isolamento de Fluidos corporais (IFC);
+b) mantenha a cena segura;
+c) descubra a NDD (Clínico) ou o MDL (Trauma);
+d) determine o número total de vítimas;
+e) solicite recursos adicionais;
+CAPÍTULO 7 – APH EM ESTRUTURAS COLAPSADAS 89
+f) acione o plano de catástrofe, se houver necessidade;
+g) inicie a triagem.
+7.6.1 Passo a passo da triagem
+Dê um comando de voz para todas as vítimas presentes que consigam andar, saiam
+da zona quente e caminhem para um local seguro, definido pela guarnição.
+Figura 61 - Demonstração da fase inicial da triagem com o chamamento da vítima responsiva (E), a
+vítima caminhando em direção ao resgatista (D) e os resgatistas auxiliando a saída da vítima (Abaixo)
+Fonte: Acervo GTO BREC
+Avalie individualmente cada vítima que permanecer no local, da seguinte forma:
+a) se a vítima NÃO respira:
+- para adultos ou criança, reposicione vias aéreas;
+- se o adulto retornar a respirar, classifique-o com vermelha. Se não retomou,
+classifique-o como preta;
+- se o paciente é pediátrico, antes de atribuir a classificação, verifique o pulso
+carotídeo;
+MABOM – BUSCA E RESGATE EM ESTRUTURAS COLAPSADAS – VOLUME I 90
+- se não tiver pulso, classifique-a como preta;
+- se tiver pulso, execute cinco respirações de resgate, conforme método
+JumpStart;
+- se não respirou, classifique-a como preta; se respirou, como vermelha.
+b) se a vítima respira:
+- se tiver movimentos respiratórios maiores que 30 IRPM14 (adulto) ou menor
+que 15 e maior 45 IRPM (criança), classifique-a como VERMELHA;
+- se tiver movimentos respiratórios menores ou iguais a 30 IRPM (Adulto) e
+entre 15-45 IRPM (Criança), verifique:
+i. a perfusão capilar em adultos e pulso radial em pacientes pediátricos:
+ se a perfusão capilar é maior que dois segundos ou pulso radial
+ausente, classifique-a como vermelha;
+ se a perfusão capilar é menor ou igual a dois segundos ou pulso
+radial presente, verifique se cumpre ordem simples em adultos e
+AVDN15 em pacientes pediátricos.
+- se cumpre ordens simples, classifique-a como amarela.
+- se não cumpre (confusa), classifique-a como vermelha.
+O quadro abaixo demonstra as prioridades distribuindo-as nas cores previstas para
+este método.
+
+14 Incursões Respiratórios por Minuto
+15 Escala de Resposta Pediátrica – Alerta, Voz, Dor, Nenhuma resposta
+CAPÍTULO 7 – APH EM ESTRUTURAS COLAPSADAS 91
+Quadro 14 - Quadro de prioridades do método START
+Fonte: ITO 23 (CBMMG, 2017, p. 132)
+O algoritmo apresentado na Figura 62 demonstra o fluxograma de funcionamento do
+método START juntamente com o JumpStart:
+Figura 62 - Algoritmo do método START com JumpStart
+Fonte: CBMMG (2017, p. 132)
+CAPÍTULO 7 – APH EM ESTRUTURAS COLAPSADAS 93
+Para as atividades BREC Básico é importante lembrar que o comando em voz do
+primeiro passo da triagem é dado para as vítimas que estejam fora dos escombros.
+Para as demais esse passo não é realizado.
+7.7Imobilização de vítimas em escombros
+A imobilização de uma vítima em uma estrutura colapsada deve ser a mínima
+possível que promova a estabilização da coluna cervical (ponto de maior
+preocupação) para sua remoção até a área de concentração de vítimas (ACV)
+(Figura 63). O nível dessa estabilização (colocação ou não de colar cervical) está
+condicionado à existência ou não de risco iminente no local.
+Figura 63 - Área de Concentração de Vítimas onde é feita a triagem
+Fonte: Acervo GTO BREC
+Na ACV, a vítima receberá os cuidados médicos pré-hospitalares e será
+encaminhada para o hospital de referência. Para tanto, é necessário que o
+procedimento seja feito em uma tala de imobilização de corpo inteiro (prancha
+longa), com suporte e imobilizadores laterais de cabeça (head block) e tirantes de
+presilha ou com uma maca rígida metálica ou sintética do tipo cesto, podendo ser do
+tipo desmontável ou não (Figuras 64 e 65).
+MABOM – BUSCA E RESGATE EM ESTRUTURAS COLAPSADAS – VOLUME I 94
+Figura 64 - Paciente imobilizado em estrutura colapsada
+Fonte: Acervo GTO BREC
+Figura 65 - Tipos de macas para imobilização de vítimas em estrutura colapsada. Maca tipo cesto (E),
+maca tipo basket (C) e prancha rígida (D)
+Fonte: Disponível em: <http://www.resgateonline.com/#!macas-e-imobilizadores/c5o0>. Acesso em:
+10 jun. 2016
+Outros tipos de macas existentes no mercado, como as do tipo envelope, não são
+ideais para aplicação neste tipo de operação, pois demandam muito tempo para sua
+preparação até o início do deslocamento, trazendo maiores danos à saúde das
+vítimas pela demora ao atendimento médico (Figura 65).
+CAPÍTULO 7 – APH EM ESTRUTURAS COLAPSADAS 95
+7.8Remoção e deslocamento de vítimas em escombros
+O terreno de um ambiente de escombros é muito irregular, às vezes, instável e fazse um deslocamento superior a 10 ou 15 metros, envolvendo muitos riscos. Por isso,
+a equipe mínima de remoção de vítimas deve ser um grupo de 5 resgatistas,
+responsáveis por deslocar com a vítima já imobilizada pelos escombros até a ACV
+pela técnica do “PASSA MÃO”, e o líder da equipe que irá à frente dos demais
+indicando o melhor caminho a ser seguido.
+Menciona-se aqui que “o caminho mais curto nem sempre é o mais fácil” (USAID;
+OFDA, 2011).
+As ordens do guia devem claras, objetivas e em alto e bom tom para que os
+resgatistas possam escutá-lo. Os comandos serão aqui padronizados, conforme os
+utilizados pela INSARAG (2011). Comandos:
+a) “preparar para levantar”;
+b) “levantar”;
+c) “preparado para passar”;
+d) “passar”;
+e) “parar”;
+f) “preparar para baixar”;
+g) “baixar”.
+Para a realização da técnica do PASSA MÃO, os resgatistas deverão proceder da
+seguinte maneira:
+a) com a vítima já imobilizada, os resgatistas se posicionam em linhas paralelas
+(uma de frente para a outra), com a prancha longa entre elas, com três ou
+dois resgatistas de um lado e dois do outro, todos na posição de três apoios
+(Figura 66);
+b) neste momento, o Líder da Equipe dará o comando de “Preparar para
+levantar”, e os resgatistas segurarão na borda da prancha longa;
+MABOM – BUSCA E RESGATE EM ESTRUTURAS COLAPSADAS – VOLUME I 96
+Figura 66 - Momento em que o líder da equipe dá o comando de "preparar para levantar"
+Fonte: Acervo GTO BREC
+c) em seguida, o Líder da Equipe dará o comando de “Levantar” e os resgatistas
+colocarão a prancha sobre os joelhos, que deverão estar em um ângulo de
+90° (Figura 67);
+Figura 67 - Momento em que o líder da equipe dá o comando de "levantar"
+Fonte: Acervo GTO BREC
+CAPÍTULO 7 – APH EM ESTRUTURAS COLAPSADAS 97
+d) Com a prancha sobre os joelhos dos resgatistas, o Líder da Equipe dará o
+comando de “Passar” e os resgatistas começam a deslizar sobre os joelhos a
+prancha no sentido da saída dos escombros (Figura 68);
+Figura 68 - Momento em que os resgatistas já estão com a prancha nos joelhos e recebem o
+comando de "passar"
+Fonte: Acervo GTO BREC
+e) Quando a prancha perder o contato com o último resgatistas da linha, este
+deverá se deslocar para a frente da linha, passando por trás dos resgatistas,
+assumindo nova posição à frente do dispositivo. Caso não haja espaço
+disponível para essa transposição, o resgatista deverá se deslocar pelo vão
+abaixo da prancha longa.
+Este procedimento será repetido até que a vítima seja retirada dos escombros. Após
+a retirada dos escombros, o Líder da Equipe dará o comando de “Parar” e “Preparar
+para baixar”. Na sequência, o Líder comandará “Baixar”, momento em que a
+prancha será colocada no solo (Figura 69).
+MABOM – BUSCA E RESGATE EM ESTRUTURAS COLAPSADAS – VOLUME I 98
+Figura 69 - Momento da finalização da técnica com o comando e a execução do "preparar para
+abaixar" e "abaixar"
+Fonte: Acervo GTO BREC
+Os resgatistas devem se preocupar em comunicar com a vítima durante todo o
+deslocamento, avaliando seu nível de consciência e manter a prancha na posição
+horizontal ou com a cabeça mais elevada, sempre que possível.
+A Figura 70 mostra momentos da execução da técnica do PASSA MÃO:
+Figura 70 - Quatro momentos da execução da técnica do PASSA MÃO
+Fonte: Acervo GTO BREC
+CAPÍTULO 7 – APH EM ESTRUTURAS COLAPSADAS 99
+7.9Considerações
+O resgate de uma vítima viva é o objetivo de uma operação BREC. Logo, toda a
+equipe empregada em uma área colapsada deve manter a concentração nos
+procedimentos de atendimento pré-hospitalares para que a vítima não sofra mais
+agravos à sua saúde.
+É evidente que nem sempre as equipes encontrarão um ambiente favorável ao
+sucesso do resgate de uma vítima viva, mas a recuperação de corpos em meio a
+escombros dignifica todo o esforço de um resgatista que cumpriu sua missão,
+mesmo em meio à adversidade.
+MABOM – BUSCA E RESGATE EM ESTRUTURAS COLAPSADAS – VOLUME I 100
+8 BUSCA E LOCALIZAÇÃO
+Neste capítulo, serão demonstradas as formas de busca, localização e identificação
+de vítimas em estruturas colapsadas, como são formadas e como trabalham as
+equipes de busca e localização e as formas como são feitas as marcações no local
+de trabalho.
+8.1Busca e localização em estruturas colapsadas
+As atividades de busca e localização são realizadas pelas Equipes BREC Básico
+com emprego de técnicas e procedimentos específicos para conseguir identificar e
+localizar possíveis vítimas em espaços vitais isolados ou outros locais nas estruturas
+colapsadas.
+8.2Equipe de busca e localização
+8.2.1 Composição
+As Equipes de BREC Básico, executando ações de Busca e Localização são
+compostas por até 05 (cinco) resgatistas e 01 (um) líder de equipe. Neste caso, um
+dos resgatistas será o responsável pela logística da equipe e o Líder será o
+responsável pela segurança (Organograma 2).
+Organograma 2 - Equipe de busca e localização
+Fonte: Adaptado de USAID; OFDA (2011)
+CAPÍTULO 8 – BUSCA E LOCALIZAÇÃO 101
+Estas equipes serão responsáveis pela execução direta do trabalho de busca e
+localização nos escombros. Através de suas atividades, vítimas serão identificadas,
+localizadas e retiradas das estruturas colapsadas.
+8.2.2 Funções
+8.2.2.1 Líder de Equipe
+O Líder da Equipe de Busca e Localização será o responsável pela coordenação
+dos trabalhos da sua equipe nas estruturas colapsadas. Ele deverá confeccionar os
+croquis e diagramas da área de busca, determinar as missões que serão
+desempenhadas pelos resgatistas, comunicar constantemente com o Posto de
+Comando para informar sobre os progressos da operação e SERÁ O
+ENCARREGADO DE SEGURANÇA da equipe durante todo o período em que
+estiverem trabalhando em campo. Deverá ainda estabelecer uma rota de fuga e uma
+zona segura para a sua equipe, caso haja alguma emergência e seja necessário o
+abandono do local (Figura 71).
+Figura 71 - Líder de equipe exercendo a função de encarregado de segurança
+Fonte: Acervo GTO BREC
+MABOM – BUSCA E RESGATE EM ESTRUTURAS COLAPSADAS – VOLUME I 102
+8.2.2.2 Resgatistas
+Os resgatistas são os que executarão as missões emanadas pelo Líder da Equipe.
+Realizarão os rompimentos de estruturas necessárias, farão os escoramentos
+necessários, moverão as cargas para criar acessos mais fáceis para as equipes e
+vítimas e realizarão a identificação de todas as possíveis vítimas na estrutura
+colapsada.
+Um dos resgatistas será o responsável pela logística de sua equipe, devendo ser o
+elo da equipe com a Seção de Logística da operação (SCO).
+8.3Recursos necessários para a realização da busca
+Para realizar buscas a fim de identificar e localizar vítimas em estruturas colapsadas
+serão necessários alguns recursos, sendo:
+a) equipamento de proteção individual completo para cada integrante da equipe;
+b) logística mínima (equipamentos, água e alimentação) para que a equipe
+permaneça operando initerruptamente no local por no mínimo 24 horas;
+c) kit de Atendimento Pré-Hospitalar;
+d) materiais que facilitem a identificação e observação do local como câmeras
+fotográficas, tablets, filmadoras, drones e binóculos;
+e) recursos técnicos como manuais diversos (ABQUIM), detectores de gases
+etc.;
+f) equipamento de radiocomunicação individual que permita comunicação entre
+a equipe e com o Posto de Comando (HT, telefones etc.);
+g) materiais para desenho (lápis, pincéis, papel milimetrado para confecção de
+croquis).
+8.4Realizando uma operação de busca e localização
+Quando da realização das buscas em estruturas colapsadas, alguns procedimentos
+obrigatoriamente devem ser seguidos para que se tenha um resultado mais eficiente
+e eficaz.
+CAPÍTULO 8 – BUSCA E LOCALIZAÇÃO 103
+Estes procedimentos vão aumentar a segurança dos envolvidos na operação
+(resgatistas e vítimas) e proporcionar uma facilitação nos trabalhos das equipes
+executoras. São eles:
+a) consolidar o maior número possível de informações a respeito do ocorrido, a
+fim de mapear a cinemática do desabamento e conhecer o que se deve fazer;
+b) isolar a cena, utilizando fita zebrada, corda ou outro meio disponível;
+c) sinalizar e identificar os possíveis riscos que se apresentam no local;
+d) assegurar-se que os serviços que abastecem a edificação colapsada tenham
+sido cortados e descarregados (GLP, por exemplo);
+e) fazer uma vistoria na estrutura, a fim de observar a evolução do
+desabamento, percebendo novos movimentos ou não nas estruturas;
+f) desenhar o croqui da estrutura colapsada, com propósito de detalhar as
+zonas trabalhadas e a trabalhar e posteriormente desenhar cada uma das
+áreas individualmente;
+g) definir quais técnicas, procedimentos e padrões de busca serão mais
+eficientes para cada área a ser trabalhada;
+h) produzir as marcações necessárias tanto com relação às estruturas quanto
+com relação às vítimas;
+i) a cada etapa cumprida do planejamento, avaliar os resultados e manter seu
+andamento ou fazer os ajustes necessários, sempre em consonância com o
+plano de ação definido pelo chefe da seção de operações do SCO;
+j) promover o resgate das vítimas encontradas superficialmente na estrutura;
+k) providenciar o transporte das vítimas encontradas e retiradas da estrutura
+colapsada;
+l) manter o Posto de Comando sempre informado da evolução da operação.
+8.5Padrões de busca e técnicas aplicadas
+Para a realização da busca por vítimas podemos empregar técnicas e padrões
+diferentes para cada tipo de situação. Fatores como conformação dos escombros,
+extensão da área a ser buscada e equipamentos que as equipes possuem, vão
+interferir de sobremaneira na escolha das técnicas a serem utilizadas. Além disso,
+MABOM – BUSCA E RESGATE EM ESTRUTURAS COLAPSADAS – VOLUME I 104
+algumas técnicas vão proporcionar a oportunidade de utilizar alguns padrões
+diferentes para a realização das buscas.
+8.5.1 Padrões de busca
+Para a execução das técnicas descritas acima, podemos dispor os resgatistas no
+terreno de formas diferentes, que depende na maioria das vezes, da conformação
+dos escombros. A partir disso, podem-se aplicar diferentes padrões de busca. Nas
+atividades do BREC Básico, no âmbito do CBMMG, realizar-se-ão dois padrões
+diferentes de busca: Busca em Paralelo e Busca em Circular Externo.
+8.5.1.1 Busca em paralelo
+Caso os escombros estejam dispostos linearmente (com poucas oscilações e
+variações de altura), possibilitando o deslocamento sobre a estrutura, os resgatistas
+serão dispostos (sempre em três apoios) um ao lado do outro com distância
+aproximada de 1,5 metros entre cada um, procurando abranger a maior área lateral
+dos escombros com o líder posicionado logo atrás da equipe. Sempre que não
+houver resposta e houver necessidade de deslocamento para frente, este não
+deverá ultrapassar 03 metros e que se repita até terminar a área buscada (Figuras
+72 e 73).
+Figura 72 - Desenho esquemático do padrão de busca em paralelo
+Fonte: USAID; OFDA (2011)
+CAPÍTULO 8 – BUSCA E LOCALIZAÇÃO 105
+Figura 73 - Exemplo de equipe em posição para realização de busca em paralelo
+Fonte: Acervo GTO BREC
+8.5.1.2 Busca em circular externo
+Caso os escombros não permitam a locomoção por sobre eles, os resgatistas
+deverão se colocar ao redor dos escombros, como se fossem as marcações no
+relógio de 12, 3, 6 e 9 horas com o líder posicionado logo atrás do resgatista que
+ocupar a hora 6. Sempre que não houver resposta e houver necessidade de
+deslocamento da equipe para aumentar a área de busca, a equipe deverá realizar
+um “giro no relógio” de aproximadamente 01 hora até que se complete todo o círculo
+(Figuras 74 e 75).
+MABOM – BUSCA E RESGATE EM ESTRUTURAS COLAPSADAS – VOLUME I 106
+Figura 74 - Desenho esquemático do padrão de busca em circular externo
+Fonte: USAID; OFDA (2011)
+Figura 75 - Exemplo de equipe em posição para realização de busca em circular externo
+Fonte: Acervo GTO BREC
+8.5.2 Técnicas de busca
+Existem várias técnicas empregadas em operações BREC com objetivo de localizar
+vítimas nos escombros das estruturas colapsadas. A utilização de determinado tipo
+de técnica depende, dentre outros fatores, dos recursos que cada equipe possui e
+CAPÍTULO 8 – BUSCA E LOCALIZAÇÃO 107
+de sua classificação. Algumas técnicas são específicas de equipes BREC Avançado,
+BREC Intermediário ou BREC Pesado, como a utilização de escoramentos,
+rompimento em estruturas profundas, utilização de cães de busca, sensores
+térmicos e acústicos, câmeras de busca, dentre outros.
+Dentre as mais aplicadas nas atividades de BREC Básico, a que se destaca, e será
+utilizada pelo CBMMG, é a denominada: “CHAMADO E ESCUTA”.
+Esta técnica consiste basicamente em chamar pelas vítimas e aguardar alguma
+resposta, para que se possam iniciar os procedimentos do resgate (Figura 76).
+Figura 76 - Execução da técnica de chamado e escuta
+Fonte: Acervo GTO BREC
+Na técnica de chamado e escuta, após definido o padrão de busca, os resgatistas
+iniciarão os trabalhos seguindo os seguintes passos:
+a) o Líder da equipe BREC, após dispor seus resgatistas no terreno e utilizandose de seu apito, emite um silvo longo;
+MABOM – BUSCA E RESGATE EM ESTRUTURAS COLAPSADAS – VOLUME I 108
+b) após isto, o resgatista pronuncia, em alto e bom tom, direcionado para todas
+as pessoas que estão próximas, as seguintes palavras: “atenção, silêncio
+total! Resgatista um, executar chamado e escuta!”;
+c) neste momento, o resgatista 01 tira a máscara de proteção da boca e, em alto
+e bom tom, virado para os escombros, pronuncia as seguintes palavras:
+“somos da equipe de busca e resgate do corpo de bombeiros, se alguém
+me escuta, grite ou bata três vezes!”;
+d) neste momento, os resgatistas, durante a realização do padrão de busca em
+paralelo, abaixarão suas cabeças até que seus ouvidos, já sem os protetores,
+fiquem próximos dos escombros, a fim de ouvir alguma resposta;
+e) caso haja alguma reposta e o resgatista ouvi-la, deverá permanecer em três
+apoios e, com a mão esquerda espalmada, apontar para o local onde ouviu a
+resposta, mantendo a mão direita levantada com o punho cerrado;
+f) durante a realização do padrão de busca circular externo, ao ouvirem o
+comando do resgatista, aproximar-se-ão dos escombros, permanecendo em
+pé (devido ao fato de estarem fora dos escombros), novamente mantendo os
+ouvidos, sem os protetores, próximos aos escombros, a fim de ouvir alguma
+resposta;
+g) caso haja resposta, o resgatista que ouvi-la deverá retornar à sua posição
+inicial e executar a sinalização apontando a mão esquerda espalmada na
+direção da resposta e a mão direita levantada com o punho cerrado;
+h) caso, em ambos os padrões, não se tenha resposta, o Líder da equipe BREC
+ordenará que o próximo resgatista realize novamente a técnica de
+“CHAMADO E ESCUTA”, até que os quatro resgatistas o façam.
+Em todos os casos, caso haja a sinalização de pelo menos dois resgatistas sobre
+algum indício de resposta em algum ponto da estrutura colapsada, o Líder da equipe
+BREC de Busca e Localização deverá deslocar-se até as costas dos resgatistas que
+apontaram uma localização e transcrever em seu croqui a direção apontada por
+cada um deles.
+Ao observar, no croqui, o cruzamento de duas ou mais retas, o Líder terá um ponto
+com a possível localização da vítima, devendo concentrar seus esforços naquele
+CAPÍTULO 8 – BUSCA E LOCALIZAÇÃO 109
+local para tentar fazer contato e a extração da vítima. O croqui deverá ser
+desenhado em papel próprio conforme a Figura 77.
+Figura 77 - Modelo do diagrama da área de busca
+Fonte: Adaptado de USAID; OFDA (2011)
+8.6Sinalização estrutural do CBMMG e de sinalização de vítimas da INSARAG
+Todas as áreas trabalhadas que envolvam estruturas colapsadas possuem
+marcações que visam identificar o local e os trabalhos realizados. Visam informar os
+MABOM – BUSCA E RESGATE EM ESTRUTURAS COLAPSADAS – VOLUME I 110
+que estão no entorno, principalmente os que estão operando, sobre informações
+como: equipes no local, riscos e situações relacionadas às vítimas. Diante disso,
+para que possamos realizar estas marcações, são necessárias algumas
+classificações.
+8.6.1 Desenhos, marcações e sinalização
+Como visto anteriormente, o desenho das áreas afetadas é extremamente
+importante durante o processo de planejamento das operações que serão
+executadas. Para isso algumas padronizações devem ser respeitadas.
+8.6.1.1 Croquis
+a) faça croqui geral da área afetada e de cada área de trabalho;
+b) identifique os pontos notáveis observados que se apresentam no terreno;
+c) nomeie cada área identificada nos croquis;
+d) caso possua aparelho de GPS, faça a plotagem das coordenadas geográficas
+nos croquis feitos;
+e) faça as marcações que mostrem a evolução dos trabalhos nas áreas.
+8.6.1.2 Identificação das áreas internas e externas das edificações afetadas
+a) externas:
+- deverá ser observada a entrada da edificação em frente à rua;
+- a este lado da edificação deverá ser dado o nome de LADO 1;
+- a partir deste, no sentido horário, cada parede que se apresentar na parte
+externa da edificação será considerada um LADO e com seu nome seguindo
+a contagem cardinal. Ex.: LADO 2, LADO 3, LADO 4... (Figura 78).
+CAPÍTULO 8 – BUSCA E LOCALIZAÇÃO 111
+Figura 78 - Identificação das áreas externas
+Fonte: Elaborado pelos autores
+a) internas:
+- a edificação será dividida internamente em “partes iguais”, criando-se então
+setores, para que as equipes de busca possam ser distribuídas;
+- serão divididas as edificações não circulares em uma parte central e as
+demais ao seu redor;
+- a parte inferior esquerda do LADO 1 receberá o nome de ÁREA A e cada
+parte seguinte no sentido horário receberá um nome seguindo o alfabeto, até
+que se termine na área central como ÁREA E (Figura 80);
+- nas edificações circulares, serão feitos dois eixos, vertical e horizontal. Na
+parte inferior esquerda do LADO 1 receberá o nome de ÁREA A e no sentido
+horário seguem-se as áreas até terminar na ÁREA D (Figura 79).
+MABOM – BUSCA E RESGATE EM ESTRUTURAS COLAPSADAS – VOLUME I 112
+Figura 79 - Identificação das áreas internas
+Fonte: Elaborado pelos autores
+8.6.2 Marcação estrutural BREC Básico CBMMG
+No âmbito do CBMMG, para fins de facilitação do emprego de marcação estrutural,
+inclusive pelo fato de não existir equipes Intermediárias ou Pesadas INSARAG no
+Brasil, será empregada a marcação estrutural utilizada pela INSARAG até o ano de
+2014.
+Esta marcação é simples e tem como principal diferença a não utilização da
+classificação utilizadas pelas equipes BREC mais avançadas.
+Caso haja alguma possibilidade ou necessidade de trabalho integrado das equipes
+BREC do CBMMG com outras equipes BREC internacionais, seja em Minas Gerais,
+seja em outro Estado ou até mesmo outro país, os militares possuidores do curso
+BREC Pesado (INSARAG) ou BREC Avançado (CBMMG) serão os responsáveis
+pela execução da marcação estrutural com o modelo previsto na atualização dos
+Guidelines INSARAG mais recentes que estiverem em vigor.
+8.6.2.1 Da montagem da marcação estrutural do CBMMG
+Para que se possa montar a marcação estrutural para o BREC Básico, deverão ser
+observadas as marcações necessárias na parte interna e na parte externa de um
+CAPÍTULO 8 – BUSCA E LOCALIZAÇÃO 113
+quadrado de 1 metro por 1 metro (1m2
+) que será desenhado na parte de fora da
+estrutura colapsada em que está trabalhando a equipe, no ponto de entrada no local.
+a) parte interna da marcação: a parte interna do quadrado conterá quatro
+informações, conforme Figura 80, que serão dispostas na parte superior,
+central e inferior do quadrado, na seguinte ordem:
+- na parte superior deverá conter a inscrição G ou N, que representam
+respectivamente GO (IR) ou NO GO (NÃO IR) que mostrarão para todos se é
+seguro acessar aquele espaço ou não;
+- na parte central deverá conter o nome da equipe que está trabalhando no
+local;
+- na parte inferior as datas e horários de início e término na operação naquele
+local.
+Figura 80 - Sinalização estrutural - parte interna
+Fonte: Adaptado de USAID; OFDA (2011)
+a) parte externa da marcação: a parte externa, assim como a interna, também
+conterá quatro informações (Figura 81) que serão dispostas uma de cada
+lado do quadrado devendo informar:
+- na parte superior, os riscos que foram identificados na estrutura colapsada;
+- na lateral direita, o número de vítimas já recuperadas;
+- na parte inferior a possível quantidade e localização de vítimas;
+- na lateral esquerda, o número de vítimas já resgatadas.
+MABOM – BUSCA E RESGATE EM ESTRUTURAS COLAPSADAS – VOLUME I 114
+Figura 81 - Sinalização estrutural - parte externa
+Fonte: Adaptado de USAID; OFDA (2011)
+A Figura 82 mostra uma marcação estrutural completa com os dados internos e
+externos.
+Figura 82 - Marcação estrutural completa com os dados internos e externos
+Fonte: Adaptado de USAID; OFDA (2011)
+Após a finalização dos trabalhos, a parte externa ainda poderá receber duas
+marcações.
+CAPÍTULO 8 – BUSCA E LOCALIZAÇÃO 115
+A primeira delas, quando a capacidade operacional daquela equipe que trabalha no
+local terminar e ainda houver trabalhos por fazer. Neste momento, toda a marcação
+receberá um círculo ao seu redor.
+A segunda indicará quando todo o trabalho for finalizado no local e nada mais restar
+a fazer. Neste momento será colocada além do círculo descrito acima, uma linha
+que cortará toda a figura ao meio no sentido horizontal (Figura 83).
+Figura 83 - Marcação estrutural com indicação de trabalho finalizado
+Fonte: Adaptado de USAID; OFDA (2011)
+Quando houver erros na marcação, aplica-se a regra de cruzar um X no desenho,
+inutilizando-o (Figura 84).
+Figura 84 - Marcação estrutural com erro
+Fonte: Adaptado de USAID; OFDA (2011)
+MABOM – BUSCA E RESGATE EM ESTRUTURAS COLAPSADAS – VOLUME I 116
+8.6.3 Sinalização de vítimas da INSARAG
+A marcação de vítimas utilizada pelo CBMMG será a marcação INSARAG
+padronizada na revisão dos Guidelines de 2015. Para isso, segue o modelo das
+marcações no quadro abaixo:
+Quadro 15 - Marcação de vítimas padrão INSARAG
+DESCRIÇÃO EXEMPLO
+Coloca-se uma letra V para todos os locais onde se tem notícia de
+vítimas vivas ou mortas. V
+Coloca-se ao redor da letra V uma seta para indicar a direção onde
+se encontra a vítima. V
+Abaixo da letra V podemos ter as seguintes informações:
+- Uma letra L que indica a presença confirmada de vítimas vivas
+(live), seguida de um número (por exemplo, 2) que indica a
+quantidade de vítimas vivas naquele lugar – L-2, L-3, etc.
+- Uma letra D que indica a presença confirmada de vítimas mortas
+(dead), seguida de um número (por exemplo, 3), que indica a
+quantidade de vítimas mortas naquele lugar – D-3, D-4, etc.
+V
+V
+Ao se remover qualquer vítima, se faz um risco na marcação devida
+e (se for necessário) se atualiza a continuação, por exemplo: se
+risca o L-2 e se escreve abaixo L-1, o que significa que só resta
+uma vítima viva.
+v
+Quando se riscam todas as marcações de D e L, significa que não
+restam mais vítimas identificadas. V
+Fonte: Adaptado de Ocha (2015)
+Quando houver erros na marcação, aplica-se a mesma regra da marcação estrutural
+de utilizar um X sobre desenho, inutilizando-o.
+L-1
+L-2
+L-2
+D-3
+D-1
+L-1
+CAPÍTULO 9 – FERRAMENTAS, EQUIPAMENTOS E ACESSÓRIOS 117
+9 FERRAMENTAS, EQUIPAMENTOS E ACESSÓRIOS – FEA
+Para realizar as atividades de busca e resgate em uma operação BREC Básico será
+necessário utilizar de artifícios que facilitem a execução das atividades pelos
+resgatistas. Serão utilizadas então, ferramentas, equipamentos e acessórios a fim de
+potencializar os trabalhos realizados nas operações.
+Para uma maior compreensão, as FEA serão definidas conforme a seguir.
+9.1Ferramenta
+É um objeto que tem como finalidade facilitar ou realizar uma ou mais funções cuja
+energia para seu funcionamento vem diretamente do operador, conforme USAID;
+OFDA (2011) (Figura 85).
+Figura 85 - Pé de cabra
+Fonte: Acervo GTO BREC
+9.2Equipamento
+Assim como mostrado por USAID; OFDA (2011), equipamento é uma máquina ou
+um aparelho que vai exigir do operador um maior conhecimento do seu
+funcionamento. É capaz de potencializar os trabalhos diversos realizados e que tem
+MABOM – BUSCA E RESGATE EM ESTRUTURAS COLAPSADAS – VOLUME I 118
+por característica a transformação de um tipo de energia em outro (Figura 86).
+Figura 86 - Gerador elétrico
+Fonte: Acervo GTO BREC
+9.3Acessório
+Da mesma maneira, USAID; OFDA (2011) aponta o acessório como sendo um
+objeto que, sozinho ou combinado, pode formar ou complementar uma ferramenta
+ou equipamento, aumentando ou possibilitando melhorias na execução da tarefa
+(Figura 87).
+Figura 87 - Seguetas de arco de serra (E) e trena (D)
+Fonte: Acervo GTO BREC
+CAPÍTULO 9 – FERRAMENTAS, EQUIPAMENTOS E ACESSÓRIOS 119
+9.4Classificação de FEA’S
+As FEA’s serão utilizadas para diversas atividades durante a operação BREC
+Básico. Por isso serão classificadas de acordo com a atividade a que são destinadas
+para facilitar seu registro, controle e correto emprego.
+9.4.1 FEA’s para resgate
+São as FEA’s utilizadas com o objetivo de localizar, resgatar ou realizar acesso às
+vítimas. Serão utilizadas na operação de resgate, não devendo confundir resgate
+com atendimento pré-hospitalar (Figura 88).
+Figura 88 - Exemplos de FEA's para resgate - marreta (1), talhadeira (2), alavanca (3) e talha tifor (4)
+Fonte: Acervo GTO BREC
+9.4.2 FEA’s para atividade em altura
+São as FEA’s usadas para atividades em que o resgatista fica exposto a um risco de
+queda de altura ou resgates verticais fora da cota zero, normalmente empregas em
+colapsos tipo suspenso ou empilhamento (Figura 89).
+MABOM – BUSCA E RESGATE EM ESTRUTURAS COLAPSADAS – VOLUME I 120
+Figura 89 - Exemplos de FEA's para atividade de altura – cordeletes e fitas tubulares (1), polias (2),
+mosquetões (3), freios tipo 8 (4) e corda (5)
+Fonte: Acervo GTO BREC
+9.4.3 FEA’s para suporte operacional
+São FEA’s que facilitam ou permitem a continuidade de uma operação BREC
+Básico, apoiando a operação, como comunicação, iluminação, transporte entre
+outros (Figura 90).
+Figura 90 - Exemplo de FEA's para suporte operacional - gerador elétrico (1), luz tipo pendente (2),
+lanterna de cabeça (3) e lanterna de mão (4)
+Fonte: Acervo GTO BREC
+CAPÍTULO 9 – FERRAMENTAS, EQUIPAMENTOS E ACESSÓRIOS 121
+9.4.4 FEA’s para atendimento pré-hospitalar (APH)
+São FEA’s utilizadas para avaliar e estabilizar o quadro clínico e traumático da vítima
+(Figura 91).
+Figura 91 - Exemplos de FEA's para APH - prancha rígida (1) e head block (2)
+Fonte: Acervo GTO BREC
+9.4.5 FEA’s para proteção individual
+São FEA’s que tem o principal objetivo de proteger o resgatista a danos físicos,
+químicos ou biológicos podendo ter vários níveis de proteção, sendo utilizadas em
+várias partes do corpo como cabeça, braços, mãos, tronco, olhos, ouvidos, pernas
+ou pé (Figura 92).
+Figura 92 - Exemplos de FEA's para proteção individual – capacete (1), máscaras faciais (2),
+joelheiras e cotoveleiras (3) e luvas (4)
+Fonte: Acervo GTO BREC
+MABOM – BUSCA E RESGATE EM ESTRUTURAS COLAPSADAS – VOLUME I 122
+9.4.6 FEA’s para atuação com agentes QBRNE
+São FEA’s utilizadas para trabalhos com agentes QBRNE tanto para proteção
+individual como para contenção do agente (Figura 93).
+Figura 93 - Exemplos de FEA's para agentes QBRNE – explosímetro detector de gases combustíveis
+CH4 NEXT (1) e barreira de contenção (2)
+Fonte: Disponível em: http://www.nextinstrumentos.com/categoria/2671628/Explosimetros/ (1) e
+http://www.bvambiental.com.br/barreira-de-contencao/barreira-de-contencao-grande-sao-pauloregiao-central-zona-leste-zona-sul-zona-norte-brasil-zona-oeste (2). Acesso em: 09 ago. 2019
+9.5Uso das FEA’S
+O sucesso de uma operação BREC Básico se dará, dentre outros motivos, pelo
+necessário e correto emprego das FEA’s.
+O sucesso de uma operação BREC Básico se dá, dentre outros motivos, pelo
+necessário e correto emprego das FEA’s. Além da obrigação do correto ciclo de
+planejamento operacional, do fluxo de comunicações, de uma estrutura logística
+robusta de suporte operacional, é extremamente importante que as FEA’s utilizadas
+estejam em condições de pronto emprego. Com suas manutenções preventivas e
+corretivas realizadas, conforme prescrito nos manuais e que permaneçam
+adequadamente guardadas, para que ao serem demandadas, tenham plenas
+condições de uso.
+Assim, observa-se então a importância de alguns cuidados necessários e
+extremamente importantes no armazenamento das FEA’s, assim como sua
+CAPÍTULO 9 – FERRAMENTAS, EQUIPAMENTOS E ACESSÓRIOS 123
+utilização. Para isso, há alguns passos a serem seguidos antes, durante e depois da
+utilização das FEA’s, além do correto local para seu acondicionamento.
+9.6Acondicionamento das FEA’s
+O local de armazenamento deve ser arejado, sem umidade, para evitar a
+deterioração das FEA’s e devem ser organizadas por tipo e classificação. Ainda
+segundo ABNT (2011), os equipamentos devem ficar em lugares acessíveis,
+arejados e não confinados para serem testados periodicamente.
+Acessórios em tecido deverão permanecer longe da umidade e do chão, sendo
+acondicionados em caixas secas ou pendurados por anéis ou alças, para que não
+corram o risco de apodrecer ou desfiar.
+No local de acondicionamento das FEA’s deve ser criada uma ficha de controle para
+cada junto com o Mapa-Carga específico. Na ficha deve conter os meios e/ou mapa
+de acondicionamento e gestão logística de todo o recurso ali empregado.
+9.6.1 Caixa BREC
+Quando há o acionamento para uma ocorrência BREC é extremamente importante o
+conceito de pronta-resposta de uma equipe especializada, onde toda a logística
+adequada para tal ocorrência já deve estar previamente em condições de emprego,
+acondicionadas e preparadas para sua finalidade, visando facilitar o acesso das
+equipes e o deslocamento às áreas de trabalho.
+A Caixa BREC é, portanto, uma maneira de facilitar a acomodação e mobilização
+das FEA’s, deixando-as prontas para uso e acondicionadas no melhor formato para
+fácil acesso quando necessário.
+A Caixa BREC deve ter o tamanho e peso que no máximo dois homens possam
+carregá-la, ser preferencialmente compartimentada para facilitar a organização das
+FEA’s que serão colocadas em seu interior, devendo conter as FEA’s de maior
+probabilidade utilização em um cenário BREC Básico. Não devem ser muito grandes
+MABOM – BUSCA E RESGATE EM ESTRUTURAS COLAPSADAS – VOLUME I 124
+e cada local onde exista, deverá haver ao menos 02 (duas).
+Neste manual listaremos aqui as dimensões e FEA’s que deverão compor
+obrigatoriamente a Caixa BREC para atendimentos de operações BREC Básico,
+para que as equipes consigam transportara-la para com facilidade para a trabalho na
+zona quente.
+9.6.1.1 Padronização da Caixa BREC Básico
+Será uma caixa, preferencialmente de madeira com dimensões de 1 m X 0,40 m X
+0,30 m e com duas alças em cada lateral e uma em cada extremidade para
+transporte, devendo conter (Figura 94):
+a) 02 (duas) talhadeiras;
+b) 02 (duas) ponteiras;
+c) 02 (duas) marretas de 02 kg;
+d) 01 (um) malho de 08 ou 10 kg;
+e) 02 (duas) serrotes de carpintaria;
+f) 02 (dois) arcos de serra com seguetas;
+g) 01 (um) conjunto de 10 (dez) lâminas para os arcos de serra;
+h) 02 (duas) latas de spray laranja ou preto;
+i) 02 (duas) trenas;
+j) 02 (duas) pés de cabra.
+CAPÍTULO 9 – FERRAMENTAS, EQUIPAMENTOS E ACESSÓRIOS 125
+Figura 94 - Imagens internas e externas da caixa BREC
+Fonte: Acervo GTO BREC
+9.6.2 Passos para utilização das FEA’s
+Visto a correta maneira de acondicionamento das FEA’s na Caixa BREC, necessitase, então, verificar os corretos passos para a utilização das FEA’s antes, durante e
+após o seu uso. As proposições de passos para utilização apresentadas a seguir
+tem como referência USAID; OFDA (2011).
+Passos a serem observados antes da utilização das FEA’s:
+a) revisar o manual das FEA’s;
+b) identificar o mecanismo de ação;
+c) verificar combustível e óleo da fonte de energia ou a conexão à fonte de
+IMPORTANTE
+A CAIXA BREC É UMA MANEIRA DE FACILITAR A ORGANIZAÇÃO DAS FEA’s E QUANDO FOR
+TRANSPORTADA DEVE SER SEMPRE CARREGADA POR DOIS RESGATISTAS EVITANDO AÇÕES
+INSEGURAS.
+MABOM – BUSCA E RESGATE EM ESTRUTURAS COLAPSADAS – VOLUME I 126
+energia;
+d) verificar os dados de capacidade técnica demonstrados pelo fabricante;
+e) verificar se os acessórios são adequados e estão bem colocados;
+f) conhecer as normas de segurança para operação das FEA’s;
+g) proceder as manutenções preventivas conforme especificações do manual.
+Passos a serem observados durante a utilização das FEA’s:
+a) aplicar as normas de segurança e trabalhar sempre em dupla;
+b) não ultrapassar as capacidades das FEA’s descritas nos manuais;
+c) usá-las nos trabalhos para os quais foram desenhados;
+d) operá-las adequadamente;
+e) verificar se os acessórios estão colocados adequadamente.
+Passos a serem observados após a utilização das FEA’s:
+a) limpar e proceder às manutenções necessárias;
+b) armazenar as FEA’s nas Caixas BREC e, estas, em local adequado;
+c) verificar o nível de combustível quando houver;
+d) preencher as fichas de movimentação e manutenção das FEA’s.
+9.6.3 Utilização e manuseio das FEA’s
+Visando buscar o melhor desempenho, a forma de uso das principais ferramentas
+referentes à atividade será descritas nas seções a seguir.
+9.6.3.1 Serrote
+O uso correto e uma boa manutenção podem conferir maior durabilidade e melhor
+desempenho ao seu serrote (Figura 95).
+No início do corte o operador deve segurar firme a ferramenta e o punho deve estar
+alinhado com o antebraço em um ângulo de 45º a 60º, dependendo do operador.
+CAPÍTULO 9 – FERRAMENTAS, EQUIPAMENTOS E ACESSÓRIOS 127
+Ângulos muito maiores ou menores interferem mecanicamente no corte diminuindo
+sua eficiência.
+Figura 95 - Serrote
+Fonte: Acervo GTO BREC
+Inicialmente, é necessário que o operador faça movimentos curtos, estabilizando a
+lâmina do serrote com o polegar da mão que está livre até que se tenha o caminho a
+ser seguido pela serra bem definido. Com este caminho definido e a serra
+estabilizada sem a necessidade de apoio da outra mão, o operador deverá
+continuar o corte, agora com movimentos firmes e que utilizem toda a extensão do
+serrote (Figura 96).
+Figura 96 - Utilização do serrote na zona quente
+Fonte: Acervo GTO BREC
+MABOM – BUSCA E RESGATE EM ESTRUTURAS COLAPSADAS – VOLUME I 128
+A serra realiza o corte em apenas um sentido (empurrando), enquanto no sentido
+oposto (puxando) a ferramenta apenas limpa a fenda que está com acúmulo de
+serragem. De qualquer forma, o operador deve imprimir maior quantidade de força
+no momento que identificar maior facilidade no movimento, obtendo, assim, melhor
+aproveitamento da ferramenta.
+O operador deve ter um cuidado especial com movimentos muito curtos e irregulares
+pois, além de despender energia do operador com pouco ganho de corte, provocam
+desgastes irregulares nos dentes da serra, danificando a ferramenta.
+É importante atentar para que a madeira fique sempre firme para evitar seu
+deslocamento e consequentemente acidentes com o operador e quebra da
+ferramenta.
+9.6.3.2 Arco de serra
+O arco de serra tem funcionamento semelhante ao do serrote, porém como a lâmina
+pode ficar separadamente do arco, deve-se ter cuidado especial na montagem da
+ferramenta para que não ocasione acidentes (Figura 97).
+Figura 97 - Arco de serra
+Fonte: Acervo GTO BREC
+CAPÍTULO 9 – FERRAMENTAS, EQUIPAMENTOS E ACESSÓRIOS 129
+Ao fazer o ajuste da lâmina no arco de serra, devem-se observar as setas que são
+marcadas na lateral da lâmina e que devem estar apontadas para frente deixando o
+sentido do corte na mesma direção do serrote.
+Caso não seja possível observar as marcações (lâmina sem pintura ou antiga) devese observar para que os dentes fiquem apontados para frente.
+Após ajustar a lâmina é necessário apertar o suficiente apenas para firmá-la ao arco,
+evitando assim movimentos indesejados.
+Estando montado, a operação será idêntica à do serrote, não podendo o operador
+imprimir muita força durante os movimentos para evitar que se quebre a lâmina em
+uso (Figura 98).
+Figura 98 - Utilização de arco de serra na zona quente
+Fonte: Acervo GTO BREC
+9.6.3.3 Talhadeira e ponteira
+Antes de iniciar é importante fazer uma análise do material que vai ser perfurado
+para usar uma ferramenta que suporte a força de trabalho. Ao iniciar um acesso com
+MABOM – BUSCA E RESGATE EM ESTRUTURAS COLAPSADAS – VOLUME I 130
+uma talhadeira (Figura 99) ou ponteira, a ferramenta deve ficar perpendicular à
+superfície, evitando assim que ela escorregue e provoque um acidente.
+Figura 99 - Talhadeira
+Fonte: Acervo GTO BREC
+No caso da talhadeira, o ideal é utilizar toda a superfície do corte evitando uma
+concentração de forças em pontos específicos e deformação da ferramenta (Figura
+100).
+Figura 100 - Utilização de talhadeira na zona quente
+Fonte: Acervo GTO BREC
+IMPORTANTE
+A TALHADEIRA NÃO É PROJETADA PARA SER USADA LATERALMENTE, POIS PODE QUEBRAR E
+LESIONAR O RESGATISTA OU MESMO A VÍTIMA.
+CAPÍTULO 9 – FERRAMENTAS, EQUIPAMENTOS E ACESSÓRIOS 131
+9.6.3.4 Martelo
+O martelo é uma ferramenta simples e de fácil utilização, mas causadora de muitos
+acidentes, principalmente quando utilizado de forma errada (Figura 101).
+Antes da utilização, é importante conferir se a ferramenta realmente está encavada e
+em bom estado de conservação. Como existem vários modelos e tamanhos deve-se
+usar a ferramenta adequada para o trabalho a ser realizado.
+Figura 101 - Martelo
+Fonte: Acervo GTO BREC
+Antes de iniciar os trabalhos, é importante avaliar o entorno do resgatista e retirar
+qualquer objeto que possa atrapalhar os movimentos dele.
+A empunhadura é feita na extremidade do cabo aumentando assim a precisão e a
+força. O movimento deve ser realizado, sobretudo no cotovelo, deixando o punho
+rígido para melhorar a empunhadura.
+A cabeça do martelo deve bater paralelo à superfície para evitar deformações e
+desvios da ferramenta para posições indesejadas.
+MABOM – BUSCA E RESGATE EM ESTRUTURAS COLAPSADAS – VOLUME I 132
+Alguns tipos de martelo oferecem a opção da orelha ou unha, que é utilizada para
+retirar pregos de uma maneira mais rápida. Mas, para utilizar essa opção, devem ser
+tomadas algumas precauções. Ao utilizar a orelha é feita uma alavanca tipo 1,
+aumentando a força do operador o que pode ocasionar dano ao cabo do martelo
+caso o prego esteja muito preso.
+A cabeça do prego deve ficar o mais próximo possível da base da orelha para
+aumentar a eficiência do trabalho. Caso não seja possível retirar o prego com uma
+mão, deve ser utilizada uma ferramenta mais robusta para efetuar o trabalho, como
+uma alavanca ou um pé de cabra.
+9.6.3.5 Marreta de dois quilos
+A marreta de dois quilos (Figura 102) é uma ferramenta para trabalhos mais pesados
+que o martelo, podendo ser utilizado diretamente sobre a superfície ou com o auxílio
+de uma talhadeira ou ponteira. Não é recomendada para trabalhos precisos, como
+colocação de pregos.
+Figura 102 - Marreta de dois quilos
+Fonte: Acervo GTO BREC
+9.6.3.6 Pé de cabra
+É uma ferramenta versátil que pode multiplicar a força do operador em algumas
+CAPÍTULO 9 – FERRAMENTAS, EQUIPAMENTOS E ACESSÓRIOS 133
+situações (Figura 103). Pode ser utilizada para:
+a) fazer um acesso a outras ferramentas;
+b) retirar pregos;
+c) alavanca;
+d) extensor para retirada de materiais.
+Figura 103 - Pé de cabra
+Fonte: Acervo GTO BREC
+9.6.3.7 Alavanca de aço
+A alavanca é uma das ferramentas mais antigas existentes, possuindo vários tipos e
+tamanhos a pode facilmente mover cargas muito pesadas (Figura 104). A alavanca é
+uma haste de aço com um lado utilizado para corte (semelhante a uma talhadeira) e
+outro para perfurar (semelhante a uma ponteira).
+Apesar de poder ser utilizada para cortes ou perfurações, sua função principal na
+atividade BREC Básico é de movimentar cargas através dos processos de
+alavancas.
+É importante que a alavanca seja compatível com o peso que vai ser movimentado,
+devendo, caso necessário, utilizar mais de uma alavanca para movimentar a mesma
+carga.
+MABOM – BUSCA E RESGATE EM ESTRUTURAS COLAPSADAS – VOLUME I 134
+Figura 104 - Alavanca e sua utilização para elevação de cargas
+Fonte: Acervo GTO BREC
+9.6.3.8 Serra de fio
+Consiste em um cabo de aço inoxidável serrilhado, com argolas presas nas pontas e
+tem como função cortar madeira (troncos, galhos, pranchas, escoras etc.) de uma
+maneira rápida e eficiente (Figura 105). A maior vantagem é o pouco espaço que ela
+ocupa, podendo ser guardada e transportada facilmente.
+Figura 105 - Serra de fio
+Fonte: Acervo GTO BREC
+CAPÍTULO 9 – FERRAMENTAS, EQUIPAMENTOS E ACESSÓRIOS 135
+Para utilizar a serra, o resgatista deve estar com as duas mãos livres para segurar
+as argolas firmemente e verificar se há espaço para realizar os movimentos de corte.
+O cabo serrilhado deve ser colocado em volta do objeto de madeira e operador deve
+utilizar uma força suficiente para realizar um movimento alternado de mão, até o final
+do corte.
+9.6.3.9 Malho
+O malho é uma ferramenta de trabalho pesado podendo ser usada para romper
+concreto, paredes, lajes. Consiste em um cabo longo, de aproximadamente 120 cm,
+com uma cabeça de metal encavada na ponta com peso variável de seis quilos.
+Utilização do malho (Figura 106):
+a) o resgatista deve se colocar em uma posição confortável e certificar que não
+haja obstáculos que possam atrapalhar o movimento da ferramenta (isso
+deve ser feito simulando um movimento). Neste momento, o segurança deve
+ficar no lado oposto de onde a ferramenta será levantada, evitando assim
+ficar no raio de ação dela;
+b) o resgatista então define a pegada mais confortável para o trabalho com a
+ferramenta com a cabeça no chão e as duas mãos na outra extremidade;
+c) ao levantar a ferramenta, o resgatista deve inclinar levemente o tronco e
+escorregar uma das mãos para próximo da cabeça do malho, facilitando
+assim o movimento;
+d) a cabeça do malho deve ser levantada acima da cabeça do resgatista;
+e) neste momento, o socorrista deve parar de fazer força e apenas direcionar o
+malho, escorregando a mão que estava próxima a cabeça para a ponta do
+cabo, deixando que a ferramenta “caia” no lugar correto.
+Quando a ferramenta está em sua fase de descida, o resgatista não deve colocar
+força no movimento, já que o próprio peso da ferramenta faz o trabalho ser efetivo.
+O malho é uma ferramenta pesada e usá-lo de forma correta permite que o operador
+tenha menos desgaste físico e maior eficiência.
+MABOM – BUSCA E RESGATE EM ESTRUTURAS COLAPSADAS – VOLUME I 136
+Figura 106 - Utilização do malho
+Fonte: Acervo GTO BREC
+REFERÊNCIAS 137
+10RESGATE EM SUPERFÍCIE
+Uma equipe BREC Básico tem como objetivo principal o resgate de vítimas
+superficiais, devendo utilizar técnicas de resgate observando todos os fatores de
+risco que as envolvam. Para tal, é necessário avaliar a cena, detectando riscos que
+comprometam a segurança da equipe e da vítima, classificando rapidamente as
+vítimas com a finalidade de aplicar o método START e executar a remoção das
+vítimas de forma segura.
+10.1 Técnicas para resgate
+Para executar o resgate de vítimas superficiais, os resgatistas precisam dominar as
+seguintes técnicas:
+a) remoção e transporte de escombros;
+b) elevação e estabilização de cargas;
+c) técnicas de resgate vertical.
+10.1.1 Remoção e Transporte de Escombros
+Para remover e transportar escombros tem-se que levar em consideração os
+seguintes fatores (Figura 107):
+a) reconhecer os tipos e níveis de danos sofridos pela edificação e quais foram
+os tipos de colapso, buscando por espaços vitais isolados com presença de
+vítimas;
+b) a remoção de escombros deve ser feita de forma cautelosa e na ordem
+decrescente em relação ao seu tamanho, começando por peças de maior
+tamanho e que estão soltas, que não apoiam outras partes da estrutura e que
+estão livres de outras cargas ou pressão;
+c) não devemos remover escombros que apoiam outras partes da estrutura, ou
+que tem contato com partes soltas dela, a fim de evitar réplicas ou acidentes;
+d) devemos traçar uma rota entre os escombros com o objetivo de acessar a
+vítima, levando em consideração a segurança e a distância desta rota;
+MABOM – BUSCA E RESGATE EM ESTRUTURAS COLAPSADAS – VOLUME I 138
+e) os escombros devem ser transportados por uma linha de resgatistas,
+posicionados em duas filas paralelas com distancias aproximadas de 1 metro
+entre os resgatistas;
+f) a posição do resgatistas na fila deve ser alternada durante o transporte dos
+escombros, promovendo o revezamento de funções;
+g) os escombros podem ser transportados em recipientes que os caibam,
+devendo retornar vazios do final da fila;
+h) devemos transportar os escombros utilizando sempre posições ergonômicas
+e seguras, a fim de evitar lesões e desequilíbrios.
+Figura 107 - Demonstração da técnica de remoção de escombros
+Fonte: Acervo GTO BREC
+10.1.2 Elevação e estabilização de cargas
+Antes de elevar uma carga devemos levar em consideração os seguintes fatores
+(Figura 108):
+a) peso da carga: antes de elevar a carga, devemos calcular o peso aproximado
+dela, relacionado seu peso com a capacidade dos nossos sistemas e
+ferramentas;
+b) qual participação desta carga na acomodação de outras cargas ou partes da
+estrutura;
+c) existência de cargas que apoiam a carga a ser elevada;
+d) existência de espaço físico para a elevação da carga;
+e) possíveis riscos que podem ser gerados com a movimentação desta carga;
+REFERÊNCIAS 139
+f) avaliar se existem e quais são as consequências para a vítima com a
+elevação desta carga.
+Figura 108 – Elevação e estabilização de carga utilizando sistema de alavancas
+Fonte: Acervo GTO BREC
+10.1.2.1 Técnica de alavanca para elevação de cargas
+Após considerar os fatores que influenciam na elevação da carga, aplicaremos
+técnicas capazes de produzir vantagem mecânica, como por exempla as alavancas,
+que são elementos rígidos que utilizam um ponto de apoio, permitindo assim a
+transferência de energia do resgatista para a carga, elevando-a.
+O mecanismo de alavanca tem os seguintes componentes:
+Calculando o peso aproximado de uma carga
+DEVE-SE OBSERVAR OS SEGUINTES FATORES:
+ QUAIS SÃO AS DIMENSÕES DA CARGA QUE SERÁ ELEVADA?
+ QUAL A MASSA ESPECÍFICA DO MATERIAL QUE COMPÕE A CARGA A SER ELEVADA?
+ CALCULAR O VOLUME PARA OBTER A MASSA TOTAL
+MABOM – BUSCA E RESGATE EM ESTRUTURAS COLAPSADAS – VOLUME I 140
+a) elemento rígido;
+b) força;
+c) carga;
+d) ponto de apoio.
+As alavancas são divididas em três classes e estão relacionadas com as classes de
+alavancas apresentadas em USAID; OFDA (2011). São elas:
+a) classe A: nesta classe o ponto de apoio está localizado entre a força e a
+carga. Temos como exemplo desta classe a retirada de um prego cravado em
+uma madeira com a utilização um martelo (Figura 110).
+Figura 109 - Alavanca Classe A onde o apoio se encontra entre a força e a carga
+Fonte: Acervo GTO BREC
+b) classe B: nesta classe a carga está localizada entre a força e o apoio.
+Podemos utilizar como exemplo o transporte de uma carga utilizando um
+“carrinho de mão” (Figura 111).
+F
+A C
+REFERÊNCIAS 141
+Figura 110 - Alavanca Classe B onde a carga está entre a força e o apoio
+Fonte: Acervo GTO BREC
+c) classe C: nesta classe a força está localizada entre o apoio e a carga. A
+utilização de uma pá exemplifica esta classe (Figura 112).
+Figura 111 - Alavanca Classe C onde a força está entre a carga e o apoio
+Fonte: Acervo GTO BREC
+10.1.2.2 Estabilização de cargas elevadas.
+Utilizando uma das classes de alavanca podemos elevar uma carga, e ela deve ser
+estabilizada sempre que houver progressão na elevação.
+C
+F
+A
+A
+C
+F
+MABOM – BUSCA E RESGATE EM ESTRUTURAS COLAPSADAS – VOLUME I 142
+Esta estabilização (Figura 112) é feita com pedaços de madeira, que devem cumprir
+os seguintes padrões:
+a) cortados em forma de blocos retangulares, medindo 4”x4” (10 cm x 10 cm) e
+20” (50 cm) de comprimento;
+b) a madeira deve ser sólida e saudável, plana, sem rachaduras e livre de nós;
+c) os blocos não devem ser pintados ou envernizados, para que não fiquem
+escorregadios principalmente quando molhados;
+d) os blocos de madeira devem suportar no mínimo 500 PSI (libras por polegada
+quadrada), ou 35,15 Kg/cm².
+Figura 112 - Carga sendo estabilizada
+Fonte: Acervo GTO BREC
+Os blocos de madeira são empilhados de forma específica, formando assoalhos.
+Para garantir maior estabilidade do conjunto de estabilização, iniciamos o assoalho
+com uma base sólida, composta por 04 (quatro) blocos de madeira posicionados de
+forma paralela e unidos (Figura 113).
+REFERÊNCIAS 143
+Figura 113 – Base sólida formada por quatro blocos de madeira
+Fonte: Acervo GTO BREC
+Os assoalhos podem ser montados em dois formatos, sendo:
+a) plataforma (3x3): Assoalho formado por camadas perpendiculares compostas
+por 3 blocos cada. Neste formato o assoalho cria 9 pontos de apoio (Figura
+114).
+Figura 114 - Assoalho tipo plataforma - 3x3
+Fonte: Acervo GTO BREC
+MABOM – BUSCA E RESGATE EM ESTRUTURAS COLAPSADAS – VOLUME I 144
+a) caixa (2x2): Assoalho formado por camadas perpendiculares compostas por 2
+blocos cada. Neste formato o assoalho cria 4 pontos de apoio (Figura 115).
+Figura 115 - Assoalho tipo caixa - 2x2
+Fonte: Acervo GTO BREC
+10.1.2.3 Procedimento para elevar e estabilizar uma carga
+Deverá ser adotado o seguinte procedimento (Figura 116):
+a) deve-se afastar a carga do solo, utilizando cunhas e marretas;
+b) posicionar um elemento rígido no espaço criado e em um ponto de apoio,
+utilizando uma das classes de alavanca para elevar a carga;
+c) elevar a carga somente o suficiente para que seja feita a montagem da base
+sólida;
+d) se os dois ou mais lados da carga vão ser elevados, repetir a elevação nos
+outros lados para montagem das bases sólidas;
+e) o brigadista responsável pela montagem no assoalho, quando posiciona os
+blocos de madeira, não deve expor partes do seu corpo sob a carga,
+configurando este ato como uma ação insegura;
+f) aumentar a altura dos pontos de apoio para montagem dos níveis do
+assoalho;
+REFERÊNCIAS 145
+g) elevar a carga até que o espaço entre ela e o solo seja suficiente para
+passagem da vítima.
+Figura 116 - Procedimento de elevação e estabilização de cargas sendo executado
+Fonte: Acervo GTO BREC
+10.1.2.4 Normas gerais para montagem de assoalhos:
+Deverão observadas as seguintes normas gerais (Figura 117):
+a) o limite de altura do assoalho e de 3 vezes o tamanho da base (largura);
+b) devem sobrar 10 cm da base sólida a partir das bordas da carga, a fim de
+conferir maior estabilidade ao conjunto;
+c) nos casos em que for impossível montar a base sólida quadrada, o que
+diminui sua estabilidade, a altura máxima do assoalho deve ser igual e largura
+mínima da base sólida;
+d) nos casos em que for impossível montar uma base sólida com no mínimo 4
+pontos de contato com a carga, a altura do assoalho deve ser diminuída, não
+ultrapassando a largura mínima da base sólida.
+MABOM – BUSCA E RESGATE EM ESTRUTURAS COLAPSADAS – VOLUME I 146
+Figura 117 - Carga elevada e estabilizada
+Fonte: Acervo GTO BREC
+10.1.3 Técnica de resgate vertical
+Caso haja a Impossibilidade de transportar a vítima por vias de acesso
+convencionais, tais como corredores, rampas e escadas, será utilizada a técnica de
+resgate vertical. Para execução desta técnica será utilizada uma escada, prancha
+longa ou maca, cordas e cabos (Figura 118). O líder deve dividir a equipe em duas
+duplas, sendo resgatistas 01 e 02 e resgatistas 03 e 04.
+Esta técnica é uma adaptação da técnica da dobradiça de USAID; OFDA (2011).
+REFERÊNCIAS 147
+Figura 118 - Equipe BREC em condições para iniciar a técnica de resgate vertical
+Fonte: Acervo GTO BREC
+A técnica deve ser executada da seguinte forma (Vide Apêndice A):
+a) os resgatistas 3 e 4 armam a escada até o patamar de acesso a vítima e a
+seguram, promovendo segurança aos resgatistas 1 e 2 para subir;
+b) o resgatista 1 sobe, utilizando todos os degraus da escada, até o patamar em
+que se encontra a vítima, levando consigo duas cordas. Chegando ao
+patamar o resgatista 1 segura a escada para a subida do resgatista 2, que
+sobe, utilizando todos os degraus da escada, levando consigo quatro cabos
+solteiros;
+c) já no patamar onde se encontra a vítima, os resgatistas 1 e 2 lançam as
+pontas das cordas para os resgatistas 3 e 4, utilizando o comando de
+“CORDA”;
+d) ao receber as pontas da corda, os resgatistas 3 e 4 a amarram em uma das
+extremidades da prancha longa ou maca, cada um de um lado, utilizando o nó
+fiel e pescador simples como arremate;
+e) os resgatistas 1 e 2 içam a prancha longa ou maca, utilizando as cordas, até
+o patamar em que estão;
+MABOM – BUSCA E RESGATE EM ESTRUTURAS COLAPSADAS – VOLUME I 148
+f) com a prancha longa ou maca já no patamar, os resgatistas 1 e 2 colocam a
+vítima na prancha longa ou maca e a amarram, cada um de um lado,
+utilizando dois cabos solteiros (vide amarração);
+g) após amarar a vítima, os resgatistas 1 e 2 amarram a prancha longa ou maca
+na escada, cada um de um lado, abrangendo um degrau e o banzo, utilizando
+nó fiel e pescador simples como arremate;
+h) quando a prancha longa ou maca estiver amarrada na escada, os resgatistas
+1 e 2 projetam a mesma para o lado de fora do patamar, utilizando as cordas
+para controlar a descida e protegendo as cordas de quinas com seus
+coturnos;
+i) os resgatistas 3 e 4 apoiam a escada durante toda descida;
+j) quando a escada toca o solo, os resgatistas 3 e 4, soltam os cabos solteiros
+da prancha/maca, cada um de um lado, retiram a prancha longa ou maca da
+mesma e sobem novamente a escada até o patamar;
+k) assim que a escada chega ao patamar, o resgatista 1 segura a escada para a
+descida do resgatista 2, que desce utilizando todos os degraus da escada.
+Chegando o resgatista 2 no solo, o resgatista 1 desce, utilizando todos os
+degraus da escada.
+Com a chegada dos resgatistas 1 e 2 ao solo, os resgatistas 3 e 4 descem a escada
+e a apoiam no solo.
+10.1.4 Normais gerais para realização da técnica de resgate vertical.
+As normas gerais para a realização da técnica são:
+a) toda operação deve ser acompanhada por um encarregado de segurança, e
+este deve interromper a execução toda vez que algum resgatista executar
+uma ação insegura ou ficar exposto a uma condição insegura;
+b) o líder deve coordenar as atividades;
+c) cada resgatista deve executar a sua função com atenção máxima para evitar
+erros;
+d) os resgatistas 1 e 2 devem ao subir e descer na escada, utilizar as duas mãos
+como apoio e todos os degraus;
+REFERÊNCIAS 149
+e) no patamar em que se encontra a vítima, os resgatistas 1 e 2 devem
+permanecer sempre com o corpo de frente para o “vão”, e sempre em 3
+apoios;
+f) os resgatistas 3 e 4 devem operar a escada sempre utilizando posições
+ergonômicas, se abaixando sempre na posição de 3 apoios.
+MABOM – BUSCA E RESGATE EM ESTRUTURAS COLAPSADAS – VOLUME I 150
+REFERÊNCIAS
+ALVES, Thiago Fidélis; et al. Síndrome Compartimental Aguda: série de sete
+casos no Hospital Nossa Senhora da Conceição   Tubarão. Florianópolis:
+Arquivos Catarinenses de Medicina, v. 40, nº 2, 2011.
+ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS. NBR 16280: Reformas em
+Edifícios, Sistema de Gestão de Reformas - Requisitos. Rio de Janeiro: ABNT,
+2014.
+______. NBR 5674: Manutenção de Edificações   Procedimentos. Rio de Janeiro:
+ABNT,1999.
+______. NR 18: Segurança no Trabalho. Construção Civil.. Rio de Janeiro: ABNT,
+2011. 62 p.
+CYRINO, Luis. Segurança e os cuidados que devemos ter na Manutenção. 2015.
+Disponível em: < http://www.manutencaoemfoco.com.br/seguranca-e-oscuidadosna-manutencao/>. Acesso em 15 set 2016.
+DISTRITO FEDERAL. Ministério do Trabalho e Emprego. Norma Reguladora n.6  
+Equipamento de proteção individual (EPI). 2006. Disponível em:
+<http://www.portoitajai.com.br/cipa/legislacao/arquivos/nr_06..pdf> Acesso em: 25
+out 2017.
+FEMA NATIONAL USAR RESPONSE SYSTEM STRUCTURAL COLLAPSE
+Structural Collapse Technician. Disponível em:
+<http://www.w1npp.org/ARES/BUILDI~1.PDF> . Acesso em: 18 maio 2017.
+______. Naciones Unidas Oficina de Coordinación de Asuntos Humanitarios -
+sección de ayuda a la coordinación sobre el terreno (Secretaría Del Insarag),
+MELDAU, Débora Carvalho. Síndrome Compartimental. 2016. Disponível em:
+<http://www.infoescola.com/doencas/sindrome-compartimental/> Acesso em 09 jun.
+2016.
+MINAS GERAIS, Minas. Corpo de Bombeiros Militar de Minas Gerais: Instrução
+Técnica Operacional 023   Protocolo de Atendimento Pré-hospitalar, 2ª edição.
+Belo Horizonte: CBMMG, 2017.
+NATIONAL URBAN SEARCH & RESCUE (US&R) RESPONSE SYSTEM. Rescue
+Field Operations Guide, 2006. Disponível em:
+<https://www.fema.gov/pdf/emergency/usr/usr_23_20080205_rog.pdf.> Acesso em:
+18 maio 2017.
+OCHA (Suiça). International Search And Rescue Advisory Group (Org.). Guías de
+INSARAG: Manual A: Fortalecimento de capacidades. Genebra: Insarag, 2015. 99
+p.
+REFERÊNCIAS 151
+OLIVEIRA, Marcos de. Livro Texto do Projeto Gerenciamento de Desastres -
+Sistema de Comando em Operações - Florianópolis: Ministério da Integração
+Nacional, Secretaria Nacional de Defesa Civil, Universidade Federal de Santa
+Catarina, Centro Universitário de Estudos e Pesquisas sobre Desastres, 2010.
+RIO DE JANEIRO, Corpo de Bombeiros Militar. Resgate em estruturas colapsadas
+- procedimento operacional padrão (pop). Versão 1. Rio de Janeiro, 2012. 26 p.
+SÃO PAULO. Corpo de Bombeiros da Polícia Militar do Estado de São Paulo
+Manual Técnico de Bombeiros - MTB 03. Manual de Salvamento Terrestre.
+2ªedição. São Paulo: CB PMESP. 2006.
+USAID; OFDA. Curso de Resgate em Estruturas Colapsadas (CRECL) - Nível
+Leve. Jun. 2011.
+MABOM – BUSCA E RESGATE EM ESTRUTURAS COLAPSADAS – VOLUME I 152
+APÊNDICES
+APÊNDICE A - TÉCNICA DE RESGATE VERTICAL
+Equipe BREC pronta para a
+técnica de resgate vertical Início da execução do resgate vertical
+Resgatistas 3 e 4 armam a
+escada, promovendo
+segurança aos resgatistas 1
+e 2 para subirem
+Movimento inicial dos resgatistas 3
+e 4 para armar a escada
+Resgatistas 3 e 4 colocam escada nos
+ombros para fazer a elevação da escada
+Resgatistas 3 e 4 armam a
+escada no local determinado
+pelo líder
+Resgatista 1, levando a corda,
+sobe até o patamar e segura a
+escada para aumentar a segurança
+do resgatista 2 enquanto ele sobe
+Resgatista 1 segurando a escada para a
+subida do resgatista 2, sentado ao chão.
+Pode-se executar este movimento estando
+em tres apoios.
+Resgatistas 1 e 2 lançam as
+pontas da corda para baixo
+bradando “CORDA!”
+APÊNDICE A – TÉCNCIA DE RESGATE VERTICAL 153
+Os resgatistas 3 e 4 amarram a
+corda em uma das extremidades
+da prancha longa ou maca, cada
+um de um lado, utilizando um fiel
+arrematado com um pescador
+simples Os resgatistas 1 e 2 içam a prancha/maca
+utilizando a corda até o patamar em que
+estão. A partir deste momento os
+resgatistas 1 e 2 sempre permaneceram
+em tres apoios e nunca dando as costas
+para a o vão
+Os resgatistas 1 e 2
+colocam a vítima na
+prancha/maca e a amarram,
+cada um de um lado,
+utilizando um cabo solteiro
+cada
+Os regatistas 1 e 2 se posicionam
+lateralmente à prancha/maca para
+fazer a amarração da vítima
+Amarração da vítima realizada conforme
+apresentado no Apêndice A
+Os resgatistas 1 e 2
+amarram a prancha/maca
+na escada, cada um de um
+lado e abrangendo degrau e
+banzo para evitar o
+movimento da corda,
+utilizando um fiel e arremate
+em pescador simples
+Amarração na escada no banzo
+com o nó fiel passando pelos lados
+de cima e de baixo do degrau
+Amarração da prancha/maca já finalizada
+junto à amarração da escada, deixando a
+vítima em condições de ser retirada do
+local
+Como a escada ficou
+inicialmente inclinada para
+subida dos resgatistas,
+agora os resgatistas 3 e 4
+elevam a escada, deixandoa completamente na vertical
+para elevar a prancha/maca
+do chão
+MABOM – BUSCA E RESGATE EM ESTRUTURAS COLAPSADAS – VOLUME I 154
+Os resgatistas 1 e 2 projetam a
+prancha/maca para fora do
+patamar iniciando o processo de
+descida da vítima
+A
+descida será controlada pela corda
+segurada pelos resgatistas 1 e 2 e pelos
+resgatistas que seguram a escada. Para
+evitar que a corda se rompa pelo atrito na
+quina do patamar, recomenda-se que os
+resgatistas façam a descida apoiando a
+corda em seus calçados
+Os resgatistas devem
+manter a prancha/maca
+sempre na horizontal
+durante a descida, cuidando
+para que ela não desca
+muito rápido nem
+descontroladamente
+Assim que estiver no chão os
+resgatistas 3 e 4 devem soltar os
+nós que prendem a prancha/maca
+e retirá-la de cima da escada para
+retornarem à posição vertical para
+a saída dos resgatistas 1 e 2 do
+patamar
+O resgatista 1 segura a escada para que o
+resgatista 2 desca e assim que ele chega
+ao solo, também desce
+Os resgatistas 3 e 4 descem
+a escada até o solo assim
+que o resgatista 1 chega ao
+chão
+APÊNDICE B – AMARRAÇÃO DA VÍTIMA À PRANCHA/MACA 155
+APÊNDICE B - AMARRAÇÃO DA VÍTIMA À PRANCHA/MAC

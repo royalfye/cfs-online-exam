@@ -1,0 +1,761 @@
+Código de Processo Penal Militar (Decreto-Lei nº 1.002, de 21Out69): artigos 1º ao 28, 82 ao 84, 220 ao 253, 254 a 261.
+
+Código de Processo Penal Militar
+
+        Os Ministros da Marinha de Guerra, do Exército e da Aeronáutica Militar , usando das atribuições que lhes confere o art. 3º do Ato Institucional nº 16, de 14 de outubro de 1969, combinado com o § 1º do art. 2º do Ato Institucional n° 5, de 13 de dezembro de 1968, decretam:
+
+CÓDIGO DE PROCESSO PENAL MILITAR
+
+LIVRO I
+
+TÍTULO I
+
+CAPÍTULO ÚNICO
+
+DA LEI DE PROCESSO PENAL MILITAR E DA SUA APLICAÇÃO
+
+        Fontes de Direito Judiciário Militar
+
+          Art. 1º O processo penal militar reger-se-á pelas normas contidas neste Código, assim em tempo de paz como em tempo de guerra, salvo legislação especial que lhe fôr estritamente aplicável.
+
+        Divergência de normas
+
+        § 1º Nos casos concretos, se houver divergência entre essas normas e as de convenção ou tratado de que o Brasil seja signatário, prevalecerão as últimas.
+
+        Aplicação subsidiária
+
+         § 2º Aplicam-se, subsidiàriamente, as normas dêste Código aos processos regulados em leis especiais.
+
+        Interpretação literal
+
+          Art. 2º A lei de processo penal militar deve ser interpretada no sentido literal de suas expressões. Os têrmos técnicos hão de ser entendidos em sua acepção especial, salvo se evidentemente empregados com outra significação.
+
+        Interpretação extensiva ou restritiva
+
+         § 1º Admitir-se-á a interpretação extensiva ou a interpretação restritiva, quando fôr manifesto, no primeiro caso, que a expressão da lei é mais estrita e, no segundo, que é mais ampla, do que sua intenção.
+
+        Casos de inadmissibilidade de interpretação não literal
+
+         § 2º Não é, porém, admissível qualquer dessas interpretações, quando:
+
+        a) cercear a defesa pessoal do acusado;
+
+        b) prejudicar ou alterar o curso normal do processo, ou lhe desvirtuar a natureza;
+
+        c) desfigurar de plano os fundamentos da acusação que deram origem ao processo.
+
+        Suprimento dos casos omissos
+
+        Art. 3º Os casos omissos neste Código serão supridos:
+
+        a) pela legislação de processo penal comum, quando aplicável ao caso concreto e sem prejuízo da índole do processo penal militar;
+
+        b) pela jurisprudência;
+
+        c) pelos usos e costumes militares;
+
+        d) pelos princípios gerais de Direito;
+
+        e) pela analogia.
+
+        Aplicação no espaço e no tempo
+
+        Art. 4º Sem prejuízo de convenções, tratados e regras de direito internacional, aplicam-se as normas dêste Código:
+
+        Tempo de paz
+
+        I - em tempo de paz:
+
+        a) em todo o território nacional;
+
+        b) fora do território nacional ou em lugar de extraterritorialidade brasileira, quando se tratar de crime que atente contra as instituições militares ou a segurança nacional, ainda que seja o agente processado ou tenha sido julgado pela justiça estrangeira;
+
+        c) fora do território nacional, em zona ou lugar sob administração ou vigilância da fôrça militar brasileira, ou em ligação com esta, de fôrça militar estrangeira no cumprimento de missão de caráter internacional ou extraterritorial;
+
+        d) a bordo de navios, ou quaisquer outras embarcações, e de aeronaves, onde quer que se encontrem, ainda que de propriedade privada, desde que estejam sob comando militar ou militarmente utilizados ou ocupados por ordem de autoridade militar competente;
+
+        e) a bordo de aeronaves e navios estrangeiros desde que em lugar sujeito à administração militar, e a infração atente contra as instituições militares ou a segurança nacional;
+
+        Tempo de guerra
+
+        II - em tempo de guerra:
+
+        a) aos mesmos casos previstos para o tempo de paz;
+
+        b) em zona, espaço ou lugar onde se realizem operações de fôrça militar brasileira, ou estrangeira que lhe seja aliada, ou cuja defesa, proteção ou vigilância interesse à segurança nacional, ou ao bom êxito daquelas operações;
+
+        c) em território estrangeiro militarmente ocupado.
+
+        Aplicação intertemporal
+
+        Art. 5º As normas dêste Código aplicar-se-ão a partir da sua vigência, inclusive nos processos pendentes, ressalvados os casos previstos no art. 711, e sem prejuízo da validade dos atos realizados sob a vigência da lei anterior.
+
+        Aplicação à Justiça Militar Estadual
+
+        Art. 6º Obedecerão às normas processuais previstas neste Código, no que forem aplicáveis, salvo quanto à organização de Justiça, aos recursos e à execução de sentença, os processos da Justiça Militar Estadual, nos crimes previstos na Lei Penal Militar a que responderem os oficiais e praças das Polícias e dos Corpos de Bombeiros, Militares.
+
+TÍTULO II
+
+CAPÍTULO ÚNICO
+
+DA POLÍCIA JUDICIÁRIA MILITAR
+
+        Exercício da polícia judiciária militar
+
+        Art. 7º A polícia judiciária militar é exercida nos têrmos do art. 8º, pelas seguintes autoridades, conforme as respectivas jurisdições:
+
+        a) pelos ministros da Marinha, do Exército e da Aeronáutica, em todo o território nacional e fora dêle, em relação às fôrças e órgãos que constituem seus Ministérios, bem como a militares que, neste caráter, desempenhem missão oficial, permanente ou transitória, em país estrangeiro;
+
+        b) pelo chefe do Estado-Maior das Fôrças Armadas, em relação a entidades que, por disposição legal, estejam sob sua jurisdição;
+
+        c) pelos chefes de Estado-Maior e pelo secretário-geral da Marinha, nos órgãos, fôrças e unidades que lhes são subordinados;
+
+        d) pelos comandantes de Exército e pelo comandante-chefe da Esquadra, nos órgãos, fôrças e unidades compreendidos no âmbito da respectiva ação de comando;
+
+        e) pelos comandantes de Região Militar, Distrito Naval ou Zona Aérea, nos órgãos e unidades dos respectivos territórios;
+
+        f) pelo secretário do Ministério do Exército e pelo chefe de Gabinete do Ministério da Aeronáutica, nos órgãos e serviços que lhes são subordinados;
+
+        g) pelos diretores e chefes de órgãos, repartições, estabelecimentos ou serviços previstos nas leis de organização básica da Marinha, do Exército e da Aeronáutica;
+
+        h) pelos comandantes de fôrças, unidades ou navios;
+
+        Delegação do exercício
+
+         § 1º Obedecidas as normas regulamentares de jurisdição, hierarquia e comando, as atribuições enumeradas neste artigo poderão ser delegadas a oficiais da ativa, para fins especificados e por tempo limitado.
+
+         § 2º Em se tratando de delegação para instauração de inquérito policial militar, deverá aquela recair em oficial de pôsto superior ao do indiciado, seja êste oficial da ativa, da reserva, remunerada ou não, ou reformado.
+
+         § 3º Não sendo possível a designação de oficial de pôsto superior ao do indiciado, poderá ser feita a de oficial do mesmo pôsto, desde que mais antigo.
+
+         § 4º Se o indiciado é oficial da reserva ou reformado, não prevalece, para a delegação, a antiguidade de pôsto.
+
+        Designação de delegado e avocamento de inquérito pelo ministro
+
+         § 5º Se o pôsto e a antiguidade de oficial da ativa excluírem, de modo absoluto, a existência de outro oficial da ativa nas condições do § 3º, caberá ao ministro competente a designação de oficial da reserva de pôsto mais elevado para a instauração do inquérito policial militar; e, se êste estiver iniciado, avocá-lo, para tomar essa providência.
+
+        Competência da polícia judiciária militar
+
+         Art. 8º Compete à Polícia judiciária militar:
+
+        a) apurar os crimes militares, bem como os que, por lei especial, estão sujeitos à jurisdição militar, e sua autoria;
+
+        b) prestar aos órgãos e juízes da Justiça Militar e aos membros do Ministério Público as informações necessárias à instrução e julgamento dos processos, bem como realizar as diligências que por êles lhe forem requisitadas;
+
+        c) cumprir os mandados de prisão expedidos pela Justiça Militar;
+
+        d) representar a autoridades judiciárias militares acêrca da prisão preventiva e da insanidade mental do indiciado;
+
+        e) cumprir as determinações da Justiça Militar relativas aos presos sob sua guarda e responsabilidade, bem como as demais prescrições dêste Código, nesse sentido;
+
+        f) solicitar das autoridades civis as informações e medidas que julgar úteis à elucidação das infrações penais, que esteja a seu cargo;
+
+        g) requisitar da polícia civil e das repartições técnicas civis as pesquisas e exames necessários ao complemento e subsídio de inquérito policial militar;
+
+        h) atender, com observância dos regulamentos militares, a pedido de apresentação de militar ou funcionário de repartição militar à autoridade civil competente, desde que legal e fundamentado o pedido.
+
+TÍTULO III
+
+CAPÍTULO ÚNICO
+
+DO INQUÉRITO POLICIAL MILITAR
+
+        Finalidade do inquérito
+
+         Art. 9º O inquérito policial militar é a apuração sumária de fato, que, nos têrmos legais, configure crime militar, e de sua autoria. Tem o caráter de instrução provisória, cuja finalidade precípua é a de ministrar elementos necessários à propositura da ação penal.
+
+        Parágrafo único. São, porém, efetivamente instrutórios da ação penal os exames, perícias e avaliações realizados regularmente no curso do inquérito, por peritos idôneos e com obediência às formalidades previstas neste Código.
+
+        Modos por que pode ser iniciado
+
+         Art. 10. O inquérito é iniciado mediante portaria:
+
+        a) de ofício, pela autoridade militar em cujo âmbito de jurisdição ou comando haja ocorrido a infração penal, atendida a hierarquia do infrator;
+
+        b) por determinação ou delegação da autoridade militar superior, que, em caso de urgência, poderá ser feita por via telegráfica ou radiotelefônica e confirmada, posteriormente, por ofício;
+
+        c) em virtude de requisição do Ministério Público;
+
+        d) por decisão do Superior Tribunal Militar, nos têrmos do art. 25;
+
+        e) a requerimento da parte ofendida ou de quem legalmente a represente, ou em virtude de representação devidamente autorizada de quem tenha conhecimento de infração penal, cuja repressão caiba à Justiça Militar;
+
+        f) quando, de sindicância feita em âmbito de jurisdição militar, resulte indício da existência de infração penal militar.
+
+        Superioridade ou igualdade de pôsto do infrator
+
+         § 1º Tendo o infrator pôsto superior ou igual ao do comandante, diretor ou chefe de órgão ou serviço, em cujo âmbito de jurisdição militar haja ocorrido a infração penal, será feita a comunicação do fato à autoridade superior competente, para que esta torne efetiva a delegação, nos têrmos do § 2° do art. 7º.
+
+        Providências antes do inquérito
+
+         § 2º O aguardamento da delegação não obsta que o oficial responsável por comando, direção ou chefia, ou aquêle que o substitua ou esteja de dia, de serviço ou de quarto, tome ou determine que sejam tomadas imediatamente as providências cabíveis, previstas no art. 12, uma vez que tenha conhecimento de infração penal que lhe incumba reprimir ou evitar.
+
+        Infração de natureza não militar
+
+         § 3º Se a infração penal não fôr, evidentemente, de natureza militar, comunicará o fato à autoridade policial competente, a quem fará apresentar o infrator. Em se tratando de civil, menor de dezoito anos, a apresentação será feita ao Juiz de Menores.
+
+        Oficial general como infrator
+
+         § 4º Se o infrator fôr oficial general, será sempre comunicado o fato ao ministro e ao chefe de Estado-Maior competentes, obedecidos os trâmites regulamentares.
+
+        Indícios contra oficial de pôsto superior ou mais antigo no curso do inquérito
+
+         § 5º Se, no curso do inquérito, o seu encarregado verificar a existência de indícios contra oficial de pôsto superior ao seu, ou mais antigo, tomará as providências necessárias para que as suas funções sejam delegadas a outro oficial, nos têrmos do § 2° do art. 7º.
+
+        Escrivão do inquérito
+
+        Art. 11. A designação de escrivão para o inquérito caberá ao respectivo encarregado, se não tiver sido feita pela autoridade que lhe deu delegação para aquêle fim, recaindo em segundo ou primeiro-tenente, se o indiciado fôr oficial, e em sargento, subtenente ou suboficial, nos demais casos.
+
+        Compromisso legal
+
+        Parágrafo único. O escrivão prestará compromisso de manter o sigilo do inquérito e de cumprir fielmente as determinações dêste Código, no exercício da função.
+
+        Medidas preliminares ao inquérito
+
+        Art. 12. Logo que tiver conhecimento da prática de infração penal militar, verificável na ocasião, a autoridade a que se refere o § 2º do art. 10 deverá, se possível:
+
+        a) dirigir-se ao local, providenciando para que se não alterem o estado e a situação das coisas, enquanto necessário;    
+
+        b) apreender os instrumentos e todos os objetos que tenham relação com o fato;
+
+        c) efetuar a prisão do infrator, observado o disposto no art. 244;
+
+        d) colhêr tôdas as provas que sirvam para o esclarecimento do fato e suas circunstâncias.
+
+        Formação do inquérito
+
+        Art. 13. O encarregado do inquérito deverá, para a formação dêste:
+
+        Atribuição do seu encarregado
+
+        a) tomar as medidas previstas no art. 12, se ainda não o tiverem sido;
+
+        b) ouvir o ofendido;
+
+        c) ouvir o indiciado;
+
+        d) ouvir testemunhas;
+
+        e) proceder a reconhecimento de pessoas e coisas, e acareações;
+
+        f) determinar, se fôr o caso, que se proceda a exame de corpo de delito e a quaisquer outros exames e perícias;
+
+        g) determinar a avaliação e identificação da coisa subtraída, desviada, destruída ou danificada, ou da qual houve indébita apropriação;
+
+        h) proceder a buscas e apreensões, nos têrmos dos arts. 172 a 184 e 185 a 189;
+
+        i) tomar as medidas necessárias destinadas à proteção de testemunhas, peritos ou do ofendido, quando coactos ou ameaçados de coação que lhes tolha a liberdade de depor, ou a independência para a realização de perícias ou exames.
+
+        Reconstituição dos fatos
+
+        Parágrafo único. Para verificar a possibilidade de haver sido a infração praticada de determinado modo, o encarregado do inquérito poderá proceder à reprodução simulada dos fatos, desde que esta não contrarie a moralidade ou a ordem pública, nem atente contra a hierarquia ou a disciplina militar.
+
+        Assistência de procurador
+
+        Art. 14. Em se tratando da apuração de fato delituoso de excepcional importância ou de difícil elucidação, o encarregado do inquérito poderá solicitar do procurador-geral a indicação de procurador que lhe dê assistência.
+
+        Encarregado de inquérito. Requisitos
+
+        Art. 15. Será encarregado do inquérito, sempre que possível, oficial de pôsto não inferior ao de capitão ou capitão-tenente; e, em se tratando de infração penal contra a segurança nacional, sê-lo-á, sempre que possível, oficial superior, atendida, em cada caso, a sua hierarquia, se oficial o indiciado.
+
+        Sigilo do inquérito
+
+          Art. 16. O inquérito é sigiloso, mas seu encarregado pode permitir que dêle tome conhecimento o advogado do indiciado.
+
+  Art. 16-A. Nos casos em que servidores das polícias militares e dos corpos de bombeiros militares figurarem como investigados em inquéritos policiais militares e demais procedimentos extrajudiciais, cujo objeto for a investigação de fatos relacionados ao uso da força letal praticados no exercício profissional, de forma consumada ou tentada, incluindo as situações dispostas nos arts. 42 a 47 do Decreto-Lei nº 1.001, de 21 de outubro de 1969 (Código Penal Militar), o indiciado poderá constituir defensor.      
+
+§ 1º Para os casos previstos no caput deste artigo, o investigado deverá ser citado da instauração do procedimento investigatório, podendo constituir defensor no prazo de até 48 (quarenta e oito) horas a contar do recebimento da citação.       
+
+§ 2º Esgotado o prazo disposto no § 1º com ausência de nomeação de defensor pelo investigado, a autoridade responsável pela investigação deverá intimar a instituição a que estava vinculado o investigado à época da ocorrência dos fatos, para que esta, no prazo de 48 (quarenta e oito) horas, indique defensor para a representação do investigado.     
+
+§ 3º Havendo necessidade de indicação de defensor nos termos do § 2º deste artigo, a defesa caberá preferencialmente à Defensoria Pública e, nos locais em que ela não estiver instalada, a União ou a Unidade da Federação correspondente à respectiva competência territorial do procedimento instaurado deverá disponibilizar profissional para acompanhamento e realização de todos os atos relacionados à defesa administrativa do investigado.        
+§ 4º A indicação do profissional a que se refere o § 3º deste artigo deverá ser precedida de manifestação de que não existe defensor público lotado na área territorial onde tramita o inquérito e com atribuição para nele atuar, hipótese em que poderá ser indicado profissional que não integre os quadros próprios da Administração.       
+§ 5º Na hipótese de não atuação da Defensoria Pública, os custos com o patrocínio dos interesses do investigado nos procedimentos de que trata esse artigo correrão por conta do orçamento próprio da instituição a que este esteja vinculado à época da ocorrência dos fatos investigados.    
+§ 6º As disposições constantes deste artigo aplicam-se aos servidores militares vinculados às instituições dispostas no art. 142 da Constituição Federal, desde que os fatos investigados digam respeito a missões para a Garantia da Lei e da Ordem.   
+        Incomunicabilidade do indiciado. Prazo.
+
+        Art. 17. O encarregado do inquérito poderá manter incomunicável o indiciado, que estiver legalmente prêso, por três dias no máximo.
+
+        Detenção de indiciado
+
+        Art. 18. Independentemente de flagrante delito, o indiciado poderá ficar detido, durante as investigações policiais, até trinta dias, comunicando-se a detenção à autoridade judiciária competente. Êsse prazo poderá ser prorrogado, por mais vinte dias, pelo comandante da Região, Distrito Naval ou Zona Aérea, mediante solicitação fundamentada do encarregado do inquérito e por via hierárquica.
+
+        Prisão preventiva e menagem. Solicitação
+
+        Parágrafo único. Se entender necessário, o encarregado do inquérito solicitará, dentro do mesmo prazo ou sua prorrogação, justificando-a, a decretação da prisão preventiva ou de menagem, do indiciado.
+
+        Inquirição durante o dia
+
+        Art. 19. As testemunhas e o indiciado, exceto caso de urgência inadiável, que constará da respectiva assentada, devem ser ouvidos durante o dia, em período que medeie entre as sete e as dezoito horas.
+
+        Inquirição. Assentada de início, interrupção e encerramento
+
+         § 1º O escrivão lavrará assentada do dia e hora do início das inquirições ou depoimentos; e, da mesma forma, do seu encerramento ou interrupções, no final daquele período.
+
+        Inquirição. Limite de tempo
+
+         § 2º A testemunha não será inquirida por mais de quatro horas consecutivas, sendo-lhe facultado o descanso de meia hora, sempre que tiver de prestar declarações além daquele têrmo. O depoimento que não ficar concluído às dezoito horas será encerrado, para prosseguir no dia seguinte, em hora determinada pelo encarregado do inquérito.
+
+         § 3º Não sendo útil o dia seguinte, a inquirição poderá ser adiada para o primeiro dia que o fôr, salvo caso de urgência.
+
+        Prazos para terminação do inquérito
+
+        Art 20. O inquérito deverá terminar dentro em vinte dias, se o indiciado estiver prêso, contado esse prazo a partir do dia em que se executar a ordem de prisão; ou no prazo de quarenta dias, quando o indiciado estiver sôlto, contados a partir da data em que se instaurar o inquérito.
+
+        Prorrogação de prazo
+
+         § 1º Êste último prazo poderá ser prorrogado por mais vinte dias pela autoridade militar superior, desde que não estejam concluídos exames ou perícias já iniciados, ou haja necessidade de diligência, indispensáveis à elucidação do fato. O pedido de prorrogação deve ser feito em tempo oportuno, de modo a ser atendido antes da terminação do prazo.
+
+        Diligências não concluídas até o inquérito
+
+        § 2º Não haverá mais prorrogação, além da prevista no § 1º, salvo dificuldade insuperável, a juízo do ministro de Estado competente. Os laudos de perícias ou exames não concluídos nessa prorrogação, bem como os documentos colhidos depois dela, serão posteriormente remetidos ao juiz, para a juntada ao processo. Ainda, no seu relatório, poderá o encarregado do inquérito indicar, mencionando, se possível, o lugar onde se encontram as testemunhas que deixaram de ser ouvidas, por qualquer impedimento.
+
+        Dedução em favor dos prazos
+
+         § 3º São deduzidas dos prazos referidos neste artigo as interrupções pelo motivo previsto no § 5º do art. 10.
+
+        Reunião e ordem das peças de inquérito
+
+        Art. 21. Tôdas as peças do inquérito serão, por ordem cronológica, reunidas num só processado e dactilografadas, em espaço dois, com as fôlhas numeradas e rubricadas, pelo escrivão.
+
+        Juntada de documento
+
+        Parágrafo único. De cada documento junto, a que precederá despacho do encarregado do inquérito, o escrivão lavrará o respectivo têrmo, mencionando a data.
+
+        Relatório
+
+        Art. 22. O inquérito será encerrado com minucioso relatório, em que o seu encarregado mencionará as diligências feitas, as pessoas ouvidas e os resultados obtidos, com indicação do dia, hora e lugar onde ocorreu o fato delituoso. Em conclusão, dirá se há infração disciplinar a punir ou indício de crime, pronunciando-se, neste último caso, justificadamente, sôbre a conveniência da prisão preventiva do indiciado, nos têrmos legais.
+
+        Solução
+
+        § 1º No caso de ter sido delegada a atribuição para a abertura do inquérito, o seu encarregado enviá-lo-á à autoridade de que recebeu a delegação, para que lhe homologue ou não a solução, aplique penalidade, no caso de ter sido apurada infração disciplinar, ou determine novas diligências, se as julgar necessárias.
+
+        Advocação
+
+        § 2º Discordando da solução dada ao inquérito, a autoridade que o delegou poderá avocá-lo e dar solução diferente.
+
+        Remessa do inquérito à Auditoria da Circunscrição
+
+        Art. 23. Os autos do inquérito serão remetidos ao auditor da Circunscrição Judiciária Militar onde ocorreu a infração penal, acompanhados dos instrumentos desta, bem como dos objetos que interessem à sua prova.
+
+        Remessa a Auditorias Especializadas
+
+         § 1º Na Circunscrição onde houver Auditorias Especializadas da Marinha, do Exército e da Aeronáutica, atender-se-á, para a remessa, à especialização de cada uma. Onde houver mais de uma na mesma sede, especializada ou não, a remessa será feita à primeira Auditoria, para a respectiva distribuição. Os incidentes ocorridos no curso do inquérito serão resolvidos pelo juiz a que couber tomar conhecimento do inquérito, por distribuição.
+
+         § 2º Os autos de inquérito instaurado fora do território nacional serão remetidos à 1ª Auditoria da Circunscrição com sede na Capital da União, atendida, contudo, a especialização referida no § 1º.
+
+        Arquivamento de inquérito. Proibição
+
+        Art. 24. A autoridade militar não poderá mandar arquivar autos de inquérito, embora conclusivo da inexistência de crime ou de inimputabilidade do indiciado.
+
+        Instauração de nôvo inquérito
+
+        Art 25. O arquivamento de inquérito não obsta a instauração de outro, se novas provas aparecerem em relação ao fato, ao indiciado ou a terceira pessoa, ressalvados o caso julgado e os casos de extinção da punibilidade.
+
+         § 1º Verificando a hipótese contida neste artigo, o juiz remeterá os autos ao Ministério Público, para os fins do disposto no art. 10, letra c.
+
+         § 2º O Ministério Público poderá requerer o arquivamento dos autos, se entender inadequada a instauração do inquérito.
+
+        Devolução de autos de inquérito
+
+        Art. 26. Os autos de inquérito não poderão ser devolvidos a autoridade policial militar, a não ser:
+
+        I — mediante requisição do Ministério Público, para diligências por ele consideradas imprescindíveis ao oferecimento da denúncia;
+
+        II — por determinação do juiz, antes da denúncia, para o preenchimento de formalidades previstas neste Código, ou para complemento de prova que julgue necessária.
+
+        Parágrafo único. Em qualquer dos casos, o juiz marcará prazo, não excedente de vinte dias, para a restituição dos autos.
+
+        Suficiência do auto de flagrante delito
+
+        Art. 27. Se, por si só, fôr suficiente para a elucidação do fato e sua autoria, o auto de flagrante delito constituirá o inquérito, dispensando outras diligências, salvo o exame de corpo de delito no crime que deixe vestígios, a identificação da coisa e a sua avaliação, quando o seu valor influir na aplicação da pena. A remessa dos autos, com breve relatório da autoridade policial militar, far-se-á sem demora ao juiz competente, nos têrmos do art. 20.
+
+        Dispensa de Inquérito
+
+        Art. 28. O inquérito poderá ser dispensado, sem prejuízo de diligência requisitada pelo Ministério Público:
+
+        a) quando o fato e sua autoria já estiverem esclarecidos por documentos ou outras provas materiais;
+
+        b) nos crimes contra a honra, quando decorrerem de escrito ou publicação, cujo autor esteja identificado;
+
+        c) nos crimes previstos nos arts. 341 e 349 do Código Penal Militar.
+
+TÍTULO VIII
+
+CAPÍTULO ÚNICO
+
+DO FÔRO MILITAR
+
+        Fôro militar em tempo de paz
+
+          Art. 82. O foro militar é especial, e, exceto nos crimes dolosos contra a vida praticados contra civil, a ele estão sujeitos, em tempo de paz:         
+        Pessoas sujeitas ao fôro militar
+
+        I - nos crimes definidos em lei contra as instituições militares ou a segurança nacional:
+
+        a) os militares em situação de atividade e os assemelhados na mesma situação;
+
+        b) os militares da reserva, quando convocados para o serviço ativo;
+
+        c) os reservistas, quando convocados e mobilizados, em manobras, ou no desempenho de funções militares;
+
+        d) os oficiais e praças das Polícias e Corpos de Bombeiros, Militares, quando incorporados às Fôrças Armadas;
+
+        Crimes funcionais
+
+        II - nos crimes funcionais contra a administração militar ou contra a administração da Justiça Militar, os auditores, os membros do Ministério Público, os advogados de ofício e os funcionários da Justiça Militar.
+
+        Extensão do fôro militar
+
+         § § 1° O fôro militar se estenderá aos militares da reserva, aos reformados e aos civis, nos crimes contra a segurança nacional ou contra as instituições militares, como tais definidas em lei.        
+        § 2° Nos crimes dolosos contra a vida, praticados contra civil, a Justiça Militar encaminhará os autos do inquérito policial militar à justiça comum.            
+
+        Fôro militar em tempo de guerra
+
+        Art. 83. O fôro militar, em tempo de guerra, poderá, por lei especial, abranger outros casos, além dos previstos no artigo anterior e seu parágrafo.
+
+        Assemelhado
+
+        Art. 84. Considera-se assemelhado o funcionário efetivo, ou não, dos Ministérios da Marinha, do Exército ou da Aeronáutica, submetidos a preceito de disciplina militar, em virtude de lei ou regulamento.
+
+CAPÍTULO III
+
+DAS PROVIDÊNCIAS QUE RECAEM SÔBRE PESSOAS
+
+SEÇÃO I
+
+Da prisão provisória
+
+DISPOSIÇÕES GERAIS
+
+        Definição
+
+        Art. 220. Prisão provisória é a que ocorre durante o inquérito, ou no curso do processo, antes da condenação definitiva.
+
+        Legalidade da prisão
+
+        Art. 221. Ninguém será prêso senão em flagrante delito ou por ordem escrita de autoridade competente.
+
+        Comunicação ao juiz
+
+        Art. 222. A prisão ou detenção de qualquer pessoa será imediatamente levada ao conhecimento da autoridade judiciária competente, com a declaração do local onde a mesma se acha sob custódia e se está, ou não, incomunicável.
+
+        Prisão de militar
+
+        Art 223. A prisão de militar deverá ser feita por outro militar de pôsto ou graduação superior; ou, se igual, mais antigo.
+
+        Relaxamento da prisão
+
+        Art. 224. Se, ao tomar conhecimento da comunicação, a autoridade judiciária verificar que a prisão não é legal, deverá relaxá-la imediatamente.
+
+        Expedição de mandado
+
+        Art. 225. A autoridade judiciária ou o encarregado do inquérito que ordenar a prisão fará expedir em duas vias o respectivo mandado, com os seguintes requisitos:
+
+        Requisitos
+
+        a) será lavrado pelo escrivão do processo ou do inquérito, ou ad hoc , e assinado pela autoridade que ordenar a expedição;
+
+        b) designará a pessoa sujeita a prisão com a respectiva identificação e moradia, se possível;
+
+        c) mencionará o motivo da prisão;
+
+        d) designará o executor da prisão.
+
+        Assinatura do mandado
+
+        Parágrafo único. Uma das vias ficará em poder do prêso, que assinará a outra; e, se não quiser ou não puder fazê-lo, certificá-lo-á o executor do mandado, na própria via dêste.
+
+        Tempo e lugar da captura
+
+        Art. 226. A prisão poderá ser efetuada em qualquer dia e a qualquer hora, respeitadas as garantias relativas à inviolabilidade do domicílio.
+
+        Desdobramento do mandado
+
+        Art. 227. Para cumprimento do mandado, a autoridade policial militar ou a judiciária poderá expedir tantos outros quantos necessários às diligências, devendo em cada um dêles ser fielmente reproduzido o teor do original.
+
+        Expedição de precatória ou ofício
+
+        Art. 228. Se o capturando estiver em lugar estranho à jurisdição do juiz que ordenar a prisão, mas em território nacional, a captura será pedida por precatória, da qual constará o mesmo que se contém nos mandados de prisão; no curso do inquérito policial militar a providência será solicitada pelo seu encarregado, com os mesmos requisitos, mas por meio de ofício, ao comandante da Região Militar, Distrito Naval ou Zona Aérea, respectivamente.
+
+        Via telegráfica ou radiográfica
+
+        Parágrafo único. Havendo urgência, a captura poderá ser requisitada por via telegráfica ou radiográfica, autenticada a firma da autoridade requisitante, o que se mencionará no despacho.
+
+        Captura no estrangeiro
+
+        Art. 229. Se o capturando estiver no estrangeiro, a autoridade judiciária se dirigirá ao Ministro da Justiça para que, por via diplomática, sejam tomadas as providências que no caso couberem.
+
+        Art. 230. A captura se fará:
+
+        Caso de flagrante
+
+        a) em caso de flagrante, pela simples voz de prisão;
+
+        Caso de mandado
+
+        b) em caso de mandado, pela entrega ao capturando de uma das vias e conseqüente voz de prisão dada pelo executor, que se identificará.
+
+        Recaptura
+
+        Parágrafo único. A recaptura de indiciado ou acusado evadido independe de prévia ordem da autoridade, e poderá ser feita por qualquer pessoa.
+
+        Captura em domicílio
+
+        Art. 231. Se o executor verificar que o capturando se encontra em alguma casa, ordenará ao dono dela que o entregue, exibindo-lhe o mandado de prisão.
+
+        Caso de busca
+
+        Parágrafo único. Se o executor não tiver certeza da presença do capturando na casa, poderá proceder à busca, para a qual, entretanto, será necessária a expedição do respectivo mandado, a menos que o executor seja a própria autoridade competente para expedi-lo.
+
+        Recusa da entrega do capturando
+
+        Art. 232. Se não fôr atendido, o executor convocará duas testemunhas e procederá da seguinte forma:
+
+        a) sendo dia, entrará à fôrça na casa, arrombando-lhe a porta, se necessário;
+
+        b) sendo noite, fará guardar tôdas as saídas, tornando a casa incomunicável, e, logo que amanheça, arrombar-lhe-á a porta e efetuará a prisão.
+
+        Parágrafo único. O morador que se recusar à entrega do capturando será levado à presença da autoridade, para que contra êle se proceda, como de direito, se sua ação configurar infração penal.
+
+        Flagrante no interior de casa
+
+        Art. 233. No caso de prisão em flagrante que se deva efetuar no interior de casa, observar-se-á o disposto no artigo anterior, no que fôr aplicável.
+
+        Emprêgo de fôrça
+
+        Art. 234. O emprego de fôrça só é permitido quando indispensável, no caso de desobediência, resistência ou tentativa de fuga. Se houver resistência da parte de terceiros, poderão ser usados os meios necessários para vencê-la ou para defesa do executor e auxiliares seus, inclusive a prisão do ofensor. De tudo se lavrará auto subscrito pelo executor e por duas testemunhas.
+
+        Emprêgo de algemas
+
+         § 1º O emprêgo de algemas deve ser evitado, desde que não haja perigo de fuga ou de agressão da parte do prêso, e de modo algum será permitido, nos presos a que se refere o art. 242.
+
+        Uso de armas
+
+         § 2º O recurso ao uso de armas só se justifica quando absolutamente necessário para vencer a resistência ou proteger a incolumidade do executor da prisão ou a de auxiliar seu.
+
+        Captura fora da jurisdição
+
+        Art. 235. Se o indiciado ou acusado, sendo perseguido, passar a território de outra jurisdição, observar-se-á, no que fôr aplicável, o disposto nos arts. 186, 187 e 188.
+
+        Cumprimento de precatória
+
+        Art. 236. Ao receber precatória para a captura de alguém, cabe ao auditor deprecado:
+
+        a) verificar a autenticidade e a legalidade do documento;
+
+        b) se o reputar perfeito, apor-lhe o cumpra-se e expedir mandado de prisão;
+
+        c) cumprida a ordem, remeter a precatória e providenciar a entrega do prêso ao juiz deprecante.
+
+        Remessa dos autos a outro juiz
+
+        Parágrafo único. Se o juiz deprecado verificar que o capturando se encontra em território sujeito à jurisdição de outro juiz militar, remeter-lhe-á os autos da precatória. Se não tiver notícia do paradeiro do capturando, devolverá os autos ao juiz deprecante.
+
+        Entrega de prêso. Formalidades
+
+        Art. 237. Ninguém será recolhido à prisão sem que ao responsável pela custódia seja entregue cópia do respectivo mandado, assinada pelo executor, ou apresentada guia expedida pela autoridade competente, devendo ser passado recibo da entrega do prêso, com declaração do dia, hora e lugar da prisão.
+
+        Recibo
+
+        Parágrafo único. O recibo será passado no próprio exemplar do mandado, se êste fôr o documento exibido.
+
+        Transferência de prisão
+
+        Art. 238. Nenhum prêso será transferido de prisão sem que o responsável pela transferência faça a devida comunicação à autoridade judiciária que ordenou a prisão, nos têrmos do art. 18.
+
+        Recolhimento a nova prisão
+
+        Parágrafo único. O prêso transferido deverá ser recolhido à nova prisão com as mesmas formalidades previstas no art. 237 e seu parágrafo único.
+
+        Separação de prisão
+
+        Art. 239. As pessoas sujeitas a prisão provisória deverão ficar separadas das que estiverem definitivamente condenadas.
+
+        Local da prisão
+
+        Art. 240. A prisão deve ser em local limpo e arejado, onde o detento possa repousar durante a noite, sendo proibido o seu recolhimento a masmorra, solitária ou cela onde não penetre a luz do dia.
+
+        Respeito à integridade do prêso e assistência
+
+        Art. 241. Impõe-se à autoridade responsável pela custódia o respeito à integridade física e moral do detento, que terá direito a presença de pessoa da sua família e a assistência religiosa, pelo menos uma vez por semana, em dia prèviamente marcado, salvo durante o período de incomunicabilidade, bem como à assistência de advogado que indicar, nos têrmos do art. 71, ou, se estiver impedido de fazê-lo, à do que fôr indicado por seu cônjuge, ascendente ou descendente.
+
+        Parágrafo único. Se o detento necessitar de assistência para tratamento de saúde ser-lhe-á prestada por médico militar.
+
+        Prisão especial
+
+        Art. 242. Serão recolhidos a quartel ou a prisão especial, à disposição da autoridade competente, quando sujeitos a prisão, antes de condenação irrecorrível:
+
+        a) os ministros de Estado;
+
+        b) os governadores ou interventores de Estados, ou Territórios, o prefeito do Distrito Federal, seus respectivos secretários e chefes de Polícia;
+
+        c) os membros do Congresso Nacional, dos Conselhos da União e das Assembléias Legislativas dos Estados;
+
+        d) os cidadãos inscritos no Livro de Mérito das ordens militares ou civis reconhecidas em lei;
+
+        e) os magistrados;
+
+        f) os oficiais das Fôrças Armadas, das Polícias e dos Corpos de Bombeiros, Militares, inclusive os da reserva, remunerada ou não, e os reformados;
+
+        g) os oficiais da Marinha Mercante Nacional;
+
+        h) os diplomados por faculdade ou instituto superior de ensino nacional;
+
+        i) os ministros do Tribunal de Contas;
+
+        j) os ministros de confissão religiosa.
+
+        Prisão de praças
+
+        Parágrafo único. A prisão de praças especiais e a de graduados atenderá aos respectivos graus de hierarquia.
+
+SEÇÃO II
+
+Da prisão em flagrante
+
+        Pessoas que efetuam prisão em flagrante
+
+        Art. 243. Qualquer pessoa poderá e os militares deverão prender quem fôr insubmisso ou desertor, ou seja encontrado em flagrante delito.
+
+        Sujeição a flagrante delito
+
+        Art. 244. Considera-se em flagrante delito aquêle que:
+
+        a) está cometendo o crime;
+
+        b) acaba de cometê-lo;
+
+        c) é perseguido logo após o fato delituoso em situação que faça acreditar ser êle o seu autor;
+
+        d) é encontrado, logo depois, com instrumentos, objetos, material ou papéis que façam presumir a sua participação no fato delituoso.
+
+        Infração permanente
+
+        Parágrafo único. Nas infrações permanentes, considera-se o agente em flagrante delito enquanto não cessar a permanência.
+
+        Lavratura do auto
+
+        Art. 245. Apresentado o prêso ao comandante ou ao oficial de dia, de serviço ou de quarto, ou autoridade correspondente, ou à autoridade judiciária, será, por qualquer dêles, ouvido o condutor e as testemunhas que o acompanharem, bem como inquirido o indiciado sôbre a imputação que lhe é feita, e especialmente sôbre o lugar e hora em que o fato aconteceu, lavrando-se de tudo auto, que será por todos assinado.
+
+         § 1º Em se tratando de menor inimputável, será apresentado, imediatamente, ao juiz de menores.
+
+        Ausência de testemunhas
+
+         § 2º A falta de testemunhas não impedirá o auto de prisão em flagrante, que será assinado por duas pessoas, pelo menos, que hajam testemunhado a apresentação do preso.
+
+        Recusa ou impossibilidade de assinatura do auto
+
+         § 3º Quando a pessoa conduzida se recusar a assinar, não souber ou não puder fazê-lo, o auto será assinado por duas testemunhas, que lhe tenham ouvido a leitura na presença do indiciado, do condutor e das testemunhas do fato delituoso.
+
+        Designação de escrivão
+
+         § 4º Sendo o auto presidido por autoridade militar, designará esta, para exercer as funções de escrivão, um capitão, capitão-tenente, primeiro ou segundo-tenente, se o indiciado fôr oficial. Nos demais casos, poderá designar um subtenente, suboficial ou sargento.
+
+        Falta ou impedimento de escrivão
+
+         § 5º Na falta ou impedimento de escrivão ou das pessoas referidas no parágrafo anterior, a autoridade designará, para lavrar o auto, qualquer pessoa idônea, que, para êsse fim, prestará o compromisso legal.
+
+        Recolhimento a prisão. Diligências
+
+        Art. 246. Se das respostas resultarem fundadas suspeitas contra a pessoa conduzida, a autoridade mandará recolhê-la à prisão, procedendo-se, imediatamente, se fôr o caso, a exame de corpo de delito, à busca e apreensão dos instrumentos do crime e a qualquer outra diligência necessária ao seu esclarecimento.
+
+        Nota de culpa
+
+        Art. 247. Dentro em vinte e quatro horas após a prisão, será dada ao prêso nota de culpa assinada pela autoridade, com o motivo da prisão, o nome do condutor e os das testemunhas.
+
+        Recibo da nota de culpa
+
+         § 1º Da nota de culpa o prêso passará recibo que será assinado por duas testemunhas, quando êle não souber, não puder ou não quiser assinar.
+
+        Relaxamento da prisão
+
+         § 2º Se, ao contrário da hipótese prevista no art. 246, a autoridade militar ou judiciária verificar a manifesta inexistência de infração penal militar ou a não participação da pessoa conduzida, relaxará a prisão. Em se tratando de infração penal comum, remeterá o prêso à autoridade civil competente.
+
+        Registro das ocorrências
+
+        Art. 248. Em qualquer hipótese, de tudo quanto ocorrer será lavrado auto ou têrmo, para remessa à autoridade judiciária competente, a fim de que esta confirme ou infirme os atos praticados.
+
+        Fato praticado em presença da autoridade
+
+        Art. 249. Quando o fato fôr praticado em presença da autoridade, ou contra ela, no exercício de suas funções, deverá ela própria prender e autuar em flagrante o infrator, mencionando a circunstância.
+
+        Prisão em lugar não sujeito à administração militar
+
+        Art. 250. Quando a prisão em flagrante fôr efetuada em lugar não sujeito à administração militar, o auto poderá ser lavrado por autoridade civil, ou pela autoridade militar do lugar mais próximo daquele em que ocorrer a prisão.
+
+        Remessa do auto de flagrante ao juiz
+
+        Art. 251. O auto de prisão em flagrante deve ser remetido imediatamente ao juiz competente, se não tiver sido lavrado por autoridade judiciária; e, no máximo, dentro em cinco dias, se depender de diligência prevista no art. 246.
+
+        Passagem do prêso à disposição do juiz
+
+        Parágrafo único. Lavrado o auto de flagrante delito, o prêso passará imediatamente à disposição da autoridade judiciária competente para conhecer do processo.
+
+        Devolução do auto
+
+        Art. 252. O auto poderá ser mandado ou devolvido à autoridade militar, pelo juiz ou a requerimento do Ministério Público, se novas diligências forem julgadas necessárias ao esclarecimento do fato.
+
+        Concessão de liberdade provisória
+
+        Art. 253. Quando o juiz verificar pelo auto de prisão em flagrante que o agente praticou o fato nas condições dos arts. 35, 38, observado o disposto no art. 40, e dos arts. 39 e 42, do Código Penal Militar, poderá conceder ao indiciado liberdade provisória, mediante têrmo de comparecimento a todos os atos do processo, sob pena de revogar a concessão.
+
+SEÇÃO III
+
+Da prisão preventiva
+
+        Competência e requisitos para a decretação
+
+        Art 254. A prisão preventiva pode ser decretada pelo auditor ou pelo Conselho de Justiça, de ofício, a requerimento do Ministério Público ou mediante representação da autoridade encarregada do inquérito policial-militar, em qualquer fase dêste ou do processo, concorrendo os requisitos seguintes:
+
+        a) prova do fato delituoso;
+
+        b) indícios suficientes de autoria.
+
+        No Superior Tribunal Militar
+
+        Parágrafo único. Durante a instrução de processo originário do Superior Tribunal Militar, a decretação compete ao relator.
+
+        Casos de decretação
+
+        Art. 255. A prisão preventiva, além dos requisitos do artigo anterior, deverá fundar-se em um dos seguintes casos:
+
+        a) garantia da ordem pública;
+
+        b) conveniência da instrução criminal;
+
+        c) periculosidade do indiciado ou acusado;
+
+        d) segurança da aplicação da lei penal militar;
+
+        e) exigência da manutenção das normas ou princípios de hierarquia e disciplina militares, quando ficarem ameaçados ou atingidos com a liberdade do indiciado ou acusado.
+
+        Fundamentação do despacho
+
+        Art. 256. O despacho que decretar ou denegar a prisão preventiva será sempre fundamentado; e, da mesma forma, o seu pedido ou requisição, que deverá preencher as condições previstas nas letras a e b , do art. 254.
+
+        Desnecessidade da prisão
+
+        Art. 257. O juiz deixará de decretar a prisão preventiva, quando, por qualquer circunstância evidente dos autos, ou pela profissão, condições de vida ou interêsse do indiciado ou acusado, presumir que êste não fuja, nem exerça influência em testemunha ou perito, nem impeça ou perturbe, de qualquer modo, a ação da justiça.
+
+        Modificação de condições
+
+        Parágrafo único. Essa decisão poderá ser revogada a todo o tempo, desde que se modifique qualquer das condições previstas neste artigo.
+
+        Proibição
+
+        Art. 258. A prisão preventiva em nenhum caso será decretada se o juiz verificar, pelas provas constantes dos autos, ter o agente praticado o fato nas condições dos arts. 35, 38, observado o disposto no art. 40, e dos arts. 39 e 42, do Código Penal Militar.
+
+        Revogação e nova decretação
+
+        Art. 259. O juiz poderá revogar a prisão preventiva se, no curso do processo, verificar a falta de motivos para que subsista, bem como de nôvo decretá-la, se sobrevierem razões que a justifiquem.
+
+        Parágrafo único. A prorrogação da prisão preventiva dependerá de prévia audiência do Ministério Público.
+
+        Execução da prisão preventiva
+
+        Art. 260. A prisão preventiva executar-se-á por mandado, com os requisitos do art. 225. Se o indiciado ou acusado já se achar detido, será notificado do despacho que a decretar pelo escrivão do inquérito, ou do processo, que o certificará nos autos.
+
+        Passagem à disposição do juiz
+
+        Art. 261. Decretada a prisão preventiva, o prêso passará à disposição da autoridade judiciária, observando-se o disposto no art. 237.
